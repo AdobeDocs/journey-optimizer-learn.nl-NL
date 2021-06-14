@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn Journey Optimizer Learn Tutorials.
-source-git-commit: e9f39bb4deb7f57e2b41ef5b6555b4bf3bf1afff
+source-git-commit: 4089dacbf87aa7eca7900ecf50ec2389e8338fe2
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '66'
 ht-degree: 7%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 7%
    + Configuratie van Beslissingsbeheer {#decision-management-configuration}
    + Documentconfiguratie{#journey-configuration}
 + Berichten {#create-messages} maken
-   + [E-mailinhoud importeren en schrijven met de berichteneditor](/help/create-messages/import-and-author-email-content.md)
+   + [HTML-e-mailinhoud importeren en ontwerpen](/help/create-messages/import-and-author-html-email-content.md)
 + Inhoud aanpassen {#personalize-content}
    + [Profiel en segmentlidmaatschap-gebaseerde verpersoonlijking](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Aanbiedingen toevoegen als personalisatie](/help/personalize-content/add-offer-decisioning-to-messages.md)

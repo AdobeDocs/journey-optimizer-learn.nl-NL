@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn Journey Optimizer Learn Tutorials.
-source-git-commit: 1debd81aa3cc2fa8d20a514b07a4278f1a02f13a
+source-git-commit: e9f39bb4deb7f57e2b41ef5b6555b4bf3bf1afff
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 4%
+source-wordcount: '69'
+ht-degree: 7%
 
 ---
 
@@ -16,14 +16,14 @@ ht-degree: 4%
 + Inleiding tot Journey Optimizer {#introduction-to-journey-optimizer}
 + Aan de slag {#get-started}
    + Toegangsbeheer {#access-set-up}
-      + [E-mailinhoud importeren en schrijven met de berichteneditor][Access management] (/help/set-up-access/access-management.md)
+      + [Toegangscontrole](/help/set-up-access/access-management.md)
    + Configuratie van gegevensbron {#data-source-configuration}
    + Kanaalconfiguratie {#channel-configuration}
    + Broninstelling {#resource-set-up}
    + Configuratie van Beslissingsbeheer {#decision-management-configuration}
    + Documentconfiguratie{#journey-configuration}
 + Berichten {#create-messages} maken
-   + (/help/create-messages/import-and-author-email-content.md)
+   + [E-mailinhoud importeren en schrijven met de berichteneditor](/help/create-messages/import-and-author-email-content.md)
 + Inhoud aanpassen {#personalize-content}
    + [Profiel en segmentlidmaatschap-gebaseerde verpersoonlijking](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Aanbiedingen toevoegen als personalisatie](/help/personalize-content/add-offer-decisioning-to-messages.md)

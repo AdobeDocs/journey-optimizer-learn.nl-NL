@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 7f8404d4bf526bf551d8db9ee6cbcd4a95063356
+source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 1%
+source-wordcount: '117'
+ht-degree: 2%
 
 ---
 
@@ -21,3 +21,10 @@ ht-degree: 1%
 Leer hoe te om op profiel-gebaseerde verpersoonlijking aan een bericht toe te voegen en hoe te om segmentlidmaatschap als voorwaarde aan een verpersoonlijkingsblok te gebruiken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334078?quality=12)
+
+## Aanvullende bronnen
+
+* [Aan de slag met personalisatie in Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html)
+* [Hoofdlettergebruik: personalisatie toevoegen aan een pushmelding](https://experienceleague.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html)
+* [Verpersoonlijkingssyntaxis begrijpen](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-syntax.html)
+* [Helpfuncties gebruiken](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html)

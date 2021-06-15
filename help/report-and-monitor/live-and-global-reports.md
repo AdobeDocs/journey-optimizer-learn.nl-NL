@@ -1,21 +1,23 @@
 ---
 title: Live en globale rapporten
-description: Leer hoe u de reis en levering live en wereldwijd kunt bekijken.
-kt: 7677
-thumbnail: 333998
+description: Leer het verschil tussen levende en globale rapporten, hoe te om tot de Reis en de specifieke rapporten van het Bericht toegang te hebben en te analyseren, en hoe te om de rapportdashboards te wijzigen.  
+kt: 7690
+thumbnail: 334108.jpg
 feature: Rapportage
 doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
-source-git-commit: 50dd912c4a0a64af3d98ecad28b1805abfd89daa
+source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
 workflow-type: tm+mt
-source-wordcount: '35'
-ht-degree: 2%
+source-wordcount: '63'
+ht-degree: 1%
 
 ---
 
 
 # Live en globale rapporten
 
-Leer hoe u de reis en levering live en wereldwijd kunt bekijken.
+Leer het verschil tussen levende en globale rapporten, hoe te om tot de Reis en de specifieke rapporten van het Bericht toegang te hebben en te analyseren, en hoe te om de rapportdashboards te wijzigen.  
+
+>[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12)

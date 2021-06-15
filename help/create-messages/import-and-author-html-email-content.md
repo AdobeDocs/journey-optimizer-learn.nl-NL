@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: fd49b5aa72d3e23ebadedb67a19e1e16be7f390e
+source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 2%
+source-wordcount: '113'
+ht-degree: 1%
 
 ---
 
@@ -24,4 +24,6 @@ Leer hoe u bestaande HTML-inhoud kunt importeren, het ontwerp kunt aanpassen, sp
 
 ## Aanvullende bronnen
 
-[Uw e-mailinhoud importeren of coderen (documentatie)](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/existing-content.html)
+* [Uw e-mailinhoud importeren of coderen (documentatie)](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/existing-content.html)
+* [Aan de slag met e-mailontwerp in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
+* [Componenten voor inhoud van e-mailontwerpers gebruiken](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)

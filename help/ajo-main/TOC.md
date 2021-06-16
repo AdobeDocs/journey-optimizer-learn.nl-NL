@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn Journey Optimizer Learn Tutorials.
-source-git-commit: ea9765d4cc39c5d5346c0a3f120c6d109f8d1052
+source-git-commit: 1b001cbc9d83d5cc73c7ebb74182d3f359f39d9e
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '89'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,7 @@ ht-degree: 5%
 
 + [Overzicht](/help/overview.md)
 + Inleiding tot Journey Optimizer {#introduction-to-journey-optimizer}
+   + [Inleiding tot Journey Optimizer](/help/introduction/introduction.md)
    + [Journey Optimizer - overzicht Deel 1](/help/introduction/journey-optimizer-overview-part-1.md)
    + [Journey Optimizer - Overzicht Deel 2](/help/introduction/journey-optimizer-overview-part-2.md)
 + Aan de slag {#get-started}

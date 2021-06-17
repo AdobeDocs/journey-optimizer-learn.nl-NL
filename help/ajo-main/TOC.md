@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn Journey Optimizer Learn Tutorials.
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
+source-git-commit: f885d20058826ac9e9c004c8d3544676c36a6e5c
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '98'
 ht-degree: 6%
 
 ---
@@ -33,5 +33,7 @@ ht-degree: 6%
    + [Aanbiedingen toevoegen als personalisatie](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Contextuele gebeurtenisinformatie gebruiken voor personalisatie](/help/personalize-content/use-contextual-event-information-for-personalization.md)
 + Reizen maken {#create-journeys}
+   + [Hoofdlettergebruik - Transactiereis](/help/create-journeys/use-case-transactional-journey.md)
+   + [Hoofdletters/kleine letters gebruiken - Leessegment](/help/create-journeys/use-case-read-segment.md)
 + {#report-and-monitor} rapporteren en controleren
    + [Live en globale rapporten](/help/report-and-monitor/live-and-global-reports.md)

@@ -1,5 +1,5 @@
 ---
-title: Overzicht van de belangrijkste mogelijkheden en de gebruikersinterface
+title: Belangrijkste mogelijkheden en gebruikersinterface
 description: Begrijp de sleutelmogelijkheden en persona's van Journey Optimizer. Leer hoe u door de gebruikersinterface kunt navigeren.
 kt: 7706
 thumbnail: 334201.jpg
@@ -8,15 +8,15 @@ doc-type: Feature Video
 team: PM
 role: Business Practitioner, Developer
 level: Beginner
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
+source-git-commit: 3c0937a4e8e29bd6c84eef8e9d7ec5c8cc4a5c35
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Overzicht van de belangrijkste mogelijkheden en de gebruikersinterface
+# Belangrijkste mogelijkheden en gebruikersinterface
 
 Begrijp de sleutelmogelijkheden en persona&#39;s van Journey Optimizer. Leer hoe u door de gebruikersinterface kunt navigeren.
 

@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn Journey Optimizer Learn Tutorials.
-source-git-commit: af22990a5b431366b6d4d89913932f495e164882
+source-git-commit: 5d6431eea3239fbdceaf9485d6a21edee92f6c3b
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 5%
+source-wordcount: '122'
+ht-degree: 4%
 
 ---
 
@@ -29,15 +29,16 @@ ht-degree: 5%
 + Berichten {#create-messages} maken
    + [E-mailinhoud maken met de berichteneditor](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [HTML-e-mailinhoud importeren en ontwerpen](/help/create-messages/import-and-author-html-email-content.md)
+   + [Voorvertonen, proefdrukken en publiceren](/help/create-messages/preview-proof-and-publish.md)
 + Inhoud aanpassen {#personalize-content}
    + [Profiel en segmentlidmaatschap-gebaseerde verpersoonlijking](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Aanbiedingen toevoegen als personalisatie](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Contextuele gebeurtenisinformatie gebruiken voor personalisatie](/help/personalize-content/use-contextual-event-information-for-personalization.md)
 + Reizen maken {#create-journeys}
-   + [Hoofdlettergebruik - Transactiereis](/help/create-journeys/use-case-transactional-journey.md)
-   + [Hoofdletters/kleine letters gebruiken - Leessegment](/help/create-journeys/use-case-read-segment.md)
-   + [Hoofdletters/kleine letters gebruiken - Zakelijke gebeurtenis](/help/create-journeys/use-case-business-event.md)
-   + [Kwestie gebruiken - segmentkwalificatie](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [Gebruik hoofdletters/kleine letters - Transactie](/help/create-journeys/use-case-transactional-journey.md)
+   + [Hoofdletters/kleine letters gebruiken - gelezen segment](/help/create-journeys/use-case-read-segment.md)
+   + [Hoofdletter gebruiken - zakelijke gebeurtenis](/help/create-journeys/use-case-business-event.md)
+   + [Hoofdletters/kleine letters gebruiken - segmentkwalificatie](/help/create-journeys/use-case-read-segment-qualification.md)
    + [Een reis testen](/help/create-journeys/test-a-journey.md)
    + [Een reis publiceren](/help/create-journeys/publish-a-journey.md)
 + {#report-and-monitor} rapporteren en controleren

@@ -8,13 +8,13 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
+exl-id: 4b3719de-804d-47e4-80a5-93c9ee1dc09a
+source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '111'
 ht-degree: 13%
 
 ---
-
 
 # Aanbiedingen toevoegen als personalisatie
 
@@ -29,4 +29,4 @@ Leer hoe u een component offer decisioning aan berichten in Journey Optimizer ku
 * Documentatie:
    * [Aan de slag met het beheer van Besluit in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
    * [Aangepaste aanbiedingen toevoegen in een e-mail](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html)
-   * [Hoofdlettergebruik: Aangepaste aanbiedingen configureren om deze in een e-mail te gebruiken](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/offers-e2e.html)
+   * [Hoofdlettergebruik: Aangepaste aanbiedingen configureren om deze in een e-mail te gebruiken](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/offers-e2e.html)

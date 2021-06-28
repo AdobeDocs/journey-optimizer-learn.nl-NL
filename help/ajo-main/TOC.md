@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn Journey Optimizer Learn Tutorials.
-source-git-commit: 359377095abbf30572f671b61f363abef67074aa
+source-git-commit: f10e783ce8a830fd41da567ddadbf6b17b55a1af
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '139'
 ht-degree: 6%
 
 ---
@@ -20,10 +20,11 @@ ht-degree: 6%
    + [Belangrijkste mogelijkheden en gebruikersinterface](/help/introduction/key-capabilities-and-user-interface.md)
    + [Architectuur](/help/introduction/architecture.md)
 + Aan de slag {#get-started}
-   + [Toegangscontrole](/help/set-up-access/access-management.md)
+   + [Toegangsbeheer](/help/set-up-access/access-management.md)
    + Gegevensconfiguratie {#data-configuration}
       + [Gegevenssets maken en gegevens opnemen](/help/set-up-data/create-datasets-and-ingest-data.md)
    + Kanaalconfiguratie {#channel-configuration}
+      + [E-mailkanaal instellen](/help/set-up-email-channel/set-up-email-channel.md)
    + Configuratie van Beslissingsbeheer {#decision-management-configuration}
    + Documentconfiguratie{#journey-configuration}
       + [Databronnen configureren](/help/set-up-journeys/configure-data-sources.md)

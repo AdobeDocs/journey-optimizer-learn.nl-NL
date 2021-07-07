@@ -1,6 +1,6 @@
 ---
 title: Live en globale rapporten
-description: Leer het verschil tussen levende en globale rapporten, hoe te om tot de Reis en de specifieke rapporten van het Bericht toegang te hebben en te analyseren, en hoe te om de rapportdashboards te wijzigen.  
+description: Leer het verschil tussen live en globale rapporten, hoe u de journey- en berichtspecifieke rapporten kunt openen en analyseren, en hoe u de rapportdashboards kunt wijzigen.
 kt: 7690
 thumbnail: 334108.jpg
 feature: Rapportage
@@ -8,22 +8,21 @@ doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
-workflow-type: tm+mt
+exl-id: 9e94b335-7e5d-4753-aead-d18f42776fdd
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-
 # Live en globale rapporten
 
-Leer het verschil tussen levende en globale rapporten, hoe te om tot de Reis en de specifieke rapporten van het Bericht toegang te hebben en te analyseren, en hoe te om de rapportdashboards te wijzigen.  
+Leer het verschil tussen live en globale rapporten, hoe u de journey- en berichtspecifieke rapporten kunt openen en analyseren, en hoe u de rapportdashboards kunt wijzigen.  
 
 >[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12)
 
 ## Aanvullende bronnen
 
-* [Aan de slag met Live-rapporten](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/live-report/live-report.html)
-* [Aan de slag met Global Reports](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/global-report/global-report.html)
-
+* [Aan de slag met Live rapportages](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/live-report/live-report.html?lang=nl)
+* [Aan de slag met Globale rapportages](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/global-report/global-report.html?lang=nl)

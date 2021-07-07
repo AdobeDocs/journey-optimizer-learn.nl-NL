@@ -1,6 +1,6 @@
 ---
-title: Hoofdlettergebruik - Transactiereis
-description: Begrijp de toepasselijke gebruiksgevallen voor trajecten. Leer hoe u trajecten voor transacties kunt maken en welke aanbevolen procedures u kunt toepassen.
+title: Gebruiksscenario - Transactionele journey
+description: Begrijp de toepasselijke gebruiksscenario's voor transactionele journeys. Leer hoe u transactionele journeys bouwt en welke aanbevolen procedures u kunt toepassen.
 kt: 8030
 thumbnail: 334202.jpg
 feature: Journeys
@@ -10,20 +10,20 @@ role: Business Practitioner
 level: Beginner
 exl-id: f42f9bba-a309-44ae-943c-d9142046dcd3
 source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# Hoofdlettergebruik - Transactiereis
+# Gebruiksscenario - Transactionele journey
 
-Begrijp de toepasselijke gebruiksgevallen voor trajecten. Leer hoe u trajecten voor transacties kunt maken en welke aanbevolen procedures u kunt toepassen.
+Begrijp de toepasselijke gebruiksscenario&#39;s voor transactionele journeys. Leer hoe u transactionele journeys bouwt en welke aanbevolen procedures u kunt toepassen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12)
 
 ## Aanvullende bronnen
 
-* [Uw eerste reis maken](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-gs.html)
-* [Aan de slag met transportgebeurtenissen](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/about-journey-activities.html)
-* [Een bericht toevoegen tijdens een rit](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/journeys-message.html)
+* [Uw eerste journey maken](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-gs.html?lang=nl)
+* [Aan de slag met journeygebeurtenissen](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/about-journey-activities.html?lang=nl)
+* [Een bericht toevoegen in een journey](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/journeys-message.html?lang=nl)

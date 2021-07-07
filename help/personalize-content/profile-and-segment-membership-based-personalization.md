@@ -1,6 +1,6 @@
 ---
 title: Werken met profiel en segmentlidmaatschap voor personalisatie
-description: Leer hoe te om op profiel-gebaseerde verpersoonlijking aan een bericht toe te voegen en hoe te om segmentlidmaatschap als voorwaarde aan een verpersoonlijkingsblok te gebruiken.
+description: Leer hoe u op profielen gebaseerde personalisatie aan een bericht kunt toevoegen en hoe u segmentlidmaatschap kunt gebruiken als voorwaarde voor een personalisatieblokkering.
 kt: 8024
 thumbnail: 334078.jpg
 feature: Personalisatie
@@ -8,23 +8,23 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
-workflow-type: tm+mt
+exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-
 # Werken met profiel en segmentlidmaatschap voor personalisatie
 
-Leer hoe te om op profiel-gebaseerde verpersoonlijking aan een bericht toe te voegen en hoe te om segmentlidmaatschap als voorwaarde aan een verpersoonlijkingsblok te gebruiken.
+Leer hoe u op profielen gebaseerde personalisatie aan een bericht kunt toevoegen en hoe u segmentlidmaatschap kunt gebruiken als voorwaarde voor een personalisatieblokkering.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334078?quality=12)
 
 ## Aanvullende bronnen
 
-* [Aan de slag met personalisatie in Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html)
-* [Hoofdlettergebruik: personalisatie toevoegen aan een pushmelding](https://experienceleague.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html)
-* [Verpersoonlijkingssyntaxis begrijpen](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-syntax.html)
-* [Helpfuncties gebruiken](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html)
+* [Aan de slag met personalisatie in Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html?lang=nl)
+* [Gebruiksscenario: personalisatie toevoegen aan een pushmelding](https://experienceleague.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html?lang=nl)
+* [De syntaxis van personalisatie begrijpen](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-syntax.html?lang=nl)
+* [Helpfuncties gebruiken](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html?lang=nl)

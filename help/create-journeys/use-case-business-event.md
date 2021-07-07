@@ -1,6 +1,6 @@
 ---
-title: Hoofdletters/kleine letters gebruiken - Zakelijke gebeurtenis
-description: Begrijp de toepasselijke gebruiksgevallen voor bedrijfsgebeurtenissen. Leer hoe u een reis bouwt met behulp van een zakelijke gebeurtenis en welke aanbevolen procedures u toepast.
+title: Gebruiksscenario - Bedrijfsgebeurtenis
+description: Begrijp de toepasselijke gebruiksscenario's voor bedrijfsgebeurtenissen. Leer hoe u een journey bouwt met behulp van een bedrijfsgebeurtenis en welke aanbevolen procedures u toepast.
 kt: 7703
 thumbnail: 334234.jpg
 feature: Journeys
@@ -8,16 +8,16 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: fed061df079725072387b24ed57303f66791c2bf
-workflow-type: tm+mt
+exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '57'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
+# Gebruiksscenario - Bedrijfsgebeurtenis
 
-# Hoofdletters/kleine letters gebruiken - Zakelijke gebeurtenis
-
-Begrijp de toepasselijke gebruiksgevallen voor bedrijfsgebeurtenissen. Leer hoe u een reis bouwt met behulp van een zakelijke gebeurtenis en welke aanbevolen procedures u toepast.
+Begrijp de toepasselijke gebruiksscenario&#39;s voor bedrijfsgebeurtenissen. Leer hoe u een journey bouwt met behulp van een bedrijfsgebeurtenis en welke aanbevolen procedures u toepast.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334234?quality=12)

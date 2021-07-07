@@ -1,51 +1,51 @@
 ---
-title: Journey Optimizer-video's en -Tutorials
-description: Deze gebruikershandleiding bevat video's en zelfstudies over de functies en mogelijkheden van Adobe Journey Optimizer.
+title: Journey Optimizer-video's en -tutorials
+description: Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 59a67f82a74618305ea1447f2be824173538b0e3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '148'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# Journey Optimizer-video&#39;s en -Tutorials
+# Journey Optimizer-video&#39;s en -tutorials
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer helpt bedrijven hun klanten verbonden, contextafhankelijke en persoonlijke ervaringen te bieden. De klantenreis is het volledige proces van de interactie van een klant met het merk, van het eerste ogenblik van contact tot de klant verlaat.
+Journey Optimizer helpt bedrijven hun klanten verbonden, contextafhankelijke en persoonlijke ervaringen te bieden. Het klanttraject is het hele proces van de interacties van een klant met het merk, vanaf het eerste contactmoment tot het vertrek van de klant.
 
-Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en mogelijkheden van Adobe Journey Optimizer.
+Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
 
-## Aanbevolen door medewerkers van Adobe
+## Aanbevolen door medewerkers
 
 <table>
 <tr>
   <td>
     <a href="./introduction/journey-optimizer-overview-part-1.md">
-      <img alt="Journey Optimizer - Overzicht Deel 1 - Mobiele reizen maken (video)" src="./assets/334174.jpg"/>
+      <img alt="Journey Optimizer - Overzicht deel 1 - Omnichannel-journeys leveren (video)" src="./assets/334174.jpg"/>
     </a>
     <div>
       <a href="./introduction/journey-optimizer-overview-part-1.md">
-    <strong>Journey Optimizer - overzicht Deel 1  </strong>
+    <strong>Journey Optimizer - overzicht deel 1  </strong>
     </a>
     </div>
     <p>
-    <em>In deze video wordt getoond hoe merken Adobe Journey Optimization kunnen gebruiken om gepersonaliseerde lokale reizen naar hun klanten te maken.</em>
+    <em>Deze video laat zien hoe merken Adobe Journey Optimization kunnen gebruiken om gepersonaliseerde omnichannel-journeys aan hun consumenten te leveren.</em>
     <p>
   </td>
     <td>
     <a href="./introduction/journey-optimizer-overview-part-2.md">
-      <img alt="Journey Optimizer - Overzicht Deel 2 - Mobiele reizen maken (video)" src="./assets/334175.jpg"/>
+      <img alt="Journey Optimizer - Overzicht deel 2 - Omnichannel-journeys leveren (video)" src="./assets/334175.jpg"/>
     </a>
     <div>
       <a href="./introduction/journey-optimizer-overview-part-2.md">
-    <strong>Journey Optimizer - Overzicht Deel 2  </strong>
+    <strong>Journey Optimizer - Overzicht deel 2  </strong>
     </a>
     </div>
     <p>
-    <em>In deze video ziet u hoe merken de offer decisioning van Adobe Journey Optimization, de realtime segmentkwalificatie en het beheer van zakelijke gebeurtenissen kunnen gebruiken om hun reizen naar nieuwe hoogten te maken.</em>
+    <em>Deze video laat zien hoe merken Adobe Journey Optimization's aanbiedingsbeslissingen, realtimesegmentkwalificatie en business event management kunnen gebruiken om hun consumentjourney's naar nieuwe hoogten te tillen.</em>
     <p>
   </td>
 </table>

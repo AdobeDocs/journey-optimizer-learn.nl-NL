@@ -1,23 +1,23 @@
 ---
 title: Databronnen configureren
-description: Begrijp wat een gegevensbron is en leer hoe te om een Experience Platform en externe gegevensbronnen te vormen.
+description: Begrijp wat een databron is en leer een Experience Platform en externe databronnen configureren.
 kt: 7538
 thumbnail: 334256.jpg
-feature: Reizen, gegevensbronnen
+feature: Journeys, databronnen
 doc-type: feature video
 team: PM
 role: Administrator, Developer
 level: Beginner
 source-git-commit: 359377095abbf30572f671b61f363abef67074aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '45'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
 
 # Databronnen configureren
 
-Begrijp wat een gegevensbron is en leer hoe te om een Experience Platform en externe gegevensbronnen te vormen.
+Begrijp wat een databron is en leer een Experience Platform en externe databronnen configureren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334256?quality=12)

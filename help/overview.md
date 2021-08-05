@@ -2,10 +2,10 @@
 title: Journey Optimizer-video's en -tutorials
 description: Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 666a96d7fb4650f108ecbc947f6da73f5c1f2a15
+source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 77%
+source-wordcount: '265'
+ht-degree: 57%
 
 ---
 
@@ -19,6 +19,18 @@ Journey Optimizer helpt bedrijven hun klanten verbonden, contextafhankelijke en 
 Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
 
 ## Nieuwe functies
+
+* **[Gegevens instellen - Overzicht](/help/set-up-data/set-up-data-overview.md)**
+
+   *Leer meer over realtime klantprofielgegevens en welke stappen zijn vereist om klantprofielgegevens voor Journey Optimizer in te stellen.*
+
+* **[Identiteiten toewijzen](/help/set-up-data/map-identities.md)**
+
+   *Leer hoe en wanneer om een schemagebied als identiteit te etiketteren, hoe te om een namespace tot stand te brengen, wanneer om een identiteit primair te maken, en hoe te om identiteitsgegevens in te voeren en te verifiëren.*
+
+* **[Databronnen configureren](/help/set-up-data/configure-data-sources.md)**
+
+   *Leer over bronschakelaars en hoe te om hen in Journey Optimizer te vormen*
 
 * **[Inleiding tot het bouwen van een reis](/help/create-journeys/introduction-to-building-a-journey.md)**
 

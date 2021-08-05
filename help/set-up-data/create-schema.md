@@ -3,15 +3,15 @@ title: Een schema maken
 description: Leer hoe u een schema maakt, veldgroepen toevoegt, aangepaste veldgroepen maakt en configureert.
 kt: 7565
 thumbnail: 334461.jpg
-feature: Schema
+feature: Schemas
 doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
-source-git-commit: e920c13276400fbb69467818cf49c2dfa46f28ca
+source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 3%
+ht-degree: 37%
 
 ---
 
@@ -24,4 +24,4 @@ Leer hoe u een schema maakt, veldgroepen toevoegt, aangepaste veldgroepen maakt 
 
 ## Aanvullende bronnen
 
-* [Maak een schema, een gegevensset en voeg gegevens in om testprofielen toe te voegen](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html)
+* [Een schema en een dataset maken en gegevens opnemen om testprofielen toe te voegen](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html?lng=nl)

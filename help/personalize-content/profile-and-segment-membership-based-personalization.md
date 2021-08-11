@@ -9,10 +9,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+source-git-commit: a68e7eae1c38d7484e449de5cccb78ea8b892308
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,6 @@ Leer hoe u op profielen gebaseerde personalisatie aan een bericht kunt toevoegen
 ## Aanvullende bronnen
 
 * [Aan de slag met personalisatie in Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html?lang=nl)
-* [Gebruiksscenario: personalisatie toevoegen aan een pushmelding](https://experienceleague.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html?lang=nl)
+* [Gebruiksscenario: personalisatie toevoegen aan een pushmelding](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalization-use-cases/personalization-use-case.html)
 * [De syntaxis van personalisatie begrijpen](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-syntax.html?lang=nl)
 * [Helpfuncties gebruiken](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html?lang=nl)

@@ -3,12 +3,12 @@ title: Gegevens instellen - Overzicht
 description: Leer meer over realtime klantprofielgegevens en welke stappen zijn vereist om klantprofielgegevens voor Journey Optimizer in te stellen.
 kt: 7855
 thumbnail: 335878.jpg
-feature: Schema
+feature: Schemas
 doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
-source-git-commit: dcd0c4342392f4eed800d8a03b1ff21fe9d76e84
+source-git-commit: 203f391d8216ff55b1b8b455d3789f5fd9060126
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 11%

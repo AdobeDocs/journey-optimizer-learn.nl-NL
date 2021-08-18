@@ -3,9 +3,9 @@ title: Journey Optimizer-video's en -tutorials
 description: Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '265'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -22,23 +22,23 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 * **[Gegevens instellen - Overzicht](/help/set-up-data/set-up-data-overview.md)**
 
-   *Leer meer over realtime klantprofielgegevens en welke stappen zijn vereist om klantprofielgegevens voor Journey Optimizer in te stellen.*
+   *Leer meer over realtime klantprofielgegevens en welke stappen vereist zijn om klantprofielgegevens voor Journey Optimizer in te stellen.*
 
 * **[Identiteiten toewijzen](/help/set-up-data/map-identities.md)**
 
-   *Leer hoe en wanneer om een schemagebied als identiteit te etiketteren, hoe te om een namespace tot stand te brengen, wanneer om een identiteit primair te maken, en hoe te om identiteitsgegevens in te voeren en te verifiëren.*
+   *Leer hoe en wanneer u een schemaveld als identiteit labelt, hoe u een naamruimte tot stand brengt, wanneer u een identiteit primair maakt en hoe u identiteitsgegevens opneemt en verifieert.*
 
-* **[Databronnen configureren](/help/set-up-data/configure-data-sources.md)**
+* **[Gegevensbronnen configureren](/help/set-up-data/configure-data-sources.md)**
 
-   *Leer over bronschakelaars en hoe te om hen in Journey Optimizer te vormen*
+   *Leer meer over connectoren voor bronnen en hoe u deze configureert in Journey Optimizer*
 
-* **[Inleiding tot het bouwen van een reis](/help/create-journeys/introduction-to-building-a-journey.md)**
+* **[Inleiding tot het samenstellen van een journey](/help/create-journeys/introduction-to-building-a-journey.md)**
 
-   *Begrijp de grondbeginselen van het bouwen van een reis in het reiscanvas.*
+   *Begrijp de grondbeginselen van het samenstellen van een journey in het journeycanvas.*
 
-* **[Hoofdletters/kleine letters gebruiken - burst-bericht](/help/create-journeys/use-case-read-burst-message.md)**
+* **[Gebruiksscenario - burst-messaging](/help/create-journeys/use-case-read-burst-message.md)**
 
-   *Begrijp de toepasselijke gebruiksgevallen voor burst messaging. Leer hoe te om een reis voor burst berichten te vormen en welke beste praktijken toe te passen.*
+   *Begrijp de toepasselijke gebruiksscenario&#39;s voor burst-messaging. Leer hoe u een journey voor burst-berichten configureert en welke best practices u toe kunt passen.*
 
 ## Aanbevolen door medewerkers
 

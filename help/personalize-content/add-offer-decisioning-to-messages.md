@@ -10,7 +10,7 @@ role: User
 level: Beginner
 exl-id: 4b3719de-804d-47e4-80a5-93c9ee1dc09a
 source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
 ht-degree: 100%
 
@@ -27,6 +27,6 @@ Leer hoe u een offer decisioning-onderdeel aan berichten in Journey Optimizer ku
 * [Offer Decisioning-video’s en -tutorials](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=nl)
 * [Decision Management (documentatie)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=nl)
 * Documentatie:
-   * [Aan de slag met Decision Management in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
+   * [Aan de slag met Decision Management in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=nl)
    * [Gepersonaliseerde aanbiedingen toevoegen in een e-mail](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html?lang=nl)
    * [Gebruiksscenario: Gepersonaliseerde aanbiedingen configureren om deze in een e-mail te gebruiken](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/offers-e2e.html?lang=nl)

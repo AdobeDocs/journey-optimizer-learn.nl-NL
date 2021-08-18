@@ -1,23 +1,23 @@
 ---
 title: Identiteiten toewijzen
-description: Leer hoe en wanneer om een schemagebied als identiteit te etiketteren en hoe te om een namespace tot stand te brengen. Leer wanneer om een identiteit primair te maken en hoe te om identiteitsgegevens in te voeren en te verifiëren.
+description: Leer hoe en wanneer u een schemaveld als identiteit labelt en hoe u een naamruimte tot stand brengt. Leer wanneer u een identiteit primair moet maken en hoe u identiteitsgegevens opneemt en verifieert.
 kt: 7564
 thumbnail: 335918.jpg
-feature: Identiteiten, gegevensinname
+feature: Identiteiten, gegevensopname
 doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
 source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # Identiteiten toewijzen
 
-Leer hoe en wanneer om een schemagebied als identiteit te etiketteren, hoe te om een namespace tot stand te brengen, wanneer om een identiteit primair te maken, en hoe te om identiteitsgegevens in te voeren en te verifiëren.
+Leer hoe en wanneer u een schemaveld als identiteit labelt, hoe u een naamruimte tot stand brengt, wanneer u een identiteit primair maakt en hoe u identiteitsgegevens opneemt en verifieert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335918?quality=12)

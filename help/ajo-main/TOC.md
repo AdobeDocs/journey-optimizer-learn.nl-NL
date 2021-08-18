@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
 source-git-commit: dcd0c4342392f4eed800d8a03b1ff21fe9d76e84
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -27,12 +27,12 @@ ht-degree: 88%
       + [Een schema maken](/help/set-up-data/create-schema.md)
       + [Identiteiten toewijzen](/help/set-up-data/map-identities.md)
       + [Gegevenssets maken en gegevens opnemen](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [Databronnen configureren](/help/set-up-data/configure-data-sources.md)
+      + [Gegevensbronnen configureren](/help/set-up-data/configure-data-sources.md)
    + Kanaalconfiguratie {#channel-configuration}
       + [E-mailkanaal instellen](/help/set-up-email-channel/set-up-email-channel.md)
    + Configuratie van Beslissingsbeheer {#decision-management-configuration}
    + Journeyconfiguratie{#journey-configuration}
-      + [Databronnen configureren](/help/set-up-journeys/configure-data-sources.md)
+      + [Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)
       + [Acties maken](/help/set-up-journeys/create-actions.md)
 + [Segmenten maken](/help/set-up-resources/create-segments.md)
 + Berichten maken {#create-messages}
@@ -45,12 +45,12 @@ ht-degree: 88%
    + [Contextuele gebeurtenisinformatie gebruiken voor personalisatie](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Helpfuncties gebruiken voor personalisatie](/help/personalize-content/use-helper-functions-for-personalization.md)
 + Journeys maken {#create-journeys}
-   + [Inleiding tot het bouwen van een reis](/help/create-journeys/introduction-to-building-a-journey.md)
+   + [Inleiding tot het samenstellen van een journey](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Gebruiksscenario - transactionele journey](/help/create-journeys/use-case-transactional-journey.md)
    + [Gebruiksscenario - segment lezen](/help/create-journeys/use-case-read-segment.md)
    + [Gebruiksscenario - bedrijfsgebeurtenis](/help/create-journeys/use-case-business-event.md)
    + [Gebruiksscenario - segmentkwalificatie](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Hoofdletters/kleine letters gebruiken - burst-bericht](/help/create-journeys/use-case-read-burst-message.md)
+   + [Gebruiksscenario - burst-messaging](/help/create-journeys/use-case-read-burst-message.md)
    + [Een journey testen](/help/create-journeys/test-a-journey.md)
    + [Een journey publiceren](/help/create-journeys/publish-a-journey.md)
 + Rapporteren en controleren {#report-and-monitor}

@@ -2,10 +2,10 @@
 title: Journey Optimizer-video's en -tutorials
 description: Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 16d5e81f4fc19c62dbc700ff1dfdb06cd9d01662
+source-git-commit: 21123c70cfc929dccb8dcf65e1939e2dd367a0ec
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 93%
+source-wordcount: '210'
+ht-degree: 91%
 
 ---
 
@@ -20,25 +20,13 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 ## Nieuwe functies
 
-* ** [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)**
+* **[Gebeurtenissen maken](/help/set-up-journeys/create-events.md)**
 
    *Leer hoe te om een gebeurtenis te vormen, specificeer het het stromen eindpunt en de lading voor een gebeurtenis.*
-
-* **[Gegevens instellen - Overzicht](/help/set-up-data/set-up-data-overview.md)**
-
-   *Leer meer over realtime klantprofielgegevens en welke stappen vereist zijn om klantprofielgegevens voor Journey Optimizer in te stellen.*
-
-* **[Identiteiten toewijzen](/help/set-up-data/map-identities.md)**
-
-   *Leer hoe en wanneer u een schemaveld als identiteit labelt, hoe u een naamruimte tot stand brengt, wanneer u een identiteit primair maakt en hoe u identiteitsgegevens opneemt en verifieert.*
 
 * **[Gegevensbronnen configureren](/help/set-up-data/configure-data-sources.md)**
 
    *Leer meer over connectoren voor bronnen en hoe u deze configureert in Journey Optimizer*
-
-* **[Inleiding tot het samenstellen van een journey](/help/create-journeys/introduction-to-building-a-journey.md)**
-
-   *Begrijp de grondbeginselen van het samenstellen van een journey in het journeycanvas.*
 
 * **[Gebruiksscenario - burst-messaging](/help/create-journeys/use-case-read-burst-message.md)**
 

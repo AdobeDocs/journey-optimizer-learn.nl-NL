@@ -2,10 +2,10 @@
 title: Journey Optimizer-video's en -tutorials
 description: Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
-workflow-type: ht
-source-wordcount: '265'
-ht-degree: 100%
+source-git-commit: 16d5e81f4fc19c62dbc700ff1dfdb06cd9d01662
+workflow-type: tm+mt
+source-wordcount: '283'
+ht-degree: 93%
 
 ---
 
@@ -19,6 +19,10 @@ Journey Optimizer helpt bedrijven hun klanten verbonden, contextafhankelijke en 
 Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
 
 ## Nieuwe functies
+
+* ** [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)**
+
+   *Leer hoe te om een gebeurtenis te vormen, specificeer het het stromen eindpunt en de lading voor een gebeurtenis.*
 
 * **[Gegevens instellen - Overzicht](/help/set-up-data/set-up-data-overview.md)**
 

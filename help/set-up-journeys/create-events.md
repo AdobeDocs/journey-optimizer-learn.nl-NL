@@ -1,6 +1,6 @@
 ---
 title: Gebeurtenissen maken
-description: Leer hoe te om een gebeurtenis te vormen, specificeer het het stromen eindpunt voor een gebeurtenis en de lading voor een gebeurtenis.
+description: Leer hoe te om een gebeurtenis te vormen, specificeer het het stromen eindpunt en de lading voor een gebeurtenis.
 kt: 7537
 thumbnail: 336253.jpg
 feature: Reizen, gebeurtenissen
@@ -8,9 +8,9 @@ doc-type: feature video
 team: PM
 role: Admin, Developer
 level: Beginner
-source-git-commit: c60c70732efc32ff18137b56fc54bbfd43ef256b
+source-git-commit: 16d5e81f4fc19c62dbc700ff1dfdb06cd9d01662
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Gebeurtenissen maken
 
-Leer hoe te om een gebeurtenis te vormen, specificeer het het stromen eindpunt voor een gebeurtenis en de lading voor een gebeurtenis.
+Leer hoe te om een gebeurtenis te vormen, specificeer het het stromen eindpunt en de lading voor een gebeurtenis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12)

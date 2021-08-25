@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
-source-git-commit: c60c70732efc32ff18137b56fc54bbfd43ef256b
+source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,22 +19,22 @@ ht-degree: 98%
    + [Journey Optimizer - Overzicht deel 2](/help/introduction/journey-optimizer-overview-part-2.md)
    + [Belangrijkste mogelijkheden en gebruikersinterface](/help/introduction/key-capabilities-and-user-interface.md)
    + [Architectuur](/help/introduction/architecture.md)
-+ Aan de slag {#get-started}
++ Toegangsbeheer {#access-control}
    + [Toegangsbeheer](/help/set-up-access/access-management.md)
    + [Sandboxen maken en beheren](/help/set-up-access/create-and-manage-sandboxes.md)
-   + Gegevensconfiguratie {#data-configuration}
-      + [Overzicht](/help/set-up-data/set-up-data-overview.md)
-      + [Een schema maken](/help/set-up-data/create-schema.md)
-      + [Identiteiten toewijzen](/help/set-up-data/map-identities.md)
-      + [Gegevenssets maken en gegevens opnemen](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [Gegevensbronnen configureren](/help/set-up-data/configure-data-sources.md)
-   + Kanaalconfiguratie {#channel-configuration}
-      + [E-mailkanaal instellen](/help/set-up-email-channel/set-up-email-channel.md)
-   + Configuratie van Beslissingsbeheer {#decision-management-configuration}
-   + Journeyconfiguratie{#journey-configuration}
-      + [Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)
-      + [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
-      + [Acties maken](/help/set-up-journeys/create-actions.md)
++ Gegevensconfiguratie {#data-configuration}
+   + [Overzicht](/help/set-up-data/set-up-data-overview.md)
+   + [Een schema maken](/help/set-up-data/create-schema.md)
+   + [Identiteiten toewijzen](/help/set-up-data/map-identities.md)
+   + [Gegevenssets maken en gegevens opnemen](/help/set-up-data/create-datasets-and-ingest-data.md)
+   + [Gegevensbronnen configureren](/help/set-up-data/configure-data-sources.md)
++ Kanaalconfiguratie {#channel-configuration}
+   + [E-mailkanaal instellen](/help/set-up-email-channel/set-up-email-channel.md)
++ Configuratie van Beslissingsbeheer {#decision-management-configuration}
++ Journeyconfiguratie{#journey-configuration}
+   + [Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)
+   + [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
+   + [Acties maken](/help/set-up-journeys/create-actions.md)
 + [Segmenten maken](/help/set-up-resources/create-segments.md)
 + Berichten maken {#create-messages}
    + [E-mailcontent maken met de berichteneditor](/help/create-messages/create-email-content-with-the-message-editor.md)

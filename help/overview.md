@@ -2,7 +2,7 @@
 title: Journey Optimizer-video's en -tutorials
 description: Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 5e8737fdbc77b5f664795209708a5d3b5b6a566f
+source-git-commit: a3ac85cfb438b37c36bf97af41d6c41dc666e92d
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 91%
@@ -24,7 +24,7 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
    *Leer hoe te om een gebeurtenis te vormen, specificeer het het stromen eindpunt en de lading voor een gebeurtenis.*
 
-* **[Gegevensbronnen configureren](/help/set-up-data/configure-source-connectors.md)**
+* **[Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)**
 
    *Leer meer over connectoren voor bronnen en hoe u deze configureert in Journey Optimizer*
 

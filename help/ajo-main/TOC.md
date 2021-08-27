@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
-source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
+source-git-commit: 5e8737fdbc77b5f664795209708a5d3b5b6a566f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '163'
+ht-degree: 97%
 
 ---
 
@@ -27,12 +27,12 @@ ht-degree: 0%
    + [Een schema maken](/help/set-up-data/create-schema.md)
    + [Identiteiten toewijzen](/help/set-up-data/map-identities.md)
    + [Gegevenssets maken en gegevens opnemen](/help/set-up-data/create-datasets-and-ingest-data.md)
-   + [Gegevensbronnen configureren](/help/set-up-data/configure-data-sources.md)
+   + [Gegevensbronnen configureren](/help/set-up-data/configure-source-connectors.md)
 + Kanaalconfiguratie {#channel-configuration}
    + [E-mailkanaal instellen](/help/set-up-email-channel/set-up-email-channel.md)
 + Configuratie van Beslissingsbeheer {#decision-management-configuration}
 + Journeyconfiguratie{#journey-configuration}
-   + [Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)
+   + [Gegevensbronnen configureren](/help/set-up-journeys/configure-source-connectors.md)
    + [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
    + [Acties maken](/help/set-up-journeys/create-actions.md)
 + [Segmenten maken](/help/set-up-resources/create-segments.md)

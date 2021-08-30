@@ -2,7 +2,7 @@
 title: Journey Optimizer-video's en -tutorials
 description: Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: a3ac85cfb438b37c36bf97af41d6c41dc666e92d
+source-git-commit: f20dcf654fc2e552b4936860a99b825e40c0e2c6
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 91%
@@ -28,7 +28,7 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
    *Leer meer over connectoren voor bronnen en hoe u deze configureert in Journey Optimizer*
 
-* **[Gebruiksscenario - burst-messaging](/help/create-journeys/use-case-read-burst-message.md)**
+* **[Gebruiksscenario - burst-messaging](/help/create-journeys/use-case-burst-message.md)**
 
    *Begrijp de toepasselijke gebruiksscenario&#39;s voor burst-messaging. Leer hoe u een journey voor burst-berichten configureert en welke best practices u toe kunt passen.*
 

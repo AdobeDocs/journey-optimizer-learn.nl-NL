@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
-source-git-commit: acbdb0e3fa0da0cf7af56b3fdecd9662010e5d9b
+source-git-commit: 7b51c728a8c73a05e89f18e9e7c908a9f835f818
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 94%
+source-wordcount: '190'
+ht-degree: 96%
 
 ---
 
@@ -31,7 +31,16 @@ ht-degree: 94%
 + Kanaalconfiguratie {#channel-configuration}
    + [E-mailkanaal instellen](/help/set-up-email-channel/set-up-email-channel.md)
 + Configuratie van Beslissingsbeheer {#decision-management-configuration}
-   + [Offer decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=en)
+   + [Inleiding tot [!DNL Offer Decisioning]](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
+   + [Demo van [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
+   + [Plaatsingen maken](/help/set-up-decision-management/create-placements.md)
+   + [Regels maken](/help/set-up-decision-management/create-rules.md)
+   + [Tags maken](/help/set-up-decision-management/create-tags.md)
+   + [Persoonlijke aanbiedingen maken](/help/set-up-decision-management/create-personalized-offers.md)
+   + [Alternatieve aanbiedingen maken](/help/set-up-decision-management/create-fallback-offers.md)
+   + [Verzamelingen maken](/help/set-up-decision-management/create-collections.md)
+   + [Aanbiedingsactiviteiten maken](/help/set-up-decision-management/create-offer-activities.md)
+   + [Aanbiedingen leveren met de API voor Besluiten](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
 + Journeyconfiguratie{#journey-configuration}
    + [Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)
    + [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)

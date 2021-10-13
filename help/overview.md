@@ -3,9 +3,9 @@ title: Journey Optimizer-video's en -tutorials
 description: Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: a32d0d147fb6cd2fde1bc6052f2684d21be883da
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '212'
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer helpt bedrijven hun klanten verbonden, contextafhankelijke en persoonlijke ervaringen te bieden. De klantenreis is het volledige proces van de interactie van een klant met het merk, van de eerste momenten van contact tot de klant de plaats weggaat.
+Journey Optimizer helpt bedrijven hun klanten verbonden, contextafhankelijke en persoonlijke ervaringen te bieden. Het klanttraject is het hele proces van de interacties van een klant met het merk, vanaf het eerste contactmoment totdat de klant de site verlaat.
 
 Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
 
@@ -22,7 +22,7 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 * **[Gebeurtenissen maken](/help/set-up-journeys/create-events.md)**
 
-   *Leer hoe te om een gebeurtenis te vormen, specificeer het het stromen eindpunt en de lading voor een gebeurtenis.*
+   *Leer een gebeurtenis configureren, het streaming-eindpunt en de payload voor een gebeurtenis specificeren.*
 
 * **[Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)**
 

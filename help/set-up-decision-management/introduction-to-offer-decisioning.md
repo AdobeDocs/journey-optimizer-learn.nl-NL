@@ -1,27 +1,27 @@
 ---
 title: Inleiding tot Offer Decisioning
-description: Bekijk een overzicht van Offer decisioning, een toepassingsservice die op Adobe Experience Platform is gebouwd.
+description: Deze video geeft een overzicht van Offer Decisioning, een applicatieservice die op Adobe Experience Platform is gebouwd.
 feature: Offers
 kt: 6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
 source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 40%
+ht-degree: 100%
 
 ---
 
 # Inleiding tot [!DNL Offer Decisioning]
 
-Bekijk een overzicht van [!DNL Offer Decisioning], een toepassingsservice die op Adobe Experience Platform is gebouwd. In de video komen de zakelijke uitdagingen die [!DNL Offer Decisioning] oplost aan de orde, evenals de belangrijkste mogelijkheden, de basisarchitectuur en de voornaamste gebruiksscenario’s.
+Deze video geeft een overzicht van [!DNL Offer Decisioning], een applicatieservice die op Adobe Experience Platform is gebouwd. In de video komen de zakelijke uitdagingen aan de orde die [!DNL Offer Decisioning] oplost, evenals de belangrijkste mogelijkheden, de basisarchitectuur en de voornaamste gebruiksscenario’s.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on)
 
 >[!INFO]
 >
-> Deze video maakt deel uit van een cursus, [Getting Started with Offer decisioning for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), free for Experience League!
+> Deze video maakt deel uit van een cursus, [Aan de slag met Offer Decisioning voor marketeers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), die gratis beschikbaar is op Experience League!
 
 ## Aanvullende bronnen
 

@@ -1,6 +1,6 @@
 ---
 title: Inleiding tot Adobe Journey Optimizer
-description: Begrijp wat Adobe Journey Optimizer is, welke bedrijfsuitdagingen deze toepassing oplost en wat de belangrijkste gebruiksgevallen zijn.
+description: Begrijp wat Adobe Journey Optimizer is, welke bedrijfsuitdagingen deze applicatie oplost en wat de belangrijkste gebruiksscenario's zijn.
 kt: 7517
 thumbnail: 333745.jpg
 feature: Overview
@@ -10,15 +10,15 @@ role: User
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
 source-git-commit: 74369d03b19125ebf26c708caf1cc4535cb09c38
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '75'
+ht-degree: 100%
 
 ---
 
 # Inleiding tot Adobe Journey Optimizer
 
-Begrijp wat Adobe Journey Optimizer is, welke bedrijfsuitdagingen deze toepassing oplost, en wat de belangrijkste gebruiksgevallen zijn.
+Begrijp wat Adobe Journey Optimizer is, welke bedrijfsuitdagingen deze applicatie oplost en wat de belangrijkste gebruiksscenario&#39;s zijn.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12)
 

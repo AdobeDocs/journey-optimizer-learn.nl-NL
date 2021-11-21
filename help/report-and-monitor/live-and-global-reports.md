@@ -3,15 +3,15 @@ title: Live en globale rapporten
 description: Leer het verschil tussen live en globale rapporten, hoe u de journey- en berichtspecifieke rapporten kunt openen en analyseren, en hoe u de rapportdashboards kunt wijzigen.
 kt: 7690
 thumbnail: 334108.jpg
-feature: Rapportage
+feature: Reporting
 doc-type: feature video
 team: PM
 role: Admin
 level: Beginner
 exl-id: 9e94b335-7e5d-4753-aead-d18f42776fdd
 source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
-workflow-type: ht
-source-wordcount: '91'
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---

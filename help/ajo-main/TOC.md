@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
-source-git-commit: 73c14dba1d95e0bdd369ee5530fc0c3f763be385
+source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 100%
+source-wordcount: '194'
+ht-degree: 98%
 
 ---
 
@@ -30,6 +30,7 @@ ht-degree: 100%
    + [Bronconnectors configureren](/help/set-up-data/configure-source-connectors.md)
 + Kanaalconfiguratie {#channel-configuration}
    + [E-mailkanaal instellen](/help/set-up-email-channel/set-up-email-channel.md)
+   + [CName-subdomeinen delegeren](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + Configuratie van Beslissingsbeheer {#decision-management-configuration}
    + [Inleiding tot [!DNL Offer Decisioning]](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
    + [Demo van [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)

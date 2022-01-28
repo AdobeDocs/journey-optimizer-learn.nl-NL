@@ -9,9 +9,9 @@ team: PM
 role: User
 level: Beginner
 exl-id: 7116a20e-f46a-4676-8b16-21699723828a
-source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '50'
 ht-degree: 100%
 
 ---
@@ -21,9 +21,3 @@ ht-degree: 100%
 Begrijp de toepasselijke gebruiksscenario&#39;s voor gelezen segmentjourneys. Leer hoe u op batches gebaseerde journeys kunt bouwen en welke aanbevolen procedures u kunt toepassen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334206?quality=12)
-
-## Aanvullende bronnen
-
-* [Segmenten maken](https://experienceleague.adobe.com/docs/journey-optimizer/using/segment/segments/creating-a-segment.html?lang=nl)
-* [Een segment gebruiken tijdens een journey](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/read-segment.html?lang=nl)
-* [Leren hoe u een journey ontwerpt](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/using-the-journey-designer.html?lang=nl)

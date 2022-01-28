@@ -9,14 +9,14 @@ team: Evangelism
 role: User
 level: Beginner
 exl-id: 6977cc53-9dad-4dee-9cbf-90f7b11ea9c8
-source-git-commit: a8e4b4fe22a1fc9f10eae0ac33e2eef328f650f3
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '50'
 ht-degree: 100%
 
 ---
 
-# Journey Optimizer - deel 1 - Omnichannel-journeys leveren
+# Journey Optimizer - Overzicht deel 1 - Omnichannel-journeys leveren
 
 Deze video laat zien hoe merken Adobe Journey Optimizer kunnen gebruiken om gepersonaliseerde omnichannel-journeys aan hun klanten te leveren.
 

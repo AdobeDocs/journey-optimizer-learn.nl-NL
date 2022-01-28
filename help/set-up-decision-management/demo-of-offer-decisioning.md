@@ -5,9 +5,9 @@ feature: Offers
 kt: 6492
 thumbnail: 326841.jpg
 exl-id: 44136443-a3fd-435f-9f6d-23c7696acabe
-source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '83'
 ht-degree: 100%
 
 ---
@@ -21,9 +21,3 @@ Ontdek hoe merken de [!DNL Offer Decisioning]-service van Adobe kunnen gebruiken
 >[!INFO]
 >
 > Deze video maakt deel uit van een cursus, [Aan de slag met Offer Decisioning voor marketeers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), die gratis beschikbaar is op Experience League!
-
-
-## Aanvullende bronnen
-
-* [Inleiding tot [!DNL Offer Decisioning] (video)](introduction-to-offer-decisioning.md)
-* [[!UICONTROL Beslissingsbeheer] (documentatie)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=nl)

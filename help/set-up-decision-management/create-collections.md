@@ -1,13 +1,13 @@
 ---
 title: Verzamelingen maken
 description: Leer hoe u verzamelingen maakt in [!DNL Offer Decisioning]. Aan verzamelingen zijn regels verbonden om u te helpen ze alleen aan relevante klanten te tonen.
-feature: Offers
+feature: Offers, Collections
 kt: 6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
@@ -21,9 +21,3 @@ Leer hoe u verzamelingen maakt in [!DNL Offer Decisioning]. Verzamelingen worden
 >[!INFO]
 >
 > Deze video maakt deel uit van een cursus, [Aan de slag met Offer Decisioning voor marketeers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), die gratis beschikbaar is op Experience League!
-
-
-## Aanvullende bronnen
-
-* [Verzamelingen maken (documentatie)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-collections.html?lang=nl)
-* [Verzamelingen met API maken (documentatie)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/collections/create.html?lang=nl)

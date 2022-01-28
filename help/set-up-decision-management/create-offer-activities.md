@@ -1,29 +1,25 @@
 ---
 title: Aanbodactiviteiten maken
 description: Leer hoe u aanbodactiviteiten kunt maken in [!DNL Offer Decisioning]. Een aanbodactiviteit combineert uw plaatsingen en verzamelingen in één entiteit, zodat een beslissing kan worden genomen om het meest relevante aanbod aan de klant te leveren.
-feature: Offers
+feature: Offers, Activities
 kt: 6791
 thumbnail: 329606.jpg
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
-source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 100%
+source-wordcount: '134'
+ht-degree: 70%
 
 ---
 
 # Aanbodactiviteiten maken
 
-Leer hoe u aanbodactiviteiten kunt maken in [!DNL Offer Decisioning]. Een aanbodactiviteit combineert uw plaatsingen en verzamelingen in één entiteit, zodat een beslissing kan worden genomen om het meest relevante aanbod aan de klant te leveren.
+Leer hoe u creeert [aanbiedingsactiviteiten](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-manage-activities/create-offer-activities.html) in [!DNL Offer Decisioning]. Een aanbodactiviteit combineert uw plaatsingen en verzamelingen in één entiteit, zodat een beslissing kan worden genomen om het meest relevante aanbod aan de klant te leveren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329606?quality=12&learn=on)
+
+Raadpleeg voor meer informatie over het maken van aanbiedingsactiviteiten met een API de [productgids](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/activities-api/create.html)
 
 >[!INFO]
 >
 > Deze video maakt deel uit van een cursus, [Aan de slag met Offer Decisioning voor marketeers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), die gratis beschikbaar is op Experience League!
-
-
-## Aanvullende bronnen
-
-* [Aanbodactiviteiten maken (documentatie)](https://experienceleague.adobe.com/docs/offer-decisioning/using/create-offer-activities.html?lang=nl)
-* [Aanbodactiviteiten met API maken (documentatie)](https://experienceleague.adobe.com/docs/offer-decisioning/using/api-reference/activities-api/create.html?lang=nl)

@@ -6,12 +6,13 @@ feature: Offers, API
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
+source-git-commit: 31d7353f5b82b9024835a763bb41deb9722fbbf0
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 100%
 
 ---
+
 
 # Aanbiedingen leveren met de Besluiten-API
 
@@ -23,8 +24,8 @@ Leer hoe u [!DNL Offer Decisioning][-aanbiedingen kunt leveren met de Besluiten-
 >
 > Deze video maakt deel uit van een cursus, [Aan de slag met Offer Decisioning voor marketeers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), die gratis beschikbaar is op Experience League!
 
-
 ## Aanvullende bronnen
+
 * [Experience Platform-API&#39;s verifiëren en openen (tutorial)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html?lang=nl)
 * [[!DNL Postman] Verzameling voor niet-productieverificatie](https://github.com/adobe/experience-platform-postman-samples/tree/master/apis/ims?lang=nl)
 * [[!DNL Postman]](https://www.postman.com/)

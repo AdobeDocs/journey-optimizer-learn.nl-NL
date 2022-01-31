@@ -9,9 +9,9 @@ team: PM
 role: Developer, User
 level: Beginner
 exl-id: a2aa7853-b014-48aa-ab0f-46d57561288e
-source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
+source-git-commit: cdf98075ebe732cadfbfc36b3c65683c64b15a02
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '36'
 ht-degree: 100%
 
 ---
@@ -21,11 +21,3 @@ ht-degree: 100%
 Leer segmentregels maken en begrijp hoe Journey Optimizer regels gebruikt om doelgroepen te genereren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334281?quality=12)
-
-## Aanvullende bronnen
-
-* [Adobe Experience Platform-segmenten](https://experienceleague.adobe.com/docs/journey-optimizer/using/segment/segments/about-segments.html?lang=nl)
-* [Segmenten maken](https://experienceleague.adobe.com/docs/journey-optimizer/using/segment/segments/creating-a-segment.html?lang=nl)
-* [Een segment gebruiken in een journey](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/read-segment.html?lang=nl)
-* [Kwalificatiegebeurtenissen van het segment in een journey gebruiken](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/segment-qualification-events.html?lang=nl)
-* [Een segment in een voorwaarde gebruiken wanneer u een journey bouwt](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/condition-activity.html?lang=nl#using-a-segment?lang=nl)

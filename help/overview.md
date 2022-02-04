@@ -4,9 +4,9 @@ description: Dit handboek bevat video’s en tutorials over de vele functies en 
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '201'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 * **[CName-subdomeinen delegeren](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
-   *Leer hoe te om subdomain tot stand te brengen gebruikend CNAME om aan Adobe-specifieke verslagen te richten.*
+   *Meer informatie over het maken van een subdomein met CNAME om naar Adobe-specifieke records te verwijzen.*
 
 * **[Gebeurtenissen maken](/help/set-up-journeys/create-events.md)**
 

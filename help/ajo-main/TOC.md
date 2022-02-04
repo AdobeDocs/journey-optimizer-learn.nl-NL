@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '194'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -58,11 +58,11 @@ ht-degree: 88%
    + [Helpfuncties gebruiken voor personalisatie](/help/personalize-content/use-helper-functions-for-personalization.md)
 + Journeys maken {#create-journeys}
    + [Inleiding tot het samenstellen van een journey](/help/create-journeys/introduction-to-building-a-journey.md)
-   + [Hoofdlettergebruik - Transactiereis](/help/create-journeys/use-case-transactional-journey.md)
-   + [Hoofdletters/kleine letters gebruiken - Leessegment](/help/create-journeys/use-case-read-segment.md)
-   + [Hoofdletters/kleine letters gebruiken - Zakelijke gebeurtenis](/help/create-journeys/use-case-business-event.md)
-   + [Hoofdlettergebruik - Segmentkwalificatie](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Hoofdletters/kleine letters gebruiken - Burgerbericht](/help/create-journeys/use-case-burst-message.md)
+   + [Gebruiksscenario - transactionele journey](/help/create-journeys/use-case-transactional-journey.md)
+   + [Gebruiksscenario - segment lezen](/help/create-journeys/use-case-read-segment.md)
+   + [Gebruiksscenario - bedrijfsgebeurtenis](/help/create-journeys/use-case-business-event.md)
+   + [Gebruiksscenario - segmentkwalificatie](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [Gebruiksscenario - burst-messaging](/help/create-journeys/use-case-burst-message.md)
    + [Een testprofiel maken](/help/create-journeys/test-a-journey.md)
    + [Een journey publiceren](/help/create-journeys/publish-a-journey.md)
 + Rapporteren en controleren {#report-and-monitor}

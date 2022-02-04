@@ -7,7 +7,7 @@ kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
 source-git-commit: 31d7353f5b82b9024835a763bb41deb9722fbbf0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
 ht-degree: 100%
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 # Aanbiedingen leveren met de Besluiten-API
 
-Leer hoe u [!DNL Offer Decisioning][-aanbiedingen kunt leveren met de Besluiten-API](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=nl). Met [!DNL Postman] als demonstratie wordt een API-oproep gedaan om container-ID op te halen. Vervolgens wordt een voorbeeld van een Besluiten-API-oproep aangepast met de activiteit-ID, de plaatsing-ID, naamruimte voor identiteit en de klant-ID om een aanbieding op maat op te halen. Zodra u een aanbod op maat met de Besluiten-API hebt opgehaald, kunt u de aanbodcontent met uw marketingsysteem integreren.
+Leer hoe u [!DNL Offer Decisioning] [aanbiedingen kunt leveren met de Beslissingen-API](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=nl). Met [!DNL Postman] als demonstratie wordt een API-oproep gedaan om container-ID op te halen. Vervolgens wordt een voorbeeld van een Besluiten-API-oproep aangepast met de activiteit-ID, de plaatsing-ID, naamruimte voor identiteit en de klant-ID om een aanbieding op maat op te halen. Zodra u een aanbod op maat met de Besluiten-API hebt opgehaald, kunt u de aanbodcontent met uw marketingsysteem integreren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on)
 

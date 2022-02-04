@@ -6,19 +6,19 @@ kt: 6736
 thumbnail: 329372.jpg
 exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
 # Plaatsingen maken
 
-Leer hoe u creeert [plaatsing](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=nl) in [!DNL Offer Decisioning]. Plaatsingen vormen een van de bouwstenen van aanbiedingen. Een plaatsing is de combinatie van contenttype en kanaal, zoals een afbeelding in een e-mail of HTML-code op een website.
+Leer hoe u [plaatsingen](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=nl) maakt in [!DNL Offer Decisioning]. Plaatsingen vormen een van de bouwstenen van aanbiedingen. Een plaatsing is de combinatie van contenttype en kanaal, zoals een afbeelding in een e-mail of HTML-code op een website.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on)
 
-Raadpleeg voor meer informatie over het maken van plaatsingen met een API de [productgids](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/placements/create.html?lang=nl)
+Raadpleeg de [producthandleiding](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/placements/create.html?lang=nl) voor meer informatie over het maken van plaatsingen met een API
 
 >[!INFO]
 >

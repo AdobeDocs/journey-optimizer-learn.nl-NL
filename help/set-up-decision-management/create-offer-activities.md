@@ -6,19 +6,19 @@ kt: 6791
 thumbnail: 329606.jpg
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
 # Aanbodactiviteiten maken
 
-Leer hoe u creeert [aanbiedingsactiviteiten](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-manage-activities/create-offer-activities.html) in [!DNL Offer Decisioning]. Een aanbodactiviteit combineert uw plaatsingen en verzamelingen in één entiteit, zodat een beslissing kan worden genomen om het meest relevante aanbod aan de klant te leveren.
+Leer hoe u [aanbiedingsactiviteiten](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-manage-activities/create-offer-activities.html?lang=nl) maakt in [!DNL Offer Decisioning]. Een aanbiedingsactiviteit combineert uw plaatsingen en verzamelingen in één entiteit, zodat een beslissing kan worden genomen om de meest relevante aanbieding aan de klant te leveren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329606?quality=12&learn=on)
 
-Raadpleeg voor meer informatie over het maken van aanbiedingsactiviteiten met een API de [productgids](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/activities-api/create.html)
+Raadpleeg de [producthandleiding](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/activities-api/create.html?lang=nl) voor meer informatie over het maken van aanbiedingsactiviteiten met een API
 
 >[!INFO]
 >

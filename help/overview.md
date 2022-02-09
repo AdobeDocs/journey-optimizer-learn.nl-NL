@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Journey Optimizer-video&#39;s en -tutorials
 
-![AJO Banner](./assets/ajo-banner.png)
+![](./assets/ajo-banner.png)
 
 Journey Optimizer helpt bedrijven hun klanten verbonden, contextafhankelijke en persoonlijke ervaringen te bieden. Het klanttraject is het hele proces van de interacties van een klant met het merk, vanaf het eerste contactmoment totdat de klant de site verlaat.
 

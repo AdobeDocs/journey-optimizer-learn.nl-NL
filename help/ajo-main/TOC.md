@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
-source-git-commit: 676f0b268f7f67d179bfa944b72cb68191640c74
+source-git-commit: a663d531061ef343d10b837c447242b89f020eba
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '194'
 ht-degree: 100%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # Journey Optimizer-leertutorials {#tutorials}
 
-+ [Journey Optimizer-leertutorials](/help/overview.md)
++ [Overzicht](/help/overview.md)
 + Inleiding tot Journey Optimizer {#introduction-to-journey-optimizer}
    + [Inleiding tot Journey Optimizer](/help/introduction/introduction.md)
    + [Journey Optimizer - Overzicht deel 1](/help/introduction/journey-optimizer-overview-part-1.md)
@@ -32,16 +32,16 @@ ht-degree: 100%
    + [E-mailkanaal instellen](/help/set-up-email-channel/set-up-email-channel.md)
    + [CName-subdomeinen delegeren](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + Configuratie van Beslissingsbeheer {#decision-management-configuration}
-   + [Inleiding tot [!DNL Offer Decisioning]](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
-   + [Demo van [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
-   + [Plaatsingen maken](/help/set-up-decision-management/create-placements.md)
-   + [Regels maken](/help/set-up-decision-management/create-rules.md)
-   + [Tags maken](/help/set-up-decision-management/create-tags.md)
-   + [Persoonlijke aanbiedingen maken](/help/set-up-decision-management/create-personalized-offers.md)
-   + [Alternatieve aanbiedingen maken](/help/set-up-decision-management/create-fallback-offers.md)
-   + [Verzamelingen maken](/help/set-up-decision-management/create-collections.md)
-   + [Aanbodactiviteiten maken](/help/set-up-decision-management/create-offer-activities.md)
-   + [Aanbiedingen leveren met de Besluiten-API](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
+   + [Inleiding tot [!DNL Offer Decisioning]](/help/decision-management/introduction-to-offer-decisioning.md)
+   + [Demo van [!DNL Offer Decisioning]](/help/decision-management/demo-of-offer-decisioning.md)
+   + [Plaatsingen maken](/help/decision-management/create-placements.md)
+   + [Regels maken](/help/decision-management/create-rules.md)
+   + [Tags maken](/help/decision-management/create-tags.md)
+   + [Persoonlijke aanbiedingen maken](/help/decision-management/create-personalized-offers.md)
+   + [Alternatieve aanbiedingen maken](/help/decision-management/create-fallback-offers.md)
+   + [Verzamelingen maken](/help/decision-management/create-collections.md)
+   + [Aanbodactiviteiten maken](/help/decision-management/create-offer-activities.md)
+   + [Aanbiedingen leveren met de Besluiten-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
 + Journeyconfiguratie{#journey-configuration}
    + [Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)
    + [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)

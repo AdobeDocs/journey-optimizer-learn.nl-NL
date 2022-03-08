@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
+source-git-commit: 9af3eb252d38eb94cc81d4fd8723af8d44fd90da
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 100%
+source-wordcount: '203'
+ht-degree: 95%
 
 ---
 
@@ -56,6 +56,7 @@ ht-degree: 100%
    + [Aanbiedingen toevoegen als personalisatie](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Contextuele gebeurtenisinformatie gebruiken voor personalisatie](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Helpfuncties gebruiken voor personalisatie](/help/personalize-content/use-helper-functions-for-personalization.md)
+   + [Opgeslagen expressies gebruiken en beheren in de aanpassingsbibliotheek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
 + Journeys maken {#create-journeys}
    + [Inleiding tot het samenstellen van een journey](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Gebruiksscenario - transactionele journey](/help/create-journeys/use-case-transactional-journey.md)

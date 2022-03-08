@@ -3,10 +3,10 @@ title: Journey Optimizer-video's en -tutorials
 description: Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 676f0b268f7f67d179bfa944b72cb68191640c74
+source-git-commit: 9af3eb252d38eb94cc81d4fd8723af8d44fd90da
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '214'
+ht-degree: 86%
 
 ---
 
@@ -21,6 +21,10 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 ## Nieuwe functies
 
+* **[Opgeslagen expressies gebruiken en beheren in de aanpassingsbibliotheek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
+
+   *Leer hoe u opgeslagen verpersoonlijkingsitems in een bericht kunt gebruiken en hoe u bibliotheekitems voor verpersoonlijking kunt maken en beheren.*
+
 * **[CName-subdomeinen delegeren](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
    *Meer informatie over het maken van een subdomein met CNAME om naar Adobe-specifieke records te verwijzen.*
@@ -28,10 +32,6 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 * **[Gebeurtenissen maken](/help/set-up-journeys/create-events.md)**
 
    *Leer een gebeurtenis configureren, het streaming-eindpunt en de payload voor een gebeurtenis specificeren.*
-
-* **[Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)**
-
-   *Leer meer over connectoren voor bronnen en hoe u deze configureert in Journey Optimizer*
 
 
 ## Aanbevolen door medewerkers
@@ -65,7 +65,3 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
     <p>
   </td>
 </table>
-
-
-
-

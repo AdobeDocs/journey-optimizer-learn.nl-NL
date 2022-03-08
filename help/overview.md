@@ -3,9 +3,9 @@ title: Journey Optimizer-video's en -tutorials
 description: Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9af3eb252d38eb94cc81d4fd8723af8d44fd90da
+source-git-commit: 01781ab4fe33afb8e8c387b53c164428d7bcdff6
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '215'
 ht-degree: 86%
 
 ---
@@ -23,7 +23,7 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 * **[Opgeslagen expressies gebruiken en beheren in de aanpassingsbibliotheek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
-   *Leer hoe u opgeslagen verpersoonlijkingsitems in een bericht kunt gebruiken en hoe u bibliotheekitems voor verpersoonlijking kunt maken en beheren.*
+   *Leer hoe u opgeslagen bibliotheekitems voor personalisatie gebruikt in een bericht en hoe u bibliotheekitems voor personalisatie maakt en beheert.*
 
 * **[CName-subdomeinen delegeren](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 

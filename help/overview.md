@@ -3,10 +3,10 @@ title: Journey Optimizer-video's en -tutorials
 description: Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 01781ab4fe33afb8e8c387b53c164428d7bcdff6
+source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 86%
+source-wordcount: '210'
+ht-degree: 80%
 
 ---
 
@@ -21,6 +21,10 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 ## Nieuwe functies
 
+* **[Abonnementen en bestemmingspagina&#39;s](/help/subscriptions-and-landing-pages.md)**
+
+   *Leer hoe u abonnementen configureert en bestemmingspagina&#39;s maakt.*
+
 * **[Opgeslagen expressies gebruiken en beheren in de aanpassingsbibliotheek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
    *Leer hoe u opgeslagen bibliotheekitems voor personalisatie gebruikt in een bericht en hoe u bibliotheekitems voor personalisatie maakt en beheert.*
@@ -28,11 +32,6 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 * **[CName-subdomeinen delegeren](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
    *Meer informatie over het maken van een subdomein met CNAME om naar Adobe-specifieke records te verwijzen.*
-
-* **[Gebeurtenissen maken](/help/set-up-journeys/create-events.md)**
-
-   *Leer een gebeurtenis configureren, het streaming-eindpunt en de payload voor een gebeurtenis specificeren.*
-
 
 ## Aanbevolen door medewerkers
 

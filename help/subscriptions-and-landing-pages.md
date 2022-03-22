@@ -6,7 +6,7 @@ role: User
 level: Beginner
 kt: 9364
 thumbnail: 341280.jpg
-source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
+source-git-commit: a0c26a191b0440725aded8c4a3dde08b7f4f32e3
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 Leer hoe u abonnementen kunt configureren en bestemmingspagina&#39;s kunt maken:
 
 * Een abonnementenlijst maken
-* Opstartpagina&#39;s instellen om abonnementen op of abonnementen op een service aan te bieden
+* Stel bestemmingspagina&#39;s in om abonnementen aan te bieden aan of geen abonnementen van de dienst
 * Integreer de (un)abonnementsoptie in uw bericht
 * Configureer relevante reizen.
 

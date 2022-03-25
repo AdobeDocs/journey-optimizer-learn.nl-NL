@@ -5,8 +5,8 @@ recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 80%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,9 +25,9 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
    *Leer hoe u abonnementen configureert en bestemmingspagina&#39;s maakt.*
 
-* **[Opgeslagen expressies gebruiken en beheren in de aanpassingsbibliotheek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
+* **[Opgeslagen expressies gebruiken en beheren in de personalisatiebibliotheek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
-   *Leer hoe u opgeslagen bibliotheekitems voor personalisatie gebruikt in een bericht en hoe u bibliotheekitems voor personalisatie maakt en beheert.*
+   *Ontdek hoe u opgeslagen bibliotheekitems voor personalisatie gebruikt in een bericht en hoe u bibliotheekitems voor personalisatie maakt en beheert.*
 
 * **[CName-subdomeinen delegeren](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 

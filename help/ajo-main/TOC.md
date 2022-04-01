@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
-source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
+source-git-commit: 43d3e290d3e481fd8ae88813fedd48692a85f118
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 98%
+source-wordcount: '217'
+ht-degree: 93%
 
 ---
 
@@ -47,7 +47,9 @@ ht-degree: 98%
    + [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
    + [Acties maken](/help/set-up-journeys/create-actions.md)
 + [Segmenten maken](/help/set-up-resources/create-segments.md)
++ [Assets Essentials](/help/assets-essentials-overview.md)
 + Berichten maken {#create-messages}
+   + [Overzicht van Massageontwerper](/help/create-messages/message-designer-overview.md)
    + [E-mailcontent maken met de berichteneditor](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [HTML-e-mailcontent importeren en opstellen](/help/create-messages/import-and-author-html-email-content.md)
    + [Voorvertonen, proeven en publiceren](/help/create-messages/preview-proof-and-publish.md)
@@ -59,6 +61,7 @@ ht-degree: 98%
    + [Opgeslagen expressies gebruiken en beheren in de personalisatiebibliotheek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
 + [Abonnementen en bestemmingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
 + Journeys maken {#create-journeys}
+   + [Overzicht over het reiscanvas](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Inleiding tot het samenstellen van een journey](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Gebruiksscenario - transactionele journey](/help/create-journeys/use-case-transactional-journey.md)
    + [Gebruiksscenario - segment lezen](/help/create-journeys/use-case-read-segment.md)

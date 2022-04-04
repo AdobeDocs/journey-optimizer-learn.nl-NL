@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
-source-git-commit: 479a87ca42fb7b6d68334ae1de0dd8ddd378ecbb
+source-git-commit: ca3c1cd1741e2e42a6067013f670e10eb7ae1a2e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '236'
+ht-degree: 86%
 
 ---
 
@@ -46,7 +46,10 @@ ht-degree: 0%
    + [Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)
    + [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
    + [Acties maken](/help/set-up-journeys/create-actions.md)
-+ [Segmenten maken](/help/set-up-resources/create-segments.md)
++ Klantprofielen, segmenten en abonnementen {profielen-segmenten-abonnementen}
+   + [Verenigd profiel en segmentatie - overzicht](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
+   + [Segmenten maken](/help/set-up-resources/create-segments.md)
+   + [Abonnementen en bestemmingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Berichten maken {#create-messages}
    + [Overzicht van Massageontwerper](/help/create-messages/message-designer-overview.md)
@@ -61,7 +64,6 @@ ht-degree: 0%
    + [Contextuele gebeurtenisinformatie gebruiken voor personalisatie](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Helpfuncties gebruiken voor personalisatie](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Opgeslagen expressies gebruiken en beheren in de personalisatiebibliotheek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
-+ [Abonnementen en bestemmingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
 + Journeys maken {#create-journeys}
    + [Overzicht over het reiscanvas](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Inleiding tot het samenstellen van een journey](/help/create-journeys/introduction-to-building-a-journey.md)

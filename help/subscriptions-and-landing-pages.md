@@ -1,26 +1,26 @@
 ---
-title: Abonnementen en bestemmingspagina's configureren
-description: 'Leer hoe u abonnementen configureert en bestemmingspagina''s maakt. '
+title: Lidmaatschappen en landingspagina's configureren
+description: Leer hoe u lidmaatschappen configureert en landingspagina's maakt.
 feature: Landing Pages, Subscriptions
 role: User
 level: Beginner
 kt: 9364
 thumbnail: 341280.jpg
-source-git-commit: 773cf0e4633a8b4fe0696d2d4a612c82dc7f8955
-workflow-type: tm+mt
+exl-id: b2da105b-ec0b-4bb8-8f68-993f92253cb4
+source-git-commit: 943ccd4a9cb1489aa30d459906d3baa9e902dbfa
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Lidmaatschappen en landingspagina&#39;s configureren
 
-# Abonnementen en bestemmingspagina&#39;s configureren
+Leer hoe u lidmaatschappen configureert en landingspagina&#39;s maakt:
 
-Leer hoe u abonnementen kunt configureren en bestemmingspagina&#39;s kunt maken:
-
-* Een abonnementenlijst maken
-* Stel bestemmingspagina&#39;s in om abonnementen aan te bieden aan of geen abonnementen van de dienst
-* Integreer de (un)abonnementsoptie in uw bericht
-* Relatieve reizen configureren
+* Een lidmaatschapslijst maken
+* Landingspagina&#39;s instellen om lidmaatschappen op of afmeldingen van een service aan te bieden
+* De lidmaatschapsoptie (afmeldingsoptie) in uw bericht integreren
+* Relevante journeys configureren
 
 >[!VIDEO](https://video.tv.adobe.com/v/341280?quality=12&learn=on)

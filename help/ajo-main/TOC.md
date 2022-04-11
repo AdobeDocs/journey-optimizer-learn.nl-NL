@@ -5,7 +5,7 @@ user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
 source-git-commit: 4471e139da3693a2b13ec49c260c87f4787238ac
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 84%
+ht-degree: 97%
 
 ---
 
@@ -46,18 +46,18 @@ ht-degree: 84%
    + [Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)
    + [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
    + [Acties maken](/help/set-up-journeys/create-actions.md)
-+ Klantprofielen, segmenten en abonnementen {#profiles-segments-subscriptions}
-   + [Verenigd profiel en segmentatie - overzicht](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
++ Klantprofielen, segmenten en lidmaatschappen {#profiles-segments-subscriptions}
+   + [Uniform profiel en segmentatie - overzicht](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Segmenten maken](/help/set-up-resources/create-segments.md)
-   + [Abonnementen en bestemmingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
+   + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Berichten maken {#create-messages}
-   + [Overzicht van Massageontwerper](/help/create-messages/message-designer-overview.md)
+   + [Overzicht van Message Designer](/help/create-messages/message-designer-overview.md)
    + [E-mailcontent maken met de berichteneditor](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [HTML-e-mailcontent importeren en opstellen](/help/create-messages/import-and-author-html-email-content.md)
    + [Voorvertonen, proeven en publiceren](/help/create-messages/preview-proof-and-publish.md)
-   + [Mobile-mogelijkheden voor marketers](/help/create-messages/mobile-capabilities.md)
-   + [Mobile-mogelijkheden voor ontwerpers](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [Mobiele mogelijkheden voor marketeers](/help/create-messages/mobile-capabilities.md)
+   + [Mobiele mogelijkheden voor ontwerpers](/help/create-messages/mobile-capabilities-for-developers.md)
 + Content personaliseren {#personalize-content}
    + [Profiel- en segmentlidmaatschap-gebaseerde personalisatie](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Aanbiedingen toevoegen als personalisatie](/help/personalize-content/add-offer-decisioning-to-messages.md)
@@ -65,7 +65,7 @@ ht-degree: 84%
    + [Helpfuncties gebruiken voor personalisatie](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Opgeslagen expressies gebruiken en beheren in de personalisatiebibliotheek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
 + Journeys maken {#create-journeys}
-   + [Overzicht over het reiscanvas](/help/create-journeys/overview-over-the-journey-canvas.md)
+   + [Overzicht van het reiscanvas](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Inleiding tot het samenstellen van een journey](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Gebruiksscenario - transactionele journey](/help/create-journeys/use-case-transactional-journey.md)
    + [Gebruiksscenario - segment lezen](/help/create-journeys/use-case-read-segment.md)

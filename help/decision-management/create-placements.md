@@ -1,20 +1,20 @@
 ---
 title: Plaatsingen maken
-description: Leer hoe u plaatsingen kunt maken in Offer Decisioning. Plaatsingen vormen een van de bouwstenen van aanbiedingen.
+description: Leer hoe u plaatsingen voor beslissingsbeheer kunt maken. Plaatsingen vormen een van de bouwstenen van aanbiedingen.
 feature: Offers
 kt: 6736
 thumbnail: 329372.jpg
 exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '120'
-ht-degree: 100%
+source-git-commit: 2b1b6690604e0ce31eb2028c3ad6ad39cc8e820e
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 86%
 
 ---
 
 # Plaatsingen maken
 
-Leer hoe u [plaatsingen](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=nl) maakt in [!DNL Offer Decisioning]. Plaatsingen vormen een van de bouwstenen van aanbiedingen. Een plaatsing is de combinatie van contenttype en kanaal, zoals een afbeelding in een e-mail of HTML-code op een website.
+Leer hoe u creeert [plaatsing](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=nl) voor het beheer van besluiten. Plaatsingen vormen een van de bouwstenen van aanbiedingen. Een plaatsing is de combinatie van contenttype en kanaal, zoals een afbeelding in een e-mail of HTML-code op een website.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on)
 

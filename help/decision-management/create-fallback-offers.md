@@ -1,20 +1,20 @@
 ---
 title: Alternatieve aanbiedingen maken
-description: Leer alternatieve aanbiedingen te maken in [!DNL Offer Decisioning]. Aan alternatieve aanbiedingen zijn regels verbonden zodat het mogelijk is om ze alleen aan relevante klanten te tonen.
+description: Leer hoe u fallback-aanbiedingen voor beslissingsbeheer kunt maken. Aan alternatieve aanbiedingen zijn regels verbonden zodat het mogelijk is om ze alleen aan relevante klanten te tonen.
 feature: Offers
 kt: 6780
 thumbnail: 329383.jpg
 exl-id: 77dad738-4046-410d-8886-e88f9c872320
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '115'
-ht-degree: 100%
+source-git-commit: 307c19ca15e0fd63002c0932713e265824ea2621
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 78%
 
 ---
 
 # Alternatieve aanbiedingen maken
 
-Leer hoe u [alternatieve aanbiedingen] maakt (https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating -fallback-offers.html) in [!DNL Offer Decisioning]. Alternatieve aanbiedingen zijn standaardaanbiedingen die worden getoond aan klanten die niet in aanmerking komen voor een van uw aanbiedingen op maat.
+Leer hoe u creeert [fallbackaanbiedingen] (https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-fallback-offers.html) voor het beheer van besluiten. Alternatieve aanbiedingen zijn standaardaanbiedingen die worden getoond aan klanten die niet in aanmerking komen voor een van uw aanbiedingen op maat.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329383?quality=12&learn=on)
 

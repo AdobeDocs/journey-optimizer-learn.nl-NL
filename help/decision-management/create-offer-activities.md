@@ -1,20 +1,20 @@
 ---
 title: Aanbodactiviteiten maken
-description: Leer hoe u aanbodactiviteiten kunt maken in [!DNL Offer Decisioning]. Een aanbodactiviteit combineert uw plaatsingen en verzamelingen in één entiteit, zodat een beslissing kan worden genomen om het meest relevante aanbod aan de klant te leveren.
+description: Leer hoe u aanbiedingsactiviteiten voor besluitvormingsbeheer kunt maken. Een aanbodactiviteit combineert uw plaatsingen en verzamelingen in één entiteit, zodat een beslissing kan worden genomen om het meest relevante aanbod aan de klant te leveren.
 feature: Offers
 kt: 6791
 thumbnail: 329606.jpg
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '134'
-ht-degree: 100%
+source-git-commit: 307c19ca15e0fd63002c0932713e265824ea2621
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 86%
 
 ---
 
 # Aanbodactiviteiten maken
 
-Leer hoe u [aanbiedingsactiviteiten](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-manage-activities/create-offer-activities.html?lang=nl) maakt in [!DNL Offer Decisioning]. Een aanbiedingsactiviteit combineert uw plaatsingen en verzamelingen in één entiteit, zodat een beslissing kan worden genomen om de meest relevante aanbieding aan de klant te leveren.
+Leer hoe u creeert [aanbiedingsactiviteiten](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-manage-activities/create-offer-activities.html?lang=nl) voor het beheer van besluiten. Een aanbiedingsactiviteit combineert uw plaatsingen en verzamelingen in één entiteit, zodat een beslissing kan worden genomen om de meest relevante aanbieding aan de klant te leveren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329606?quality=12&learn=on)
 

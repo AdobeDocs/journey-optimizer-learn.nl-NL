@@ -1,20 +1,20 @@
 ---
 title: Beslissingsregels maken
-description: Leer hoe u beslissingsregels maakt in Offer Decisioning. Regels zijn een van de vereiste bouwstenen van aanbiedingen op maat.
+description: Leer hoe u besluitvormingsregels voor besluitvormingsbeheer kunt maken. Regels zijn een van de vereiste bouwstenen van aanbiedingen op maat.
 feature: Offers
 kt: 6738
 thumbnail: 329373.jpg
 exl-id: 1b4cd1cd-f082-46ec-a331-9733d7c87bde
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '151'
-ht-degree: 100%
+source-git-commit: 307c19ca15e0fd63002c0932713e265824ea2621
+workflow-type: tm+mt
+source-wordcount: '153'
+ht-degree: 88%
 
 ---
 
 # Beslissingsregels maken
 
-Leer hoe u [beslissingsregels](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-decision-rules.html?lang=nl) maakt in [!DNL Offer Decisioning]. Regels of &#39;besluitvormingsregels&#39; vormen een van de vereiste bouwstenen van aanbiedingen op maat. Regels worden gebouwd met behulp van de gebeurtenissen en attributen in het realtimeklantprofiel van Platform en van de geschiktheidsbeperkingen van aanbiedingen. Een regel kan bijvoorbeeld worden gebruikt om een aanbieding van sneeuwschoppen te beperken tot klanten die in regio&#39;s wonen waar het sneeuwt.
+Leer hoe u creeert [beslissingsregels](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-decision-rules.html?lang=nl) voor het beheer van besluiten. Regels of &#39;besluitvormingsregels&#39; vormen een van de vereiste bouwstenen van aanbiedingen op maat. Regels worden gebouwd met behulp van de gebeurtenissen en attributen in het realtimeklantprofiel van Platform en van de geschiktheidsbeperkingen van aanbiedingen. Een regel kan bijvoorbeeld worden gebruikt om een aanbieding van sneeuwschoppen te beperken tot klanten die in regio&#39;s wonen waar het sneeuwt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329373?quality=12&learn=on)
 

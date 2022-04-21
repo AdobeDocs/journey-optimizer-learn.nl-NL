@@ -1,20 +1,20 @@
 ---
-title: Inleiding tot Offer Decisioning
-description: Deze video geeft een overzicht van Offer Decisioning, een applicatieservice die op Adobe Experience Platform is gebouwd.
+title: Inleiding tot mogelijkheden voor besluitvormingsbeheer
+description: Bekijk een overzicht van de Journey Optimizer-mogelijkheden voor besluitvormingsbeheer.
 feature: Offers
 kt: 6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '79'
-ht-degree: 100%
+source-git-commit: 8762d5fa187e549df0a6ccda4e42192fda07ebf6
+workflow-type: tm+mt
+source-wordcount: '75'
+ht-degree: 33%
 
 ---
 
-# Inleiding tot [!DNL Offer Decisioning]
+# Inleiding tot de mogelijkheden voor besluitvormingsbeheer
 
-Deze video geeft een overzicht van [!DNL Offer Decisioning], een applicatieservice die op Adobe Experience Platform is gebouwd. In de video komen de zakelijke uitdagingen aan de orde die [!DNL Offer Decisioning] oplost, evenals de belangrijkste mogelijkheden, de basisarchitectuur en de voornaamste gebruiksscenario’s.
+Bekijk een overzicht van de Journey Optimizer-mogelijkheden voor besluitvormingsbeheer. De video behandelt de mogelijkheden van het het besluitvormingsbeheer van bedrijfsuitdagingen oplossen, zijn belangrijkste mogelijkheden, de basisarchitectuur, en zijn belangrijkste gebruiksgevallen.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on)

@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
-source-git-commit: 4471e139da3693a2b13ec49c260c87f4787238ac
+source-git-commit: cb938ea72b8d3e7f0e9d080346c605b112a7a23f
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 97%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 97%
    + [Persoonlijke aanbiedingen maken](/help/decision-management/create-personalized-offers.md)
    + [Alternatieve aanbiedingen maken](/help/decision-management/create-fallback-offers.md)
    + [Verzamelingen maken](/help/decision-management/create-collections.md)
-   + [Aanbodactiviteiten maken](/help/decision-management/create-offer-activities.md)
+   + [Beslissingen nemen](/help/decision-management/create-decisions.md)
    + [Aanbiedingen leveren met de Besluiten-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
 + Journeyconfiguratie{#journey-configuration}
    + [Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)

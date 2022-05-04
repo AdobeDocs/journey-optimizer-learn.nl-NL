@@ -1,6 +1,7 @@
 ---
 title: Werken met profiel en segmentlidmaatschap voor personalisatie
 description: Leer hoe u op profielen gebaseerde personalisatie aan een bericht kunt toevoegen en hoe u segmentlidmaatschap kunt gebruiken als voorwaarde voor een personalisatieblokkering.
+landing-page-description: Leer hoe u op profielen gebaseerde personalisatie aan een bericht kunt toevoegen en hoe u segmentlidmaatschap kunt gebruiken als voorwaarde voor een personalisatieblokkering.
 kt: 8034
 thumbnail: 334078.jpg
 feature: Personalization
@@ -9,9 +10,9 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
-source-git-commit: 348c47c91e61353e6bc9e9306bd821593b7b8e9e
+source-git-commit: 3b448b9d3ebb411b9ae43cfefdb0c03690399e5e
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '82'
 ht-degree: 100%
 
 ---

@@ -1,21 +1,21 @@
 ---
-title: Aanbiedingen op maat maken
+title: Gepersonaliseerde aanbiedingen maken
 seo-title: Create personalized offers for decision management
-description: Leer hoe u persoonlijke aanbiedingen voor besluitvormingsbeheer kunt maken. Aan aanbiedingen op maat zijn regels verbonden om u te helpen ze alleen aan relevante klanten tonen.
+description: Leer hoe u gepersonaliseerde aanbiedingen maakt voor beslissingsbeheer. Aan aanbiedingen op maat zijn regels verbonden om u te helpen ze alleen aan relevante klanten tonen.
 feature: Offers, Personalization
 kt: 6781
 thumbnail: 329375.jpg
 exl-id: 03428751-340f-4400-9162-b0f3021f1af1
 source-git-commit: 307c19ca15e0fd63002c0932713e265824ea2621
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
 # Aanbiedingen op maat maken
 
-Leer hoe u creeert [persoonlijke aanbiedingen](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=nl) voor het beheer van besluiten. Aan aanbiedingen op maat zijn regels verbonden om u te helpen ze alleen aan relevante klanten tonen. U kunt bijvoorbeeld een aanbod voor sneeuwschoppen beperken tot gebieden waar het sneeuwt en alleen tijdens de wintertijd.
+Leer hoe u [gepersonaliseerde aanbiedingen](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=nl) maakt voor beslissingsbeheer. Aan aanbiedingen op maat zijn regels verbonden om u te helpen ze alleen aan relevante klanten tonen. U kunt bijvoorbeeld een aanbod voor sneeuwschoppen beperken tot gebieden waar het sneeuwt en alleen tijdens de wintertijd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329375?quality=12&learn=on)
 

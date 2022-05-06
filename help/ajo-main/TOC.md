@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
 source-git-commit: c9b0cea707ec96f4e89c0e0e38b1308f938c15fa
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '239'
+ht-degree: 100%
 
 ---
 
@@ -32,15 +32,15 @@ ht-degree: 0%
    + [E-mailkanaal instellen](/help/set-up-email-channel/set-up-email-channel.md)
    + [CName-subdomeinen delegeren](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + Beslissingsbeheer {#decision-management}
-   + [Inleiding tot besluitvormingsbeheer](/help/decision-management/introduction-to-decision-management.md)
-   + [Demo van de mogelijkheden voor besluitvormingsbeheer](/help/decision-management/demo-of-decision-management-capabilities.md)
+   + [Inleiding tot beslissingsbeheer](/help/decision-management/introduction-to-decision-management.md)
+   + [Demo van de mogelijkheden voor beslissingsbeheer](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [Plaatsingen maken](/help/decision-management/create-placements.md)
    + [Regels maken](/help/decision-management/create-rules.md)
    + [Tags maken](/help/decision-management/create-tags.md)
    + [Persoonlijke aanbiedingen maken](/help/decision-management/create-personalized-offers.md)
    + [Alternatieve aanbiedingen maken](/help/decision-management/create-fallback-offers.md)
    + [Verzamelingen maken](/help/decision-management/create-collections.md)
-   + [Beslissingen nemen](/help/decision-management/create-decisions.md)
+   + [Beslissingen maken](/help/decision-management/create-decisions.md)
    + [Aanbiedingen leveren met de Besluiten-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
 + Journeyconfiguratie{#journey-configuration}
    + [Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)

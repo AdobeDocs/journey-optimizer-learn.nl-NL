@@ -3,10 +3,10 @@ title: Journey Optimizer-video's en -tutorials
 description: We hebben een aantal videozelfstudies die u laten zien hoe u de voordelen van Journey Optimizer kunt benutten.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: c487f98b184b5bb1d525293660e82db319af7ce4
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 91%
+source-wordcount: '214'
+ht-degree: 78%
 
 ---
 
@@ -60,7 +60,7 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
     </a>
     </div>
     <p>
-    <em>Deze video laat zien hoe merken Adobe Journey Optimization's aanbiedingsbeslissingen, realtimesegmentkwalificatie en business event management kunnen gebruiken om hun consumentjourney's naar nieuwe hoogten te tillen.</em>
+    <em>In deze video wordt getoond hoe merken Adobe Journey Optimizer-mogelijkheden voor besluitvormingsbeheer, realtime segmentkwalificatie en bedrijfsgebeurtenisbeheer kunnen gebruiken om hun reizen naar een hoger niveau te tillen.</em>
     <p>
   </td>
 </table>

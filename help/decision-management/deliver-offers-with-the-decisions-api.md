@@ -1,15 +1,15 @@
 ---
 title: Aanbiedingen leveren met de API voor de beslissingshub
-description: 'Leer hoe u aanbiedingen voor Offer Decisioning kunt leveren met de API voor beslissingen. '
+description: 'Leer hoe u aanbiedingen voor Beslissingsbeheer kunt aanbieden met de API voor Besluiten. '
 role: Developer
 feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 9f8c88c0ccbefc5089d41b7389dac54371aaa521
-workflow-type: ht
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 100%
+ht-degree: 80%
 
 ---
 
@@ -22,7 +22,7 @@ Leer hoe u aanbiedingen kunt leveren [met de API voor de beslissingshub](https:/
 
 >[!INFO]
 >
-> Deze video maakt deel uit van een cursus, [Aan de slag met Offer Decisioning voor marketeers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), die gratis beschikbaar is op Experience League!
+> Deze video maakt deel uit van een cursus, [Aan de slag met Beslissingsbeheer voor marktleiders](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), gratis beschikbaar op Experience League!
 
 ## Aanvullende bronnen
 

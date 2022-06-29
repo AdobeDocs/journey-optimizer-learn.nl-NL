@@ -3,7 +3,7 @@ title: Journey Optimizer-video's en -tutorials
 description: We hebben een aantal videozelfstudies die u laten zien hoe u de voordelen van Journey Optimizer kunt benutten.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: e5c8967245409984541e2e0ce9b489fd8d00f14e
+source-git-commit: 9b5107457b134a66b1464a3f6d26bd95a8211ec8
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 67%
@@ -23,7 +23,7 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 ### Tutorials
 
-* **[Regels voor berichtfrequentie configureren](help/administration/configure-frequency-rules.md)**
+* **[Regels voor berichtfrequentie configureren](/help/administration/configure-frequency-rules.md)**
 
    *Leer hoe u regels voor frequenties maakt, activeert, test en rapporteert. Begrijp hoe te om te bepalen welke frequentieregels voor een bericht zullen worden geërft*
 

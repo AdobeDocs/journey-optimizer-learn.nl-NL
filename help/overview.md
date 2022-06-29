@@ -3,10 +3,10 @@ title: Journey Optimizer-video's en -tutorials
 description: We hebben een aantal videozelfstudies die u laten zien hoe u de voordelen van Journey Optimizer kunt benutten.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 65d95deead594b27008efa2cf1751b6371f204e6
+source-git-commit: e5c8967245409984541e2e0ce9b489fd8d00f14e
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 73%
+source-wordcount: '406'
+ht-degree: 67%
 
 ---
 
@@ -23,6 +23,10 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 ### Tutorials
 
+* **[Regels voor berichtfrequentie configureren](help/administration/configure-frequency-rules.md)**
+
+   *Leer hoe u regels voor frequenties maakt, activeert, test en rapporteert. Begrijp hoe te om te bepalen welke frequentieregels voor een bericht zullen worden geërft*
+
 * **[Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)**
 
    *Leer hoe u lidmaatschappen configureert en landingspagina&#39;s maakt.*
@@ -31,16 +35,11 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
    *Ontdek hoe u opgeslagen bibliotheekitems voor personalisatie gebruikt in een bericht en hoe u bibliotheekitems voor personalisatie maakt en beheert.*
 
-* **[CName-subdomeinen delegeren](/help/set-up-email-channel/delegate-cname-subdomains.md)**
-
-   *Meer informatie over het maken van een subdomein met CNAME om naar Adobe-specifieke records te verwijzen.*
-
 ### Live gebeurtenissen Experiencen League
 
 * **[Pushmeldingen met Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
 
    *In dit Experience League Live-aflevering praten we over de gebruikelijke gebruiksgevallen voor pushberichten met Adobe Journey Optimizer en duiken we de technische details in over hoe u een app voor Push kunt configureren die wordt aangedreven door Adobe Experience Platform.*
-
 
 ## Aanbevolen door medewerkers
 

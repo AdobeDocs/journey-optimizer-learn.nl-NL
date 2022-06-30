@@ -3,10 +3,10 @@ title: Journey Optimizer-video's en -tutorials
 description: We hebben een aantal videozelfstudies die u laten zien hoe u de voordelen van Journey Optimizer kunt benutten.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: d4af15677c5c4baacfd6cae88acffa769ee6e401
+source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 67%
+source-wordcount: '396'
+ht-degree: 62%
 
 ---
 
@@ -23,6 +23,10 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 ### Tutorials
 
+* **[SMS-berichten configureren, schrijven en verzenden](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
+
+   *Leer hoe te, auteur, en omvat SMS overseinen in uw klantenreizen te vormen.*
+
 * **[Regels voor berichtfrequentie configureren](/help/administration/configure-frequency-rules.md)**
 
    *Leer hoe u regels voor frequenties maakt, activeert, test en rapporteert. Begrijp hoe te om te bepalen welke frequentieregels voor een bericht zullen worden geërft.*
@@ -30,10 +34,6 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 * **[Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)**
 
    *Leer hoe u lidmaatschappen configureert en landingspagina&#39;s maakt.*
-
-* **[Opgeslagen expressies gebruiken en beheren in de personalisatiebibliotheek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
-
-   *Ontdek hoe u opgeslagen bibliotheekitems voor personalisatie gebruikt in een bericht en hoe u bibliotheekitems voor personalisatie maakt en beheert.*
 
 ### Live gebeurtenissen Experiencen League
 

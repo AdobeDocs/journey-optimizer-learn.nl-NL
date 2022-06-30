@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
-source-git-commit: 9b5107457b134a66b1464a3f6d26bd95a8211ec8
+source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 97%
+source-wordcount: '251'
+ht-degree: 94%
 
 ---
 
@@ -59,6 +59,7 @@ ht-degree: 97%
    + [Voorvertonen, proeven en publiceren](/help/create-messages/preview-proof-and-publish.md)
    + [Mobiele mogelijkheden voor marketeers](/help/create-messages/mobile-capabilities.md)
    + [Mobiele mogelijkheden voor ontwerpers](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [SMS-berichten configureren, schrijven en verzenden](/help/create-messages/configure-author-and-deliver-sms-messages.md)
 + Content personaliseren {#personalize-content}
    + [Profiel- en segmentlidmaatschap-gebaseerde personalisatie](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Aanbiedingen toevoegen als personalisatie](/help/personalize-content/add-offer-decisioning-to-messages.md)

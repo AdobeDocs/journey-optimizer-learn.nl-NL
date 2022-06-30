@@ -3,10 +3,10 @@ title: Journey Optimizer-video's en -tutorials
 description: We hebben een aantal videozelfstudies die u laten zien hoe u de voordelen van Journey Optimizer kunt benutten.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
+source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 62%
+source-wordcount: '413'
+ht-degree: 59%
 
 ---
 
@@ -26,6 +26,10 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 * **[SMS-berichten configureren, schrijven en verzenden](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
    *Leer hoe te, auteur, en omvat SMS overseinen in uw klantenreizen te vormen.*
+
+* **[Ondersteuning voor inkomende trefwoorden voor SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
+
+   *Begrijp hoe de inheemse binnenkomende sleutelwoordsteun (begin, einde, unstop) voor SMS werkt.*
 
 * **[Regels voor berichtfrequentie configureren](/help/administration/configure-frequency-rules.md)**
 

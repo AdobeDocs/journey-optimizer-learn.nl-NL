@@ -1,12 +1,12 @@
 ---
 title: Journey Optimizer-video's en -tutorials
-description: We hebben een aantal videozelfstudies die u laten zien hoe u de voordelen van Journey Optimizer kunt benutten.
+description: We hebben een aantal videolesbestanden waarin u kunt zien hoe u de voordelen van Journey Optimizer kunt benutten.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '400'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
@@ -21,25 +21,25 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 ## Nieuwe functies
 
-### Tutorials
+### Lesbestanden
 
-* **[SMS-berichten configureren, schrijven en verzenden](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
+* **[Sms-berichten configureren, opstellen en leveren](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
-   *Leer hoe te, auteur, en omvat SMS overseinen in uw klantenreizen te vormen.*
+   *Meer informatie over het configureren, opstellen en opnemen van sms-berichten in uw klantjourneys.*
 
-* **[Ondersteuning voor inkomende trefwoorden voor SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
+* **[Ondersteuning van binnenkomende zoektermen voor sms](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
-   *Begrijp hoe de inheemse binnenkomende sleutelwoordsteun (begin, einde, unstop) voor SMS werkt.*
+   *Begrijp hoe native ondersteuning voor binnenkomende zoektermen (start, stop, unstop) voor sms werkt.*
 
 * **[Regels voor berichtfrequentie configureren](/help/administration/configure-frequency-rules.md)**
 
-   *Leer hoe u regels voor frequenties maakt, activeert, test en rapporteert. Begrijp hoe te om te bepalen welke frequentieregels voor een bericht zullen worden geërft.*
+   *Meer informatie over het maken, activeren, testen en rapporteren van frequentieregels. Begrijp hoe u kunt bepalen welke frequentieregels voor een bericht worden overgenomen.*
 
-### Live gebeurtenissen Experiencen League
+### Live gebeurtenissen in Experience League
 
-* **[Pushmeldingen met Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
+* **[Pushmeldingen met Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=nl)**
 
-   *In dit Experience League Live-aflevering praten we over de gebruikelijke gebruiksgevallen voor pushberichten met Adobe Journey Optimizer en duiken we de technische details in over hoe u een app voor Push kunt configureren die wordt aangedreven door Adobe Experience Platform.*
+   *In deze Experience League Live-aflevering praten we over doorsnee gebruiksscenario&#39;s voor pushberichten met Adobe Journey Optimizer en gaan we in op de technische details over het configureren van een app voor Push die wordt aangestuurd door Adobe Experience Platform.*
 
 ## Aanbevolen door medewerkers
 
@@ -68,7 +68,7 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
     </a>
     </div>
     <p>
-    <em>In deze video wordt getoond hoe merken Adobe Journey Optimizer-mogelijkheden voor besluitvormingsbeheer, realtime segmentkwalificatie en bedrijfsgebeurtenisbeheer kunnen gebruiken om hun reizen naar een hoger niveau te tillen.</em>
+    <em>Deze video laat zien hoe merken de beslissingsbeheermogelijkheden, realtimesegmentkwalificatie en bedrijfsgebeurtenissenbeheer van Adobe Journey Optimizer kunnen gebruiken om hun klantjourneys naar nieuwe hoogten te tillen.</em>
     <p>
   </td>
   </td>
@@ -82,7 +82,7 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
     </a>
     </div>
     <p>
-    <em>De video behandelt de zakelijke problemen die worden opgelost door de mogelijkheden van beslissingsbeheer, de belangrijkste mogelijkheden, de basisarchitectuur en de belangrijkste gebruiksscenario's ervan.
+    <em>De video behandelt de zakelijke problemen die worden opgelost door de mogelijkheden van beslissingsbeheer, wat de belangrijkste mogelijkheden zijn, de basisarchitectuur en de belangrijkste gebruiksscenario's.
 
 </em>
     <p>

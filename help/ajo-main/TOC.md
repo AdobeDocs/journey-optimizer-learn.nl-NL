@@ -3,16 +3,16 @@ user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
 source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '256'
+ht-degree: 100%
 
 ---
 
 
 # Journey Optimizer-leertutorials {#tutorials}
 
-+ [Journey Optimizer Tutorials](/help/overview.md)
++ [Lesbestanden voor Journey Optimizer](/help/overview.md)
 + Inleiding tot Journey Optimizer {#introduction-to-journey-optimizer}
    + [Inleiding tot Journey Optimizer](/help/introduction/introduction.md)
    + [Journey Optimizer - Overzicht deel 1](/help/introduction/journey-optimizer-overview-part-1.md)
@@ -59,8 +59,8 @@ ht-degree: 0%
    + [Voorvertonen, proeven en publiceren](/help/create-messages/preview-proof-and-publish.md)
    + [Mobiele mogelijkheden voor marketeers](/help/create-messages/mobile-capabilities.md)
    + [Mobiele mogelijkheden voor ontwerpers](/help/create-messages/mobile-capabilities-for-developers.md)
-   + [SMS-berichten configureren, schrijven en verzenden](/help/create-messages/configure-author-and-deliver-sms-messages.md)
-   + [Ondersteuning voor inkomende trefwoorden voor SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
+   + [Sms-berichten configureren, opstellen en leveren](/help/create-messages/configure-author-and-deliver-sms-messages.md)
+   + [Ondersteuning voor binnenkomende zoektermen voor sms](/help/create-messages/inbound-keyword-support-for-sms.md)
 + Content personaliseren {#personalize-content}
    + [Profiel- en segmentlidmaatschap-gebaseerde personalisatie](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Aanbiedingen toevoegen als personalisatie](/help/personalize-content/add-offer-decisioning-to-messages.md)

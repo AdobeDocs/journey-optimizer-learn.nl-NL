@@ -1,20 +1,21 @@
 ---
-title: SMS-berichten configureren, schrijven en verzenden
-description: Leer hoe te, auteur, en omvat SMS overseinen in uw klantenreizen te vormen.
+title: Sms-berichten configureren, opstellen en leveren
+description: Leer hoe u sms-berichten configureert, opstelt en opneemt in uw klantjourneys.
 feature: SMS
 role: User, Administrator
 level: Beginner
 kt: 10576
 thumbnail: 344460.jpg
-source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
-workflow-type: tm+mt
+exl-id: 5d4b6896-0cf2-470d-bcc6-695caa852072
+source-git-commit: 896e8400aa49b18c57206ceb8cebe87d6d6a392a
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# SMS-berichten configureren, schrijven en verzenden
+# Sms-berichten configureren, opstellen en leveren
 
-Leer hoe te, auteur, en omvat SMS overseinen in uw klantenreizen te vormen.
+Leer hoe u sms-berichten configureert, opstelt en opneemt in uw klantjourneys.
 
 >[!VIDEO](https://video.tv.adobe.com/v/344460?quality=12&learn=on)

@@ -6,9 +6,9 @@ kt: 6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ U krijgt een overzicht van de mogelijkheden voor beslissingsbeheer van Journey O
 
 >[!INFO]
 >
-> Deze video maakt deel uit van een cursus, [Aan de slag met Beslissingsbeheer voor marktleiders](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), gratis beschikbaar op Experience League!
+> Deze video maakt deel uit van de cursus [Aan de slag met Offer Decisioning voor marketeers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), die gratis beschikbaar is op Experience League.

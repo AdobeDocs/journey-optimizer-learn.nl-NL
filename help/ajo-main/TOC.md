@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
 source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
-workflow-type: ht
-source-wordcount: '256'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

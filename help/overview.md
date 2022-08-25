@@ -1,12 +1,12 @@
 ---
 title: Journey Optimizer-video's en -tutorials
-description: We hebben een aantal videolesbestanden waarin u kunt zien hoe u de voordelen van Journey Optimizer kunt benutten.
+description: We hebben een aantal videozelfstudies om u te laten zien hoe u de voordelen van Journey Optimizer kunt benutten.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
-workflow-type: ht
-source-wordcount: '400'
-ht-degree: 100%
+source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
+workflow-type: tm+mt
+source-wordcount: '395'
+ht-degree: 83%
 
 ---
 
@@ -15,13 +15,18 @@ ht-degree: 100%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer helpt bedrijven hun klanten verbonden, contextafhankelijke en persoonlijke ervaringen te bieden. Het klanttraject is het hele proces van de interacties van een klant met het merk, vanaf het eerste contactmoment totdat de klant de site verlaat.
+Journey Optimizer helpt bedrijven hun klanten verbonden, contextafhankelijke en persoonlijke ervaringen te bieden. De reis van de klant is het volledige proces van interactie van een klant met het merk, van de eerste momenten van contact tot de klant de plaats weggaat.
 
 Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
 
 ## Nieuwe functies
 
 ### Lesbestanden
+
+* **[Een campagne maken](/help/create-champaigns/create-a-campaign.md)**
+
+   *Leer hoe u eenmalige inhoud aan een specifiek gebruikerssegment kunt leveren door acties direct of volgens een opgegeven planning uit te voeren.*
+
 
 * **[Sms-berichten configureren, opstellen en leveren](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
@@ -30,10 +35,6 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 * **[Ondersteuning van binnenkomende zoektermen voor sms](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
    *Begrijp hoe native ondersteuning voor binnenkomende zoektermen (start, stop, unstop) voor sms werkt.*
-
-* **[Regels voor berichtfrequentie configureren](/help/administration/configure-frequency-rules.md)**
-
-   *Meer informatie over het maken, activeren, testen en rapporteren van frequentieregels. Begrijp hoe u kunt bepalen welke frequentieregels voor een bericht worden overgenomen.*
 
 ### Live gebeurtenissen in Experience League
 

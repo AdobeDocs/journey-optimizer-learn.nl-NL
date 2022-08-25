@@ -3,10 +3,10 @@ title: Journey Optimizer-video's en -tutorials
 description: We hebben een aantal videozelfstudies om u te laten zien hoe u de voordelen van Journey Optimizer kunt benutten.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
+source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 83%
+source-wordcount: '394'
+ht-degree: 84%
 
 ---
 
@@ -25,7 +25,7 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 * **[Een campagne maken](/help/create-champaigns/create-a-campaign.md)**
 
-   *Leer hoe u eenmalige inhoud aan een specifiek gebruikerssegment kunt leveren door acties direct of volgens een opgegeven planning uit te voeren.*
+   *Leer hoe u eenmalige inhoud aan een specifiek publiek kunt leveren door acties direct of volgens een opgegeven planning uit te voeren.*
 
 
 * **[Sms-berichten configureren, opstellen en leveren](/help/create-messages/configure-author-and-deliver-sms-messages.md)**

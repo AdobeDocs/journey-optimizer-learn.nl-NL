@@ -1,12 +1,12 @@
 ---
 title: Journey Optimizer-video's en -tutorials
-description: We hebben een aantal videozelfstudies om u te laten zien hoe u de voordelen van Journey Optimizer kunt benutten.
+description: We hebben een aantal videotutorials waarin u kunt zien hoe u de voordelen van Journey Optimizer kunt benutten.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '394'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 84%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer helpt bedrijven hun klanten verbonden, contextafhankelijke en persoonlijke ervaringen te bieden. De reis van de klant is het volledige proces van interactie van een klant met het merk, van de eerste momenten van contact tot de klant de plaats weggaat.
+Journey Optimizer helpt bedrijven hun klanten verbonden, contextafhankelijke en persoonlijke ervaringen te bieden. De customer journey is het hele proces van de interacties van een klant met het merk, vanaf het eerste contactmoment totdat de klant de site verlaat.
 
 Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
 
@@ -25,7 +25,7 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 * **[Een campagne maken](/help/create-champaigns/create-a-campaign.md)**
 
-   *Leer hoe u eenmalige inhoud aan een specifiek publiek kunt leveren door acties direct of volgens een opgegeven planning uit te voeren.*
+   *Leer hoe u eenmalige content aan een specifieke doelgroep kunt leveren door acties direct of volgens een opgegeven planning uit te voeren.*
 
 
 * **[Sms-berichten configureren, opstellen en leveren](/help/create-messages/configure-author-and-deliver-sms-messages.md)**

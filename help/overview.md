@@ -3,10 +3,10 @@ title: Journey Optimizer Tutorials - Overzicht
 description: We hebben een aantal videotutorials waarin u kunt zien hoe u de voordelen van Journey Optimizer kunt benutten.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 641050d8a2d3487a042ecf5a5a1b8891797e63a7
+source-git-commit: 8e6534b96e8433b21e2846f7ddfeef73cf5400ea
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 97%
+source-wordcount: '396'
+ht-degree: 85%
 
 ---
 
@@ -23,18 +23,17 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 ### Lesbestanden
 
+* **[Gegevens in berichten maskeren](/help/privacy/mask-data-in-messages.md)**
+
+   *Begrijp wat gegevens het maskeren is en waarom maskergegevens. Leer hoe u gegevens in Journey Optimizer-berichten kunt maskeren.*
+
 * **[Een campagne maken](/help/create-champaigns/create-a-campaign.md)**
 
    *Leer hoe u eenmalige content aan een specifieke doelgroep kunt leveren door acties direct of volgens een opgegeven planning uit te voeren.*
 
-
 * **[Sms-berichten configureren, opstellen en leveren](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
    *Meer informatie over het configureren, opstellen en opnemen van sms-berichten in uw klantjourneys.*
-
-* **[Ondersteuning van binnenkomende zoektermen voor sms](/help/create-messages/inbound-keyword-support-for-sms.md)**
-
-   *Begrijp hoe native ondersteuning voor binnenkomende zoektermen (start, stop, unstop) voor sms werkt.*
 
 ### Live gebeurtenissen in Experience League
 
@@ -127,7 +126,7 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
     </a>
     </div>
     <p>
-    <em>Leer het verschil tussen live en globale rapporten, hoe u de journey- en berichtspecifieke rapporten kunt openen en analyseren, en hoe u de rapportdashboards kunt wijzigen.
+    <em>Leer het verschil tussen levende en globale rapporten, hoe te om tot de reis en de bericht-specifieke rapporten toegang te hebben en te analyseren, en hoe te om de rapportdashboards te wijzigen.
 
 </em>
     <p>

@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
-source-git-commit: 9390fa4f69307f326df5946000240bf397152690
+source-git-commit: 4960b21053d6309cd64b5bb6a0a98e0d044d4afd
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 96%
    + [Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)
    + [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
    + [Acties maken](/help/set-up-journeys/create-actions.md)
-+ Klantprofielen, segmenten en lidmaatschappen {#profiles-segments-subscriptions}
++ Klantprofielen, segmenten en abonnementen {#profiles-segments-subscriptions}
    + [Uniform profiel en segmentatie - overzicht](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Segmenten maken](/help/set-up-resources/create-segments.md)
    + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
@@ -81,3 +81,5 @@ ht-degree: 96%
    + [Een journey publiceren](/help/create-journeys/publish-a-journey.md)
 + Rapporteren en controleren {#report-and-monitor}
    + [Live en globale rapporten](/help/report-and-monitor/live-and-global-reports.md)
++ Privacy {#privacy}
+   + [Gegevens in berichten maskeren](/help/privacy/mask-data-in-messages.md)

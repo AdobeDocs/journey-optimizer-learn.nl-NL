@@ -4,10 +4,10 @@ description: We hebben een aantal videotutorials waarin u kunt zien hoe u de voo
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b04f8f49f9b1527aad4e223d7f7df782663a29be
+source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 85%
+source-wordcount: '417'
+ht-degree: 81%
 
 ---
 
@@ -23,6 +23,10 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 ## Nieuwe functies
 
 ### Lesbestanden
+
+* **[Een reis naar een andere sandbox kopiëren](/help/create-journeys/copy-a-journey.md)**
+
+   *Leer hoe u een reis en de afhankelijke objecten van de ene sandbox naar de andere kunt kopiëren.*
 
 * **[Gegevens in berichten maskeren](/help/privacy/mask-data-in-messages.md)**
 

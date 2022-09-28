@@ -4,10 +4,10 @@ description: We hebben een aantal videotutorials waarin u kunt zien hoe u de voo
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
+source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 81%
+source-wordcount: '464'
+ht-degree: 64%
 
 ---
 
@@ -24,6 +24,10 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 ### Lesbestanden
 
+* **[Waarschuwingen gebruiken](/help/administration/alerts.md)**
+
+   *Leer hoe u zich abonneert op vooraf gedefinieerde waarschuwingen voor onverwacht reisgedrag en meldingen ontvangt via e-mail, binnen Journey Optimizer of via een API.*
+
 * **[Een reis naar een andere sandbox kopiëren](/help/create-journeys/copy-a-journey.md)**
 
    *Leer hoe u een reis en de afhankelijke objecten van de ene sandbox naar de andere kunt kopiëren.*
@@ -32,15 +36,12 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
    *Begrijp wat gegevens het maskeren is en waarom maskergegevens. Leer hoe u gegevens in Journey Optimizer-berichten kunt maskeren.*
 
-* **[Een campagne maken](/help/create-champaigns/create-a-campaign.md)**
-
-   *Leer hoe u eenmalige content aan een specifieke doelgroep kunt leveren door acties direct of volgens een opgegeven planning uit te voeren.*
-
-* **[Sms-berichten configureren, opstellen en leveren](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
-
-   *Meer informatie over het configureren, opstellen en opnemen van sms-berichten in uw klantjourneys.*
 
 ### Live gebeurtenissen in Experience League
+
+* **[Je campagnes uitvoeren in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=en)**
+
+   *In dit Experience League Live-aflevering, oorspronkelijk gehouden op 22 september 2022, zie gastheer Sandra Hausmann en productdeskundigen Bridgette Darling en Frederic Mary bij het bespreken van de gebruiksgevallen waarop deze nieuwe functie betrekking heeft en hoe een campagne in Journey Optimizer eenvoudig kan worden opgezet en uitgevoerd.*
 
 * **[Pushmeldingen met Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=nl)**
 

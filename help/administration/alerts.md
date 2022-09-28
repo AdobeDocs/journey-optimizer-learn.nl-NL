@@ -6,7 +6,7 @@ thumbnail: 336218.jpg
 feature: Reporting
 doc-type: feature video
 team: PM
-role: Admini
+role: Admin
 last-update-author: 20220928
 source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
 workflow-type: tm+mt
@@ -22,8 +22,9 @@ Leer hoe u zich abonneert op vooraf gedefinieerde waarschuwingen voor onverwacht
 
 >[!NOTE]
 >
->De video toont de waarschuwingsfunctie van de Adobe Experience Platform-gebruikersinterface. De functie is in Journey Optimizer toegankelijk via Beheer links > Waarschuwingen.
-> 
->Bij toegang tot waarschuwingen van Journey Optimizer worden standaard alleen wijzigingen weergegeven die specifiek zijn voor uw Journey Optimizer-exemplaar.
+>De video toont de waarschuwingsfunctie in de gebruikersinterface van Adobe Experience Platform. De functie is in Journey Optimizer toegankelijk via Beheer links > Waarschuwingen.
+>
+>
+>Bij toegang tot berichten van Journey Optimizer worden standaard alleen waarschuwingen weergegeven die specifiek zijn voor uw Journey Optimizer-exemplaar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12)

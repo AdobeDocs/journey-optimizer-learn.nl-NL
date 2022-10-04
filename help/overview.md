@@ -4,7 +4,7 @@ description: We hebben een aantal videotutorials waarin u kunt zien hoe u de voo
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
+source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
 workflow-type: tm+mt
 source-wordcount: '492'
 ht-degree: 60%
@@ -19,6 +19,8 @@ ht-degree: 60%
 Journey Optimizer helpt bedrijven hun klanten verbonden, contextafhankelijke en persoonlijke ervaringen te bieden. De customer journey is het hele proces van de interacties van een klant met het merk, vanaf het eerste contactmoment totdat de klant de site verlaat.
 
 Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
+
+<div id="whats-new-section">
 
 ## Nieuwe functies
 
@@ -40,6 +42,7 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
    *Begrijp wat gegevens het maskeren is en waarom maskergegevens. Leer hoe u gegevens in Journey Optimizer-berichten kunt maskeren.*
 
+</div>
 
 ### Live gebeurtenissen in Experience League
 
@@ -50,6 +53,8 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 * **[Pushmeldingen met Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=nl)**
 
    *In deze Experience League Live-aflevering praten we over doorsnee gebruiksscenario&#39;s voor pushberichten met Adobe Journey Optimizer en gaan we in op de technische details over het configureren van een app voor Push die wordt aangestuurd door Adobe Experience Platform.*
+
+<div id="staff-picks-section">
 
 ## Aanbevolen door medewerkers
 
@@ -143,3 +148,5 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
   </td>
 </tr>
 </table>
+
+</div>

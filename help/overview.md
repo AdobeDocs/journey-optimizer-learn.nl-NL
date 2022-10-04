@@ -4,10 +4,10 @@ description: We hebben een aantal videotutorials waarin u kunt zien hoe u de voo
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
+source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 64%
+source-wordcount: '492'
+ht-degree: 60%
 
 ---
 
@@ -23,6 +23,10 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 ## Nieuwe functies
 
 ### Lesbestanden
+
+* **[Dynamische inhoud maken met de constructor voor voorwaardenregels](/help/personalize-content/create-dynamic-content.md)**
+
+   *Leer om voorwaardenregels tot stand te brengen en te bewaren en hoe te om deze voorwaardenregels op inhoud over alle kanalen toe te passen.*
 
 * **[Waarschuwingen gebruiken](/help/administration/alerts.md)**
 

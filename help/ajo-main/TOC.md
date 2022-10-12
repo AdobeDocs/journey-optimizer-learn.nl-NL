@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
-source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
+source-git-commit: 990ba063c251df6d0f191e5020937bfd6867634f
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 86%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -53,7 +53,6 @@ ht-degree: 86%
    + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Berichten maken {#create-messages}
-   + [Overzicht van Message Designer](/help/create-messages/message-designer-overview.md)
    + [Inhoud maken met de e-mailontwerper](/help/create-messages/create-content-with-the-email-designer.md)
    + [HTML-e-mailcontent importeren en opstellen](/help/create-messages/import-and-author-html-email-content.md)
    + [Voorvertonen, proeven en publiceren](/help/create-messages/preview-proof-and-publish.md)
@@ -77,7 +76,6 @@ ht-degree: 86%
    + [Gebruiksscenario - segment lezen](/help/create-journeys/use-case-read-segment.md)
    + [Gebruiksscenario - bedrijfsgebeurtenis](/help/create-journeys/use-case-business-event.md)
    + [Gebruiksscenario - segmentkwalificatie](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Gebruiksscenario - burst-messaging](/help/create-journeys/use-case-burst-message.md)
    + [Een testprofiel maken](/help/create-journeys/test-a-journey.md)
    + [Een journey publiceren](/help/create-journeys/publish-a-journey.md)
    + [Een reis naar een andere sandbox kopiëren](/help/create-journeys/copy-a-journey.md)

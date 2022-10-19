@@ -1,6 +1,6 @@
 ---
-title: Dynamische inhoud maken met de constructor voor voorwaardenregels
-description: Leer om voorwaardenregels tot stand te brengen en te bewaren en hoe te om deze voorwaardenregels op inhoud over alle kanalen toe te passen.
+title: Dynamische content maken met de ontwikkelaar voor voorwaardelijke regels
+description: Leer om voorwaardelijke regels te maken en op te slaan en leer deze voorwaardelijke regels toepassen op content over alle kanalen.
 kt: 10589
 thumbnail: 3409815.jpg
 feature: Personalization
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 last-substantial-update: 2022-10-03T00:00:00Z
 source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Dynamische inhoud maken met de constructor voor voorwaardenregels
+# Dynamische content maken met de ontwikkelaar voor voorwaardelijke regels
 
-Leer om voorwaardenregels tot stand te brengen en te bewaren en hoe te om deze voorwaardenregels op inhoud over alle kanalen toe te passen.
+Leer om voorwaardelijke regels te maken en op te slaan en leer deze voorwaardelijke regels toepassen op content over alle kanalen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409815?quality=12)

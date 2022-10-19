@@ -10,9 +10,9 @@ role: User
 level: Beginner
 exl-id: 20dfc3a7-aa09-4ca2-a02e-3134fd680e2b
 source-git-commit: 0422f806896aeff967ce8526fc52b6265b2804a1
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '68'
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Leer hoe u waarden voor personalisatie met hulpfuncties voor personalisatie kunt
 
 >[!VIDEO](https://video.tv.adobe.com/v/334244?quality=12)
 
-Raadpleeg de producthandleiding voor meer informatie over [helperfuncties](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalized-dynamic-content/personalization/build-expressions/functions/functions.html?lang=en).
+Raadpleeg de producthandleiding voor meer informatie over [helperfuncties](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalized-dynamic-content/personalization/build-expressions/functions/functions.html?lang=nl).

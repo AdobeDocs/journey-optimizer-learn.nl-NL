@@ -1,13 +1,13 @@
 ---
-title: Journey Optimizer Tutorials - Overzicht
+title: Tutorials voor Journey Optimizer - Overzicht
 description: We hebben een aantal videotutorials waarin u kunt zien hoe u de voordelen van Journey Optimizer kunt benutten.
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
 workflow-type: tm+mt
-source-wordcount: '490'
-ht-degree: 60%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,21 +24,21 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 ## Nieuwe functies
 
-* **[Dynamische inhoud maken met de constructor voor voorwaardenregels](/help/personalize-content/create-dynamic-content.md)**
+* **[Dynamische inhoud maken met de ontwikkelaar voor voorwaardelijke regels](/help/personalize-content/create-dynamic-content.md)**
 
-   *Leer om voorwaardenregels tot stand te brengen en te bewaren en hoe te om deze voorwaardenregels op inhoud over alle kanalen toe te passen.*
+   *Leer voorwaardelijke regels te maken en op te slaan, en leer deze voorwaardelijke regels toepassen op content over alle kanalen.*
 
 * **[Waarschuwingen gebruiken](/help/administration/alerts.md)**
 
-   *Leer hoe u zich abonneert op vooraf gedefinieerde waarschuwingen voor onverwacht reisgedrag en meldingen ontvangt via e-mail, binnen Journey Optimizer of via een API.*
+   *Ontdek hoe u vooraf gedefinieerde waarschuwingen kunt ontvangen voor onverwacht journeygedrag en hoe u meldingen kunt ontvangen via e-mail, in Journey Optimizer of via een API.*
 
-* **[Een reis naar een andere sandbox kopiëren](/help/create-journeys/copy-a-journey.md)**
+* **[Een journey naar een andere sandbox kopiëren](/help/create-journeys/copy-a-journey.md)**
 
-   *Leer hoe u een reis en de afhankelijke objecten van de ene sandbox naar de andere kunt kopiëren.*
+   *Ontdek hoe u een journey en zijn afhankelijke objecten van de ene sandbox naar de andere kunt kopiëren.*
 
 * **[Gegevens in berichten maskeren](/help/privacy/mask-data-in-messages.md)**
 
-   *Begrijp wat gegevens het maskeren is en waarom maskergegevens. Leer hoe u gegevens in Journey Optimizer-berichten kunt maskeren.*
+   *Begrijp wat het maskeren van gegevens is en waarom we gegevens maskeren. Leer hoe u gegevens in Journey Optimizer-berichten kunt maskeren.*
 
 </div>
 
@@ -47,9 +47,9 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 ## Gebeurtenissen van Experience League Live
 
-* **[Je campagnes uitvoeren in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=en)**
+* **[Uw campagnes uitvoeren in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=nl)**
 
-   *In dit Experience League Live-aflevering, oorspronkelijk gehouden op 22 september 2022, zie gastheer Sandra Hausmann en productdeskundigen Bridgette Darling en Frederic Mary bij het bespreken van de gebruiksgevallen waarop deze nieuwe functie betrekking heeft en hoe een campagne in Journey Optimizer eenvoudig kan worden opgezet en uitgevoerd.*
+   *In deze Experience League Live-aflevering, oorspronkelijk gehouden op 22 september 2022, ziet u gastvrouw Sandra Hausmann en productdeskundigen Bridgette Darling en Frederic Mary bij het bespreken van de gebruiksscenario&#39;s waarop deze nieuwe functie betrekking heeft en hoe een campagne in Journey Optimizer eenvoudig kan worden opgezet en uitgevoerd.*
 
 * **[Pushmeldingen met Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=nl)**
 
@@ -151,7 +151,7 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
     </a>
     </div>
     <p>
-    <em>Leer het verschil tussen levende en globale rapporten, hoe te om tot de reis en de bericht-specifieke rapporten toegang te hebben en te analyseren, en hoe te om de rapportdashboards te wijzigen.
+    <em>Leer het verschil tussen live en wereldwijde rapporten, hoe u de journey- en berichtspecifieke rapporten kunt openen en analyseren en hoe u de rapportdashboards kunt wijzigen.
 
 </em>
     <p>

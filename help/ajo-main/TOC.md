@@ -4,8 +4,8 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
 source-git-commit: 2874a7c5bc9ef8fd553a573069911453f5bc5f2b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '279'
+ht-degree: 98%
 
 ---
 
@@ -47,13 +47,13 @@ ht-degree: 0%
    + [Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)
    + [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
    + [Acties maken](/help/set-up-journeys/create-actions.md)
-+ Klantprofielen, segmenten en abonnementen {#profiles-segments-subscriptions}
++ Klantprofielen, segmenten en lidmaatschappen {#profiles-segments-subscriptions}
    + [Uniform profiel en segmentatie - overzicht](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Segmenten maken](/help/set-up-resources/create-segments.md)
    + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Berichten maken {#create-messages}
-   + [Inhoud maken met de e-mailontwerper](/help/create-messages/create-content-with-the-email-designer.md)
+   + [Content maken met de Email Designer](/help/create-messages/create-content-with-the-email-designer.md)
    + [HTML-e-mailcontent importeren en opstellen](/help/create-messages/import-and-author-html-email-content.md)
    + [Voorvertonen, proeven en publiceren](/help/create-messages/preview-proof-and-publish.md)
    + [Mobiele mogelijkheden voor marketeers](/help/create-messages/mobile-capabilities.md)
@@ -68,7 +68,7 @@ ht-degree: 0%
    + [Contextuele gebeurtenisinformatie gebruiken voor personalisatie](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Helpfuncties gebruiken voor personalisatie](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Opgeslagen expressies gebruiken en beheren in de personalisatiebibliotheek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
-   + [Dynamische inhoud maken met de constructor voor voorwaardenregels](/help/personalize-content/create-dynamic-content.md)
+   + [Dynamische content maken met de ontwikkelaar voor voorwaardelijke regels](/help/personalize-content/create-dynamic-content.md)
 + Campagnes maken {#create-campaigns}
    + [Een campagne maken](/help/create-champaigns/create-a-campaign.md)
 + Journeys maken {#create-journeys}
@@ -80,7 +80,7 @@ ht-degree: 0%
    + [Gebruiksscenario - segmentkwalificatie](/help/create-journeys/use-case-read-segment-qualification.md)
    + [Een testprofiel maken](/help/create-journeys/test-a-journey.md)
    + [Een journey publiceren](/help/create-journeys/publish-a-journey.md)
-   + [Een reis naar een andere sandbox kopiëren](/help/create-journeys/copy-a-journey.md)
+   + [Een journey naar een andere sandbox kopiëren](/help/create-journeys/copy-a-journey.md)
 + Rapporteren en controleren {#report-and-monitor}
    + [Live en globale rapporten](/help/report-and-monitor/live-and-global-reports.md)
    + [Waarschuwingen gebruiken](/help/administration/alerts.md)

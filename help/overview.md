@@ -4,15 +4,15 @@ description: We hebben een aantal videotutorials waarin u kunt zien hoe u de voo
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: c06bfb31fe7964a3bba81873884ee66fd16908a1
+source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '490'
 ht-degree: 60%
 
 ---
 
 
-# Journey Optimizer Tutorials - Overzicht
+# Journey Optimizer-zelfstudies
 
 ![](./assets/ajo-banner.png)
 
@@ -23,8 +23,6 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 <div id="whats-new-section">
 
 ## Nieuwe functies
-
-### Lesbestanden
 
 * **[Dynamische inhoud maken met de constructor voor voorwaardenregels](/help/personalize-content/create-dynamic-content.md)**
 
@@ -47,7 +45,7 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 <div id="events-section">
 
-### Live gebeurtenissen in Experience League
+## Gebeurtenissen van Experience League Live
 
 * **[Je campagnes uitvoeren in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=en)**
 
@@ -68,7 +66,7 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 
 <div id="staff-picks-section">
 
-## Aanbevolen door medewerkers
+## Personeelsselectie
 
 <table>
 <tr>

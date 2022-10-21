@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
-source-git-commit: 66f4b0fabea40b5e8f2e5abd42ec89b945dd04e9
+source-git-commit: e8d052ad806f0da48c316921e20a860e74e922b4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '292'
+ht-degree: 91%
 
 ---
 
@@ -38,11 +38,11 @@ ht-degree: 0%
    + [Segmenten maken](/help/set-up-resources/create-segments.md)
    + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
 + Berichten maken {#create-messages}
-   + [E-mails maken] {#create-emails}
+   + E-mails maken {#create-emails}
       + [Content maken met de Email Designer](/help/create-messages/create-content-with-the-email-designer.md)
       + [HTML-e-mailcontent importeren en opstellen](/help/create-messages/import-and-author-html-email-content.md)
       + [Voorvertonen, proeven en publiceren](/help/create-messages/preview-proof-and-publish.md)
-   + SMS-berichten maken {#create-sms}
+   + SMS-tekstberichten maken {#create-sms}
       + [Sms-berichten configureren, opstellen en leveren](/help/create-messages/configure-author-and-deliver-sms-messages.md)
       + [Ondersteuning voor binnenkomende zoektermen voor sms](/help/create-messages/inbound-keyword-support-for-sms.md)
    + In-app berichten maken {#create-in-app}

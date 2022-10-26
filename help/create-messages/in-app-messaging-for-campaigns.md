@@ -1,6 +1,6 @@
 ---
 title: In-app berichten voor campagnes
-description: Begrijp wat een bericht in de app is. Leer in-app berichten in Campagnes creëren, vormen en publiceren.
+description: Begrijp wat een in-app bericht is. Leer hoe u in-app berichten maakt, configureert en publiceert in campagnes.
 feature: In App
 role: User
 level: Beginner
@@ -10,9 +10,9 @@ last-update-author: 20221018
 hidefromtoc: true
 hide: true
 source-git-commit: 7273138957300b45b6075a0164634f456556a5f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 >[!NOTE]
 > 
-> Houd er rekening mee dat in-app messaging in bèta beschikbaar is en nog niet voor alle klanten.
+> Houd er rekening mee dat in-app berichten in bèta zijn en nog niet voor alle klanten beschikbaar zijn.
 
-Begrijp wat een bericht in de app is. Leer in-app berichten in Campagnes creëren, vormen en publiceren.
+Begrijp wat een in-app bericht is. Leer hoe u in-app berichten maakt, configureert en publiceert in campagnes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410430?quality=12&learn=on)

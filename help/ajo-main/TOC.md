@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer-leertutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn leertutorials voor Journey Optimizer.
 source-git-commit: e8d052ad806f0da48c316921e20a860e74e922b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '292'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -42,12 +42,12 @@ ht-degree: 91%
       + [Content maken met de Email Designer](/help/create-messages/create-content-with-the-email-designer.md)
       + [HTML-e-mailcontent importeren en opstellen](/help/create-messages/import-and-author-html-email-content.md)
       + [Voorvertonen, proeven en publiceren](/help/create-messages/preview-proof-and-publish.md)
-   + SMS-tekstberichten maken {#create-sms}
+   + Sms-berichten maken {#create-sms}
       + [Sms-berichten configureren, opstellen en leveren](/help/create-messages/configure-author-and-deliver-sms-messages.md)
       + [Ondersteuning voor binnenkomende zoektermen voor sms](/help/create-messages/inbound-keyword-support-for-sms.md)
    + In-app berichten maken {#create-in-app}
       + [In-app berichten voor campagnes](/help/create-messages/in-app-messaging-for-campaigns.md)
-      + [Een bericht in de app schrijven](/help/create-messages/author-in-app-messages.md)
+      + [Een in-app bericht schrijven](/help/create-messages/author-in-app-messages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Content personaliseren {#personalize-content}
    + [Profiel- en segmentlidmaatschap-gebaseerde personalisatie](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
@@ -66,7 +66,7 @@ ht-degree: 91%
    + [Alternatieve aanbiedingen maken](/help/decision-management/create-fallback-offers.md)
    + [Verzamelingen maken](/help/decision-management/create-collections.md)
    + [Beslissingen maken](/help/decision-management/create-decisions.md)
-   + [Aanbiedingen leveren met de Besluiten-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
+   + [Aanbiedingen leveren met de Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
 + Rapporteren en controleren {#report-and-monitor}
    + [Live en globale rapporten](/help/report-and-monitor/live-and-global-reports.md)
    + [Waarschuwingen gebruiken](/help/administration/alerts.md)
@@ -81,7 +81,7 @@ ht-degree: 91%
       + [E-mailkanaal instellen](/help/set-up-email-channel/set-up-email-channel.md)
       + [CName-subdomeinen delegeren](/help/set-up-email-channel/delegate-cname-subdomains.md)
       + [Regels voor berichtfrequentie configureren](/help/administration/configure-frequency-rules.md)
-   + Reizen configureren {#journey-configuration}
+   + Journey&#39;s configureren {#journey-configuration}
       + [Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)
       + [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
       + [Acties maken](/help/set-up-journeys/create-actions.md)

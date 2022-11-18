@@ -4,7 +4,7 @@ description: We hebben een aantal videotutorials waarin u kunt zien hoe u de voo
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
+source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
 workflow-type: ht
 source-wordcount: '490'
 ht-degree: 100%
@@ -158,5 +158,4 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
   </td>
 </tr>
 </table>
-
 </div>

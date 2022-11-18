@@ -5,7 +5,7 @@ feature: Journeys
 role: Admin
 level: Beginner
 hide: true
-source-git-commit: dd2832c1e99ed9b8407a0aa9356335d3bce40622
+source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 5%
@@ -19,7 +19,7 @@ ht-degree: 5%
 
 De uitdagingen verstrekken een scenario en de vereisten nodig om te oefenen wat u leerde. De uitdagingen helpen u uw vaardigheidsniveau evalueren en kennishiaten identificeren.
 
-Elke uitdaging in deze sectie richt een uniek gebruiksgeval dat u zult uitvoeren. Het doelpubliek (persona), evenals de vereiste vaardigheden worden vermeld aan het begin van elke uitdaging.
+Elke uitdaging in deze sectie richt een uniek gebruiksgeval dat u zult uitvoeren. Het doelpubliek (persona), en de vereiste vaardigheden worden vermeld aan het begin van elke uitdaging.
 
 ## Vereisten
 
@@ -67,8 +67,8 @@ Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en d
       <em>Bevorderen van de nieuwe Luma-zomercollectie. </em>
       <p>
       <b>Vereiste vaardigheden:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html"> Segmenten maken</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html">HTML-e-mailcontent importeren en opstellen</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Segmenten maken</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">HTML-e-mailcontent importeren en opstellen</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">Gebruiksscenario - Leessegment</li>
   </td>
   </tr>
@@ -94,7 +94,7 @@ Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en d
     <td>
     <div>
     <a href="product-replenishment-challenge.md">
-      <img alt="Luma-website" src="./assets/email-assets/luma-ProductReplenishment.jpg"/>
+      <img alt="Luma-website" src="./assets/email-assets/luma-ProductReplenishment.png"/>
     </a>
     </div>
     <td>

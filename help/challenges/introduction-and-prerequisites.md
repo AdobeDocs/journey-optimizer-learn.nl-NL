@@ -5,13 +5,13 @@ feature: Journeys
 role: Admin
 level: Beginner
 hide: true
-source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
+exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
+source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 5%
+source-wordcount: '391'
+ht-degree: 6%
 
 ---
-
 
 # Journey Optimizer-uitdagingen - Inleiding en voorwaarden
 
@@ -25,22 +25,23 @@ Elke uitdaging in deze sectie richt een uniek gebruiksgeval dat u zult uitvoeren
 
 ### Systeemvereisten
 
-* Toegang tot een Journey Optimizer-sandbox
-* Het wordt aanbevolen de uitdaging in een specifieke trainingssandbox uit te voeren. Zie de [Zelfstudie voor een trainingssandbox instellen](https://experienceleague.adobe.com//docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html) voor instructies.
-* U hebt de volgende toegangsrechten nodig:
-   * *Reismanager* of *Reisbeheerder* rechten
-   * Testprofielen en de bijbehorende kenmerken weergeven
+* Toegang tot een Journey Optimizer-sandbox - We raden u aan de uitdaging in een specifieke trainingssandbox te voltooien.
 * AEM Assets Essentials moet zijn ingericht voor uw exemplaar
 * Het e-mailkanaal moet zijn geconfigureerd voor transactie- en marketingberichten
 
+### Toegangsrechten
+
+U hebt de volgende toegangsrechten nodig:
+* *Reismanager* of *Reisbeheerder*
+* Testprofielen en de bijbehorende kenmerken weergeven
+
 >[!NOTE]
-> De oefeningen zijn ontwikkeld op basis van de Luma-voorbeeldgegevens. Het wordt aanbevolen een trainingssandbox in te stellen die is geconfigureerd met de voorbeeldgegevens. Ga naar de zelfstudie [Voorbeeldgegevens importeren naar Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=en) voor gedetailleerde instructies.
+> De oefeningen zijn ontwikkeld op basis van de Luma-voorbeeldgegevens. Het wordt aanbevolen een trainingssandbox in te stellen die is geconfigureerd met de voorbeeldgegevens. Ga naar de zelfstudie [Een trainingssandbox configureren](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) voor instructies voor gedetailleerde instructies.
 
 ### Vereiste acties
 
 * Als u nog geen ervaring hebt met Adobe Journey Optimizer, voert u de cursus uit [Aan de slag met Journey Optimizer for Journey Managers en Beheerders](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1).
-* Download de [luma-assets.zip](/help/challenges/assets/email-assets/luma-assets.zip) bestand. Het bevat alle activa die worden vereist om de uitdagingen te voltooien
-* Verplaats vanuit de downloadmap de `luma-assets.zip` naar de gewenste locatie op de computer en decomprimeer het bestand.
+
 
 ## Het artikel
 

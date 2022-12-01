@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
+source-git-commit: 52fb90247fa30d5b5c86d5a464d994e8e7075049
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 7%
@@ -46,18 +46,17 @@ U bent opgedragen een reis op te zetten die automatisch een welkome e-mail naar 
 Stuur een e-mail wanneer een klant van de loyaliteit naar een Ruitvormige rij gaat om hen te feliciteren en van hun nieuwe voordelen op de hoogte te brengen. De
 
 1. Een segment maken met de naam Journey Optimizer **uw naam - Luma - Ruitvormstatus**
-2. Creeer een reis teweeggebracht wanneer een klant zich in Diamond nieuwe loyaliteitsrij (specifiek wanneer de klant het segment ingaat dat voor een nieuw Ruitvormig lid wordt bepaald) om &quot;Luma - Nieuwe Status - Ruitje - Transactionele&quot;e-mail te verzenden
-1. Een transactie-e-mailbericht maken met de naam `(your name)_Luma – New Status – Diamond – Transactional email message`.
-2. E-mail een onderwerpregel geven `Welcome to Diamond Status, (recipient's first name)!`.
-3. Het opgegeven HTML-bestand gebruiken **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** voor de e-mailhoofdtekst.
-3. Nadat de reis is voltooid, wordt deze in de testmodus gezet en wordt de reis gestart om naar uzelf te sturen  
+1. Creeer een reis teweeggebracht wanneer een klant zich in Diamond nieuwe loyaliteitsrij (specifiek wanneer de klant het segment ingaat dat voor een nieuw Ruitvormig lid wordt bepaald) om &quot;Luma - Nieuwe Status - Ruitje - Transactionele&quot;e-mail te verzenden
 
+   1. Een transactie-e-mailbericht maken met de naam `(your name)_Luma – New Status – Diamond – Transactional email message`.
+   1. E-mail een onderwerpregel geven `Welcome to Diamond Status, (recipient's first name)!`.
+   1. Het opgegeven HTML-bestand gebruiken **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** voor de e-mailhoofdtekst.
+
+1. Nadat de reis is voltooid, wordt deze in de testmodus gezet en wordt de reis gestart om naar uzelf te sturen  
 
 ### Luma maken - Nieuwe status - Ruitje - Transactiee-mailbericht
 
 Een welkomstbericht maken
-
-1. 
 
 ### **Reis nr. 3 - Ruitvormige statusupgrade - e-mail ontvangen**
 
@@ -67,10 +66,10 @@ Een welkomstbericht maken
 Test uw reis:
 
 1. Zorg ervoor dat de segmentkwalificatiegebeurtenis Namespace = Email heeft
-2. Hef de standaard e-mailparameters op en stel deze in op uw eigen e-mailadres
-3. De overgang naar de testmodus instellen
-4. Een gebeurtenis activeren
-5. Voeg het volgende e-mailadres toe aan het veld Profiel-id: Jenna_Palmer9530@emailsim.io
+1. Hef de standaard e-mailparameters op en stel deze in op uw eigen e-mailadres
+1. De overgang naar de testmodus instellen
+1. Een gebeurtenis activeren
+1. Voeg het volgende e-mailadres toe aan het veld Profiel-id: Jenna_Palmer9530@emailsim.io
 
 U moet de persoonlijke e-mail &quot;Luma - New Status - Diamond-Transaction&quot; ontvangen.
 

@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
+source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
 workflow-type: tm+mt
-source-wordcount: '391'
-ht-degree: 6%
+source-wordcount: '449'
+ht-degree: 10%
 
 ---
 
@@ -61,11 +61,10 @@ Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en d
       </div>
   </td>
   <td>
-   <a href="summer-collection-announcement-challenge.md">
-    <strong>Een aankondiging van een zomerverzameling maken </strong>
+   <strong><a href="summer-collection-announcement-challenge.md">Een aankondiging van een zomerverzameling maken </strong>
     </a>
       <p>
-      <em>Bevorderen van de nieuwe Luma-zomercollectie. </em>
+      <em>Creeer een reis die een de aankondiging van de zomerinzameling e-mail naar een segment van bestaande klanten verzendt. </em>
       <p>
       <b>Vereiste vaardigheden:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Segmenten maken</li>
@@ -82,26 +81,29 @@ Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en d
   </td>
   <td>
       <a href="order-confirmation-challenge.md">
-    <strong>Een bevestiging van een bestelling maken</strong>
+    <strong><a href="order-confirmation-challenge.md">Een bevestiging van een bestelling maken</strong>
     </a>
     <div>
     <p>
-    <em>Een bevestigingsbericht voor bestellingen verzenden wanneer iemand een online aankoop heeft voltooid
+    <em>Test uw kennis op hoe te om transactieverslagen tot stand te brengen en te personaliseren
     </em>
     <p>
+    <b>Vereiste vaardigheden:</b>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html"> E-mailcontent maken met de berichteneditor</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">Contextuele gebeurtenisinformatie gebruiken voor personalisatie</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">Helpfuncties gebruiken voor personalisatie</li>
   </td>
   </tr>
   <tr>
     <td>
     <div>
-    <a href="product-replenishment-challenge.md">
-      <img alt="Luma-website" src="./assets/email-assets/luma-ProductReplenishment.png"/>
+    <a>
+      <img alt="Luminageproduct aanpassen" src="./assets/email-assets/luma-ProductReplenishment.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="product-replenishment-challenge.md">
-    <strong>Een productsuppletiemelding maken </strong>
+      <strong>Een kennisgeving voor het aanpassen van het product maken (binnenkort beschikbaar)</strong>
     </a>
     </div>
     <p>
@@ -112,14 +114,14 @@ Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en d
   <tr>
     <td>
     <div>
-    <a href="loyalty-status-welcome-email-challenge.md">
+    <a>
       <img alt="Welkom" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="loyalty-status-welcome-email-challenge.md">
-    <strong>Een welkome-mail met een status van loyaliteit maken </strong>
+      <a>
+    <strong>Een welkomstbericht voor de status van loyaliteit maken (binnenkort beschikbaar) </strong>
     </a>
     </div>
     <p>

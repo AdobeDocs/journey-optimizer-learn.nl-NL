@@ -7,12 +7,13 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: c6e28361e1aca183a4cc2906ac90825218141e13
 workflow-type: tm+mt
-source-wordcount: '754'
-ht-degree: 2%
+source-wordcount: '683'
+ht-degree: 3%
 
 ---
+
 
 # Transactie-e-mail voor bevestiging van bestelling maken
 
@@ -26,21 +27,27 @@ ht-degree: 2%
 
 ## Het artikel
 
-Luma, start hun online winkel en wil een goede ervaring met klanten garanderen door een bevestigingsbericht voor bestellingen te verzenden zodra een klant een bestelling heeft geplaatst.
+Luma, start hun online winkel en wil een goede klantenervaring verzekeren door een bevestigingsbericht van de orde te verstrekken zodra een klant een orde heeft geplaatst.
 
-Een bevestigingsbericht voor een transactieorder maken en aanpassen.
 
-## Hebt u alles wat u nodig hebt?
 
 ## Uw uitdaging
 
-Maak een bevestiging-e-mail voor bestellingen die wordt geactiveerd wanneer een klant van een luminantie een online bestelling voltooit.
+Maak een reis die een bevestigingsbericht voor bestellingen verzendt wanneer een klant van een Luma een online bestelling voltooit.
 
-### Het bevestigingsbericht voor bestelling maken
+>[!BEGINTABS]
 
-Maak een nieuw e-mailbericht met de naam &quot;(uw naam)_Luma - Bevestiging bestellen&quot;. De onderwerpregel moet zijn gepersonaliseerd met de voornaam van de ontvanger en de uitdrukking &quot;bedankt voor uw aankoop&quot; bevatten
+>[!TAB Taak]
 
-Volgens de merkenrichtlijn van Luma moet de e-mail als volgt worden gestructureerd:
+1. Een reis maken met de naam &#39;&#39;uw naam_orderbevestiging&#39;&#39;
+2. Gebruik de gebeurtenis: LumaOnlinePurchase als trigger
+
+3. Maak het bevestigingsbericht voor bestelling:
+
+* Transactie in categorie - zorg ervoor dat u het oppervlak voor transactie-e-mail selecteert
+* De onderwerpregel moet zijn gepersonaliseerd met de voornaam van de ontvanger en de uitdrukking &quot;bedankt voor uw aankoop&quot; bevatten
+
+Volg de merkenrichtlijn voor Luma moet de e-mail als volgt zijn gestructureerd - u kunt de **Luma, overzicht van de volgorde** sjabloon en wijzigen:
 
 <table>
 <tr>
@@ -56,7 +63,6 @@ Volgens de merkenrichtlijn van Luma moet de e-mail als volgt worden gestructuree
     <li>Grootte 35%, gecentreerde witte achtergrond </li>
     <li>De website moet een link hebben naar de lumawebsite: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
-    Tip: U vindt alle afbeeldingen in de map assets, de zogenaamde berichtenafbeeldingen. <p>
     </td>
   </tr>
   <tr>
@@ -71,7 +77,7 @@ Volgens de merkenrichtlijn van Luma moet de e-mail als volgt worden gestructuree
     <li>Marge: Boven, onder (10)<div>
     <p>
     <strong>Tekst</strong><p>
-    <em>Bedankt voor de aankoop!</em><p>
+    <em>Hey {voornaam}</em><p>
     <li>Uitlijning: left  </li>
    <li>Tekstkleur: rgb(101, 106, 119); font-size:14px</li>
     <li>Opvulling: links (95), rechts (95)</li><div>
@@ -82,10 +88,13 @@ Volgens de merkenrichtlijn van Luma moet de e-mail als volgt worden gestructuree
     <li>Uitlijning: left  </li>
     <li>Tekstkleur: rgb(101, 106, 119); font-size:14px </li>
     <li>Opvulling: links (95), rechts (95)</li><div>
-    </a>
-    <p>
-    <strong>Knop:</strong>
-   <p><em>Uw bestelling bekijken</em></p>
+    </a><p>
+    <em>Verzenden naar:<p>
+    <p>Achternaam voornaam</p>
+    Straat<p>
+    Plaats, Staat, Postcode</p></em>
+    <strong>Knop:</strong></p>
+   <p><em>Bestelling weergeven</em></p>
       <li>Achtergrondkleur: rgb(25, 121, 195)</li>
       <li>Tekstkleur: Wit</li>
       <li>Geen rand</li>
@@ -99,9 +108,10 @@ Volgens de merkenrichtlijn van Luma moet de e-mail als volgt worden gestructuree
      <strong>Sectie Bestelgegevens</strong>
       </div>
       <p>Tips:
-      <li>Dit is contextuele gebeurtenisinformatie. U kunt alleen in de context toevoegen wanneer u het bericht aan uw reis toevoegt (zie stap 2). Publiceer uw e-mail niet voordat u deze aan de Journey hebt toegevoegd en hebt gewijzigd met de contextuele gebeurtenisinformatie!</li>
+      <li>Dit is contextuele gebeurtenisinformatie.</li>
       <li>Gebruik de hulpfunctie: Elk</li>
-      <li>Gebruik de indeling van de HTML-editor voor de contextafhankelijke gegevens. Plaats de gegevens in containers met DIV-tags.</li>
+      <li>Schakel over naar de indeling van de code-editor om de contextuele gegevens toe te voegen. <li>
+      <li>Plaats de informatie in containers met DIV-tags.</li>
   </td>
   <td>
     <strong>Koptekst</strong>
@@ -141,19 +151,13 @@ Volgens de merkenrichtlijn van Luma moet de e-mail als volgt worden gestructuree
   </tr>
 </table>
 
-### De reis maken
-
-1. Roep de reis &quot;uw naam _Luma-Order Bevestiging&quot;
-1. Gebruik de gebeurtenis: LumaOnlinePurchase
-1. Handeling: Voeg het bericht toe dat u in stap 1 hebt gemaakt
-1. Ga terug naar het bericht en voeg de contextafhankelijke kenmerken toe
-1. De e-mail publiceren
 
 >[!TIP]
 >
 >Om u toe te staan om uw reizen problemen op te lossen, beste praktijken moeten een alternatief weg aan alle berichtacties in het geval van onderbreking of fout toevoegen.
 
-+++Succescriteria
+
+>[!TAB Uw werk controleren]
 
 Trigger de Reis u op testwijze creeerde en verzend e-mail naar me:
 
@@ -181,17 +185,20 @@ U ontvangt het bevestigingsbericht voor een persoonlijke aankoop met het opgegev
 
    43913 Thierer Terrace, Washington DC 2009
 
-+++
 
-+++Controleer uw werk
+>[!TAB Succescriteria]
+
+** Reis
+
+![Reis](/help/challenges/assets/c2-journey.png)
+
+
+** Email
 
 **Onderwerpregel:**
 
 {{ profile.person.name.firstName }}, dank u voor uw aankoop!
 
-**Sectie Koptekst en bevestiging:**
-
-![Bevestiging van koptekst en bestelling](/help/challenges/assets/c2-header.png)
 
 **Sectie met details van volgorde:**
 
@@ -230,11 +237,4 @@ De personalisatie moet er als volgt uitzien:
 {{profile.homeAddress.city}},{{profile.homeAddress.state}} {{profile.homeAddress.postalCode}}
 ```
 
-**Voettekst:**
-![voettekst](/help/challenges/assets/c2-footer.png)
-
-**Reis**
-
-![Reis](/help/challenges/assets/c2-journey.png)
-
-+++
+>[!ENDTABS]

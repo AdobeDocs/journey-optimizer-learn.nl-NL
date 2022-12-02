@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: 697f4e6b11e7c40be726471ab368781f32dad165
 workflow-type: tm+mt
-source-wordcount: '1250'
+source-wordcount: '1138'
 ht-degree: 1%
 
 ---
@@ -24,21 +24,14 @@ ht-degree: 1%
 | Vereiste vaardigheden | <ul><li>[Segmenten maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [HTML-e-mailcontent importeren en opstellen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[Gebruiksscenario - Leessegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
 | Te downloaden middelen | [E-mailbestanden voor seizoensgebonden verzameling](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
->[!NOTE]
-> De oefeningen zijn ontwikkeld op basis van de Luma-voorbeeldgegevens. We raden u aan een trainingssandbox in te stellen die is geconfigureerd met de voorbeeldgegevens. Ga naar de zelfstudie [Voorbeeldgegevens importeren naar Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html) voor gedetailleerde instructies.
-
 ## Het artikel
 
 Luma, een fictioneel atletisch kledingbedrijf, wil zijn nieuwste kleding- en tandwielcollectie promoten en de verkoop voor bestaande klanten stimuleren. Luma lanceert de nieuwe zomerinzameling en zou verschillende klantensegmenten specifiek willen richten.
 
 ## Uw uitdaging
 
-Het marketingteam van Luma vraagt u om een marketingcampagne voor de zomerverzameling in Journey Optimizer uit te voeren.
+Het marketingteam van Luma vraagt u om een marketingcampagne voor de zomerverzameling in Journey Optimizer uit te voeren. Je uitdaging is om een reis te maken in Journey Optimizer. Specifiek, moet u het vereiste segment creëren, vier berichten creëren, en de reis bouwen.
 
-Je uitdaging is om een reis te maken in Journey Optimizer. Specifiek, moet u het vereiste segment creëren, vier berichten creëren, en de reis bouwen.
-
->[!NOTE]
-> Als u in een gedeelde trainingssandbox werkt, kunt u het beste uw naam of initialen als voorvoegsel toevoegen aan de naam van een element dat u maakt.
 
 ### Stap 1: Het segment definiëren - actieve klanten
 
@@ -46,7 +39,7 @@ Je uitdaging is om een reis te maken in Journey Optimizer. Specifiek, moet u het
 
 >[!TAB Taak]
 
-Een segment maken met de naam Journey Optimizer **uw naam - Actieve Klanten**.
+Een segment maken met de naam Journey Optimizer **Actieve klanten**.
 
 * Het segment moet alleen actieve Luma-klanten bevatten.
 * Actieve klanten worden gedefinieerd als klanten met een laag in het loyaliteitsprogramma van Luma (zilver, goud, platina of diamant).
@@ -54,7 +47,10 @@ Een segment maken met de naam Journey Optimizer **uw naam - Actieve Klanten**.
 
 >[!TAB Succescriteria]
 
-In de segmentbouwer, kunt u het geschatte aantal gekwalificeerde profielen zien. Als u in een trainingssandbox werkt waarin de Luma-voorbeeldgegevens worden gebruikt, worden de [!UICONTROL geschatte gekwalificeerde profielen] moet ongeveer 292 profielen van 500 zijn.
+In de segmentbouwer, kunt u het geschatte aantal gekwalificeerde profielen zien.
+
+>[!NOTE]
+>Het kan tot 24 uren duren voor het segmentlidmaatschap voor bestaande profielen verschijnt, aangezien de bestaande profielen moeten worden teruggevuld.
 
 **Er is een in aanmerking komend profiel toegevoegd aan het segment:**
 
@@ -66,9 +62,6 @@ Controleer op de profielpagina de [!UICONTROL Attributen] om te bevestigen dat z
 
 U kunt ook de [!UICONTROL Segmentlidmaatschap] tab: Uw segment moet worden vermeld.
 
->[!NOTE]
->Het kan tot 24 uren duren voor het segmentlidmaatschap voor bestaande profielen verschijnt, aangezien de bestaande profielen moeten worden teruggevuld.
-
 ![Segmentlidmaatschap](assets/C1-S1-profile-segment-membership.png)
 
 >[!TAB Uw werk controleren]
@@ -79,12 +72,10 @@ Zo ziet uw segment eruit:
 
 ![Segment - Actieve klanten](/help/challenges/assets/C1-S1.png)
 
-Controleer de code in de rechterbenedenhoek van het scherm Segment bewerken onder Gebeurtenissen.
-
 De code moet er als volgt uitzien:
 
 ```javascript
-loyalty.tier.equals("diamond", false) or loyalty.tier.equals("gold", false) or loyalty.tier.equals("platinum", false) or loyalty.tier.equals("silver", false)
+stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"], false)
 ```
 
 >[!ENDTABS]
@@ -127,7 +118,7 @@ Een reis maken met de naam `(your name) - Summer collection announcement` op bas
 
 #### E-mails voorvertonen
 
-**E-mailbericht #1- Nieuwe aankondiging van verzameling seizoensinvloeden**
+**E-mailbericht #1 - Nieuwe aankondiging van verzameling seizoensinvloeden**
 
 Geef een voorbeeld van de e-mail weer met de naamruimte Identiteit: *E-mail* en de identiteitswaarde: *Jenna_Palmer9530@emailsim.io*
 

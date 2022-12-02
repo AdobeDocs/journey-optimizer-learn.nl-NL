@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 697f4e6b11e7c40be726471ab368781f32dad165
+source-git-commit: e6364990cbe6e157ddc2754c1095052ce133ea8e
 workflow-type: tm+mt
-source-wordcount: '1138'
+source-wordcount: '1118'
 ht-degree: 1%
 
 ---
@@ -30,8 +30,10 @@ Luma, een fictioneel atletisch kledingbedrijf, wil zijn nieuwste kleding- en tan
 
 ## Uw uitdaging
 
-Het marketingteam van Luma vraagt u om een marketingcampagne voor de zomerverzameling in Journey Optimizer uit te voeren. Je uitdaging is om een reis te maken in Journey Optimizer. Specifiek, moet u het vereiste segment creëren, vier berichten creëren, en de reis bouwen.
+Het marketingteam van Luma vraagt u om een marketingcampagne voor de zomerverzameling in Journey Optimizer uit te voeren. Uw uitdaging is:
 
+* Maak een segment waarin wordt gedefinieerd welke profielen in aanmerking komen om de speciale actie te ontvangen.
+* De reis maken
 
 ### Stap 1: Het segment definiëren - actieve klanten
 
@@ -39,15 +41,16 @@ Het marketingteam van Luma vraagt u om een marketingcampagne voor de zomerverzam
 
 >[!TAB Taak]
 
-Een segment maken met de naam Journey Optimizer **Actieve klanten**.
+#### Een segment maken in Journey Optimizer
 
+* Een segment maken met de naam Journey Optimizer `Active Customers`.
 * Het segment moet alleen actieve Luma-klanten bevatten.
 * Actieve klanten worden gedefinieerd als klanten met een laag in het loyaliteitsprogramma van Luma (zilver, goud, platina of diamant).
 
 
 >[!TAB Succescriteria]
 
-In de segmentbouwer, kunt u het geschatte aantal gekwalificeerde profielen zien.
+In de segmentbouwer, kunt u het geschatte aantal gekwalificeerde profielen zien. Als u met de gegevens van de trainingssandbox werkt, hebt u ongeveer 753 gekwalificeerde profielen van 1,29 kB.
 
 >[!NOTE]
 >Het kan tot 24 uren duren voor het segmentlidmaatschap voor bestaande profielen verschijnt, aangezien de bestaande profielen moeten worden teruggevuld.
@@ -87,31 +90,38 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 >[!TAB Taak]
 
-Verzend een aankondiging van de zomerinzameling naar een segment van bestaande e-mail van klanten die de nieuwe inzameling van de zomer van de Luma promoten. &quot;
+#### Verstuur een aankondiging van de zomerinzameling
 
-Een bureau heeft u vier HTML-bestanden geleverd met het ontwerp voor de e-mails: [De e-mailbestanden voor seizoensverzamelingen downloaden](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)
+Een bureau heeft u vier HTML-bestanden geleverd met het ontwerp voor de e-mails:
 
-Een reis maken met de naam `(your name) - Summer collection announcement` op basis van de volgende richtsnoeren :
+* SeasonalCollectionEmail.html
+* E-mail verzameling Luma Men&#39;s
+* E-mail over verzameling van vrouwen in de luminantie
+* Luminantie - 20 % korting op e-mail verzameling
 
-1. Verzend Luma - de Nieuwe E-mail van de Aankondiging van de Seizoensgebonden Inzameling naar het Luma-Actieve segment van Klanten, die 10% van het publiek als controlegroep houden
-   * Berichttitel `(your name)_Luma New Seasonal Collection Announcement`.
-   * Onderwerpregel `(recipient's first name), the new Luma collection is here!`.
-   * Het opgegeven HTML-bestand gebruiken *SeasonalCollectionEmail.html* voor de e-mailhoofdtekst.
-2. Wacht twee dagen en verzend een vervolgbericht met meer gerichte inhoud:
-   * Mannelijke klanten moeten de **E-mail verzameling Luma Men&#39;s**
-      * Berichttitel: **(uw naam)_Luma Men&#39;s Collection**
-      * Onderwerpregel: **(voornaam van de ontvanger), verken Men&#39;s nieuwe atletische uitrusting!**
-      * Hoofdtekst van e-mail: *MensCollectionEmail.html* voor de e-mailhoofdtekst.
-   * Vrouwelijke klanten moeten de **E-mail over verzameling van vrouwen in de luminantie**
-      * Berichttitel: **(uw naam)_Luma Women&#39;s Collection**
-      * Onderwerpregel: **(voornaam van ontvanger), ontdek Luma&#39;s Women Collection!**
-      * Hoofdtekst van e-mail: *WomensCollectionEmail.html*
-   * Andere klanten moeten de **Luminantie - 20 % korting op e-mail verzameling**
-      * Berichttitel: **(uw naam)_Luma - 20 % korting op collectie**
-      * Onderwerpregel:**(voornaam van ontvanger), geniet van 20% korting op de verkoop!**
-      * Hoofdtekst van e-mail: *20ffCollectionEmail.html*
-3. Wacht twee dagen nadat u de hierboven vermelde e-mailberichten hebt verzonden
-4. Als het beoogde e-mailbericht niet binnen 2 dagen wordt geopend, verzendt u de **Luminantie - 20 %off e-mail verzameling** als laatste poging tot heroriënteren
+1. [De e-mailbestanden voor seizoensverzamelingen downloaden](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip).
+
+2. Een reis maken met de naam `Luma - Summer collection announcement` op basis van de volgende richtsnoeren :
+
+   1. Verzenden *Luma - Nieuwe aankondiging van seizoensverzameling* e-mailen naar *Actieve klanten* segment, dat 10% van het publiek als controlegroep uithoudt
+      * Berichttitel `Luma New Seasonal Collection Announcement`.
+      * Onderwerpregel `(recipient's first name), the new Luma collection is here!`.
+      * Het opgegeven HTML-bestand gebruiken *SeasonalCollectionEmail.html* voor de e-mailhoofdtekst.
+   2. Wacht twee dagen en verzend een vervolgbericht met meer gerichte inhoud:
+      * Mannelijke klanten moeten de **E-mail verzameling Luma Men&#39;s**
+         * Berichttitel: `Luma Men's Collection`
+         * Onderwerpregel: `(recipient's first name), explore Men's New athletic gear!`
+         * Hoofdtekst van e-mail: *MensCollectionEmail.html* voor de e-mailhoofdtekst.
+      * Vrouwelijke klanten moeten de **E-mail over verzameling van vrouwen in de luminantie**
+         * Berichttitel: `Luma Women's Collection`
+         * Onderwerpregel: `(recipient's first name), explore Luma's Women Collection!`
+         * Hoofdtekst van e-mail: *WomensCollectionEmail.html*
+      * Andere klanten moeten de **Luminantie - 20 % korting op e-mail verzameling**
+         * Berichttitel: `Luma - 20 % off Collection`
+         * Onderwerpregel: `(recipient's first name), enjoy 20% off sales!`
+         * Hoofdtekst van e-mail: *20ffCollectionEmail.html*
+   3. Wacht twee dagen nadat u de hierboven vermelde e-mailberichten hebt verzonden
+   4. Als het beoogde e-mailbericht niet binnen 2 dagen wordt geopend, verzendt u de **Luminantie - 20 %off e-mail verzameling** als laatste poging tot heroriënteren
 
 
 >[!TAB Succescriteria]

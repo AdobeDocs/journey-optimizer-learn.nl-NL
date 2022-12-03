@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: e6364990cbe6e157ddc2754c1095052ce133ea8e
+source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1161'
 ht-degree: 1%
 
 ---
@@ -103,20 +103,20 @@ Een bureau heeft u vier HTML-bestanden geleverd met het ontwerp voor de e-mails:
 
 2. Een reis maken met de naam `Luma - Summer collection announcement` op basis van de volgende richtsnoeren :
 
-   1. Verzenden *Luma - Nieuwe aankondiging van seizoensverzameling* e-mailen naar *Actieve klanten* segment, dat 10% van het publiek als controlegroep uithoudt
-      * Berichttitel `Luma New Seasonal Collection Announcement`.
-      * Onderwerpregel `(recipient's first name), the new Luma collection is here!`.
+   1. Verzenden *Luma - Nieuwe mededeling over de zomerverzameling* e-mailen naar *Actieve klanten* segment, dat 10% van het publiek als controlegroep uithoudt
+      * Berichttitel `Luma - Summer Collection Announcement`.
+      * Onderwerpregel `(recipient's first name), the new Luma summer collection is here!`.
       * Het opgegeven HTML-bestand gebruiken *SeasonalCollectionEmail.html* voor de e-mailhoofdtekst.
    2. Wacht twee dagen en verzend een vervolgbericht met meer gerichte inhoud:
-      * Mannelijke klanten moeten de **E-mail verzameling Luma Men&#39;s**
+      * Mannelijke klanten moeten de **Luma Men&#39;s Collection** e-mail.
          * Berichttitel: `Luma Men's Collection`
          * Onderwerpregel: `(recipient's first name), explore Men's New athletic gear!`
          * Hoofdtekst van e-mail: *MensCollectionEmail.html* voor de e-mailhoofdtekst.
-      * Vrouwelijke klanten moeten de **E-mail over verzameling van vrouwen in de luminantie**
+      * Vrouwelijke klanten moeten de **Luma Women&#39;s Collection** e-mail.
          * Berichttitel: `Luma Women's Collection`
          * Onderwerpregel: `(recipient's first name), explore Luma's Women Collection!`
          * Hoofdtekst van e-mail: *WomensCollectionEmail.html*
-      * Andere klanten moeten de **Luminantie - 20 % korting op e-mail verzameling**
+      * Andere klanten moeten de **Luma - 20 % korting op collectie** e-mail.
          * Berichttitel: `Luma - 20 % off Collection`
          * Onderwerpregel: `(recipient's first name), enjoy 20% off sales!`
          * Hoofdtekst van e-mail: *20ffCollectionEmail.html*
@@ -128,36 +128,48 @@ Een bureau heeft u vier HTML-bestanden geleverd met het ontwerp voor de e-mails:
 
 #### E-mails voorvertonen
 
-**E-mailbericht #1 - Nieuwe aankondiging van verzameling seizoensinvloeden**
+**E-mailbericht #1 - Luma - Aankondiging van de zomerverzameling**
 
-Geef een voorbeeld van de e-mail weer met de naamruimte Identiteit: *E-mail* en de identiteitswaarde: *Jenna_Palmer9530@emailsim.io*
+E-mailvoorvertoning weergeven:
 
-* De onderwerpregel moet als volgt luiden: Jenna, de nieuwe collectie Luma is hier!
+1. Voeg een testprofiel toe: Louise Petti:
+   1. Naamruimte: *Luma CRM-id*
+   2. Identiteitswaarde: *d1f132f9f9502bba047a6ec86c4b61f9*
+
+Resultaat:
+* De onderwerpregel moet als volgt luiden: Louise, de nieuwe collectie Luma is hier!
 * De hoofdtekst van de e-mail moet overeenkomen met wat u in de voorvertoning hebt gezien: [Nieuwe aankondiging van verzameling in seizoensinvloeden](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 
 **E-mailbericht nr. 2 - Verzameling van Luma Men**
 
-Een proefdruk naar uzelf sturen
+Een proefdruk naar uzelf sturen:
 
-* Voer uw e-mailadres in
-* Selecteer het testprofiel: Chris_Scott1244@emailsim.io
+1. Voeg een testprofiel toe: Stanleigh Stooke:
+   1. Naamruimte: *Luma CRM-id*
+   2. Identiteitswaarde: `4f34057d9d9e792c28ba18ecae378e98`
+1. Selecteer het testprofiel: Stanleigh Stooke
+2. Een proefdruk naar uzelf sturen
 
-Je ontvangt een e-mail. De onderwerpregel zou moeten lezen: &quot;Chris, verken Men&#39;s nieuwe atletische tandwiel!&quot; en de hoofdtekst van de e-mail moet overeenkomen met wat u in de voorvertoning hebt gezien: [Luma Men&#39;s Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+Resultaat:\
+Je ontvangt een e-mail. De onderwerpregel moet &#39;Stanleigh, verken Men&#39;s nieuwe atletische uitrusting!&#39; en de hoofdtekst van de e-mail moet overeenkomen met wat u in de voorvertoning hebt gezien: [Luma Men&#39;s Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+
+>[!NOTE]
+>Het kan een paar minuten duren voordat je de proefdruk ontvangt.
 
 **E-mailbericht nr. 3 - Vrouwencollectie Luma**
 
-Geef een voorbeeld van de e-mail weer met de naamruimte Identiteit: *E-mail* en de identiteitswaarde: *Jenna_Palmer9530@emailsim.io*
+Geef een voorvertoning van de e-mail weer met het testprofiel &#39;Louise Petti&#39;.
 
-* De onderwerpregel moet als volgt luiden: *Jenna, verken Luma&#39;s Women Collection!*
+* De onderwerpregel moet als volgt luiden: *Louise, verken Luma&#39;s Women Collection!*
 * De hoofdtekst van de e-mail moet overeenkomen met wat u in de voorvertoning hebt gezien: [Luma Women&#39;s Collection](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 
 **E-mailbericht nr. 4 - Luma 20 % korting op collectie**
 
-Geef een voorbeeld van de e-mail weer met de naamruimte Identiteit: *E-mail* en de identiteitswaarde: *Benny_Steer4909@emailsim.io*
+Geef een voorvertoning van de e-mail weer met het testprofiel &#39;Louise Petti&#39;.
 
-* De onderwerpregel moet als volgt luiden: *Benny, geniet van 20% korting op de verkoop!*
+* De onderwerpregel moet als volgt luiden: *Louise, geniet van 20% korting op de verkoop!*
 * De hoofdtekst van de e-mail moet overeenkomen met wat u in de voorvertoning hebt gezien: [Luminantie 20 % korting op collectie](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 **Vergeet niet uw e-mails te publiceren!**
@@ -168,16 +180,16 @@ Geef een voorbeeld van de e-mail weer met de naamruimte Identiteit: *E-mail* en 
 >
 >Voordat u de overgang naar de testmodus instelt:
 >
->1. Zorg ervoor dat voor de activiteit Leessegment de naamruimte is ingesteld op E-mail
+>1. Zorg ervoor dat voor de activiteit Leessegment de naamruimte is ingesteld op **Luma CRM-id (lumaCrmId)**
 >1. Overschrijf voor elke e-mail de standaard e-mailparameters voor de e-mail, zodat deze naar uw e-mailadres worden verzonden:
->1. Verborgen waarden weergeven door op het oogsymbool te klikken.
->1. Klik in de parameters E-mail op het T-symbool (parameteroverschrijving inschakelen)
+   >    * Verborgen waarden weergeven door op het oogsymbool te klikken.
+   >    * Klik in de parameters E-mail op het T-symbool (parameteroverschrijving inschakelen)
 
-   >
-   >      ![E-mailparameters overschrijven](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->1. Klik in het veld Adres
->1. Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: *yourname@yourdomain* in de uitdrukkingsredacteur en klik o.k.
+      >
+      >      ![E-mailparameters overschrijven](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Klik in het veld Adres
+   >    * Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: `"yourname@yourdomain"` in de uitdrukkingsredacteur en klik o.k.
 
 >
 
@@ -189,9 +201,9 @@ Test de reis en stuur de e-mails naar je eigen account:
 3. Wacht tijd: Stel de timer in op 120 seconden (typ deze in het veld).
 4. Invoer van triggerprofiel
 5. U kunt elke vertakking testen door een van de volgende e-mailadressen als profiel-id&#39;s te gebruiken:
-   * Vrouwelijk: Jenna Palmer: Jenna_Palmer9530@emailsim.io
-   * Mannelijk: Chris Scott: Chris_Scott1244@emailsim.io
-   * Geslacht niet gespecificeerd: Benny Steer: Benny_Steer4909@emailsim.io
+   * Vrouwelijk: Louise Petti, identiteitswaarde: *d1f132f9f9502bba047a6ec86c4b61f9*
+   * Mannelijk: Stanleigh Stooke, identiteitswaarde: `4f34057d9d9e792c28ba18ecae378e98`
+   * Geslacht niet gespecificeerd: Leora Dietsche, a8f14eab3b483c2b96171b575ecd90b1
 
 6. Nadat u de profielingang hebt geactiveerd, ontvangt u de eerste e-mail. De koptekst moet worden aangepast aan het profiel dat u hebt gekozen.
 7. De reis zou in de respectieve tak moeten verdergaan en u zou de verwante e-mail moeten ontvangen (bijvoorbeeld, als u Wenen kiest, zou u de &quot;Verzameling van de Vrouwen van de Luma&quot;e-mail moeten ontvangen).

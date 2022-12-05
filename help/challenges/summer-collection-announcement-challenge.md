@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
+source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
 workflow-type: tm+mt
-source-wordcount: '1161'
+source-wordcount: '1149'
 ht-degree: 1%
 
 ---
@@ -172,7 +172,6 @@ Geef een voorvertoning van de e-mail weer met het testprofiel &#39;Louise Petti&
 * De onderwerpregel moet als volgt luiden: *Louise, geniet van 20% korting op de verkoop!*
 * De hoofdtekst van de e-mail moet overeenkomen met wat u in de voorvertoning hebt gezien: [Luminantie 20 % korting op collectie](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
-**Vergeet niet uw e-mails te publiceren!**
 
 #### Uw reis testen
 
@@ -200,10 +199,10 @@ Test de reis en stuur de e-mails naar je eigen account:
 2. Eén profiel tegelijk selecteren
 3. Wacht tijd: Stel de timer in op 120 seconden (typ deze in het veld).
 4. Invoer van triggerprofiel
-5. U kunt elke vertakking testen door een van de volgende e-mailadressen als profiel-id&#39;s te gebruiken:
-   * Vrouwelijk: Louise Petti, identiteitswaarde: *d1f132f9f9502bba047a6ec86c4b61f9*
+5. U kunt elke vertakking testen met een van de volgende opties *Luma CRM-id&#39;s* als profiel-id&#39;s:
+   * Vrouwelijk: Leora Dietsche, Identiteitswaarde:`a8f14eab3b483c2b96171b575ecd90b1`
    * Mannelijk: Stanleigh Stooke, identiteitswaarde: `4f34057d9d9e792c28ba18ecae378e98`
-   * Geslacht niet gespecificeerd: Leora Dietsche, a8f14eab3b483c2b96171b575ecd90b1
+   * Geslacht niet gespecificeerd: Louise Petti, identiteitswaarde: &quot;d1f132f9f9502bba047a6ec86c4b61f9&quot;
 
 6. Nadat u de profielingang hebt geactiveerd, ontvangt u de eerste e-mail. De koptekst moet worden aangepast aan het profiel dat u hebt gekozen.
 7. De reis zou in de respectieve tak moeten verdergaan en u zou de verwante e-mail moeten ontvangen (bijvoorbeeld, als u Wenen kiest, zou u de &quot;Verzameling van de Vrouwen van de Luma&quot;e-mail moeten ontvangen).
@@ -216,9 +215,9 @@ Je ontvangt de volgende e-mails:
 
 * Luma - Nieuwe aankondiging van seizoensverzameling
 * Afhankelijk van het testprofiel dat u hebt gebruikt, ontvangt u een van de volgende e-mails:
-   * Wenen: Luma Women&#39;s Collection
-   * Chris: Luma Men&#39;s Collection
-   * Benny: Luminantie - 20% korting op verzameling
+   * Leora: Luma Women&#39;s Collection
+   * Stanleigh: Luma Men&#39;s Collection
+   * Louise: Luminantie - 20% korting op verzameling
 * Als u het tweede e-mailbericht niet hebt geopend: De luminantie - 20% korting van collectie
 
 >[!TAB Uw werk controleren]

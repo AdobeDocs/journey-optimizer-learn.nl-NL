@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
+source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
 workflow-type: tm+mt
 source-wordcount: '1161'
 ht-degree: 1%
@@ -147,9 +147,9 @@ Een proefdruk naar uzelf sturen:
 
 1. Voeg een testprofiel toe: Stanleigh Stooke:
    1. Naamruimte: *Luma CRM-id*
-   2. Identiteitswaarde: `4f34057d9d9e792c28ba18ecae378e98`
+   1. Identiteitswaarde: `4f34057d9d9e792c28ba18ecae378e98`
 1. Selecteer het testprofiel: Stanleigh Stooke
-2. Een proefdruk naar uzelf sturen
+1. Een proefdruk naar uzelf sturen
 
 Resultaat:\
 Je ontvangt een e-mail. De onderwerpregel moet &#39;Stanleigh, verken Men&#39;s nieuwe atletische uitrusting!&#39; en de hoofdtekst van de e-mail moet overeenkomen met wat u in de voorvertoning hebt gezien: [Luma Men&#39;s Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)

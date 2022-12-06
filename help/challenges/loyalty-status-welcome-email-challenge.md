@@ -7,16 +7,16 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
+source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '445'
 ht-degree: 3%
 
 ---
 
 # Een welkomstbericht voor een loyaliteitsstatus maken - Uitdaging
 
-![AJO Loyalty-status welkomstmail - Uitdagingsbanner](/help/challenges/assets/email-assets/luma-transactional-onboarding-1.png)
+![Loyalty status welkomstmail - Uitdagingsbanner](/help/challenges/assets/email-assets/luma-transactional-onboarding-1.png)
 
 | Uitdaging | Een welkome-mail met een status van loyaliteit maken |
 |---|---|
@@ -40,37 +40,37 @@ U bent gevraagd om een reis op te zetten die automatisch een welkome e-mail naar
 
 Wanneer een loyaliteitsklant voor de platina tier in aanmerking komt, zouden zij en e-mail moeten ontvangen om hen van hun nieuwe voordelen te feliciteren en te informeren. Het creatieve team heeft een HTML-bestand geleverd **[Luma - statusupgrade - welkomstmail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** met de e-mailhoofdtekst.
 
-1. Een segment maken met de naam Journey Optimizer `Luma – status upgrade`.
-2. Maak een reis met de naam &#39;Luma - New Status - platinum&#39;.
+1. Een [!UICONTROL segment] in Journey Optimizer `Luma – status upgrade`.
+2. Een reis maken met de naam `Luma – New Status – platinum`.
    1. Een klant beweegt zich in de reis, wanneer zij voor de platina loyaliteitslaag in aanmerking komen.
-   2. De klant moet een e-mailbericht ontvangen met het label `Luma – Platinum Status - Welcome`, met de onderwerpregel `Welcome to Platinum Status, (recipient's first name)!` met het lichaam van het creatieve team.
-   3. Wanneer u het HTML-bestand uploadt, ziet u dat het e-mailbericht verwijst naar de status &#39;ruit&#39; in plaats van naar &#39;platina&#39;. Werk de e-mail in de e-mailontwerper bij in plaats van een nieuw bestand aan te vragen bij het creatieve team.
+   2. De klant moet een e-mailbericht ontvangen met het label `Luma – Platinum Status - Welcome`, met de onderwerpregel `Welcome to Platinum Status, (recipient's first name)!` via e-mail van het creatieve team.
+   3. Wanneer u het HTML-bestand uploadt, ziet u dat het e-mailbericht verwijst naar de status &#39;ruit&#39; in plaats van naar &#39;platina&#39;. Werk de e-mail bij in de e-mailontwerper in plaats van een nieuw bestand aan te vragen bij het creatieve team.
 
 >[TIP!]
-> Zorg ervoor dat de Luma - Platinum Status - Welkome e-mail transactioneel is.
+> Controleer of de Luma - Platinum Status - Welkom e-mail is[!UICONTROL transactie].
 
 
 >[!TAB Succescriteria]
 
 Test uw reis:
 
-1. Zorg ervoor dat voor de activiteit Leessegment de naamruimte is ingesteld op **Luma CRM-id (lumaCrmId)**
-2. Hef de standaard e-mailparameters op en stel deze in op uw eigen e-mailadres
+1. Zorg ervoor dat de [!UICONTROL Segmentactiviteit lezen] de [!UICONTROL namespace] instellen op **[!DNL Luma CRM id(lumaCrmId)]**
+2. De standaardinstelling overschrijven [!UICONTROL e-mailparameters] en stel het in op uw eigen e-mailadres
 
-+++ Klik hier voor meer informatie over hoe u deze kunt overschrijven
++++ Klik hier voor meer informatie over het overschrijven van de [!UICONTROL-e-mailparameters].
    * Verborgen waarden weergeven door op het oogsymbool te klikken.
-   * Klik in de parameters E-mail op het T-symbool (parameteroverschrijving inschakelen)
+   * In de [!UICONTROL E-mailparameters], klikt u op het T-symbool (parameteroverschrijving inschakelen)
 
    ![E-mailparameters overschrijven](/help/challenges/assets/c3-override-email-paramters.jpg)
 
-   * Klik in het veld Adres
+   * Klik in de [!UICONTROL Adresveld]
    * Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: `"yourname@yourdomain"` in de uitdrukkingsredacteur en klik o.k.
 +++
 
 
 3. De overgang naar de testmodus instellen
 4. Een gebeurtenis activeren
-5. Voeg de volgende CRM-id voor Standaardlijn toe aan het veld Profiel-id: `4f34057d9d9e792c28ba18ecae378e98`
+5. Voeg het volgende toe [!DNL CRM ID] for [!DNL Stanleigh Stooke] in de [!UICONTROL Profiel-id] veld: `4f34057d9d9e792c28ba18ecae378e98`
 
 U moet de gepersonaliseerde *Luma - platina Status - Welkom* e-mail.
 

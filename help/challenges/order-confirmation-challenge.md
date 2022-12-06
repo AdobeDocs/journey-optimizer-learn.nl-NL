@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: eb31a78738ec32e4f468f620a96525714997ad04
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '682'
 ht-degree: 3%
 
 ---
@@ -40,7 +40,7 @@ Maak een reis die een bevestigingsbericht voor bestellingen verzendt wanneer een
 >[!TAB Taak]
 
 1. Een reis maken met de naam &#39;&#39;uw naam_orderbevestiging&#39;&#39;
-2. Gebruik de gebeurtenis: LumaOnlinePurchase als trigger
+2. Gebruik de gebeurtenis: [!DNL LumaOnlinePurchase] als trigger
 
 3. Maak het bevestigingsbericht voor bestelling:
 

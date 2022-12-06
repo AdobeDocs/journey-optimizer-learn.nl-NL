@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
+source-git-commit: 27139d8f3b7fc5d6bb2a862789116f5e1f911766
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 3%
@@ -57,20 +57,20 @@ Test uw reis:
 1. Zorg ervoor dat de [!UICONTROL Segmentactiviteit lezen] de [!UICONTROL namespace] instellen op **[!DNL Luma CRM id(lumaCrmId)]**
 2. De standaardinstelling overschrijven [!UICONTROL e-mailparameters] en stel het in op uw eigen e-mailadres
 
-+++ Klik hier voor meer informatie over het overschrijven van de [!UICONTROL-e-mailparameters].
-   * Verborgen waarden weergeven door op het oogsymbool te klikken.
-   * In de [!UICONTROL E-mailparameters], klikt u op het T-symbool (parameteroverschrijving inschakelen)
++++Klik hier voor meer informatie over het overschrijven van de [!UICONTROL-e-mailparameters].
 
-   ![E-mailparameters overschrijven](/help/challenges/assets/c3-override-email-paramters.jpg)
+* Verborgen waarden weergeven door op het oogsymbool te klikken.
+* In de [!UICONTROL E-mailparameters], klikt u op het T-symbool (parameteroverschrijving inschakelen)
 
-   * Klik in de [!UICONTROL Adresveld]
-   * Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: `"yourname@yourdomain"` in de uitdrukkingsredacteur en klik o.k.
+![E-mailparameters overschrijven](/help/challenges/assets/c3-override-email-paramters.jpg)
+
+* Klik in de [!UICONTROL Adresveld]
+* Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: `"yourname@yourdomain"` in de uitdrukkingsredacteur en klik o.k.
 +++
 
-
-3. De overgang naar de testmodus instellen
-4. Een gebeurtenis activeren
-5. Voeg het volgende toe [!DNL CRM ID] for [!DNL Stanleigh Stooke] in de [!UICONTROL Profiel-id] veld: `4f34057d9d9e792c28ba18ecae378e98`
+1. De overgang naar de testmodus instellen
+2. Een gebeurtenis activeren
+3. Voeg het volgende toe [!DNL CRM ID] for [!DNL Stanleigh Stooke] in de [!UICONTROL Profiel-id] veld: `4f34057d9d9e792c28ba18ecae378e98`
 
 U moet de gepersonaliseerde *Luma - platina Status - Welkom* e-mail.
 

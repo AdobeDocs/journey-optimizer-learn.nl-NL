@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
 workflow-type: tm+mt
-source-wordcount: '457'
-ht-degree: 6%
+source-wordcount: '454'
+ht-degree: 3%
 
 ---
 
@@ -21,65 +21,68 @@ ht-degree: 6%
 | Uitdaging | Een welkome-mail met een status van loyaliteit maken |
 |---|---|
 | Persona | Reismanager |
-| Vereiste vaardigheden | <ul><li>[E-mailcontent maken met de berichteneditor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=en)</li> <li>[Contextuele gebeurtenisinformatie gebruiken voor personalisatie](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en)</li><li>[Helpfuncties gebruiken voor personalisatie](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)</li></ul> |
-| Te downloaden middelen | [Bevestigingsmiddelen bestellen](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
+| Vereiste vaardigheden | <ul><li>[Segmenten maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[Segmentkwalificatie](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[HTML-inhoud importeren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html)</li></ul> |
+| Te downloaden middelen | [platinumStatusEmail.zip](/help/challenges/assets/email-assets/platinumStatusEmail.zip) |
 
 ## Het artikel
 
-Luma biedt een loyaliteitsprogramma als een manier om hun klanten aan te trekken en te behouden. Het programma kent vier verschillende niveaus: Zilver, goud, platina en diamant.
+Luma biedt een loyaliteitsprogramma als een manier om hun klanten aan te trekken en te behouden. Het programma kent vier verschillende niveaus: Brons, zilver, goud en platina. Elke loyaliteitslaag ontvangt verschillende niveaus of beloningen, kortingen, en andere speciale prikkels als beloning voor hun herhaalde zaken.
 
-Elke loyaliteitslaag ontvangt verschillende niveaus of beloningen, kortingen, en andere speciale prikkels als beloning voor hun herhaalde zaken.
-
-De speciale diamantstatus onderstrepen. Luma wil een welkome e-mail naar klanten sturen wanneer ze de diamantlijst bereiken.
+De speciale platina-status onderstrepen. Luma wil een welkome e-mail naar klanten sturen wanneer ze de platinumlaag bereiken.
 
 ## Uw uitdaging
 
-U bent opgedragen een reis op te zetten die automatisch een welkome e-mail naar klanten stuurt wanneer zij de diamantloyaliteitslaag bereiken.
-
->[!NOTE]
-> Als u in een gedeelde trainingssandbox werkt, kunt u het beste uw naam of initialen als voorvoegsel toevoegen aan de naam van een element dat u maakt.
+U bent gevraagd om een reis op te zetten die automatisch een welkome e-mail naar klanten verzendt wanneer zij de platina loyaliteitslaag bereiken.
 
 >[!BEGINTABS]
 
 >[!TAB Taak]
 
-Stuur een e-mail wanneer een klant van de loyaliteit naar een Ruitvormige rij gaat om hen te feliciteren en van hun nieuwe voordelen op de hoogte te brengen. De
+Wanneer een loyaliteitsklant voor de platina tier in aanmerking komt, zouden zij en e-mail moeten ontvangen om hen van hun nieuwe voordelen te feliciteren en te informeren. Het creatieve team heeft een HTML-bestand geleverd **[Luma - statusupgrade - welkomstmail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** met de e-mailhoofdtekst.
 
-1. Een segment maken met de naam Journey Optimizer **Luma, toestand Ruitvormig**
-2. Creeer een reis teweeggebracht wanneer een klant zich in Diamond nieuwe loyaliteitsrij (specifiek wanneer de klant het segment ingaat dat voor een nieuw Ruitvormig lid wordt bepaald) om &quot;Luma - Nieuwe Status - Ruitje - Transactionele&quot;e-mail te verzenden
-   1. Een transactie-e-mailbericht maken met de naam `(your name)_Luma – New Status – Diamond – Transactional email message`.
-   2. E-mail een onderwerpregel geven `Welcome to Diamond Status, (recipient's first name)!`.
-   3. Het opgegeven HTML-bestand gebruiken **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** voor de e-mailhoofdtekst.
-3. Nadat de reis is voltooid, wordt deze in de testmodus gezet en wordt de reis gestart om naar uzelf te sturen  
+1. Een segment maken met de naam Journey Optimizer `Luma – status upgrade`.
+2. Maak een reis met de naam &#39;Luma - New Status - platinum&#39;.
+   1. Een klant beweegt zich in de reis, wanneer zij voor de platina loyaliteitslaag in aanmerking komen.
+   2. De klant moet een e-mailbericht ontvangen met het label `Luma – Platinum Status - Welcome`, met de onderwerpregel `Welcome to Platinum Status, (recipient's first name)!` met het lichaam van het creatieve team.
+   3. Wanneer u het HTML-bestand uploadt, ziet u dat het e-mailbericht verwijst naar de status &#39;ruit&#39; in plaats van naar &#39;platina&#39;. Werk de e-mail in de e-mailontwerper bij in plaats van een nieuw bestand aan te vragen bij het creatieve team.
 
-   1. Een transactie-e-mailbericht maken met de naam `(your name)_Luma – New Status – Diamond – Transactional email message`.
-   1. E-mail een onderwerpregel geven `Welcome to Diamond Status, (recipient's first name)!`.
-   1. Het opgegeven HTML-bestand gebruiken **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** voor de e-mailhoofdtekst.
-4. Nadat de reis is voltooid, wordt deze in de testmodus gezet en wordt de reis gestart om naar uzelf te sturen  
-
-### Luma maken - Nieuwe status - Ruitje - Transactiee-mailbericht
-
-Een welkomstbericht maken
-
-### **Reis nr. 3 - Ruitvormige statusupgrade - e-mail ontvangen**
+>[TIP!]
+> Zorg ervoor dat de Luma - Platinum Status - Welkome e-mail transactioneel is.
 
 
 >[!TAB Succescriteria]
 
 Test uw reis:
 
-1. Zorg ervoor dat de segmentkwalificatiegebeurtenis Namespace = Email heeft
-1. Hef de standaard e-mailparameters op en stel deze in op uw eigen e-mailadres
-1. De overgang naar de testmodus instellen
-1. Een gebeurtenis activeren
-1. Voeg het volgende e-mailadres toe aan het veld Profiel-id: Jenna_Palmer9530@emailsim.io
+1. Zorg ervoor dat voor de activiteit Leessegment de naamruimte is ingesteld op **Luma CRM-id (lumaCrmId)**
+2. Hef de standaard e-mailparameters op en stel deze in op uw eigen e-mailadres
 
-U moet de persoonlijke e-mail &quot;Luma - New Status - Diamond-Transaction&quot; ontvangen.
++++ Klik hier voor meer informatie over hoe u deze kunt overschrijven
+   * Verborgen waarden weergeven door op het oogsymbool te klikken.
+   * Klik in de parameters E-mail op het T-symbool (parameteroverschrijving inschakelen)
+
+   ![E-mailparameters overschrijven](/help/challenges/assets/c3-override-email-paramters.jpg)
+
+   * Klik in het veld Adres
+   * Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: `"yourname@yourdomain"` in de uitdrukkingsredacteur en klik o.k.
++++
+
+
+3. De overgang naar de testmodus instellen
+4. Een gebeurtenis activeren
+5. Voeg de volgende CRM-id voor Standaardlijn toe aan het veld Profiel-id: `4f34057d9d9e792c28ba18ecae378e98`
+
+U moet de gepersonaliseerde *Luma - platina Status - Welkom* e-mail.
 
 >[!TAB Uw werk controleren]
 
 Zo ziet uw reis eruit:
 
-![Ruitvormige status-upgrade-reis](/help/challenges/assets/journey-luma-diamond-status-upgrade.png)
+![platina-status-upgrade-reis](/help/challenges/assets/journey-luma-status-upgrade.png)
+
+
+Zo ziet de e-mail eruit:
+
+![Luma - statusupgrade - welkomstmail](/help/challenges/assets/status-upgrade-welcome-email.png)
 
 >[!ENDTABS]

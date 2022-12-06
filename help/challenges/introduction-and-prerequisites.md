@@ -6,9 +6,9 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '428'
 ht-degree: 10%
 
 ---
@@ -72,6 +72,24 @@ Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en d
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">Gebruiksscenario - Leessegment</li>
   </td>
   </tr>
+   <tr>
+    <td>
+    <div>
+    <a>
+      <img alt="Welkom" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
+    </a>
+    </div>
+    <td>
+    <div >
+      <a>
+    <strong>Een welkomstbericht voor de status van loyaliteit maken (binnenkort beschikbaar) </strong>
+    </a>
+    </div>
+    <p>
+    <em>Verzend een e-mail wanneer een loyaliteitsklant naar een nieuwe rij beweegt om hen te feliciteren en te informeren over hun nieuwe voordelen</em>
+    <p>
+  </td>
+  </tr>
   <tr>
   <td>
   <div>
@@ -93,40 +111,4 @@ Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en d
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">Contextuele gebeurtenisinformatie gebruiken voor personalisatie</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">Helpfuncties gebruiken voor personalisatie</li>
   </td>
-  </tr>
-  <tr>
-    <td>
-    <div>
-    <a>
-      <img alt="Luminageproduct aanpassen" src="./assets/email-assets/luma-ProductReplenishment.png"/>
-    </a>
-    </div>
-    <td>
-    <div >
-      <strong>Een kennisgeving voor het aanpassen van het product maken (binnenkort beschikbaar)</strong>
-    </a>
-    </div>
-    <p>
-    <em>Klanten op de hoogte stellen wanneer een eerder uit voorraad bestaand item weer in voorraad is</em>
-    <p>
-  </td>
-  </tr>
-  <tr>
-    <td>
-    <div>
-    <a>
-      <img alt="Welkom" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
-    </a>
-    </div>
-    <td>
-    <div >
-      <a>
-    <strong>Een welkomstbericht voor de status van loyaliteit maken (binnenkort beschikbaar) </strong>
-    </a>
-    </div>
-    <p>
-    <em>Verzend een e-mail wanneer een loyaliteitsklant naar een nieuwe rij beweegt om hen te feliciteren en te informeren over hun nieuwe voordelen</em>
-    <p>
-  </td>
-  </tr>
 </table>

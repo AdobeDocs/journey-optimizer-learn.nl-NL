@@ -5,9 +5,9 @@ breadcrumb-title: Journey Optimizer - Uitdagingen
 breadcrumb-url: /docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html
 index: false
 hide: true
-source-git-commit: 957515149af1281d29a45b24ca499ef097656eb8
+source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
@@ -19,5 +19,4 @@ ht-degree: 0%
 + [Uitdaging - Een aankondiging van de zomerverzameling maken](/help/challenges/summer-collection-announcement-challenge.md)
 + [Uitdaging - Een bevestigingsbericht voor bestelling maken](/help/challenges/order-confirmation-challenge.md)
 + [Uitdaging - Een welkomstbericht voor een loyaliteitsstatus maken](/help/challenges/loyalty-status-welcome-email-challenge.md)
-+ [Uitdaging - Een kennisgeving voor het aanpassen van het product maken](/help/challenges/product-replenishment-challenge.md)
 

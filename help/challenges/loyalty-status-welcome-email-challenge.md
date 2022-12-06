@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 27139d8f3b7fc5d6bb2a862789116f5e1f911766
+source-git-commit: a9b6559d308823f5af7c2b26c3b2ae59d60d5a60
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '437'
 ht-degree: 3%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 3%
 |---|---|
 | Persona | Reismanager |
 | Vereiste vaardigheden | <ul><li>[Segmenten maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[Segmentkwalificatie](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[HTML-inhoud importeren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html)</li></ul> |
-| Te downloaden middelen | [platinumStatusEmail.zip](/help/challenges/assets/email-assets/platinumStatusEmail.zip) |
+| Te downloaden middelen | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 ## Het artikel
 
@@ -56,21 +56,18 @@ Test uw reis:
 
 1. Zorg ervoor dat de [!UICONTROL Segmentactiviteit lezen] de [!UICONTROL namespace] instellen op **[!DNL Luma CRM id(lumaCrmId)]**
 2. De standaardinstelling overschrijven [!UICONTROL e-mailparameters] en stel het in op uw eigen e-mailadres
+   * Verborgen waarden weergeven door op het oogsymbool te klikken.
+   * In de [!UICONTROL E-mailparameters], klikt u op het T-symbool (parameteroverschrijving inschakelen)
 
-+++Klik hier voor meer informatie over het overschrijven van de [!UICONTROL-e-mailparameters].
+       ![E-mailparameters negeren](/help/challenges/assets/c3-override-email-paramters.jpg)
+   
+   * Klik in de [!UICONTROL Adresveld]
+   * Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: `"yourname@yourdomain"` in de uitdrukkingsredacteur en klik o.k.
 
-* Verborgen waarden weergeven door op het oogsymbool te klikken.
-* In de [!UICONTROL E-mailparameters], klikt u op het T-symbool (parameteroverschrijving inschakelen)
 
-![E-mailparameters overschrijven](/help/challenges/assets/c3-override-email-paramters.jpg)
-
-* Klik in de [!UICONTROL Adresveld]
-* Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: `"yourname@yourdomain"` in de uitdrukkingsredacteur en klik o.k.
-+++
-
-1. De overgang naar de testmodus instellen
-2. Een gebeurtenis activeren
-3. Voeg het volgende toe [!DNL CRM ID] for [!DNL Stanleigh Stooke] in de [!UICONTROL Profiel-id] veld: `4f34057d9d9e792c28ba18ecae378e98`
+3. De overgang naar de testmodus instellen
+4. Een gebeurtenis activeren
+5. Voeg het volgende toe [!DNL CRM ID] for [!DNL Stanleigh Stooke] in de [!UICONTROL Profiel-id] veld: `4f34057d9d9e792c28ba18ecae378e98`
 
 U moet de gepersonaliseerde *Luma - platina Status - Welkom* e-mail.
 

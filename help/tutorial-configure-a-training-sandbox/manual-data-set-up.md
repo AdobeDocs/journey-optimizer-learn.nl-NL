@@ -9,7 +9,7 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: b358ede4a9855b290ce4efa8611173f44e689b61
+source-git-commit: f86140ed3d39462ec245303efecade64a610a938
 workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 2%
@@ -60,11 +60,11 @@ In deze stap definieert u de structuur van de voorbeeldgegevens door zes [[!UICO
 
 * [[!DNL Luma Product Inventory Events]](#create-luma-product-inventory-event-schema)
 
-* [[!DNL Luma CRM]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma CRM Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[!DNL Luma Product Interactions]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Web Events Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[!DNL Luma Test Profiles]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Test Profiles Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
 >[!TIP]
 >
@@ -224,7 +224,7 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
 
    * Weergavenaam: `Luma Product Catalog Field Group`
 
-2. Voeg het volgende veld toe aan de **[!DNL Luma Product Catalog Field Group]**.
+1. Voeg het volgende veld toe aan de **[!DNL Luma Product Catalog Field Group]**.
 
    * Veldnaam: `product`
 
@@ -234,9 +234,9 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
 
    * Veldgroep: [!DNL Luma Product Catalog Field Group]
 
-3. Selecteren **[!UICONTROL Toepassen]**.
+1. Selecteren **[!UICONTROL Toepassen]**.
 
-4. Voeg de volgende velden toe aan de **[!DNL Product]** object:
+1. Voeg de volgende velden toe aan de **[!DNL Product]** object:
 
    | [!UICONTROL Veldnaam] | [!UICONTROL Weergavenaam] | [!UICONTROL Type] |
    |-------------|-----------|----------|
@@ -250,9 +250,9 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
    | `ImageURL` | `Image URL` | [!UICONTROL Tekenreeks] |
    | `stockQuantity` | `Stock Quantity` | [!UICONTROL Tekenreeks] |
 
-5. Voeg de **[!UICONTROL Weergavenaam]** `Luma Product Catalog Field Group` aan de [!UICONTROL veldgroep].
+1. Voeg de **[!UICONTROL Weergavenaam]** `Luma Product Catalog Field Group` aan de [!UICONTROL veldgroep].
 
-6. Selecteren **[!UICONTROL Opslaan]**.
+1. Selecteren **[!UICONTROL Opslaan]**.
 
 
 ### Maken [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}

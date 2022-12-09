@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: cfd438e198fdf62859569eed0c6ac22087ddbc75
+source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1175'
 ht-degree: 1%
 
 ---
@@ -196,7 +196,7 @@ E-mail voorvertonen met het testprofiel *Louise Petti.*
 Test de reis en stuur de e-mails naar je eigen account:
 
 1. Zet de reis in testmodus.
-1. Selecteer één profiel tegelijk.
+1. Selecteren **[!UICONTROL Eén profiel tegelijk]**.
 1. Wacht tijd: Stel de timer in op 120 seconden (typ deze in het veld).
 1. Invoer van triggerprofiel
 1. U kunt elke vertakking testen met een van de volgende opties *Luma CRM-id&#39;s* als profiel-id&#39;s:

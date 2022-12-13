@@ -9,7 +9,7 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
 source-wordcount: '1065'
 ht-degree: 2%
@@ -250,9 +250,9 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
    | `stockQuantity` | `Stock Quantity` | [!UICONTROL Tekenreeks] |
 
 1. Stel de **[!DNL SKU]** als primaire identiteit
-2. Voeg de **[!UICONTROL Weergavenaam]** `Luma Product Catalog Field Group` aan de [!UICONTROL veldgroep].
+1. Voeg de **[!UICONTROL Weergavenaam]** `Luma Product Catalog Field Group` aan de [!UICONTROL veldgroep].
 
-3. Selecteren **[!UICONTROL Opslaan]**.
+1. Selecteren **[!UICONTROL Opslaan]**.
 
 
 ### Maken [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}

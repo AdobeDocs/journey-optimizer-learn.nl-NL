@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 1b6f6cadc2d85a8baa5c95aca026f868a27e78fa
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '430'
 ht-degree: 3%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 3%
 
 ## Het artikel
 
-Luma biedt een loyaliteitsprogramma als een manier om hun klanten aan te trekken en te behouden. Het programma kent vier verschillende niveaus: Brons, zilver, goud en platina. Elke loyaliteitslaag ontvangt verschillende niveaus of beloningen, kortingen, en andere speciale prikkels als beloning voor hun herhaalde zaken.
+Luma biedt een loyaliteitsprogramma als een manier om hun klanten aan te trekken en te behouden. Het programma heeft vier verschillende niveaus: Brons, zilver, goud en platina. Elke loyaliteitslaag ontvangt verschillende beloningen, kortingen, en andere speciale prikkels als beloning voor hun herhaalde zaken.
 
 De speciale platina-status onderstrepen. Luma wil een welkome e-mail naar klanten sturen wanneer ze de platinumlaag bereiken.
 

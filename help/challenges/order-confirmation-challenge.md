@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '701'
 ht-degree: 3%
 
 ---
@@ -41,13 +41,13 @@ Maak een reis die een bevestigingsbericht voor bestellingen verzendt wanneer een
 
 1. Een reis maken met de naam `Luma - Order Confirmation`
 1. Gebruik de gebeurtenis: [!DNL LumaOnlinePurchase] als trigger
-1. Het opgeroepen bevestigingsbericht voor bestelling maken `Luma - Order Confirmation`
+1. Het opgeroepen bevestigingsbericht voor bestelling maken `Luma - Order Confirmation`:
 
 * Transactie in categorie - zorg ervoor dat u het oppervlak voor transactie-e-mail selecteert
 * De onderwerpregel moet zijn gepersonaliseerd met de voornaam van de ontvanger en de uitdrukking &quot;bedankt voor uw aankoop&quot; bevatten
 * Gebruik de **Luma, overzicht van de volgorde** sjabloon en wijzigen:
 
-Volgens de merkenrichtlijn van Luma moet de e-mail als volgt worden gestructureerd:
+De e-mail moet als volgt worden gestructureerd:
 <table>
 <tr>
 <td>
@@ -118,7 +118,7 @@ Volgens de merkenrichtlijn van Luma moet de e-mail als volgt worden gestructuree
       </p><br>
       <p><b>Tips:</b>
       <li>Dit is contextuele gebeurtenisinformatie.
-      <li>Gebruik de hulpfunctie !UICONTROL]: [!UICONTROL each]
+      <li>Gebruik de functie [!UICONTROL helper]: [!UICONTROL each]
       <li>Schakel over naar de indeling van de code-editor om de contextuele gegevens toe te voegen.
       <li>Plaats de informatie in containers met DIV-tags.
   </td>

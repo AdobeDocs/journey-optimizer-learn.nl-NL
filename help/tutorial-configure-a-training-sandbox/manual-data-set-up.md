@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 2f4f214100e13265d839e2466063e0546e6408b9
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1065'
 ht-degree: 2%
 
 ---
@@ -207,7 +207,6 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
 
 ### Maken [!DNL Luma Product catalog Schema] {#create-luma-product-catalog-schema}
 
-
 1. Ga naar [!UICONTROL GEGEVENSBEHEER] -> **[!UICONTROL Schemas]** in de linkernavigatie.
 
 1. Selecteer **[!UICONTROL Schema maken]** aan de rechterbovenzijde.
@@ -250,9 +249,10 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
    | `ImageURL` | `Image URL` | [!UICONTROL Tekenreeks] |
    | `stockQuantity` | `Stock Quantity` | [!UICONTROL Tekenreeks] |
 
-1. Voeg de **[!UICONTROL Weergavenaam]** `Luma Product Catalog Field Group` aan de [!UICONTROL veldgroep].
+1. Stel de **[!DNL SKU]** als primaire identiteit
+2. Voeg de **[!UICONTROL Weergavenaam]** `Luma Product Catalog Field Group` aan de [!UICONTROL veldgroep].
 
-1. Selecteren **[!UICONTROL Opslaan]**.
+3. Selecteren **[!UICONTROL Opslaan]**.
 
 
 ### Maken [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
@@ -266,7 +266,7 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
 
 1. Selecteren **[!UICONTROL Nieuwe klasse maken]**.
 
-1. Voeg de weergavenaam toe: `Luma Business Event`.
+1. Voeg de weergavenaam toe: `Luma Business Event Class`.
 
 1. Selecteer type: *[!UICONTROL Tijdreeksen]*.
 
@@ -274,11 +274,11 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
 
 1. Een [!UICONTROL veldgroep]:
 
-   * Weergavenaam: `Product Inventory Event Details`
+   * Weergavenaam: `Luma Product Inventory Event Details Field Group`
 
 1. Voeg de **[!UICONTROL Weergavenaam]** `Luma Product Inventory Event Schema` naar het schema.
 
-1. Voeg het volgende gebied aan de het gebiedsgroep van Info van het Product van de Luma toe:
+1. Voeg het volgende veld toe aan de **[!DNL Luma Product Inventory Event Details Field Group]**:
 
    * Veldnaam: `inventoryEvent`
 
@@ -286,53 +286,52 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
 
    * Type: [!UICONTROL Object]
 
-   * Veldgroep: [!DNL Product Inventory Event Details]
+   * Veldgroep: [!DNLLDetailveld Productinventarisatie uma-gebeurtenis]
 
 1. Voeg de volgende velden toe aan de **[!DNL Product Inventory Event Details]** object:
 
    | [!UICONTROL Veldnaam] | [!UICONTROL Weergavenaam] | [!UICONTROL Type] |
    |-------------|-----------|----------|
-   | `productId` | `Product ID` | [!UICONTROL Tekenreeks] |
    | `sku` | `SKU` | [!UICONTROL Tekenreeks] |
-   | `stockEventType` | `Stock Event Type` | **[!UICONTROL Enum]** with `restock` en `outOfStock` als waarden |
+   | `stockEventType` | `Stock Event Type` | [!UICONTROL Tekenreeks] |
 
    1. om de `stockEventType` aan Enum, uitgezochte type: `string`.
 
-   1. Omlaag schuiven naar de onderkant van het dialoogvenster **[!UICONTROL Veldeigenschappen]**.
+   2. Omlaag schuiven naar de onderkant van het dialoogvenster **[!UICONTROL Veldeigenschappen]**.
 
-   1. Inschakelen **[!UICONTROL Enum]**.
+   3. Inschakelen **[!UICONTROL Enum]**.
 
-   1. Enter **[!UICONTROL waarden] ([!UICONTROL label)]**: `restock` (`restock`).
+   4. Enter **[!UICONTROL waarden] ([!UICONTROL label)]**: `restock` (`restock`).
 
-   1. Selecteren **[!UICONTROL Rij toevoegen]**.
+   5. Selecteren **[!UICONTROL Rij toevoegen]**.
 
-   1. Enter **[!UICONTROL waarden] ([!UICONTROL label)]**: `outOfStock` (`out of stock`).
+   6. Enter **[!UICONTROL waarden] ([!UICONTROL label)]**: `outOfStock` (`out of stock`).
 
-   1. Selecteren **[!UICONTROL Toepassen]**.
+   7. Selecteren **[!UICONTROL Toepassen]**.
 
       ![enum](assets/enum.png)
 
-1. Set `productId` veld als **[!UICONTROL primaire identiteit]** gebruiken **[!DNL Luma Product namespace]**.
+2. Set `productId` veld als **[!UICONTROL primaire identiteit]** gebruiken **[!DNL Luma Product namespace]**.
 
-1. Selecteer `sku` en een relatie met de `product.sku` in het **[!DNL Luma Product catalog Schema]** Schema:
+3. Selecteer `sku` en een relatie met de `product.sku` in het **[!DNL Luma Product catalog Schema]** Schema:
 
    1. Omlaag schuiven naar de onderkant van het dialoogvenster **[!UICONTROL Veldeigenschappen]**.
 
-   1. Inschakelen **[!UICONTROL Relatie]**.
+   2. Inschakelen **[!UICONTROL Relatie]**.
 
       1. **[!UICONTROL Referentieschema]**: [!DNL Luma Product catalog Schema].
 
-      1. **[!UICONTROL Naamruimte van verwijzing]**: [!DNL Luma Product].
-   1. Selecteren **[!UICONTROL Toepassen]**.
+      2. **[!UICONTROL Naamruimte van verwijzing]**: [!DNL Luma Product].
+   3. Selecteren **[!UICONTROL Toepassen]**.
 
       Het schema moet er als volgt uitzien:
 
       ![SKU-relatie](assets/sku_relationship.png)
 
 
-1. Inschakelen voor **Profiel**.
+4. Inschakelen voor **Profiel**.
 
-1. Selecteren [!UICONTROL Opslaan] om het schema op te slaan.
+5. Selecteren [!UICONTROL Opslaan] om het schema op te slaan.
 
 ### Maak de [!DNL Luma CRM] en [!DNL Luma Product Interactions] schema&#39;s {#create-luma-crm-and-luma-product-interactions-schemas}
 

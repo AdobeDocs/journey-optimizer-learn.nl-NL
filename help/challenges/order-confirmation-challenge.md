@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: eb31a78738ec32e4f468f620a96525714997ad04
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '706'
 ht-degree: 3%
 
 ---
@@ -39,16 +39,15 @@ Maak een reis die een bevestigingsbericht voor bestellingen verzendt wanneer een
 
 >[!TAB Taak]
 
-1. Een reis maken met de naam &#39;&#39;uw naam_orderbevestiging&#39;&#39;
-2. Gebruik de gebeurtenis: [!DNL LumaOnlinePurchase] als trigger
-
-3. Maak het bevestigingsbericht voor bestelling:
+1. Een reis maken met de naam `Luma - Order Confirmation`
+1. Gebruik de gebeurtenis: [!DNL LumaOnlinePurchase] als trigger
+1. Het opgeroepen bevestigingsbericht voor bestelling maken `Luma - Order Confirmation`
 
 * Transactie in categorie - zorg ervoor dat u het oppervlak voor transactie-e-mail selecteert
 * De onderwerpregel moet zijn gepersonaliseerd met de voornaam van de ontvanger en de uitdrukking &quot;bedankt voor uw aankoop&quot; bevatten
+* Gebruik de **Luma, overzicht van de volgorde** sjabloon en wijzigen:
 
-Volg de merkenrichtlijn voor Luma moet de e-mail als volgt zijn gestructureerd - u kunt de **Luma, overzicht van de volgorde** sjabloon en wijzigen:
-
+Volgens de merkenrichtlijn van Luma moet de e-mail als volgt worden gestructureerd:
 <table>
 <tr>
 <td>
@@ -79,22 +78,30 @@ Volg de merkenrichtlijn voor Luma moet de e-mail als volgt zijn gestructureerd -
     <strong>Tekst</strong><p>
     <em>Hey {voornaam}</em><p>
     <li>Uitlijning: left  </li>
-   <li>Tekstkleur: rgb(101, 106, 119); font-size:14px</li>
-    <li>Opvulling: links (95), rechts (95)</li><div>
+   <li>Tekstkleur: rgb(69, 97, 162) #4461a2; 
+   <li>tekengrootte: 20 px</li>
+   <div>
     <p>
      <em>Uw bestelling is geplaatst.
     <p>Zodra uw pakket is verzonden, sturen we u een e-mail met een trackingnummer, zodat u uw bestelling kunt volgen.</p></em>
-    </strong><p>
-    <li>Uitlijning: left  </li>
-    <li>Tekstkleur: rgb(101, 106, 119); font-size:14px </li>
-    <li>Opvulling: links (95), rechts (95)</li><div>
-    </a><p>
-    <em>Verzenden naar:<p>
-    <p>Achternaam voornaam</p>
-    Straat<p>
-    Plaats, Staat, Postcode</p></em>
-    <strong>Knop:</strong></p>
-   <p><em>Bestelling weergeven</em></p>
+    </strong>
+    </tr>
+  </td>
+ <td>
+  <div>
+     <strong> Naar sectie</strong>
+      </div>
+      <p><li>Vervang het hard gecodeerde adres in het malplaatje met het adreslading van het profiel
+      <li> De korting, Totaal, Ophalen verwijderen</p>
+  </td>
+  <td>
+  <p> Verzenden naar:</p>
+      <em>Achternaam voornaam<br>
+      Straat<br>
+      Plaats, Staat, Postcode</em></p>
+
+    &lt;strong>Knop:&lt;/strong>&lt;/p>
+<p><em>Bestelling weergeven</em></p>
       <li>Achtergrondkleur: rgb(25, 121, 195)</li>
       <li>Tekstkleur: Wit</li>
       <li>Geen rand</li>
@@ -107,11 +114,13 @@ Volg de merkenrichtlijn voor Luma moet de e-mail als volgt zijn gestructureerd -
   <div>
      <strong>Sectie Bestelgegevens</strong>
       </div>
-      <p>Tips:
-      <li>Dit is contextuele gebeurtenisinformatie.</li>
-      <li>Gebruik de hulpfunctie: Elk</li>
-      <li>Schakel over naar de indeling van de code-editor om de contextuele gegevens toe te voegen. <li>
-      <li>Plaats de informatie in containers met DIV-tags.</li>
+       <p><li>Deze sectie toevoegen tussen de <b>Verzenden naar</b> en de <b>Volgorde weergeven</b> knop
+      </p><br>
+      <p><b>Tips:</b>
+      <li>Dit is contextuele gebeurtenisinformatie.
+      <li>Gebruik de hulpfunctie !UICONTROL]: [!UICONTROL each]
+      <li>Schakel over naar de indeling van de code-editor om de contextuele gegevens toe te voegen.
+      <li>Plaats de informatie in containers met DIV-tags.
   </td>
   <td>
     <strong>Koptekst</strong>
@@ -156,8 +165,7 @@ Volg de merkenrichtlijn voor Luma moet de e-mail als volgt zijn gestructureerd -
 >
 >Om u toe te staan om uw reizen problemen op te lossen, beste praktijken moeten een alternatief weg aan alle berichtacties in het geval van onderbreking of fout toevoegen.
 
-
->[!TAB Uw werk controleren]
+>[!TAB Succescriteria]
 
 Trigger de Reis u op testwijze creeerde en verzend e-mail naar me:
 
@@ -186,7 +194,8 @@ U ontvangt het bevestigingsbericht voor een persoonlijke aankoop met het opgegev
    43913 Thierer Terrace, Washington DC 2009
 
 
->[!TAB Succescriteria]
+
+>[!TAB Uw werk controleren]
 
 ** Reis
 

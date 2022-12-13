@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '224'
 ht-degree: 5%
 
 ---
@@ -37,7 +37,7 @@ De video bekijken [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
    | [!UICONTROL TYPE] | [!UICONTROL Unitair] |
    | [!UICONTROL Type gebeurtenis-id] | [!UICONTROL Op regel gebaseerd] |
    | [!UICONTROL Schema] | Interacties met producten met luminantie |
-   | [!UICONTROL Velden] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>In de Punten van de Lijst van het Product > Lumatieproducten > _*[!DNL yourOrganizationID]* > Product:</b> <br> Naam<br>Prijs<br>ProductImageURL<br>ProductURL |
+   | [!UICONTROL Velden] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>In de Punten van de Lijst van het Product > het Schema van de Catalogus van het Product Luma > _*[!DNL yourOrganizationID]* > Product:</b> <br> Naam<br>Prijs<br>ProductImageURL<br>ProductURL |
 
 1. Voeg de [!UICONTROL Voorwaarde van gebeurtenis-id]: **[!DNL LumaOnlinePurchase.eventType is commerce.purchases]**
 
@@ -49,9 +49,9 @@ De video bekijken [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
 
 ![Gebeurtenisvoorwaarde toevoegen](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
 
-1. Selecteren [!UICONTROL NAMESPACE]: `Email(Email)`
+1. Selecteren [!UICONTROL NAMESPACE]: `Luma CRM ID (lumaCrmId)`
 
-1. Selecteren **[!UICONTROL Opslaan]**.
+2. Selecteren **[!UICONTROL Opslaan]**.
 
 ## Maken *[!DNL Luma Wishlist Add]* Gebeurtenis
 

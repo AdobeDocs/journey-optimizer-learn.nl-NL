@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: a9b6559d308823f5af7c2b26c3b2ae59d60d5a60
+source-git-commit: 1b6f6cadc2d85a8baa5c95aca026f868a27e78fa
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '432'
 ht-degree: 3%
 
 ---
@@ -43,12 +43,8 @@ Wanneer een loyaliteitsklant voor de platina tier in aanmerking komt, zouden zij
 1. Een [!UICONTROL segment] in Journey Optimizer `Luma – status upgrade`.
 2. Een reis maken met de naam `Luma – New Status – platinum`.
    1. Een klant beweegt zich in de reis, wanneer zij voor de platina loyaliteitslaag in aanmerking komen.
-   2. De klant moet een e-mailbericht ontvangen met het label `Luma – Platinum Status - Welcome`, met de onderwerpregel `Welcome to Platinum Status, (recipient's first name)!` via e-mail van het creatieve team.
+   2. De klant moet een e-mailbericht ontvangen met het label `Luma – Platinum Status - Welcome`, met de onderwerpregel `Welcome to Platinum Status, (recipient's first name)!` via e-mail van het creatieve team. Dit is een [!UICONTROL transactie] e-mail.
    3. Wanneer u het HTML-bestand uploadt, ziet u dat het e-mailbericht verwijst naar de status &#39;ruit&#39; in plaats van naar &#39;platina&#39;. Werk de e-mail bij in de e-mailontwerper in plaats van een nieuw bestand aan te vragen bij het creatieve team.
-
->[TIP!]
-> Controleer of de Luma - Platinum Status - Welkom e-mail is[!UICONTROL transactie].
-
 
 >[!TAB Succescriteria]
 
@@ -69,7 +65,7 @@ Test uw reis:
 4. Een gebeurtenis activeren
 5. Voeg het volgende toe [!DNL CRM ID] for [!DNL Stanleigh Stooke] in de [!UICONTROL Profiel-id] veld: `4f34057d9d9e792c28ba18ecae378e98`
 
-U moet de gepersonaliseerde *Luma - platina Status - Welkom* e-mail.
+**Resultaat:** U moet de gepersonaliseerde *Luma - platina Status - Welkom* e-mail.
 
 >[!TAB Uw werk controleren]
 

@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '671'
 ht-degree: 3%
 
 ---
@@ -33,19 +33,19 @@ Luma, start hun online winkel en wil een goede klantenervaring verzekeren door e
 
 ## Uw uitdaging
 
-Maak een reis die een bevestigingsbericht voor bestellingen verzendt wanneer een klant van een Luma een online bestelling voltooit.
+Maak een reis die een bevestigingsbericht voor bestellingen verzendt wanneer een klant van een Luma een online bestelling voltooit. De Luma
 
 >[!BEGINTABS]
 
 >[!TAB Taak]
 
 1. Een reis maken met de naam `Luma - Order Confirmation`
-1. Gebruik de gebeurtenis: [!DNL LumaOnlinePurchase] als trigger
-1. Het opgeroepen bevestigingsbericht voor bestelling maken `Luma - Order Confirmation`:
+2. Gebruik de gebeurtenis: `LumaOnlinePurchase` als trigger
+3. Het opgeroepen bevestigingsbericht voor bestelling maken `Luma - Order Confirmation`:
 
 * Transactie in categorie - zorg ervoor dat u het oppervlak voor transactie-e-mail selecteert
 * De onderwerpregel moet zijn gepersonaliseerd met de voornaam van de ontvanger en de uitdrukking &quot;bedankt voor uw aankoop&quot; bevatten
-* Gebruik de **Luma, overzicht van de volgorde** sjabloon en wijzigen:
+* Gebruik de `Luma - Order summary` sjabloon en wijzigen:
 
 De e-mail moet als volgt worden gestructureerd:
 <table>
@@ -59,7 +59,6 @@ De e-mail moet als volgt worden gestructureerd:
     <strong>Logo Luma</strong>
       <p>
      <li>luma_logo.png</li>
-    <li>Grootte 35%, gecentreerde witte achtergrond </li>
     <li>De website moet een link hebben naar de lumawebsite: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
     </td>
@@ -71,9 +70,6 @@ De e-mail moet als volgt worden gestructureerd:
     </strong>
   </td>
   <td>
-    <strong>Image</strong><p>
-    <li>luma-transactional-order-confirmation-2.jpg </li>
-    <li>Marge: Boven, onder (10)<div>
     <p>
     <strong>Tekst</strong><p>
     <em>Hey {voornaam}</em><p>
@@ -91,23 +87,15 @@ De e-mail moet als volgt worden gestructureerd:
   <div>
      <strong> Naar sectie</strong>
       </div>
-      <p><li>Vervang het hard gecodeerde adres in het malplaatje met het adreslading van het profiel
+      <p><li>Vervang het vaste gecodeerde adres in de sjabloon door het verzendadres 
+      <li>De details zijn contextafhankelijke kenmerken van de gebeurtenis (straat, plaats, postcode, staat)
+      <li>Voornaam en achternaam zijn afkomstig uit het profiel
       <li> De korting, Totaal, Ophalen verwijderen</p>
   </td>
   <td>
   <p> Verzenden naar:</p>
       <em>Achternaam voornaam<br>
-      Straat<br>
-      Plaats, Staat, Postcode</em></p>
-
-    &lt;strong>Knop:&lt;/strong>&lt;/p>
-<p><em>Bestelling weergeven</em></p>
-      <li>Achtergrondkleur: rgb(25, 121, 195)</li>
-      <li>Tekstkleur: Wit</li>
-      <li>Geen rand</li>
-      <li>Hoogte: 40</li>
-      <li>Een koppeling toevoegen aan een door u gekozen website </li>
-      <li>Links uitlijnen met de bovenstaande tekst (tip: de containermarge gebruiken)</li>
+      Adres<br></em></p>
   </td>
  <tr>
 <td>

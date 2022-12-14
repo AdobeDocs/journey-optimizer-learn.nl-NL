@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '204'
 ht-degree: 5%
 
 ---
@@ -36,10 +36,10 @@ De video bekijken [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
    | [!UICONTROL NAAM] | `LumaOnlinePurchase` |
    | [!UICONTROL TYPE] | [!UICONTROL Unitair] |
    | [!UICONTROL Type gebeurtenis-id] | [!UICONTROL Op regel gebaseerd] |
-   | [!UICONTROL Schema] | Interacties met producten met luminantie |
-   | [!UICONTROL Velden] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>In de Punten van de Lijst van het Product > het Schema van de Catalogus van het Product Luma > _*[!DNL yourOrganizationID]* > Product:</b> <br> Naam<br>Prijs<br>ProductImageURL<br>ProductURL |
+   | [!UICONTROL Schema] | `Luma Web Events Schema` |
+   | [!UICONTROL Velden] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-1. Voeg de [!UICONTROL Voorwaarde van gebeurtenis-id]: **[!DNL LumaOnlinePurchase.eventType is commerce.purchases]**
+2. Voeg de [!UICONTROL Voorwaarde van gebeurtenis-id]: `LumaOnlinePurchase.eventType is commerce.purchases`
 
    1. Selecteer het potloodpictogram om het veld te bewerken
    2. Op de [!UICONTROL Voorwaarde voor een gebeurtenis-id toevoegen] modal, slepen en neerzetten `eventType` op het canvas

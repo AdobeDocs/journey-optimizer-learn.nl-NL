@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1058'
 ht-degree: 2%
 
 ---
@@ -286,9 +286,9 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
 
    * Type: [!UICONTROL Object]
 
-   * Veldgroep: [!DNLLDetailveld Productinventarisatie uma-gebeurtenis]
+   * Veldgroep: `Luma Product Inventory Event Details Field Group`
 
-1. Voeg de volgende velden toe aan de **[!DNL Product Inventory Event Details]** object:
+1. Voeg de volgende velden toe aan de `Product Inventory Event Details` object:
 
    | [!UICONTROL Veldnaam] | [!UICONTROL Weergavenaam] | [!UICONTROL Type] |
    |-------------|-----------|----------|
@@ -311,9 +311,9 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
 
       ![enum](assets/enum.png)
 
-2. Set `productId` veld als **[!UICONTROL primaire identiteit]** gebruiken **[!DNL Luma Product namespace]**.
+1. Set `productId` veld als **[!UICONTROL primaire identiteit]** gebruiken **[!DNL Luma Product namespace]**.
 
-3. Selecteer `sku` en een relatie met de `product.sku` in het **[!DNL Luma Product catalog Schema]** Schema:
+1. Selecteer `sku` en een relatie met de `product.sku` in het **[!DNL Luma Product catalog Schema]** Schema:
 
    1. Omlaag schuiven naar de onderkant van het dialoogvenster **[!UICONTROL Veldeigenschappen]**.
 
@@ -329,9 +329,9 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
       ![SKU-relatie](assets/sku_relationship.png)
 
 
-4. Inschakelen voor **Profiel**.
+1. Inschakelen voor **Profiel**.
 
-5. Selecteren [!UICONTROL Opslaan] om het schema op te slaan.
+1. Selecteren [!UICONTROL Opslaan] om het schema op te slaan.
 
 ### Maak de [!DNL Luma CRM] en [!DNL Luma Product Interactions] schema&#39;s {#create-luma-crm-and-luma-product-interactions-schemas}
 

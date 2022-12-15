@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
+source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '692'
 ht-degree: 3%
 
 ---
@@ -113,7 +113,7 @@ De e-mail moet als volgt worden gestructureerd:
   <td>
     <strong>Koptekst</strong>
     <p>
-    <em>Order {Purchase Order Number}</em>
+    <em>Volgorde: ` purchaseOrderNumber`</em>
     </p>
     <strong>Lijst met bestelde producten:
   </strong>
@@ -164,7 +164,7 @@ Trigger de Reis u op testwijze creeerde en verzend e-mail naar me:
    3. Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: *yourname@yourdomain* in de uitdrukkingsredacteur en klik o.k.
 2. Het traject in testmodus zetten
 3. De gebeurtenis activeren met de volgende parameters:
-   * Stel de profiel-id in op: Jenna_Palmer9530@emailsim.io
+   * Stel de profiel-id in op: Identiteitswaarde:`a8f14eab3b483c2b96171b575ecd90b1`
    * Type gebeurtenis: commerce.purchase
    * Naam: Sprite Yoga Companion Kit
    * Aantal: 1
@@ -172,12 +172,13 @@ Trigger de Reis u op testwijze creeerde en verzend e-mail naar me:
    * Volgnummer: 6253728
    * SKU: 24-WG080
    * productImageURL: <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
+   * 
 
 U ontvangt het bevestigingsbericht voor een persoonlijke aankoop met het opgegeven product.
 
-* De onderwerpregel moet beginnen met de voornaam van het testprofiel: Jenna
+* De onderwerpregel moet de voornaam van het testprofiel hebben: Leora
 * De sectie met orderdetails moet worden gevuld met de orderdetails die u hebt ingevoerd tijdens het testen
-* De gegevens van de klant moeten de plaats en de postcode van uw testprofiel hebben:
+* De *Verzenden naar* Deze sectie moet de plaats en postcode van je testprofiel hebben:
 
    43913 Thierer Terrace, Washington DC 2009
 
@@ -185,17 +186,30 @@ U ontvangt het bevestigingsbericht voor een persoonlijke aankoop met het opgegev
 
 >[!TAB Uw werk controleren]
 
-** Reis
+**Reis**
 
 ![Reis](/help/challenges/assets/c2-journey.png)
 
 
-** Email
+**E-mail**
 
 **Onderwerpregel:**
 
 {{ profile.person.name.firstName }}, dank u voor uw aankoop!
 
+**Naar sectie verzenden:**
+
+Zo ziet uw code eruit:
+
+```javascript
+{{ profile.person.name.firstName }} {{ profile.person.name.lastName }}
+{{context.journey.events.454181416.commerce.shipping.address.street1}}
+{{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
+```
+
+*event.45481416* wordt een ander nummer voor u.
+
+TIP: Elke regel afzonderlijk aanpassen
 
 **Sectie met details van volgorde:**
 

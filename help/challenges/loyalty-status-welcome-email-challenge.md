@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 3%
@@ -63,7 +63,7 @@ Test uw reis:
 
 3. De overgang naar de testmodus instellen
 4. Een gebeurtenis activeren
-5. Voeg het volgende toe [!DNL CRM ID] for [!DNL Stanleigh Stooke] in de [!UICONTROL Profiel-id] veld: `4f34057d9d9e792c28ba18ecae378e98`
+5. Voeg het volgende toe [!DNL CRM ID] for `Stanleigh Stooke` in de [!UICONTROL Profiel-id] veld: `4f34057d9d9e792c28ba18ecae378e98`
 
 **Resultaat:** U moet de gepersonaliseerde *Luma - platina Status - Welkom* e-mail.
 

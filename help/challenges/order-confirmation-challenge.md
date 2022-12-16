@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
+source-git-commit: 2bf17de2d6911fd288e257a42000bb5505e04c08
 workflow-type: tm+mt
-source-wordcount: '692'
+source-wordcount: '698'
 ht-degree: 3%
 
 ---
@@ -88,21 +88,21 @@ De e-mail moet als volgt worden gestructureerd:
      <strong> Naar sectie</strong>
       </div>
       <p><li>Vervang het vaste gecodeerde adres in de sjabloon door het verzendadres 
-      <li>De details zijn contextafhankelijke kenmerken van de gebeurtenis (straat, plaats, postcode, staat)
+      <li>De adresdetails zijn contextafhankelijke kenmerken van de gebeurtenis (straat, plaats, postcode, staat)
       <li>Voornaam en achternaam zijn afkomstig uit het profiel
       <li> De korting, Totaal, Ophalen verwijderen</p>
   </td>
   <td>
   <p> Verzenden naar:</p>
       <em>Achternaam voornaam<br>
-      Adres<br></em></p>
+     Adres</em></p>
   </td>
  <tr>
 <td>
   <div>
      <strong>Sectie Bestelgegevens</strong>
       </div>
-       <p><li>Deze sectie toevoegen tussen de <b>Verzenden naar</b> en de <b>Volgorde weergeven</b> knop
+       <p><li>Deze sectie toevoegen na de <b>Verzenden naar</b> en de <b>Volgorde weergeven</b> knop.
       </p><br>
       <p><b>Tips:</b>
       <li>Dit is contextuele gebeurtenisinformatie.
@@ -168,11 +168,14 @@ Trigger de Reis u op testwijze creeerde en verzend e-mail naar me:
    * Type gebeurtenis: commerce.purchase
    * Naam: Sprite Yoga Companion Kit
    * Aantal: 1
-   * Prijstotaal: 61
-   * Volgnummer: 6253728
-   * SKU: 24-WG080
-   * productImageURL: <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
-   * 
+   * `Price Total:` 61
+   * `Purchase Order Number:` 6253728
+   * `SKU:` 24-WG080
+   * `productImageURL:` <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
+   * `City:` San Jose
+   * `Postal Code:` 95110
+   * `State`: CA
+   * `Street:` Park Ave
 
 U ontvangt het bevestigingsbericht voor een persoonlijke aankoop met het opgegeven product.
 
@@ -223,19 +226,21 @@ Koptekst:
 Order: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
 ```
 
-Lijst van producten:
+**Lijst van producten:**
 
 Gebruik de hulpfunctie &quot;each&quot; om de lijst met producten te maken. Zo ziet uw code eruit:
 
 ```javascript
-{{#each context.journey.events.1911672547.productListItems as|product|}}
-<div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product._wwfovlab065.productImageURL}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
-<h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.priceTotal}}.00</h5>
-<div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.name}}</div><div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div></div><div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
+{{#each context.journey.events.454181416.productListItems as |product|}}
+<div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product.productImageUrl}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
+<h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}.00</h5>
+<div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</div><div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div></div><div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
 {{/each}}
-
-Total: ${{context.journey.events.1627840522.commerce.order.priceTotal}} 
 ```
+
+**Totaalprijs:**
+
+Totaal:`${{context.journey.events.1627840522.commerce.order.priceTotal}}`
 
 **Sectie met klantgegevens**
 

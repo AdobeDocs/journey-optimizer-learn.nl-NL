@@ -55,7 +55,7 @@ De video bekijken [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
 
 ## Maken *[!DNL Luma Wishlist Add]* Gebeurtenis
 
-| [!UICONTROL Parameter] | [!UICONTROL Waarde] |
+| [!UICONTROL Parameter] | [!UICONTROL Value] |
 |-------------|-----------|
 | [!UICONTROL NAAM] | `LumaWishlistAdd` |
 | [!UICONTROL TYPE] | [!UICONTROL Unitair] |
@@ -67,13 +67,13 @@ De video bekijken [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
 
 ## Maken *[!DNL Luma Product Restock] Gebeurtenis
 
-| [!UICONTROL Parameter] | [!UICONTROL Waarde] |
+| [!UICONTROL Parameter] | [!UICONTROL Value] |
 |-------------|-----------|
 | [!UICONTROL NAAM] | `LumaProductRestock` |
 | [!UICONTROL TYPE] | [!UICONTROL Zakelijk] |
 | [!UICONTROL Schema] | [!DNL Luma Product Inventory Events] |
 | [!UICONTROL Velden] | productID <br> stockEventType<br><b>In product > Luminaproducten > *[!DNL yourOrganizationID]* > Product:</b> <br>Naam<br>Prijs<br> ProductImageURL<br>Beschrijving |
-| [!UICONTROL Voorwaarde] | LumaProductRestock._`your organization's ID`.voorraadEvent.stockEventType is restock |
+| [!UICONTROL Condition] | LumaProductRestock._`your organization's ID`.voorraadEvent.stockEventType is restock |
 
 ## Gefeliciteerd
 

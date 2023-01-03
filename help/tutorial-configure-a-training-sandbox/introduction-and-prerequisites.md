@@ -43,7 +43,7 @@ Voordat u begint met het instellen van de trainingssandbox, moet u controleren o
 
       Deze bestanden bevatten de voorbeeldgegevens die u in uw sandbox hebt ingevoerd.
 
-   1. Elk bestand openen en zoeken **`yourOrganizationID`** en vervang het door uw [organisatie-id](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=en).
+   1. Elk bestand openen en zoeken **`yourOrganizationID`** en vervang het door uw [organisatie-id](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=nl).
 
    1. Sla de bestanden op.
 

@@ -2,10 +2,10 @@
 user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn Journey Optimizer Tutorials.
-source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
+source-git-commit: cba8982f4be9c60ab1d9efe9a6009033369f10a3
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 98%
+source-wordcount: '291'
+ht-degree: 94%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 98%
    + [Architectuur](/help/introduction/architecture.md)
    + [Mobiele mogelijkheden voor marketeers](/help/create-messages/mobile-capabilities.md)
    + [Mobiele mogelijkheden voor ontwikkelaars](/help/create-messages/mobile-capabilities-for-developers.md)
-+ Campagnes maken {#create-campaigns}
++ Campagnes {#create-campaigns}
    + [Een campagne maken](/help/create-champaigns/create-a-campaign.md)
-+ Journeys maken {#create-journeys}
++ Journeys {#create-journeys}
    + [Overzicht van het reiscanvas](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Inleiding tot het samenstellen van een journey](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Gebruiksscenario - transactionele journey](/help/create-journeys/use-case-transactional-journey.md)
@@ -33,6 +33,10 @@ ht-degree: 98%
    + [Een testprofiel maken](/help/create-journeys/test-a-journey.md)
    + [Een journey publiceren](/help/create-journeys/publish-a-journey.md)
    + [Een journey naar een andere sandbox kopiëren](/help/create-journeys/copy-a-journey.md)
++ Sms-kanaal{#sms-channel}
+   + [SMS API-referenties en kanaaloppervlakken configureren](/help/set-up-channels/set-up-sms-channel.md)
+   + [SMS-berichten verzenden en verzenden](/help/channels/author-and-deliver-sms-messages.md)
+   + [Ondersteuning voor binnenkomende zoektermen voor sms](/help/channels/inbound-keyword-support-for-sms.md)
 + Klantprofielen, segmenten en lidmaatschappen {#profiles-segments-subscriptions}
    + [Uniform profiel en segmentatie - overzicht](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Segmenten maken](/help/set-up-resources/create-segments.md)
@@ -42,9 +46,6 @@ ht-degree: 98%
       + [Content maken met de Email Designer](/help/create-messages/create-content-with-the-email-designer.md)
       + [HTML-e-mailcontent importeren en opstellen](/help/create-messages/import-and-author-html-email-content.md)
       + [Voorvertonen, proeven en publiceren](/help/create-messages/preview-proof-and-publish.md)
-   + Sms-berichten maken {#create-sms}
-      + [Sms-berichten configureren, opstellen en leveren](/help/create-messages/configure-author-and-deliver-sms-messages.md)
-      + [Ondersteuning voor binnenkomende zoektermen voor sms](/help/create-messages/inbound-keyword-support-for-sms.md)
    + In-app berichten maken {#create-in-app}
       + [In-app berichten voor campagnes](/help/create-messages/in-app-messaging-for-campaigns.md)
       + [Een in-app bericht schrijven](/help/create-messages/author-in-app-messages.md)
@@ -78,8 +79,8 @@ ht-degree: 98%
       + [Gegevenssets maken en gegevens opnemen](/help/set-up-data/create-datasets-and-ingest-data.md)
       + [Bronconnectors configureren](/help/set-up-data/configure-source-connectors.md)
    + Kanalen configureren {#channel-configuration}
-      + [E-mailkanaal instellen](/help/set-up-email-channel/set-up-email-channel.md)
-      + [CName-subdomeinen delegeren](/help/set-up-email-channel/delegate-cname-subdomains.md)
+      + [E-mailkanaal instellen](/help/set-up-channels/set-up-email-channel.md)
+      + [CName-subdomeinen delegeren](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Regels voor berichtfrequentie configureren](/help/administration/configure-frequency-rules.md)
    + Journey&#39;s configureren {#journey-configuration}
       + [Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)

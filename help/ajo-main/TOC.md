@@ -2,7 +2,7 @@
 user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn Journey Optimizer Tutorials.
-source-git-commit: 615038fe6d2a3e8e48d9533a6e87a452bf3d7447
+source-git-commit: 8f2b7582a3d7bf4964d8780413b19e29f44b472b
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 93%
@@ -78,13 +78,13 @@ ht-degree: 93%
       + [Bronconnectors configureren](/help/set-up-data/configure-source-connectors.md)
    + Kanalen configureren {#channel-configuration}
       + [E-mailkanaal instellen](/help/set-up-channels/set-up-email-channel.md)
-      + [SMS API-referenties en kanaaloppervlakken configureren](/help/set-up-channels/set-up-sms-channel.md)
       + [CName-subdomeinen delegeren](/help/set-up-channels/delegate-cname-subdomains.md)
+      + [SMS API-referenties en kanaaloppervlakken configureren](/help/set-up-channels/set-up-sms-channel.md)
       + [Regels voor berichtfrequentie configureren](/help/administration/configure-frequency-rules.md)
    + Journey&#39;s configureren {#journey-configuration}
-      + [Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)
-      + [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
-      + [Acties maken](/help/set-up-journeys/create-actions.md)
+   + [Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)
+   + [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
+   + [Acties maken](/help/set-up-journeys/create-actions.md)
 + Toegangsbeheer {#access-control}
    + [Toegangsbeheer](/help/set-up-access/access-management.md)
    + [Sandboxen maken en beheren](/help/set-up-access/create-and-manage-sandboxes.md)

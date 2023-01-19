@@ -2,10 +2,10 @@
 user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier zijn Journey Optimizer Tutorials.
-source-git-commit: cba8982f4be9c60ab1d9efe9a6009033369f10a3
+source-git-commit: 615038fe6d2a3e8e48d9533a6e87a452bf3d7447
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 94%
+source-wordcount: '289'
+ht-degree: 93%
 
 ---
 
@@ -19,10 +19,10 @@ ht-degree: 94%
    + [Journey Optimizer - Overzicht deel 2](/help/introduction/journey-optimizer-overview-part-2.md)
    + [Belangrijkste mogelijkheden en gebruikersinterface](/help/introduction/key-capabilities-and-user-interface.md)
    + [Architectuur](/help/introduction/architecture.md)
-   + [Mobiele mogelijkheden voor marketeers](/help/create-messages/mobile-capabilities.md)
-   + [Mobiele mogelijkheden voor ontwikkelaars](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [Mobiele mogelijkheden voor marketeers](/help/channels/mobile-capabilities.md)
+   + [Mobiele mogelijkheden voor ontwikkelaars](/help/channels/mobile-capabilities-for-developers.md)
 + Campagnes {#create-campaigns}
-   + [Een campagne maken](/help/create-champaigns/create-a-campaign.md)
+   + [Een campagne maken](/help/create-campaigns/create-a-campaign.md)
 + Journeys {#create-journeys}
    + [Overzicht van het reiscanvas](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Inleiding tot het samenstellen van een journey](/help/create-journeys/introduction-to-building-a-journey.md)
@@ -33,22 +33,20 @@ ht-degree: 94%
    + [Een testprofiel maken](/help/create-journeys/test-a-journey.md)
    + [Een journey publiceren](/help/create-journeys/publish-a-journey.md)
    + [Een journey naar een andere sandbox kopiëren](/help/create-journeys/copy-a-journey.md)
++ E-mailkanaal{#email-channel}
+   + [Content maken met de Email Designer](/help/channels/create-content-with-the-email-designer.md)
+   + [HTML-e-mailcontent importeren en opstellen](/help/channels/import-and-author-html-email-content.md)
+   + [Voorvertonen, proeven en publiceren](/help/channels/preview-proof-and-publish.md)
++ In App-kanaal{#in-app-channel}
+   + [In-app berichten voor campagnes](/help/channels/in-app-messaging-for-campaigns.md)
+   + [Een in-app bericht schrijven](/help/channels/author-in-app-messages.md)
 + Sms-kanaal{#sms-channel}
-   + [SMS API-referenties en kanaaloppervlakken configureren](/help/set-up-channels/set-up-sms-channel.md)
    + [SMS-berichten verzenden en verzenden](/help/channels/author-and-deliver-sms-messages.md)
    + [Ondersteuning voor binnenkomende zoektermen voor sms](/help/channels/inbound-keyword-support-for-sms.md)
 + Klantprofielen, segmenten en lidmaatschappen {#profiles-segments-subscriptions}
    + [Uniform profiel en segmentatie - overzicht](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Segmenten maken](/help/set-up-resources/create-segments.md)
    + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
-+ Berichten maken {#create-messages}
-   + E-mails maken {#create-emails}
-      + [Content maken met de Email Designer](/help/create-messages/create-content-with-the-email-designer.md)
-      + [HTML-e-mailcontent importeren en opstellen](/help/create-messages/import-and-author-html-email-content.md)
-      + [Voorvertonen, proeven en publiceren](/help/create-messages/preview-proof-and-publish.md)
-   + In-app berichten maken {#create-in-app}
-      + [In-app berichten voor campagnes](/help/create-messages/in-app-messaging-for-campaigns.md)
-      + [Een in-app bericht schrijven](/help/create-messages/author-in-app-messages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Content personaliseren {#personalize-content}
    + [Profiel- en segmentlidmaatschap-gebaseerde personalisatie](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
@@ -80,6 +78,7 @@ ht-degree: 94%
       + [Bronconnectors configureren](/help/set-up-data/configure-source-connectors.md)
    + Kanalen configureren {#channel-configuration}
       + [E-mailkanaal instellen](/help/set-up-channels/set-up-email-channel.md)
+      + [SMS API-referenties en kanaaloppervlakken configureren](/help/set-up-channels/set-up-sms-channel.md)
       + [CName-subdomeinen delegeren](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Regels voor berichtfrequentie configureren](/help/administration/configure-frequency-rules.md)
    + Journey&#39;s configureren {#journey-configuration}

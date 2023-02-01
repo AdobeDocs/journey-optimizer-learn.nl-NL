@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 4268144ade6588e48fc38cae7e542c227af96827
+source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
 workflow-type: tm+mt
-source-wordcount: '686'
-ht-degree: 3%
+source-wordcount: '635'
+ht-degree: 4%
 
 ---
 
@@ -33,19 +33,21 @@ Luma, start hun online winkel en wil een goede klantenervaring verzekeren door e
 
 ## Uw uitdaging
 
-Maak een reis die een bevestigingsbericht voor bestellingen verzendt wanneer een klant van een Luma een online bestelling voltooit. De Luma
+Maak een reis die een bevestigingsbericht voor bestellingen verzendt wanneer een klant van een Luma een online bestelling voltooit.
 
 >[!BEGINTABS]
 
 >[!TAB Taak]
 
 1. Een reis maken met de naam `Luma - Order Confirmation`
-2. Gebruik de gebeurtenis: `LumaOnlinePurchase` als trigger
+2. Gebruik de gebeurtenis: `LumaOnlinePurchase`
 3. Het opgeroepen bevestigingsbericht voor bestelling maken `Luma - Order Confirmation`:
 
 * Transactie in categorie - zorg ervoor dat u het oppervlak voor transactie-e-mail selecteert
 * De onderwerpregel moet zijn gepersonaliseerd met de voornaam van de ontvanger en de uitdrukking &quot;bedankt voor uw aankoop&quot; bevatten
 * Gebruik de `Luma - Order summary` sjabloon en wijzigen:
+   * Verwijder de `You may also like` secties
+   * Voeg de koppeling voor afmelden onder aan de e-mail toe
 
 De e-mail moet als volgt worden gestructureerd:
 <table>
@@ -56,7 +58,6 @@ De e-mail moet als volgt worden gestructureerd:
       </div>
   </td>
   <td>
-    <strong>Logo Luma</strong>
       <p>
      <li>luma_logo.png</li>
     <li>De website moet een link hebben naar de lumawebsite: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
@@ -72,10 +73,7 @@ De e-mail moet als volgt worden gestructureerd:
   <td>
     <p>
     <strong>Tekst</strong><p>
-    <em>Hey {voornaam}</em><p>
-    <li>Uitlijning: left  </li>
-   <li>Tekstkleur: rgb(69, 97, 162) #4461a2; 
-   <li>tekengrootte: 20 px</li>
+    <em>Hey {firstName}</em><p>
    <div>
     <p>
      <em>Uw bestelling is geplaatst.
@@ -87,28 +85,30 @@ De e-mail moet als volgt worden gestructureerd:
   <div>
      <strong> Naar sectie</strong>
       </div>
-      <p><li>Vervang het vaste gecodeerde adres in de sjabloon door het verzendadres 
-      <li>De adresdetails zijn contextafhankelijke kenmerken van de gebeurtenis (straat, plaats, postcode, staat)
+      <p>
       <li>Voornaam en achternaam zijn afkomstig uit het profiel
+      <li>Vervang het hard gecodeerde adres in het malplaatje met <b>verzendadres</b>
+      <li>De adresdetails zijn contextafhankelijke kenmerken van de gebeurtenis (straat 1, plaats, postcode, staat)
       <li> De korting, Totaal, Ophalen verwijderen</p>
   </td>
   <td>
   <p> Verzenden naar:</p>
-      <em>Achternaam voornaam<br>
-     Adres</em></p>
+      <em>{firstName} {lastName}<br>
+     {Street 1}<br>
+     {City}, {State} {postalCode}<br></em></p>
   </td>
  <tr>
 <td>
   <div>
      <strong>Sectie Bestelgegevens</strong>
       </div>
-       <p><li>Deze sectie toevoegen na de <b>Verzenden naar</b> en de <b>Volgorde weergeven</b> knop.
+       <p><li>Deze sectie toevoegen onder de sectie <b>Verzenden naar</b> sectie.
       </p><br>
       <p><b>Tips:</b>
+      <li>Gebruik de structuurcomponent "1:2 column left" voor deze sectie
       <li>Dit is contextuele gebeurtenisinformatie.
       <li>Gebruik de functie [!UICONTROL helper]: [!UICONTROL each]
       <li>Schakel over naar de indeling van de code-editor om de contextuele gegevens toe te voegen.
-      <li>Plaats de informatie in containers met DIV-tags.
   </td>
   <td>
     <strong>Koptekst</strong>
@@ -120,30 +120,6 @@ De e-mail moet als volgt worden gestructureerd:
   <p>Elk van de items moet als volgt worden opgemaakt:
    <img alt="bestellen" src="./assets/c2-order.png"> 
 </p>
-<strong>Afbeelding van product:</strong>
-<li>klasse: cart-item-stoel
-<li>stijl: border-box: min-height:40 px</li>
-<li>opvulling boven en onder:20 px</li>
-<li>padding-left:80 px</li>
-<li>border-radius:0 px</li>
-<li>Als achtergrondafbeelding voor de container gebruiken</li>
-<li>background-position: 0% 50%</li>
-<li>background-size: 60 px</li>
-<li>background-repeat: niet herhalen</li>
-<p>
-<strong>Prijs:</strong>
-<li>Format = H5</li>
-<li>style = box-sizing:border-box</li>
-<li>margin-bottom:5 px</li>
-<li>margin-top:0px;</li>
-<p>
-<strong>Naam en hoeveelheid:</strong>
-<li>class=text-small</li>
-<li>style=box-sizing: border-box</li>
-<li>opvulling boven: 5 px</li>
-<li>kleur: rgb(101, 106, 119)</li>
-<li>font-size:14px</li>
-<p>
 </td>
   </tr>
 </table>
@@ -166,16 +142,14 @@ Trigger de Reis u op testwijze creeerde en verzend e-mail naar me:
 3. De gebeurtenis activeren met de volgende parameters:
    * Stel de profiel-id in op: Identiteitswaarde:`a8f14eab3b483c2b96171b575ecd90b1`
    * Type gebeurtenis: commerce.purchase
-   * Naam: Sprite Yoga Companion Kit
-   * Aantal: 1
-   * `Price Total:` 61
+   * `Quantity`: 1
+   * `Price Total:` 69
    * `Purchase Order Number:` 6253728
-   * `SKU:` 24-WG080
-   * `productImageURL:` <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
-   * `City:` San Jose
-   * `Postal Code:` 95110
-   * `State`: CA
-   * `Street:` Park Ave
+   * `SKU:` LLMH09
+   * `City:` Washington
+   * `Postal Code:` 20099
+   * `State`: DC
+   * `Street:` Thierer Terrace
 
 U ontvangt het bevestigingsbericht voor een persoonlijke aankoop met het opgegeven product.
 
@@ -193,7 +167,11 @@ U ontvangt het bevestigingsbericht voor een persoonlijke aankoop met het opgegev
 
 **Onderwerpregel:**
 
-{{ profile.person.name.firstName }}, dank u voor uw aankoop!
+Bedankt voor uw aankoop, {{ profile.person.name.firstName }}!
+
+Zo ziet het e-mailadres eruit:
+
+![E-mail](//help/challenges/assets/c2-email.png)
 
 **Naar sectie verzenden:**
 
@@ -211,48 +189,25 @@ TIP: Elke regel afzonderlijk aanpassen
 
 **Sectie met details van volgorde:**
 
-![Sectie Bestelgegevens](/help/challenges/assets/c2-order-detail-section.png)
-
 Zo ziet uw code eruit:
 
 Koptekst:
 
 ```javascript
-Order: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
+Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
 ```
 
 **Lijst van producten:**
 
-Gebruik de hulpfunctie &quot;each&quot; om de lijst met producten te maken. Geef deze weer in een tabel. Zo ziet uw code eruit:
+Gebruik de hulpfunctie &quot;each&quot; om de lijst met producten te maken. Geef deze weer in een tabel. Zo moet uw code eruit zien (met specifieke variabelen zoals uw gebeurtenis-id) in plaats van `454181416` en uw organisatie I in plaats van `techmarketingdemos` ):
 
 ```javascript
-<div class="text-container" contenteditable="true">
-  <p><span class="acr-expression-field" contenteditable="false">{{#each context.journey.events.454181416.productListItems as |product|}}
-    </span></p>
-  <div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
-    <h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</h5>
-    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</div>
-    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div>
-  </div>
-  <div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
-  {{/each}}<p></p>
-  <p></p>
-</div>
+{{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p><p>Quantity: {{context.journey.events.454181416.productListItems.quantity}}</p></div></div></th></tr> {{/each}}
 ```
 
 **Totaalprijs:**
 
-Totaal:`${{context.journey.events.1627840522.commerce.order.priceTotal}}`
+Totaal:`${{context.journey.events.1627840522.commerce.order.priceTotal}}.00`
 
-**Sectie met klantgegevens**
-
-![Adres van klant](assets/c2-customer-information.png)
-
-De personalisatie moet er als volgt uitzien:
-
-```javascript
-{{profile.homeAddress.street1}}
-{{profile.homeAddress.city}},{{profile.homeAddress.state}} {{profile.homeAddress.postalCode}}
-```
 
 >[!ENDTABS]

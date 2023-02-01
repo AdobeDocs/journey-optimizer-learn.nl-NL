@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
+source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 5%
+source-wordcount: '198'
+ht-degree: 6%
 
 ---
 
@@ -23,13 +23,9 @@ De video bekijken [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
 
 ## Online koopgebeurtenis voor Luma maken
 
-1. Navigeer van de linkernavigatie naar [!UICONTROL ADMINISTRATIE] en selecteert u *[!UICONTROL Configuratie]*
-1. Van de [!UICONTROL Dashboard], selecteert u *[!UICONTROL Beheren*]* Gebeurtenissen
+Wanneer u deze gebeurtenis gebruikt, ontvangt Journey Optimizer informatie wanneer iemand online lumaproducten koopt.
 
-![Gebeurtenissen beheren](assets/create-events.png)
-
-1. Klikken *[!UICONTROL Gebeurtenis maken]*
-1. Vul de details en parameters van de gebeurtenis in:
+1. Maak een gebeurtenis met de volgende parameters:
 
    | [!UICONTROL Parameter] | [!UICONTROL Value] |
    |-------------|-----------|
@@ -39,7 +35,7 @@ De video bekijken [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
    | [!UICONTROL Schema] | `Luma Web Events Schema` |
    | [!UICONTROL Velden] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-1. Voeg de [!UICONTROL Voorwaarde van gebeurtenis-id]: `LumaOnlinePurchase.eventType is commerce.purchases`
+2. Voeg de [!UICONTROL Voorwaarde van gebeurtenis-id]: `LumaOnlinePurchase.eventType is commerce.purchases`
 
    1. Selecteer het potloodpictogram om het veld te bewerken
    2. Op de [!UICONTROL Voorwaarde voor een gebeurtenis-id toevoegen] modal, slepen en neerzetten `eventType` op het canvas

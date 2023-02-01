@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
+source-git-commit: 02625ddf2348f2754c821c8e49a1e70154fd6e63
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '653'
 ht-degree: 4%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 4%
 | Uitdaging | Transactie-e-mail voor bevestiging van bestelling maken |
 |---|---|
 | Persona | Reismanager |
-| Vereiste vaardigheden | <ul><li>[E-mailcontent maken met de berichteneditor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=en)</li> <li>[Contextuele gebeurtenisinformatie gebruiken voor personalisatie](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en)</li><li>[Helpfuncties gebruiken voor personalisatie](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)</li></ul> |
+| Vereiste vaardigheden | <ul><li>[E-mailcontent maken met de berichteneditor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[Contextuele gebeurtenisinformatie gebruiken voor personalisatie](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en)</li><li>[Helpfuncties gebruiken voor personalisatie](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)</li></ul> |
 | Te downloaden middelen | [Bevestigingsmiddelen bestellen](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
 ## Het artikel
@@ -86,7 +86,7 @@ De e-mail moet als volgt worden gestructureerd:
       </div>
       <p>
       <li>Voornaam en achternaam zijn afkomstig uit het profiel
-      <li>Vervang het hard gecodeerde adres in het malplaatje met <b>verzendadres</b>
+      <li>Vervang het hard-gecodeerde adres in het malplaatje met <b>verzendadres</b>
       <li>De adresdetails zijn contextafhankelijke kenmerken van de gebeurtenis (straat 1, plaats, postcode, staat)
       <li> Verwijderen <i>Korting, totaal, aanschaffen</i></p>
   </td>
@@ -117,7 +117,7 @@ De e-mail moet als volgt worden gestructureerd:
     <strong>Lijst met bestelde producten:
   </strong>
   <p>Geef elk product in de volgorde weer met een afbeelding, de prijs en de naam.
-  <p>De lay-out van elk punt zou als volgt moeten kijken:
+  <p>De lay-out van elk item moet er als volgt uitzien:
    <img alt="bestellen" src="./assets/c2-order.png"> 
 <p><b>De koppeling naar het winkelwagentje toevoegen</b>
 <p>Vervang de bestellings-id in de URL door het inkoopordernummer:
@@ -129,15 +129,15 @@ De e-mail moet als volgt worden gestructureerd:
 
 >[!TIP]
 >
->Om u toe te staan om uw reizen problemen op te lossen, beste praktijken moeten een alternatief weg aan alle berichtacties in het geval van onderbreking of fout toevoegen.
+>Om u toe te staan om uw reizen problemen op te lossen, beste praktijken moeten een alternatieve weg aan alle berichtacties toevoegen als er een onderbreking of een fout is.
 
 >[!TAB Succescriteria]
 
-Trigger de Reis u op testwijze creeerde en verzend e-mail naar me:
+Trigger de Reis die u in testwijze creeerde en verzend e-mail naar me:
 
 1. Voordat u overschakelt naar de testmodus, overschrijft u de parameters voor e-mail die u naar het teste-mailadres wilt verzenden.
    1. Open de weergave E-maildetails.
-   2. Klik in de e-mailparameters op het T-symbool (schakel parameteroverschrijving in)
+   2. Klik in het gedeelte E-mailparameters op het T-symbool (parameteroverschrijving inschakelen)
    3. Klik in het veld Adres
    4. Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: *&quot;yourname@yourdomain&quot;* in de uitdrukkingsredacteur en klik o.k.
 2. Het traject in testmodus zetten
@@ -159,7 +159,7 @@ Je ontvangt het bevestigingsbericht voor een persoonlijke aankoop.
 
 * Zo ziet het e-mailadres eruit:
 
-![E-mail](//help/challenges/assets/c2-email.png)
+![E-mail](/help/challenges/assets/c2-email.png)
 
 >[!TAB Uw werk controleren]
 
@@ -184,11 +184,11 @@ Zo ziet uw code eruit:
 {{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
 ```
 
-*event.45481416* wordt een ander nummer voor u.
+*event.45481416* Dit is een ander nummer voor jou.
 
 TIP: Elke regel afzonderlijk aanpassen
 
-**Sectie met details van volgorde:**
+**Sectie met orderdetails:**
 
 Zo ziet uw code eruit:
 

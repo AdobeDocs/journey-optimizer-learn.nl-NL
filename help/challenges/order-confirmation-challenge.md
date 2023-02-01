@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
+source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '654'
 ht-degree: 4%
 
 ---
@@ -41,10 +41,9 @@ Maak een reis die een bevestigingsbericht voor bestellingen verzendt wanneer een
 
 1. Een reis maken met de naam `Luma - Order Confirmation`
 2. Gebruik de gebeurtenis: `LumaOnlinePurchase`
-3. Het opgeroepen bevestigingsbericht voor bestelling maken `Luma - Order Confirmation`:
+3. Een **transactie**  email geroepen `Luma - Order Confirmation`
 
-* Transactie in categorie - zorg ervoor dat u het oppervlak voor transactie-e-mail selecteert
-* De onderwerpregel moet zijn gepersonaliseerd met de voornaam van de ontvanger en de uitdrukking &quot;bedankt voor uw aankoop&quot; bevatten
+* De onderwerpregel &quot;Bedankt voor uw aankoop, `FirstName`&quot;
 * Gebruik de `Luma - Order summary` sjabloon en wijzigen:
    * Verwijder de `You may also like` secties
    * Voeg de koppeling voor afmelden onder aan de e-mail toe
@@ -60,7 +59,7 @@ De e-mail moet als volgt worden gestructureerd:
   <td>
       <p>
      <li>luma_logo.png</li>
-    <li>De website moet een link hebben naar de lumawebsite: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
+    <li>De website moet een link hebben naar de lumawebsite: https://luma.enablementadobe.com/content/luma/us/en.html</li>
     <p>
     </td>
   </tr>
@@ -73,7 +72,7 @@ De e-mail moet als volgt worden gestructureerd:
   <td>
     <p>
     <strong>Tekst</strong><p>
-    <em>Hey {firstName}</em><p>
+    <em>Hey {firstName},</em><p>
    <div>
     <p>
      <em>Uw bestelling is geplaatst.
@@ -89,7 +88,7 @@ De e-mail moet als volgt worden gestructureerd:
       <li>Voornaam en achternaam zijn afkomstig uit het profiel
       <li>Vervang het hard gecodeerde adres in het malplaatje met <b>verzendadres</b>
       <li>De adresdetails zijn contextafhankelijke kenmerken van de gebeurtenis (straat 1, plaats, postcode, staat)
-      <li> De korting, Totaal, Ophalen verwijderen</p>
+      <li> Verwijderen <i>Korting, totaal, aanschaffen</i></p>
   </td>
   <td>
   <p> Verzenden naar:</p>
@@ -105,7 +104,7 @@ De e-mail moet als volgt worden gestructureerd:
        <p><li>Deze sectie toevoegen onder de sectie <b>Verzenden naar</b> sectie.
       </p><br>
       <p><b>Tips:</b>
-      <li>Gebruik de structuurcomponent "1:2 column left" voor deze sectie
+      <li>De structuurcomponent gebruiken <b>1:2, kolom links</b> voor deze sectie
       <li>Dit is contextuele gebeurtenisinformatie.
       <li>Gebruik de functie [!UICONTROL helper]: [!UICONTROL each]
       <li>Schakel over naar de indeling van de code-editor om de contextuele gegevens toe te voegen.
@@ -113,13 +112,16 @@ De e-mail moet als volgt worden gestructureerd:
   <td>
     <strong>Koptekst</strong>
     <p>
-    <em>Volgorde: ` purchaseOrderNumber`</em>
+  Volgorde: <em>{purchaseOrderNumber}</em>
     </p>
     <strong>Lijst met bestelde producten:
   </strong>
-  <p>Elk van de items moet als volgt worden opgemaakt:
+  <p>Geef elk product in de volgorde weer met een afbeelding, de prijs en de naam.
+  <p>De lay-out van elk punt zou als volgt moeten kijken:
    <img alt="bestellen" src="./assets/c2-order.png"> 
-</p>
+<p><b>De koppeling naar het winkelwagentje toevoegen</b>
+<p>Vervang de bestellings-id in de URL door het inkoopordernummer:
+   <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
 </td>
   </tr>
 </table>
@@ -133,28 +135,31 @@ De e-mail moet als volgt worden gestructureerd:
 
 Trigger de Reis u op testwijze creeerde en verzend e-mail naar me:
 
-1. Verborgen waarden weergeven door op het oogsymbool te klikken:
-   1. Klik in de e-mailparameters op het T-symbool (schakel parameteroverschrijving in)
-      ![E-mailparameters overschrijven](/help/challenges/assets/c3-override-email-paramters.jpg)
-   2. Klik in het veld Adres
-   3. Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: *yourname@yourdomain* in de uitdrukkingsredacteur en klik o.k.
+1. Voordat u overschakelt naar de testmodus, overschrijft u de parameters voor e-mail die u naar het teste-mailadres wilt verzenden.
+   1. Open de weergave E-maildetails.
+   2. Klik in de e-mailparameters op het T-symbool (schakel parameteroverschrijving in)
+   3. Klik in het veld Adres
+   4. Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: *&quot;yourname@yourdomain&quot;* in de uitdrukkingsredacteur en klik o.k.
 2. Het traject in testmodus zetten
 3. De gebeurtenis activeren met de volgende parameters:
    * Stel de profiel-id in op: Identiteitswaarde:`a8f14eab3b483c2b96171b575ecd90b1`
    * Type gebeurtenis: commerce.purchase
    * `Quantity`: 1
    * `Price Total:` 69
-   * `Purchase Order Number:` 6253728
+   * `Purchase Order Number:` 90845952-c2ea-4872-8466-5289183e4607
    * `SKU:` LLMH09
-   * `City:` Washington
-   * `Postal Code:` 20099
-   * `State`: DC
-   * `Street:` Thierer Terrace
+   * `City:`San Jose
+   * `Postal Code:` 95119
+   * `State`: CA
+   * `Street:` 245 Park Avenue
 
-U ontvangt het bevestigingsbericht voor een persoonlijke aankoop met het opgegeven product.
+Je ontvangt het bevestigingsbericht voor een persoonlijke aankoop.
 
 * De onderwerpregel moet de voornaam van het testprofiel hebben: Leora
-* De sectie met orderdetails moet worden gevuld met de orderdetails die u hebt ingevoerd tijdens het testen
+
+* Zo ziet het e-mailadres eruit:
+
+![E-mail](//help/challenges/assets/c2-email.png)
 
 >[!TAB Uw werk controleren]
 
@@ -168,10 +173,6 @@ U ontvangt het bevestigingsbericht voor een persoonlijke aankoop met het opgegev
 **Onderwerpregel:**
 
 Bedankt voor uw aankoop, {{ profile.person.name.firstName }}!
-
-Zo ziet het e-mailadres eruit:
-
-![E-mail](//help/challenges/assets/c2-email.png)
 
 **Naar sectie verzenden:**
 
@@ -202,8 +203,12 @@ Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}
 Gebruik de hulpfunctie &quot;each&quot; om de lijst met producten te maken. Geef deze weer in een tabel. Zo moet uw code eruit zien (met specifieke variabelen zoals uw gebeurtenis-id) in plaats van `454181416` en uw organisatie I in plaats van `techmarketingdemos` ):
 
 ```javascript
-{{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p><p>Quantity: {{context.journey.events.454181416.productListItems.quantity}}</p></div></div></th></tr> {{/each}}
+{{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}
 ```
+
+**Knop voor weergavevolgorde:**
+
+`https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId={{context.journey.events.454181416.commerce.order.purchaseOrderNumber}}`
 
 **Totaalprijs:**
 

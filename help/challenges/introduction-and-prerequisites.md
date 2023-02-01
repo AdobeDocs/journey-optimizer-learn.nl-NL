@@ -6,7 +6,7 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
+source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 9%
@@ -27,7 +27,7 @@ Elke uitdaging in deze sectie richt een uniek gebruiksgeval dat u uitvoert. Het 
 
 * Toegang tot een Journey Optimizer-sandbox. We raden u aan de uitdaging in een speciale trainingssandbox te voltooien.
 * AEM Assets Essentials moet zijn ingericht voor uw exemplaar
-* Het e-mailkanaal moet zijn geconfigureerd voor transactie- en marketingberichten
+* De e-mailkanalen moeten zijn geconfigureerd voor transactie- en marketingberichten
 
 ### Toegangsrechten
 

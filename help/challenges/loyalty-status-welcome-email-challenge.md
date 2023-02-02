@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
+source-git-commit: a4fafe243435a9a52c6aa555c745f917a4e8663d
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '426'
 ht-degree: 3%
 
 ---
@@ -38,13 +38,13 @@ U bent gevraagd om een reis op te zetten die automatisch een welkome e-mail naar
 
 >[!TAB Taak]
 
-Wanneer een loyaliteitsklant voor de platina tier in aanmerking komt, zouden zij en e-mail moeten ontvangen om hen van hun nieuwe voordelen te feliciteren en te informeren. Het creatieve team heeft een HTML-bestand geleverd **[Luma - statusupgrade - welkomstmail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** met de e-mailhoofdtekst.
+Wanneer een loyaliteitsklant voor de platina tier kwalificeert, zouden zij een e-mail moeten ontvangen om hen van hun nieuwe voordelen te feliciteren en te informeren. Het creatieve team heeft een HTML-bestand geleverd **[Luma - statusupgrade - welkomstmail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** met de e-mailhoofdtekst.
 
-1. Een [!UICONTROL segment] in Journey Optimizer `Luma – status upgrade`.
+1. Een [!UICONTROL segment] in Journey Optimizer `Luma – platinum status`.
 2. Een reis maken met de naam `Luma – New Status – platinum`.
    1. Een klant beweegt zich in de reis, wanneer zij voor de platina loyaliteitslaag in aanmerking komen.
-   2. De klant moet een e-mailbericht ontvangen met het label `Luma – Platinum Status - Welcome`, met de onderwerpregel `Welcome to Platinum Status, (recipient's first name)!` via e-mail van het creatieve team. Dit is een [!UICONTROL transactie] e-mail.
-   3. Wanneer u het HTML-bestand uploadt, ziet u dat het e-mailbericht verwijst naar de status &#39;ruit&#39; in plaats van naar &#39;platina&#39;. Werk de e-mail bij in de e-mailontwerper in plaats van een nieuw bestand aan te vragen bij het creatieve team.
+   2. De klant moet een e-mailbericht ontvangen met het label `Luma – Platinum Status - Welcome`, met de onderwerpregel `Welcome to Platinum Status, {firstName}!` via e-mail van het creatieve team. Dit is een [!UICONTROL transactie] e-mail.
+   3. Wanneer u het HTML-bestand uploadt, ziet u dat het e-mailbericht verwijst naar de status &#39;ruit&#39; in plaats van naar &#39;platina&#39;. Werk de e-mail in de [!UICONTROL e-mailontwerper].
 
 >[!TAB Succescriteria]
 
@@ -52,30 +52,27 @@ Test uw reis:
 
 1. Zorg ervoor dat de [!UICONTROL Segmentactiviteit lezen] de [!UICONTROL namespace] instellen op **[!DNL Luma CRM id(lumaCrmId)]**
 2. De standaardinstelling overschrijven [!UICONTROL e-mailparameters] en stel het in op uw eigen e-mailadres
-   * Verborgen waarden weergeven door op het oogsymbool te klikken.
    * In de [!UICONTROL E-mailparameters], klikt u op het T-symbool (parameteroverschrijving inschakelen)
-
-       ![E-mailparameters negeren](/help/challenges/assets/c3-override-email-paramters.jpg)
-   
    * Klik in de [!UICONTROL Adresveld]
    * Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: `"yourname@yourdomain"` in de uitdrukkingsredacteur en klik o.k.
-
-
 3. De overgang naar de testmodus instellen
-4. Een gebeurtenis activeren
+4. Selecteren **Een gebeurtenis activeren**
 5. Voeg het volgende toe [!DNL CRM ID] for `Stanleigh Stooke` in de [!UICONTROL Profiel-id] veld: `4f34057d9d9e792c28ba18ecae378e98`
 
 **Resultaat:** U moet de gepersonaliseerde *Luma - platina Status - Welkom* e-mail.
 
+Zo ziet de e-mail eruit:
+
+![Luma - statusupgrade - welkomstmail](/help/challenges/assets/status-upgrade-welcome-email.png)
+
 >[!TAB Uw werk controleren]
+
+Zo ziet het segment eruit:
+
+![Luma - platina status - segment](/help/challenges/assets/c3-segment.png)
 
 Zo ziet uw reis eruit:
 
 ![platina-status-upgrade-reis](/help/challenges/assets/journey-luma-status-upgrade.png)
-
-
-Zo ziet de e-mail eruit:
-
-![Luma - statusupgrade - welkomstmail](/help/challenges/assets/status-upgrade-welcome-email.png)
 
 >[!ENDTABS]

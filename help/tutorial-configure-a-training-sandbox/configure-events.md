@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
+source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '195'
 ht-degree: 6%
 
 ---
@@ -68,7 +68,7 @@ Wanneer u deze gebeurtenis gebruikt, ontvangt Journey Optimizer informatie wanne
 | [!UICONTROL NAAM] | `LumaProductRestock` |
 | [!UICONTROL TYPE] | [!UICONTROL Zakelijk] |
 | [!UICONTROL Schema] | [!DNL Luma Product Inventory Events] |
-| [!UICONTROL Velden] | productID <br> stockEventType<br><b>In product > Luminaproducten > *[!DNL yourOrganizationID]* > Product:</b> <br>Naam<br>Prijs<br> ProductImageURL<br>Beschrijving |
+| [!UICONTROL Velden] | SKU <br> stockEventType<br><b> yourOrganizationID > product:</b> <br>name<br>prijs<br> ImageURL<br>beschrijving |
 | [!UICONTROL Condition] | LumaProductRestock._`your organization's ID`.voorraadEvent.stockEventType is restock |
 
 ## Gefeliciteerd

@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
 workflow-type: tm+mt
-source-wordcount: '609'
-ht-degree: 1%
+source-wordcount: '570'
+ht-degree: 2%
 
 ---
 
@@ -30,62 +30,34 @@ Wanneer klanten op de Luma-website bladeren, kunnen ze producten toevoegen die z
 
 Luma vraagt u om een reis in Journey Optimizer uit te voeren die klanten op de hoogte brengt, die een punt op hun verlanglijst hebben dat eerder verouderd was, wanneer dit punt weer in voorraad is.
 
-## Definieer het segment - items in de Wishlist-lijst buiten de voorraad
+>[!BEGINTABS]
 
-Om potentiële geïnteresseerde klanten te richten wanneer de producten worden herbevolkt, creeer een segment dat uit klanten bestaat
+>[!TAB Taak]
 
-* Wie ten minste één item aan hun verlanglijst heeft toegevoegd (gebeurtenistype gebruiken: [!UICONTROL Opslaan voor later])
-* Welke **uit voorraad** in de laatste drie maanden (gebruik voorraad = 0)
+## 1. Definieer het segment - items in de Wishlist-lijst buiten de voorraad
+
+Om potentiële geïnteresseerde klanten te richten wanneer de producten worden herbevolkt, creeer een segment dat uit klanten bestaat:
+
+* Wie ten minste één item aan hun verlanglijst heeft toegevoegd (gebruik het gebeurtenistype: [!UICONTROL Opslaan voor later])
+* die in de laatste drie maanden niet meer in voorraad was (voorraadhoeveelheid = 0)
 * En heb het object sindsdien niet gekocht.
 
-Geef dit segment een naam: *uw naam - Verouderd*
-
-+++**UW WERK CONTROLEREN**
-
-Zo ziet uw segment eruit:
-
-![Segment - Afzonderlijke items op de Wishlist](/help/challenges/assets/C1-S2.png)
-
-Klanten die een item aan hun verlanglijst hebben toegevoegd dat de afgelopen drie maanden uit voorraad was:
-
-* Gebeurtenis: Opslaan voor later
-   * Inclusief minimaal 1
-   * Wanneer de voorraadhoeveelheid gelijk is aan 0
-
-en het object sindsdien niet hebben gekocht:
-
-* Sluit alle de gebeurtenistypen van Aankopen uit waar SKU SKU van SKU van **De gebeurtenis Opslaan voor later**.
-
 >[!TIP]
-> * Selecteer de SKU onder Opslaan voor later in het dialoogvenster *Door variabelen bladeren* sectie
-> * Gebruik de vergelijkingsoptie wanneer u de SKU onder Opslaan voor later in het gebeurtenisveld plaatst
+>Sluit alle de gebeurtenistypen van Aankopen uit waar SKU SKU van SKU van *De gebeurtenis Opslaan voor later*. U kunt het veld vinden in het dialoogvenster *Door variabelen bladeren* sectie.
+
+Geef dit segment een naam: `Out-of-stock-Wishlist`
 
 
-Controleer de code in de rechterbenedenhoek van het scherm Segment bewerken onder Gebeurtenissen. De code moet er als volgt uitzien:
-
-Code:
-```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
-
-+++
-
-### E-mail maken - Luminantiefunctie voor productvervanging
-
-Klanten op de hoogte stellen die een product uit de voorraad hebben toegevoegd met een oproep om te gaan winkelen, nu het product weer in voorraad is.
-
-### Maak een reis - kennisgeving van de productvoorraad
+### 2. Maak een reis - kennisgeving van de productvoorraad
 
 Wanneer een eerder out-of-stock item weer in voorraad is, geeft u klanten die een out-of-stock item hadden toegevoegd een oproep om te gaan winkelen, nu het item weer in voorraad is.
 
-1. Een reis maken met de naam &quot;uw naam_Luma - Productherstart
-1. De reis moet worden gestart wanneer een product weer in voorraad is
-1. Verzend de *Luminageproduct vervangen* e-mailen naar
-1. Gebruikers die dit item aan hun verlanglijst hadden toegevoegd terwijl het uit voorraad was
+1. Bel de reis: `Product Restock`
+2. De reis moet worden gestart wanneer een product weer in voorraad is
+3. Verzend de *Luminageproduct vervangen* e-mailen naar
+4. Gebruikers die dit item aan hun verlanglijst hadden toegevoegd terwijl het uit voorraad was
 
->[!TIP]
->
-> Gebruik de bestaande bedrijfsgebeurtenis. U moet een voorwaarde toevoegen die controleert dat restock SKU inbegrepen in (om het even welk) gebeurtenistype sparen voor Lagen is.
-
-+++**SUCCESCRITERIA**
+>[!TAB Succescriteria]
 
 Test uw reis:
 
@@ -104,9 +76,14 @@ Test uw reis:
 
 U ontvangt de e-mail &quot;Luma Email Product Replenging&quot; met de productgegevens en de personalisatie voor Wenen.
 
-+++
+>[!TAB Uw werk controleren]
 
-+++**UW WERK CONTROLEREN**
+Zo ziet uw segment eruit:
+
+![Segment - Afzonderlijke items op de Wishlist](/help/challenges/assets/C1-S2.png)
+
+
+
 
 Zo ziet uw reis eruit:
 
@@ -120,4 +97,29 @@ Voorwaardencode:
 
 ```in(@{LumaProductRestock._wwfovlab065.sku},#{ExperiencePlatform.ExperienceEvents.experienceevent.all(currentDataPackField.eventType=="commerce.saveForLaters").productListItems.all().SKU})```
 
-+++
+
+>[!TIP]
+> * Selecteer de SKU onder Opslaan voor later in het dialoogvenster *Door variabelen bladeren* sectie
+> * Gebruik de vergelijkingsoptie wanneer u de SKU onder Opslaan voor later in het gebeurtenisveld plaatst
+
+
+Controleer de code in de rechterbenedenhoek van het scherm Segment bewerken onder Gebeurtenissen. De code moet er als volgt uitzien:
+
+Code:
+```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
+
+>[!ENDTABS]
+
+### E-mail maken - Luminantiefunctie voor productvervanging
+
+Klanten op de hoogte stellen die een product uit de voorraad hebben toegevoegd met een oproep om te gaan winkelen, nu het product weer in voorraad is.
+
+
+
+>[!TIP]
+>
+> Gebruik de bestaande bedrijfsgebeurtenis. U moet een voorwaarde toevoegen die controleert dat restock SKU inbegrepen in (om het even welk) gebeurtenistype sparen voor Lagen is.
+
+
+
+

@@ -7,10 +7,11 @@ kt: 9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
+hide: true
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
+source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '191'
 ht-degree: 6%
 
 ---
@@ -19,7 +20,9 @@ ht-degree: 6%
 
 In deze sectie stelt u de drie gebeurtenissen in die vereist zijn voor de praktische oefeningen in de [Journey Optimizer-uitdagingen](/help/challenges/introduction-and-prerequisites.md).
 
-De video bekijken [Gebeurtenissen maken](/help/set-up-journeys/create-events.md) voor richtlijnen over het maken van gebeurtenissen.
+In de volgende video wordt uitgelegd hoe u gebeurtenissen kunt maken:
+
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12)
 
 ## Online koopgebeurtenis voor Luma maken
 
@@ -61,7 +64,7 @@ Wanneer u deze gebeurtenis gebruikt, ontvangt Journey Optimizer informatie wanne
 | [!UICONTROL Condition] | [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters] |
 | [!UICONTROL Naamruimte] | E-mail (e-mail) |
 
-## Maken *[!DNL Luma Product Restock] Gebeurtenis
+## Maken *[!DNL Luma Product Restock]* Gebeurtenis
 
 | [!UICONTROL Parameter] | [!UICONTROL Value] |
 |-------------|-----------|

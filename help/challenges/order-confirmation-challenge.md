@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 02625ddf2348f2754c821c8e49a1e70154fd6e63
+source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 4%
@@ -42,7 +42,6 @@ Maak een reis die een bevestigingsbericht voor bestellingen verzendt wanneer een
 1. Een reis maken met de naam `Luma - Order Confirmation`
 2. Gebruik de gebeurtenis: `LumaOnlinePurchase`
 3. Een **transactie**  email geroepen `Luma - Order Confirmation`
-
 * De onderwerpregel &quot;Bedankt voor uw aankoop, `FirstName`&quot;
 * Gebruik de `Luma - Order summary` sjabloon en wijzigen:
    * Verwijder de `You may also like` secties

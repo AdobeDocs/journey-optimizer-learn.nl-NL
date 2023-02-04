@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
+source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '340'
 ht-degree: 5%
 
 ---
@@ -33,18 +33,11 @@ Voordat u begint met het instellen van de trainingssandbox, moet u controleren o
 1. [Voorinstellingen voor e-mailberichten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channel-configuration/set-up-email-channel.html?lang=en) geconfigureerd voor marketing en transactieberichten.
 1. **[!UICONTROL Reisbeheerder]** en **[!UICONTROL Data Manager]** rechten voor de trainingssandbox.
 1. Uw [organisatie-id](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=nl).
-
 1. De JSON-bestanden met de voorbeeldgegevens, geconfigureerd voor uw Journey Optimizer-instantie:
-
    1. Download de `luma-sample-data.zip` file [hier](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-sample-data.zip), die alle JSON-bestanden bevat die voor deze zelfstudie zijn vereist.
-
-   1. Verplaats vanuit de downloadmap de `luma-data.zip` naar de gewenste locatie op de computer en decomprimeer het bestand.
-
-      Deze bestanden bevatten de voorbeeldgegevens voor uw trainingssandbox.
-
-   2. Elk bestand openen en zoeken **`yourOrganizationID`** en vervang het door uw [organisatie-id](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=nl).
-
-   3. Sla de bestanden op.
+   1. Verplaats vanuit de downloadmap de `luma-data.zip` naar de gewenste locatie op de computer en decomprimeer het bestand. Deze bestanden bevatten de voorbeeldgegevens voor de trainingssandbox.
+   1. Elk bestand openen en zoeken **`yourOrganizationID`** en vervang het door uw [organisatie-id](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=nl).
+   1. Sla de bestanden op.
 
 ## Laten we aan de slag gaan
 

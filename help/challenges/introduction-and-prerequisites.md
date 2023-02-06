@@ -6,9 +6,9 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '456'
 ht-degree: 9%
 
 ---
@@ -25,7 +25,7 @@ Elke uitdaging in deze sectie richt een uniek gebruiksgeval dat u uitvoert. Het 
 
 ### Systeemvereisten
 
-* Toegang tot een Journey Optimizer-sandbox. We raden u aan de uitdaging in een speciale trainingssandbox te voltooien.
+* Toegang tot een Journey Optimizer-sandbox - het wordt aanbevolen de uitdaging in een specifieke trainingssandbox te voltooien.
 * AEM Assets Essentials moet zijn ingericht voor uw exemplaar
 * De e-mailkanalen moeten zijn geconfigureerd voor transactie- en marketingberichten
 
@@ -40,7 +40,7 @@ U hebt de volgende toegangsrechten nodig:
 
 ### Vereiste acties
 
-* Als u nog geen ervaring hebt met Adobe Journey Optimizer, voert u de cursus uit [Aan de slag met Journey Optimizer for Journey Managers en Beheerders](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1).
+* Als u nog geen ervaring hebt met Adobe Journey Optimizer, voert u de cursus uit [Aan de slag met Journey Optimizer for Journey Managers en Beheerders](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html).
 
 
 ## Het artikel
@@ -69,7 +69,7 @@ Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en d
       <b>Vereiste vaardigheden:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Segmenten maken</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">Segment lezen</li>
-       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">HTML e-mailinhoud importeren</li>
+       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html">HTML e-mailinhoud importeren</li>
   </td>
   </tr>
    <tr>
@@ -91,7 +91,7 @@ Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en d
     <b>Vereiste vaardigheden:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Segmenten maken</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html">Segmentkwalificatie</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">HTML-e-mailcontent importeren en opstellen</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html">HTML-e-mailcontent importeren en opstellen</li>
   </td>
   </tr>
   <tr>
@@ -111,7 +111,7 @@ Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en d
     </em>
     <p>
     <b>Vereiste vaardigheden:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-content-with-the-email-designer.html"> E-mailcontent maken met de berichteneditor</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html"> E-mailcontent maken met de berichteneditor</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">Contextuele gebeurtenisinformatie gebruiken voor personalisatie</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">Helpfuncties gebruiken voor personalisatie</li>
   </td>

@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 2f7074e5d9109cdbc1db69f6f5c48667b2276da7
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '580'
 ht-degree: 2%
 
 ---
@@ -19,12 +19,12 @@ ht-degree: 2%
 | Uitdaging | Productvervanging |
 |---|---|
 | Persona | Reismanager |
-| Vereiste vaardigheden | <ul><li>[Segmenten maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=en)</li><li> [HTML-e-mailcontent importeren en opstellen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=en)</li><li>[Gebruiksscenario - Leessegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
+| Vereiste vaardigheden | <ul><li>[Segmenten maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [HTML-e-mailcontent importeren en opstellen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=en)</li><li>[Gebruiksscenario - Leessegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
 | Te downloaden middelen | [E-mailbestand voor productvoorraad](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## Het artikel
 
-Wanneer klanten op de Luma-website bladeren, kunnen ze producten toevoegen die ze graag willen zien. Dit staat Luma toe om de klanten gerichte marketing berichten en informatie over de producten te verzenden.
+Wanneer klanten op de Luma-website bladeren, kunnen ze producten toevoegen die ze graag willen zien, zodat Luma de klanten gerichte marketingberichten en informatie over de producten kan sturen.
 
 ## Uw uitdaging
 
@@ -54,7 +54,7 @@ Wanneer een eerder out-of-stock item weer in voorraad is, geeft u klanten die ee
 
 1. Bel de reis: `Product Restock`
 2. De reis moet worden gestart wanneer een product weer in voorraad is
-3. Verzend de *E-mailadres voor productvoorraad* e-mailen naar
+3. Verzend de *E-mailadres voor productvoorraad* tot
 4. Gebruikers die dit item aan hun verlanglijst hadden toegevoegd terwijl het uit voorraad was
 
 >[!TAB Succescriteria]
@@ -116,7 +116,7 @@ Klanten op de hoogte stellen die een product uit de voorraad hebben toegevoegd m
 
 >[!TIP]
 >
-> Gebruik de bestaande bedrijfsgebeurtenis. U moet een voorwaarde toevoegen die controleert dat restock SKU inbegrepen in (om het even welk) gebeurtenistype sparen voor Lagen is.
+> Gebruik de bestaande bedrijfsgebeurtenis. Voeg een voorwaarde toe die controleert dat restock SKU in (om het even welk) gebeurtenistype sparen voor laters inbegrepen is.
 
 
 

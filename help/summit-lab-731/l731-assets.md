@@ -8,13 +8,13 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: ce271a2bbddd7cd36d773cc9360d9a0724f0c77d
+exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
+source-git-commit: 5557b1d2005c62ce738120e80c3450545725ba65
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '178'
 ht-degree: 3%
 
 ---
-
 
 # Top Lab L731
 
@@ -38,7 +38,12 @@ Deze pagina bevat tekst en koppelingen die worden gebruikt in het Lab van de L73
 
 ## Les 3 Een OmniChannel-reis maken
 
-| Bericht | Tekst | Koppelingen |
+| Bericht | Tekst | Koppelingen | Afbeelding |
 |----|----|----|
 | Sms | Welkom in Vegas. De regel overslaan en inchecken met de mobiele app: lab://checkin |  |
-| Push | Welkom in Vegas. De regel overslaan en inchecken met de mobiele app | lab://checkin |
+| Push | Welkom in Vegas. De regel overslaan en inchecken met de mobiele app | lab://checkin |  |
+
+
+Dit is het beeld wij voor SMS en het Push bericht gebruiken:
+
+![Online inchecken](/help/assets/vegas_online_check_in.jpeg)

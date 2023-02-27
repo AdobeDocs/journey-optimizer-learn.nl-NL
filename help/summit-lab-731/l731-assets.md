@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 5557b1d2005c62ce738120e80c3450545725ba65
+source-git-commit: 16031e0e4ef29f5243a7a2e933aa83d7b1fbd7ac
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '188'
 ht-degree: 3%
 
 ---
@@ -38,12 +38,12 @@ Deze pagina bevat tekst en koppelingen die worden gebruikt in het Lab van de L73
 
 ## Les 3 Een OmniChannel-reis maken
 
-| Bericht | Tekst | Koppelingen | Afbeelding |
-|----|----|----|
+| Bericht | Tekst | Diepe koppeling | Media |
+|----|----|----|----|
+| Push | Welkom in Vegas. De regel overslaan en inchecken met de mobiele app | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
 | Sms | Welkom in Vegas. De regel overslaan en inchecken met de mobiele app: lab://checkin |  |
-| Push | Welkom in Vegas. De regel overslaan en inchecken met de mobiele app | lab://checkin |  |
 
 
 Dit is het beeld wij voor SMS en het Push bericht gebruiken:
 
-![Online inchecken](/help/assets/vegas_online_check_in.jpeg)
+![Online inchecken](/help/assets/vegas_online_check_in.jpg)

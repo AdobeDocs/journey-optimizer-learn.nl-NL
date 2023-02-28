@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 16031e0e4ef29f5243a7a2e933aa83d7b1fbd7ac
+source-git-commit: 01216aba7c23af67ad131aa24f017f95e6fa9025
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 3%
+source-wordcount: '214'
+ht-degree: 2%
 
 ---
 
@@ -20,13 +20,21 @@ ht-degree: 3%
 
 Deze pagina bevat tekst en koppelingen die worden gebruikt in het Lab van de L731-top. Hiermee kunt u de inhoud naar Journey Optimizer-berichten kopiëren en plakken.
 
-## Les 1 - De app downloaden en installeren
+## Oefening 1.1 - De app downloaden en installeren
 
-[http://ajolab.s3-website-us-east-1.amazonaws.com/index.html](http://ajolab.s3-website-us-east-1.amazonaws.com/index.html)
+[Klik hier om de toepassing te installeren](https://testflight.apple.com/join/H0N5iWvW)
 
-## Les 2 - Mobiele campagnes maken
+## Oefening 1.3: Aanmelden bij Adobe Journey Optimizer
 
-### Oefening 2.1 Een campagne in de app maken
+[Klik hier om u aan te melden bij Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
+
+**Aanmeldingsgegevens:**
+
+* Gebruikersnaam: `L731+<your seat number>@summitlab.us`
+* Wachtwoord: Adobe 2023!
+
+
+## Oefening 2.1 Een campagne in de app maken
 
 | Veld | Tekst | Koppelingen |
 |----|----|----|
@@ -34,6 +42,7 @@ Deze pagina bevat tekst en koppelingen die worden gebruikt in het Lab van de L73
 | Titel | Het gebeurt en het is live! |  |
 | Lichaam | Adobe Summit keert terug naar Las Vegas March 21-23, 2023. Bereid u voor op inspirerende luidsprekers, sessies die de vaardigheden uitbreiden en nieuwe verbindingen. |  |
 | Knop | Boekhotel nu en bespaar 10% | lab://booking?suite=presidential&amp;discount=10 |
+
 
 
 ## Les 3 Een OmniChannel-reis maken

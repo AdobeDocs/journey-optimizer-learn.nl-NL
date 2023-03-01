@@ -1,5 +1,5 @@
 ---
-title: Gegevens handmatig verzamelen
+title: Gegevenssets maken en gegevens opnemen
 description: Maak gegevenssets en voeg handmatig voorbeeldgegevens in.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
@@ -9,19 +9,18 @@ level: Beginner
 hide: true
 recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
-source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
+source-git-commit: 2a671ad01f1cdb60c731a707b0584bf2f4262d9b
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 8%
+source-wordcount: '88'
+ht-degree: 7%
 
 ---
 
 # Gegevenssets maken en gegevens opnemen
 
-De volgende videozelfstudie legt uit hoe u handmatig gegevenssets kunt maken en gegevens kunt invoeren:
+In de volgende videozelfstudie wordt uitgelegd hoe u gegevenssets kunt maken en handmatig gegevens kunt invoeren:
 
 >[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12)
-
 
 Maak de volgende gegevenssets:
 

@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
+source-git-commit: 2a671ad01f1cdb60c731a707b0584bf2f4262d9b
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '338'
 ht-degree: 5%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 5%
 
 ![Bannerzelfstudie - Een trainingssandbox configureren](./assets/ajo-banner-configure-training-sandbox.png)
 
-Deze zelfstudie is bedoeld voor beheerders en gegevensengineers die een Adobe Journey Optimizer-trainingsomgeving moeten bieden. Leer de stappen die worden vereist om de schema&#39;s te vormen, steekproefgegevens in te voeren, en gebeurtenissen tot stand te brengen. U maakt ook drie testprofielen waarmee de studenten hun werk kunnen controleren.
+Deze zelfstudie is bedoeld voor beheerders en gegevensengineers die een Adobe moeten leveren [!DNL Journey Optimizer] opleidingsomgeving. Leer de stappen die worden vereist om de schema&#39;s te vormen, steekproefgegevens in te voeren, en gebeurtenissen tot stand te brengen. U maakt ook drie testprofielen waarmee de studenten hun werk kunnen controleren.
 
 De verstrekte voorbeeldgegevens zijn gebaseerd op een fictieve atletiekonderneming, genaamd: _[!DNL Luma]_. [!DNL Luma] bevat winkels in meerdere landen, een online aanwezigheid met een website en mobiele apps. [!DNL Luma] gebruikt Adobe Journey Optimizer om verbonden, contextafhankelijke en gepersonaliseerde ervaringen aan hun klanten te bieden.
 
@@ -30,13 +30,23 @@ Aan het einde van deze zelfstudie hebt u een sandbox die de [!DNL Luma] gebruik 
 Voordat u begint met het instellen van de trainingssandbox, moet u controleren of:
 
 1. Een speciale ontwikkeling [sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/access-control/create-and-manage-sandboxes.html?lang=en).
+
 1. [Voorinstellingen voor e-mailberichten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-email-channel.html?lang=en) geconfigureerd voor marketing en transactieberichten.
+
 1. **[!UICONTROL Reisbeheerder]** en **[!UICONTROL Data Manager]** rechten voor de trainingssandbox.
+
 1. Uw [organisatie-id](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=nl).
+
 1. De JSON-bestanden met de voorbeeldgegevens, geconfigureerd voor uw Journey Optimizer-instantie:
+
    1. Download de `luma-sample-data.zip` file [hier](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-sample-data.zip), die alle JSON-bestanden bevat die voor deze zelfstudie zijn vereist.
-   1. Verplaats vanuit de downloadmap de `luma-data.zip` naar de gewenste locatie op de computer en decomprimeer het bestand. Deze bestanden bevatten de voorbeeldgegevens voor uw trainingssandbox.
+
+   1. Verplaats vanuit de downloadmap de `luma-data.zip` naar de gewenste locatie op de computer en decomprimeer het bestand.
+
+      Deze bestanden bevatten de voorbeeldgegevens voor uw trainingssandbox.
+
    1. Elk bestand openen en zoeken **`yourOrganizationID`** en vervang het door uw [organisatie-id](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=nl).
+
    1. Sla de bestanden op.
 
 ## Laten we aan de slag gaan

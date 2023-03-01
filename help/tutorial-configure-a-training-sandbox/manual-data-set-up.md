@@ -9,9 +9,9 @@ level: Beginner
 hide: true
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
+source-git-commit: 4df1bdca81a585f728aa68519aa7ec7cd0c2f014
 workflow-type: tm+mt
-source-wordcount: '1027'
+source-wordcount: '1020'
 ht-degree: 2%
 
 ---
@@ -29,7 +29,7 @@ In deze stap maakt u naamruimten voor de [!DNL Luma] aangepaste identiteitsvelde
 
 Begin met het maken van een [!UICONTROL namespace] voor de [!DNL Luma Loyalty ID] schema:
 
-1. Ga in de Journey Optimizer-gebruikersinterface naar ***[!UICONTROL Klant]** > **[!UICONTROL Identiteiten]** in de linkernavigatie.
+1. Ga in de Journey Optimizer-gebruikersinterface naar **[!UICONTROL Klant]** > **[!UICONTROL Identiteiten]** in de linkernavigatie.
 
 1. Selecteren **[!UICONTROL Naamruimte maken]**.
 
@@ -72,28 +72,27 @@ In deze stap definieert u de structuur van de voorbeeldgegevens door zes [[!UICO
 >
 >Bekijk de videozelfstudie: [Een schema maken](/help/set-up-data/create-schema.md) voordat u begint.
 
-### Maken [!DNL Luma Loyalty] [!UICONTROL Schema] {#create-luma-loyalty-schema}
+### Maken [!DNL Luma Loyalty Schema] {#create-luma-loyalty-schema}
+
+In deze sectie wordt beschreven hoe u de [!DNL Luma Loyalty] en configureer veldgroepen.
 
 #### Het schema maken
-
-Begin met het maken van de [!DNL Luma Loyalty] schema:
 
 1. Ga naar **[!UICONTROL GEGEVENSBEHEER]** > **[!UICONTROL Schemas]** in de linkernavigatie.
 
 1. Selecteren **[!UICONTROL Schema maken]** rechtsboven.
 
-1. Selecteer in het vervolgkeuzemenu de optie **[!UICONTROL Afzonderlijk XDM-profiel]**, aangezien u kenmerken van een individuele klant (punten, status, enzovoort) modelleert.
+1. Selecteer in het keuzemenu de optie **[!UICONTROL Afzonderlijk XDM-profiel]**.
 
+   U selecteert deze optie omdat u kenmerken van een individuele klant modelleert (punten, status, enzovoort).
 
 #### Bestaande veldgroepen toevoegen
 
-Vervolgens wordt u gevraagd veldgroepen toe te voegen aan het schema. Voeg alle velden aan schema&#39;s toe met behulp van groepen. U voegt bestaande veldgroepen toe en moet een veldgroep maken.
+Vervolgens wordt u gevraagd om met behulp van groepen veldgroepen toe te voegen aan het schema. U moet bestaande veldgroepen toevoegen en een veldgroep maken.
 
->[!NOTE]
->
->Als de [!UICONTROL Veldgroepen] modal wordt niet automatisch geopend op de [!UICONTROL Schemas] pagina, selecteert u **[!UICONTROL Toevoegen]** (zoals weergegeven in de volgende afbeelding).
+1. Op de [!UICONTROL Schema] pagina, als de modale veldgroepen niet automatisch zijn geopend, selecteert u **[!UICONTROL Toevoegen]**.
 
-![Veldgroep toevoegen](assets/add_field_group.png)
+   ![Veldgroep toevoegen](assets/add_field_group.png)
 
 1. Op de **[!UICONTROL Veldgroepen toevoegen]** pagina, schakelt u de volgende veldgroepen in:
 
@@ -109,9 +108,9 @@ Vervolgens wordt u gevraagd veldgroepen toe te voegen aan het schema. Voeg alle 
 
 1. Selecteer het bovenste knooppunt van het schema.
 
-1. Enter `Luma Loyalty Schema` als de [!UICONTROL Weergavenaam].
+1. Enter `Luma Loyalty Schema` als de **[!UICONTROL Weergavenaam]**.
 
-#### Een [!UICONTROL veldgroep]
+#### Een [!UICONTROL veldgroep] {#create-field-group}
 
 Om consistentie over de schema&#39;s te verzekeren, adviseert Adobe het beheren van alle systeemherkenningstekens in één enkele groep:
 
@@ -174,7 +173,7 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
 
    4. De optie **[!UICONTROL Primaire identiteit]** doos.
 
-   5. Selecteer `Luma Loyalty Id` naamruimte van **[!UICONTROL Identiteitsnaamruimten]** vervolgkeuzelijst.
+   5. Selecteer `Luma Loyalty Id` naamruimte van **[!UICONTROL Identiteitsnaamruimten]** vervolgkeuzemenu.
 
    6. Selecteren **[!UICONTROL Toepassen]**.
 
@@ -206,21 +205,21 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
 
 1. Selecteren **[!UICONTROL Opslaan]**.
 
-### Maken [!DNL Luma Product catalog Schema] {#create-luma-product-catalog-schema}
+### Maken [!DNL Luma Product Catalog Schema] {#create-luma-product-catalog-schema}
 
-1. Ga naar [!UICONTROL GEGEVENSBEHEER] -> **[!UICONTROL Schemas]** in de linkernavigatie.
+1. Ga naar **[!UICONTROL GEGEVENSBEHEER]** > **[!UICONTROL Schemas]** in de linkernavigatie.
 
-1. Selecteer **[!UICONTROL Schema maken]** aan de rechterbovenzijde.
+1. Selecteren **[!UICONTROL Schema maken]** (rechtsboven).
 
-1. Selecteer in het vervolgkeuzemenu de optie **[!UICONTROL Bladeren door alle schematypen]**, waarmee u een klasse kunt maken.
+1. Als u een klasse wilt maken, selecteert u **[!UICONTROL Bladeren door alle schematypen]** in het keuzemenu.
 
-1. Selecteren **[!UICONTROL Nieuwe klasse maken].
+1. Selecteren **[!UICONTROL Nieuwe klasse maken]**.
 
 1. Voeg de weergavenaam toe: `Luma Product Catalog Class`.
 
 1. Klasse toewijzen.
 
-1. Een [!UICONTROL veldgroep]:
+1. Een [!UICONTROL Veldgroep]:
 
    * Weergavenaam: `Luma Product Catalog Field Group`
 
@@ -251,16 +250,14 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
    | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL Tekenreeks] |
    | `url` | `Product URL` | [!UICONTROL Tekenreeks] |
 
-1. Stel de **[!DNL SKU]** als primaire identiteit
+1. Stel de **[!DNL SKU]** als primaire identiteit.
 1. Voeg de **[!UICONTROL Weergavenaam]** `Luma Product Catalog Field Group` aan de [!UICONTROL veldgroep].
 
 1. Selecteren **[!UICONTROL Opslaan]**.
 
-
 ### Maken [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
 
-
-1. Ga naar **[!UICONTROL GEGEVENSBEHEER]** -> **[!UICONTROL Schemas]** in de linkernavigatie.
+1. Ga naar **[!UICONTROL GEGEVENSBEHEER]** > **[!UICONTROL Schemas]** in de linkernavigatie.
 
 1. Selecteer **[!UICONTROL Schema maken]** aan de rechterbovenzijde.
 

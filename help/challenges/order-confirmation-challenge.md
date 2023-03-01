@@ -1,15 +1,15 @@
 ---
 title: Een bevestigingsbericht voor bestelling maken
-description: Test uw kennis op hoe te om transactieverslagen tot stand te brengen en te personaliseren
+description: Test uw kennis op hoe te om transactionele berichten tot stand te brengen en te personaliseren.
 kt: 7531
 feature: Journeys
 role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
+source-git-commit: 6737f81f9cd9fc34740ce60e10c8036e29f97f68
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '657'
 ht-degree: 4%
 
 ---
@@ -25,11 +25,11 @@ ht-degree: 4%
 | Vereiste vaardigheden | <ul><li>[E-mailcontent maken met de berichteneditor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[Contextuele gebeurtenisinformatie gebruiken voor personalisatie](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en)</li><li>[Helpfuncties gebruiken voor personalisatie](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)</li></ul> |
 | Te downloaden middelen | [Bevestigingsmiddelen bestellen](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
+{style=&quot;table-layout:auto&quot;}
+
 ## Het artikel
 
-Luma, start hun online winkel en wil een goede klantenervaring verzekeren door een bevestigingsbericht van de orde te verstrekken zodra een klant een orde heeft geplaatst.
-
-
+Luma lanceert hun online opslag en wil een goede klantenervaring verzekeren. Ze geven een bevestigingsbericht voor bestellingen wanneer een klant een bestelling heeft geplaatst.
 
 ## Uw uitdaging
 
@@ -39,13 +39,19 @@ Maak een reis die een bevestigingsbericht voor bestellingen verzendt wanneer een
 
 >[!TAB Taak]
 
-1. Een reis maken met de naam `Luma - Order Confirmation`
-2. Gebruik de gebeurtenis: `LumaOnlinePurchase`
-3. Een **transactie**  email geroepen `Luma - Order Confirmation`
-* De onderwerpregel &quot;Bedankt voor uw aankoop, `FirstName`&quot;
-* Gebruik de `Luma - Order summary` sjabloon en wijzigen:
-   * Verwijder de `You may also like` secties
-   * Voeg de koppeling voor afmelden onder aan de e-mail toe
+1. Een reis maken met de naam `Luma - Order Confirmation`.
+
+1. Gebruik de gebeurtenis: `LumaOnlinePurchase`.
+
+1. Een **transactie**  email geroepen `Luma - Order Confirmation`.
+
+   * De onderwerpregel &quot;Bedankt voor uw aankoop, `FirstName`&quot;
+
+   * Gebruik de `Luma - Order summary` sjabloon en wijzigen:
+
+      * Verwijder de `You may also like` secties
+
+      * Voeg de koppeling voor afmelden onder aan de e-mail toe
 
 De e-mail moet als volgt worden gestructureerd:
 <table>
@@ -125,7 +131,6 @@ De e-mail moet als volgt worden gestructureerd:
   </tr>
 </table>
 
-
 >[!TIP]
 >
 >Om u toe te staan om uw reizen problemen op te lossen, beste praktijken moeten een alternatieve weg aan alle berichtacties toevoegen als er een onderbreking of een fout is.
@@ -136,11 +141,11 @@ Trigger de Reis die u in testwijze creeerde en verzend e-mail naar me:
 
 1. Voordat u overschakelt naar de testmodus, overschrijft u de parameters voor e-mail die u naar het teste-mailadres wilt verzenden.
    1. Open de weergave E-maildetails.
-   2. Klik in het gedeelte E-mailparameters op het T-symbool (parameteroverschrijving inschakelen)
-   3. Klik in het veld Adres
-   4. Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: *&quot;yourname@yourdomain&quot;* in de uitdrukkingsredacteur en klik o.k.
-2. Het traject in testmodus zetten
-3. De gebeurtenis activeren met de volgende parameters:
+   1. Klik in het gedeelte E-mailparameters op het T-symbool (parameteroverschrijving inschakelen)
+   1. Klik in het veld Adres
+   1. Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: *&quot;yourname@yourdomain&quot;* in de uitdrukkingsredacteur en klik o.k.
+1. Het traject in testmodus zetten
+1. De gebeurtenis activeren met de volgende parameters:
    * Stel de profiel-id in op: Identiteitswaarde:`a8f14eab3b483c2b96171b575ecd90b1`
    * Type gebeurtenis: commerce.purchase
    * `Quantity`: 1

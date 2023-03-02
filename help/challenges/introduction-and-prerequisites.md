@@ -6,9 +6,9 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
+source-git-commit: dfa4c8a0fd984bdd1a99e4b0a819dbb9cbd4c321
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '463'
 ht-degree: 9%
 
 ---
@@ -23,15 +23,18 @@ Elke uitdaging in deze sectie richt een uniek gebruiksgeval dat u uitvoert. Het 
 
 ## Vereisten
 
+Controleer of aan de volgende voorwaarden is voldaan.
+
 ### Systeemvereisten
 
 * Toegang tot een Journey Optimizer-sandbox - het wordt aanbevolen de uitdaging in een specifieke trainingssandbox te voltooien.
-* AEM Assets Essentials moet zijn ingericht voor uw exemplaar
-* De e-mailkanalen moeten zijn geconfigureerd voor transactie- en marketingberichten
+* AEM Assets Essentials moet zijn ingericht voor uw instantie.
+* De e-mailkanalen moeten zijn geconfigureerd voor transactie- en marketingberichten.
 
 ### Toegangsrechten
 
 U hebt de volgende toegangsrechten nodig:
+
 * *Reismanager* of *Reisbeheerder*
 * Testprofielen en de bijbehorende kenmerken weergeven
 
@@ -41,7 +44,6 @@ U hebt de volgende toegangsrechten nodig:
 ### Vereiste acties
 
 * Als u nog geen ervaring hebt met Adobe Journey Optimizer, voert u de cursus uit [Aan de slag met Journey Optimizer for Journey Managers en Beheerders](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html).
-
 
 ## Het artikel
 

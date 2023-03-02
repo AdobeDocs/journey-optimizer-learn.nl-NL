@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
+source-git-commit: fc439f6e3875e859f5c4b9a6012c98b8d5d4be32
 workflow-type: tm+mt
-source-wordcount: '1175'
+source-wordcount: '1178'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,8 @@ ht-degree: 1%
 | Persona | Reismanager |
 | Vereiste vaardigheden | <ul><li>[Segmenten maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [HTML-e-mailcontent importeren en opstellen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[Gebruiksscenario - Leessegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
 | Te downloaden middelen | [E-mailbestanden voor seizoensgebonden verzameling](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## Het artikel
 
@@ -69,7 +71,7 @@ U kunt ook de [!UICONTROL Segmentlidmaatschap] tab: Uw segment moet worden verme
 
 >[!TAB Uw werk controleren]
 
-Segmentvelden: [!UICONTROL Attributen] > [!UICONTROL Afzonderlijk XDM-profiel] > [!UICONTROL Loyalty] > [!UICONTROL Tier]
+Segmentvelden: **[!UICONTROL Attributen]** > **[!UICONTROL Afzonderlijk XDM-profiel]** > **[!UICONTROL Loyalty]** > **[!UICONTROL Tier]**
 
 Zo ziet uw segment eruit:
 
@@ -101,13 +103,13 @@ Een bureau heeft u vier HTML-bestanden geleverd met het ontwerp voor de e-mails:
 
 1. [De e-mailbestanden voor seizoensverzamelingen downloaden](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip).
 
-2. Een reis maken met de naam *Aankondiging van Luma-zomerverzameling* op basis van de volgende richtsnoeren :
+1. Een reis maken met de naam *Aankondiging van Luma-zomerverzameling* op basis van de volgende richtsnoeren :
 
    1. Verzenden *Luma - Nieuwe mededeling over de zomerverzameling* e-mailen naar *Actieve klanten* segment, dat 10% van het publiek als controlegroep uithoudt
       * Berichttitel *Luma - Aankondiging zomerverzameling*
       * Onderwerpregel *(de voornaam van de ontvanger), is de nieuwe inzameling van de Zomer Luma hier!*
       * Het opgegeven HTML-bestand gebruiken `SeasonalCollectionEmail.html` voor de e-mailhoofdtekst.
-   2. Wacht twee dagen en verzend een vervolgbericht met meer gerichte inhoud:
+   1. Wacht twee dagen en verzend een vervolgbericht met meer gerichte inhoud:
       * Mannelijke klanten moeten de **Luma Men&#39;s Collection** e-mail.
          * Berichttitel: *Luma Men&#39;s Collection*
          * Onderwerpregel: *(voornaam van de ontvanger), verken Men&#39;s nieuwe atletische uitrusting!*
@@ -117,11 +119,11 @@ Een bureau heeft u vier HTML-bestanden geleverd met het ontwerp voor de e-mails:
          * Onderwerpregel: *(voornaam van ontvanger), ontdek Luma&#39;s Women Collection!*
          * Hoofdtekst van e-mail: `WomensCollectionEmail.html`
       * Andere klanten moeten de **Luma - 20 % korting op collectie** e-mail.
-         * Berichttitel: *Luma - 20 % korting op collectie*
-         * Onderwerpregel: *(voornaam van ontvanger), geniet van 20% korting op de verkoop!*
-         * Hoofdtekst van e-mail: `20OOffCollectionEmail.html`
-   3. Wacht twee dagen nadat u de hierboven vermelde e-mailberichten hebt verzonden
-   4. Als het beoogde e-mailbericht niet binnen 2 dagen wordt geopend, verzendt u de **Luminantie - 20 %off e-mail verzameling** als laatste poging tot heroriënteren
+      * Berichttitel: *Luma - 20 % korting op collectie*
+      * Onderwerpregel: *(voornaam van ontvanger), geniet van 20% korting op de verkoop!*
+      * Hoofdtekst van e-mail: `20OOffCollectionEmail.html`
+   1. Wacht twee dagen nadat u de hierboven vermelde e-mailberichten hebt verzonden
+   1. Als het beoogde e-mailbericht niet binnen 2 dagen wordt geopend, verzendt u de **Luminantie - 20 %off e-mail verzameling** als laatste poging tot heroriënteren
 
 
 >[!TAB Succescriteria]
@@ -133,21 +135,21 @@ Een bureau heeft u vier HTML-bestanden geleverd met het ontwerp voor de e-mails:
 E-mailvoorvertoning weergeven:
 
 1. Voeg een testprofiel toe: Louise Petti:
-   1. Naamruimte: *Luma CRM-id*
-   2. Identiteitswaarde: *d1f132f9f9502bba047a6ec86c4b61f9*
+   * Naamruimte: *Luma CRM-id*
+   * Identiteitswaarde: *d1f132f9f9502bba047a6ec86c4b61f9*
 
 Resultaat:
+
 * De onderwerpregel moet als volgt luiden: Louise, de nieuwe collectie Luma is hier!
 * De hoofdtekst van de e-mail moet overeenkomen met wat u in de voorvertoning hebt gezien: [Nieuwe aankondiging van verzameling in seizoensinvloeden](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
-
 
 **E-mailbericht nr. 2 - Verzameling van Luma Men**
 
 Een proefdruk naar uzelf sturen:
 
 1. Voeg een testprofiel toe: Stanleigh Stooke:
-   1. Naamruimte: *Luma CRM-id*
-   1. Identiteitswaarde: `4f34057d9d9e792c28ba18ecae378e98`
+   * Naamruimte: *Luma CRM-id*
+   * Identiteitswaarde: `4f34057d9d9e792c28ba18ecae378e98`
 1. Selecteer het testprofiel: Stanleigh Stooke.
 1. Stuur een proef naar uzelf.
 
@@ -164,14 +166,12 @@ E-mail voorvertonen met het testprofiel *Louise Petti.*
 * De onderwerpregel moet als volgt luiden: *Louise, verken Luma&#39;s Women Collection!*
 * De hoofdtekst van de e-mail moet overeenkomen met wat u in de voorvertoning hebt gezien: [Luma Women&#39;s Collection](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
-
 **E-mailbericht #4 - Luma 20 % korting op collectie**
 
 E-mail voorvertonen met het testprofiel *Louise Petti.*
 
 * De onderwerpregel moet als volgt luiden: *Louise, geniet van 20% korting op de verkoop!*
 * De hoofdtekst van de e-mail moet overeenkomen met wat u in de voorvertoning hebt gezien: [Luminantie 20 % korting op collectie](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
-
 
 #### Uw reis testen
 

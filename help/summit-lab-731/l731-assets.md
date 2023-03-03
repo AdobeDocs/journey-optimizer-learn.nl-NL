@@ -1,5 +1,5 @@
 ---
-title: L731 Activa
+title: L731 Kauwblad
 description: Deze pagina bevat tekst en koppelingen die worden gebruikt in het Lab van de L731-top.
 feature: In App, SMS, Push, Email
 doc-type: article
@@ -9,14 +9,14 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: b9c836756122dd555cbc1e6150f91e5e5ff9b176
+source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '222'
 ht-degree: 2%
 
 ---
 
-# Top Lab L731
+# Top Lab L731 - Cheat Sheet
 
 Deze pagina bevat tekst en koppelingen die worden gebruikt in het Lab van de L731-top. Hiermee kunt u de inhoud naar Journey Optimizer-berichten kopiëren en plakken.
 

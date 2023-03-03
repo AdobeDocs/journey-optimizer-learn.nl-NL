@@ -2,10 +2,10 @@
 user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
-source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
+source-git-commit: 5e9829459bc3092e60375fca3e759a2aac88446f
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 91%
+source-wordcount: '313'
+ht-degree: 88%
 
 ---
 
@@ -92,6 +92,6 @@ ht-degree: 91%
 + Privacy {#privacy}
    + [Gegevens in berichten maskeren](/help/privacy/mask-data-in-messages.md)
 + Uitoefening en uitdagingen {#exercises-and-challenges}
-   + [Een trainingssandbox configureren](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
-   + [Uitdagingen](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
+   + [Een trainingssandbox configureren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
+   + [Uitdagingen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
 + [Top Lab](/help/summit-lab-731/l731-assets.md)

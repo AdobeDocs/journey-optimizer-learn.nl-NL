@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 28da398f6813b1926c79b5cd45f415e2cfa9f40f
+source-git-commit: e2312c022f589ebf1218e1767bbc129b57fa1e2a
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 3%
+source-wordcount: '239'
+ht-degree: 2%
 
 ---
 
@@ -26,6 +26,10 @@ Deze pagina bevat tekst en koppelingen die worden gebruikt in het Lab van de L73
 
 ![QR-code voor iOS](/help/assets/lab731-ios-qr-code.png)
 
+### Android - Tijdelijke aanduiding
+
+![QR-code voor Android](/help/assets/lab731-ios-qr-code.png)
+
 
 ## Oefening 1.3: Aanmelden bij Adobe Journey Optimizer
 
@@ -33,8 +37,8 @@ Deze pagina bevat tekst en koppelingen die worden gebruikt in het Lab van de L73
 
 **Aanmeldingsgegevens:**
 
-* Gebruikersnaam: `L731+<your seat number>@summitlab.us` (voorbeeld: L731+001@summitlab.us)
-* Wachtwoord: Adobe 2023!
+* **Gebruikersnaam:** `L731+<your seat number>@summitlab.us` (voorbeeld: L731+001@summitlab.us)
+* **Wachtwoord:** Adobe 2023!
 
 
 ## Oefening 2.1 Een campagne in de app maken
@@ -50,7 +54,7 @@ Deze pagina bevat tekst en koppelingen die worden gebruikt in het Lab van de L73
 | Lichaam | Adobe Summit keert terug naar Las Vegas March 21-23, 2023. Bereid u voor op inspirerende luidsprekers, sessies die de vaardigheden uitbreiden en nieuwe verbindingen. |  |
 | Knop | Boekhotel nu en bespaar 10% | lab://booking?suite=presidential&amp;discount=10 |
 | Knop: Interactieve gebeurtenis | CTA in de app |  |
-| Basis-URL |  | lab:// |
+| Basis-URL |  | iOS: lab:// <br>Android: https://lab |
 
 
 

@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: c0b7fa47fac1ad16121d0f568de358c83de44a90
+source-git-commit: 066b26ab466094c90edbde1887867f1aa0a618dc
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '259'
 ht-degree: 1%
 
 ---
@@ -30,7 +30,7 @@ Scan de QR-code om de app te downloaden
 
 ![QR-code voor iOS](/help/assets/lab731-ios-qr-code.png)
 
->[!TAB Android]
+>[!TAB Android™]
 
 ![QR-code voor Android](/help/assets/lab731-android-qr-code.png)
 
@@ -57,7 +57,7 @@ Scan de QR-code om de app te downloaden
 | Lichaam | Adobe Summit keert terug naar Las Vegas March 21-23, 2023. Bereid u voor op inspirerende luidsprekers, sessies die de vaardigheden uitbreiden en nieuwe verbindingen. |  |
 | Knop | Boekhotel nu en bespaar 10% | lab://booking?suite=presidential&amp;discount=10 |
 | Knop: Interactieve gebeurtenis | CTA in de app |  |
-| Basis-URL |  | iOS: lab:// <br>Android: https://lab |
+| Basis-URL |  | iOS: lab:// <br>Android™: https://lab |
 
 
 ## Les 3 Een OmniChannel-reis maken
@@ -79,7 +79,7 @@ De regel overslaan en inchecken met de mobiele app
 https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
 
 
-Dit is de afbeelding die we gebruiken voor het pushbericht:
+Dit is de afbeelding die we gebruiken voor de pushmelding:
 
 ![Online inchecken](/help/assets/vegas_online_check_in.jpg)
 

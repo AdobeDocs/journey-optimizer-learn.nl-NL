@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 16a2a4ab090b96f52555b543cd9d1924dc9f09cb
+source-git-commit: c0b7fa47fac1ad16121d0f568de358c83de44a90
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '258'
 ht-degree: 1%
 
 ---
@@ -32,7 +32,7 @@ Scan de QR-code om de app te downloaden
 
 >[!TAB Android]
 
-![QR-code voor Android](/help/assets/lab731-ios-qr-code.png)
+![QR-code voor Android](/help/assets/lab731-android-qr-code.png)
 
 >[!ENDTABS]
 
@@ -82,8 +82,6 @@ https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_onl
 Dit is de afbeelding die we gebruiken voor het pushbericht:
 
 ![Online inchecken](/help/assets/vegas_online_check_in.jpg)
-
-|SMS| || |E-mail|{{profile.person.name.firstName}}, je bent aangemeld, bekijk nu onze aanbiedingen voor je verblijf!|||
 
 >[!TAB SMS-bericht]
 

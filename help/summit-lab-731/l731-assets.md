@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: e2312c022f589ebf1218e1767bbc129b57fa1e2a
+source-git-commit: 16a2a4ab090b96f52555b543cd9d1924dc9f09cb
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 2%
+source-wordcount: '271'
+ht-degree: 1%
 
 ---
 
@@ -22,14 +22,19 @@ Deze pagina bevat tekst en koppelingen die worden gebruikt in het Lab van de L73
 
 ## Oefening 1.1 - De app downloaden en installeren
 
-### iOS
+Scan de QR-code om de app te downloaden
+
+>[!BEGINTABS]
+
+>[!TAB iOS]
 
 ![QR-code voor iOS](/help/assets/lab731-ios-qr-code.png)
 
-### Android - Tijdelijke aanduiding
+>[!TAB Android]
 
 ![QR-code voor Android](/help/assets/lab731-ios-qr-code.png)
 
+>[!ENDTABS]
 
 ## Oefening 1.3: Aanmelden bij Adobe Journey Optimizer
 
@@ -43,8 +48,6 @@ Deze pagina bevat tekst en koppelingen die worden gebruikt in het Lab van de L73
 
 ## Oefening 2.1 Een campagne in de app maken
 
-
-
 | Veld | Tekst | Koppelingen |
 |----|----|----|
 | Campagnenaam | `<your seat number> March Vegas Campaign` |  |
@@ -57,16 +60,39 @@ Deze pagina bevat tekst en koppelingen die worden gebruikt in het Lab van de L73
 | Basis-URL |  | iOS: lab:// <br>Android: https://lab |
 
 
-
 ## Les 3 Een OmniChannel-reis maken
 
-| Bericht | Titel/onderwerpregel | Tekst | Koppeling |
-|----|----|----|----|----|
-| Push | Welkom in Vegas! | De regel overslaan en inchecken met de mobiele app | lab://checkin |  |
-| Sms |  | Welkom in Vegas. De regel overslaan en inchecken met de mobiele app: lab://checkin |  |
-| email | {{profile.person.name.firstName}}, je bent aangemeld. Bekijk nu onze voorstellen voor je verblijf! |  |  |
+>[!BEGINTABS]
+
+>[!TAB Push-bericht]
+
+**Titel:**\
+Welkom in Vegas!
+
+**Lichaam:**\
+De regel overslaan en inchecken met de mobiele app
+
+**Deëplink:** lab://checkin
+
+**Media:**
+
+https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
 
 
-Dit is het beeld wij voor SMS en het Push bericht gebruiken:
+Dit is de afbeelding die we gebruiken voor het pushbericht:
 
 ![Online inchecken](/help/assets/vegas_online_check_in.jpg)
+
+|SMS| || |E-mail|{{profile.person.name.firstName}}, je bent aangemeld, bekijk nu onze aanbiedingen voor je verblijf!|||
+
+>[!TAB SMS-bericht]
+
+**Bericht:**
+Welkom in Vegas. De regel overslaan en inchecken met de mobiele app: lab://checkin
+
+>[!TAB E-mailbericht]
+
+**Onderwerpregel:**
+{{profile.person.name.firstName}}, je bent aangemeld. Bekijk nu onze voorstellen voor je verblijf!
+
+>[!ENDTABS]

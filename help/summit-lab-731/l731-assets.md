@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 066b26ab466094c90edbde1887867f1aa0a618dc
+source-git-commit: 55d91b1ebe1b55a2c0a7d2a7e4ff1a63187b7fdf
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '325'
 ht-degree: 1%
 
 ---
@@ -30,9 +30,21 @@ Scan de QR-code om de app te downloaden
 
 ![QR-code voor iOS](/help/assets/lab731-ios-qr-code.png)
 
+U wordt gevraagd Testflight te installeren. Nadat u Testflight hebt geïnstalleerd, voert u de stappen uit om de Las Vegas Blijf App te installeren:
+
+![stappen om iOS te installeren](/help/assets/lab731-install-ios.png)
+
 >[!TAB Android™]
 
 ![QR-code voor Android](/help/assets/lab731-android-qr-code.png)
+
+Gebruik de volgende koppeling als u de Android-simulator gebruikt: [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
+
+Aangezien de app niet bij de Google Play Store is geregistreerd, ontvangt u een waarschuwingsbericht:
+
+![Android-waarschuwingsscherm](/help/assets/lab731-install-android.png)
+
+Klikken **Toch installeren**
 
 >[!ENDTABS]
 

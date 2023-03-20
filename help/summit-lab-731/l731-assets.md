@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
+source-git-commit: ea4ba49056ad3e575c0953ad963966bcecf54c9f
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '355'
 ht-degree: 1%
 
 ---
@@ -30,11 +30,97 @@ Scan de QR-code om de app te downloaden
 
 ![QR-code voor iOS](/help/assets/lab731-ios-qr-code.png)
 
-U wordt gevraagd Testflight te installeren. Nadat u Testflight hebt geïnstalleerd, voert u de stappen uit om de Las Vegas Blijf App te installeren:
+U wordt gevraagd Testflight te installeren (stappen 1 tot en met 4). Nadat u Testflight hebt geïnstalleerd, voert u de stappen 5 tot en met 8 uit om de Las van Vegas te installeren:
 
-![stappen om iOS te installeren](/help/assets/lab731-install-ios.png)
-
->[!TAB Android™]
+<table>
+<tr>
+</tr>
+<tr>
+<td>
+ <div>
+      <p>
+      <b>Stap 1 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testvlucht 1" src="../assets/l731-ios-install/ios-install-1.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Stap 2 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testvlucht 1" src="../assets/l731-ios-install/ios-install-2.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Stap 3 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testvlucht 1" src="../assets/l731-ios-install/ios-install-3.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Stap 4 </b>
+      <p>
+      <a href="Step 4">
+        <img alt="testvlucht 1" src="../assets/l731-ios-install/ios-install-4.PNG"/>
+      </a>
+      </div>
+  </td>
+  </tr>
+  <tr>
+<td>
+ <div>
+      <p>
+      <b>Stap 5 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testvlucht 1" src="../assets/l731-ios-install/ios-install-5.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Stap 6 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testvlucht 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Stap 7 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testvlucht 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Stap 8 </b>
+      <p>
+      <a href="Step 4">
+        <img alt="testvlucht 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
+      </a>
+      </div>
+  </td>
+  </tr>
+</table>
+&gt;[!TAB Android™]
 
 ![QR-code voor Android](/help/assets/lab731-android-qr-code.png)
 
@@ -74,9 +160,15 @@ Klikken **Toch installeren**
 
 ## Les 3 Een OmniChannel-reis maken
 
+**Reislabel:**
+<your seat number> - Welkomstreis
+
 >[!BEGINTABS]
 
 >[!TAB Push-bericht]
+
+**Label:**
+Welkomstbericht
 
 **Titel:**\
 Welkom in Vegas!
@@ -97,10 +189,16 @@ Dit is de afbeelding die we gebruiken voor de pushmelding:
 
 >[!TAB SMS-bericht]
 
+**Label:**
+Welkomstbericht
+
 **Bericht:**
 Welkom in Vegas. De regel overslaan en inchecken met de mobiele app: lab://checkin
 
 >[!TAB E-mailbericht]
+
+**Label:**
+Bevestigingsbericht
 
 **Onderwerpregel:**
 {{profile.person.name.firstName}}, je bent aangemeld. Bekijk nu onze voorstellen voor je verblijf!

@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 675f402b8c2ad8511736bbb683922fc07763e247
+source-git-commit: b0c728e7dee77c16b2c0ad51f592d92f3f72491e
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 1%
+source-wordcount: '354'
+ht-degree: 2%
 
 ---
 
@@ -120,7 +120,8 @@ U wordt gevraagd Testflight te installeren (stappen 1 tot en met 4). Nadat u Tes
   </td>
   </tr>
 </table>
-&gt;[!TAB Android]
+
+>[!TAB Android]
 
 ![QR-code voor Android](/help/assets/lab731-android-qr-code.png)
 

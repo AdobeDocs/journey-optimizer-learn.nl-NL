@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: ea4ba49056ad3e575c0953ad963966bcecf54c9f
+source-git-commit: 675f402b8c2ad8511736bbb683922fc07763e247
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 1%
@@ -120,7 +120,7 @@ U wordt gevraagd Testflight te installeren (stappen 1 tot en met 4). Nadat u Tes
   </td>
   </tr>
 </table>
-&gt;[!TAB Android™]
+&gt;[!TAB Android]
 
 ![QR-code voor Android](/help/assets/lab731-android-qr-code.png)
 
@@ -155,13 +155,13 @@ Klikken **Toch installeren**
 | Lichaam | Adobe Summit keert terug naar Las Vegas March 21-23, 2023. Bereid u voor op inspirerende luidsprekers, sessies die de vaardigheden uitbreiden en nieuwe verbindingen. |  |
 | Knop | Boekhotel nu en bespaar 10% | lab://booking?suite=presidential&amp;discount=10 |
 | Knop: Interactieve gebeurtenis | CTA in de app |  |
-| Basis-URL |  | iOS: lab:// <br>Android™: https://lab |
+| Basis-URL |  | iOS: lab:// <br>Android&amp;: https://lab |
 
 
 ## Les 3 Een OmniChannel-reis maken
 
 **Reislabel:**
-<your seat number> - Welkomstreis
+`<your seat number>` - Welkomstreis
 
 >[!BEGINTABS]
 

@@ -1,6 +1,6 @@
 ---
 title: Journey Optimizer-uitdagingen - Inleiding en voorwaarden
-description: De uitdagingen verstrekken een scenario en de vereisten nodig om te oefenen wat u leerde. Elke uitdaging richt een uniek gebruiksgeval dat u uitvoert.
+description: Uitdagingen bieden een scenario en de vereisten die nodig zijn om te oefenen wat u hebt geleerd. Elke uitdaging richt zich op een uniek gebruiksscenario dat u implementeert.
 feature: Journeys
 role: Admin
 level: Beginner
@@ -9,7 +9,7 @@ exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
 workflow-type: tm+mt
 source-wordcount: '475'
-ht-degree: 6%
+ht-degree: 14%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 ![AJO Challenges Banner](./assets/ajo-banner-challenges.png)
 
-De uitdagingen verstrekken een scenario en de vereisten nodig om te oefenen wat u leerde. De uitdagingen helpen u uw vaardigheidsniveau evalueren en kennishiaten identificeren.
+Uitdagingen bieden een scenario en de vereisten die nodig zijn om te oefenen wat u hebt geleerd. De uitdagingen helpen u uw vaardigheidsniveau evalueren en kennishiaten identificeren.
 
 Elke uitdaging in deze sectie richt een uniek gebruiksgeval dat u uitvoert. Het doelpubliek (persona), en de vereiste vaardigheden worden vermeld aan het begin van elke uitdaging.
 

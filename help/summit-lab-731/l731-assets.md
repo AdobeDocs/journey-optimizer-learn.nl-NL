@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: e3ea884c9a004ca3eba243436ecfc6edf46cfb34
+source-git-commit: a3ac293c29e9965344c518215c2f034caa41557e
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '357'
 ht-degree: 2%
 
 ---
@@ -177,7 +177,7 @@ Welkom in Vegas!
 **Lichaam:**\
 De regel overslaan en inchecken met de mobiele app
 
-**Deëplink:** lab://checkin
+**Deëplink:** iOS: lab://, Android&amp;: https://lab
 
 **Media:**
 

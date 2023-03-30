@@ -1,22 +1,24 @@
 ---
-user-guide-title: Zelfstudie - Een trainingssandbox configureren
+user-guide-title: Tutorial - Een trainingssandbox configureren
 user-guide-description: Een sandbox configureren voor trainingsdoeleinden
-breadcrumb-title: Zelfstudie - Een trainingssandbox configureren
+breadcrumb-title: Tutorial - Een trainingssandbox configureren
 breadcrumb-url: /docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html
 index: false
-source-git-commit: e0ec663ba23fe2c1f8cc5920c43a95b07dbf5b16
+source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 1%
+source-wordcount: '76'
+ht-degree: 21%
 
 ---
 
 
-# Zelfstudie - Een trainingssandbox configureren {#configure-a-training-sandbox}
+# Tutorial - Een trainingssandbox configureren {#configure-a-training-sandbox}
 
 + [Een trainingssandbox configureren](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md)
-+ Stap 1: Gegevensstructuur instellen en gegevens toevoegen {#set-up-data-structure-and-ingest-data}
++ Stap 1: Gegevensstructuur instellen en voorbeeldgegevens importeren {#set-up-data-structure-and-ingest-data}
+   + [Gegevensstructuur instellen en voorbeeldgegevens importeren met Postman](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html)
    + [Gegevensstructuur instellen (handmatig)](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md)
-   + [Gegevens opnemen (handmatig)](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)
+   + [Voorbeeldgegevens importeren (handmatig)](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)
 + [Stap 2: Gebeurtenissen configureren](/help/tutorial-configure-a-training-sandbox/configure-events.md)
 + [Lesbestanden](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
++ [Uitdagingen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)

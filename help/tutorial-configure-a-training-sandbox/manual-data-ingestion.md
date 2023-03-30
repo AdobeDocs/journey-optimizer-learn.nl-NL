@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '91'
 ht-degree: 7%
 
 ---
@@ -27,10 +27,14 @@ Maak de volgende gegevenssets:
 
 Als u dit nog niet hebt gedaan, downloadt u de volgende JSON-bestanden met de voorbeeldgegevens en voert u de gegevens in de desbetreffende gegevenssets in:
 
-* [luma-crm-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-crm-data.json)
-* [luma-loyalty-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-loyalty-data.json)
-* [lumaproduct-catalog-gegevens](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-product-catalog-data.json)
-* [lumatestprofielgegevens](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-test-profiles-data.json)
+* [luma-web-events](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-web-events.json)
+* [lumatestprofielen](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-test-profiles.json)
+* [luma-voorraad-gebeurtenis](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-inventory-events.json)
+* [luma-offline aankopen](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-offline-purchases.json)
+* [lumaproductcatalogus](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-product-catalog.json)
+* [luma-crm](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-crm.json)
+* [luma-loyaliteit](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-loyalty.json)
+
 
 ## Volgende stap
 

@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1021'
 ht-degree: 2%
 
 ---
@@ -245,7 +245,7 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
    | `size` | `Product Size` | [!UICONTROL Tekenreeks] |
    | `price` | `Product Price` | [!UICONTROL Dubbel] |
    | `description` | `Product Description` | [!UICONTROL Tekenreeks] |
-   | `imageURL` | `Product Image URL` | [!UICONTROL Tekenreeks] |
+   | `imageUrl` | `Product Image URL` | [!UICONTROL Tekenreeks] |
    | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL Tekenreeks] |
    | `url` | `Product URL` | [!UICONTROL Tekenreeks] |
 

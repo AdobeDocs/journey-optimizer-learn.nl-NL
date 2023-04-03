@@ -9,7 +9,7 @@ team: PM
 role: User
 level: Beginner
 exl-id: 20dfc3a7-aa09-4ca2-a02e-3134fd680e2b
-source-git-commit: 0422f806896aeff967ce8526fc52b6265b2804a1
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 100%
@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Leer hoe u waarden voor personalisatie met hulpfuncties voor personalisatie kunt transformeren, en hoe u verschillende gebruiksscenario&#39;s voor hulpfuncties kunt begrijpen.
 
->[!VIDEO](https://video.tv.adobe.com/v/334244?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334244?quality=12&learn=on)
 
 Raadpleeg de producthandleiding voor meer informatie over [helperfuncties](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalized-dynamic-content/personalization/build-expressions/functions/functions.html?lang=nl).

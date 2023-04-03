@@ -9,8 +9,8 @@ team: PM
 role: Admin, Developer
 level: Beginner
 exl-id: 758e5ea0-af6a-4a5f-ae25-2ef4212988a2
-source-git-commit: cba8982f4be9c60ab1d9efe9a6009033369f10a3
-workflow-type: ht
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
+workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 100%
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Leer hoe u een subdomein maakt met CNAME om naar Adobe-specifieke records te verwijzen.
 
->[!VIDEO](https://video.tv.adobe.com/v/339484?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/339484?quality=12&learn=on)

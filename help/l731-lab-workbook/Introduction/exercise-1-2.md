@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Oefening 1.2: Registreren als een gebruiker met de app
 
->[!IMPORTANT]\
+>[!IMPORTANT]
 >Meld u aan met een **e-mailadres dat u tijdens de laboratoriumzitting kunt toegang hebben**, en **uw mobiele telefoonnummer**.
 >
 > Deze informatie is vereist voor u om de berichten te ontvangen u zult verzenden. Hiermee hebt u ook toegang tot uw gegevens in Journey Optimizer. Het zal niet voor een ander doel dan voor dit laboratorium worden gebruikt.

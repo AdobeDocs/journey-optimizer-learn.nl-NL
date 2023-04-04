@@ -6,22 +6,16 @@ role: User
 level: Beginner
 kt: 11161
 thumbnail: 3410471.jpg
-last-update-author: 20221020
-hidefromtoc: true
-hide: true
+last-substantial-update: 2023-04-04T00:00:00Z
 exl-id: 4baf5361-c6ba-41f6-b2f8-476620ea0f57
-source-git-commit: 615038fe6d2a3e8e48d9533a6e87a452bf3d7447
-workflow-type: ht
-source-wordcount: '42'
+source-git-commit: d714492526fea082f88f09ad528f8725fb3af815
+workflow-type: tm+mt
+source-wordcount: '26'
 ht-degree: 100%
 
 ---
 
 # Een in-app bericht schrijven
-
->[!NOTE]
-> 
-> Houd er rekening mee dat in-app berichten in bèta zijn en nog niet voor alle klanten beschikbaar zijn.
 
 Leer hoe u een in-app bericht schrijft en test.
 

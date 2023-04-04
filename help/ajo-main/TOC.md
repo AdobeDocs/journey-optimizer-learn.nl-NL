@@ -2,10 +2,10 @@
 user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
-source-git-commit: 5e9829459bc3092e60375fca3e759a2aac88446f
+source-git-commit: d714492526fea082f88f09ad528f8725fb3af815
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 88%
+source-wordcount: '315'
+ht-degree: 87%
 
 ---
 
@@ -67,6 +67,7 @@ ht-degree: 88%
    + [Verzamelingen maken](/help/decision-management/create-collections.md)
    + [Beslissingen maken](/help/decision-management/create-decisions.md)
    + [Aanbiedingen leveren met de Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
+   + [Frequentiecorrectie](/help/decision-management/frequency-capping.md)
 + Rapporteren en controleren {#report-and-monitor}
    + [Live en globale rapporten](/help/report-and-monitor/live-and-global-reports.md)
    + [Waarschuwingen gebruiken](/help/administration/alerts.md)

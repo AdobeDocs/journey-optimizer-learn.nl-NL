@@ -2,10 +2,10 @@
 user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
-source-git-commit: e8f4f8bd1428bf6e4a9af88b2b7d11ca962db581
+source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '321'
+ht-degree: 84%
 
 ---
 
@@ -68,16 +68,17 @@ ht-degree: 0%
    + [Beslissingen maken](/help/decision-management/create-decisions.md)
    + [Aanbiedingen leveren met de Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [Frequentiecorrectie](/help/decision-management/frequency-capping.md)
++ Data management {#data-management}
+   + [Overzicht](/help/set-up-data/set-up-data-overview.md)
+   + [Een schema maken](/help/set-up-data/create-schema.md)
+   + [Identiteiten toewijzen](/help/set-up-data/map-identities.md)
+   + [Gegevenssets maken en gegevens opnemen](/help/set-up-data/create-datasets-and-ingest-data.md)
+   + [Bronconnectors configureren](/help/set-up-data/configure-source-connectors.md)
+   + [Gegevenssets exporteren naar opslaglocaties in de cloud](/help/set-up-data/export-datasets.md)
 + Rapporteren en controleren {#report-and-monitor}
    + [Live en globale rapporten](/help/report-and-monitor/live-and-global-reports.md)
    + [Waarschuwingen gebruiken](/help/administration/alerts.md)
 + Configuratie {#configuration}
-   + Gegevens configureren {#data-configuration}
-      + [Overzicht](/help/set-up-data/set-up-data-overview.md)
-      + [Een schema maken](/help/set-up-data/create-schema.md)
-      + [Identiteiten toewijzen](/help/set-up-data/map-identities.md)
-      + [Gegevenssets maken en gegevens opnemen](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [Bronconnectors configureren](/help/set-up-data/configure-source-connectors.md)
    + Kanalen configureren {#channel-configuration}
       + [E-mailkanaal instellen](/help/set-up-channels/set-up-email-channel.md)
       + [CName-subdomeinen delegeren](/help/set-up-channels/delegate-cname-subdomains.md)

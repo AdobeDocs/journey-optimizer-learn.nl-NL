@@ -2,10 +2,10 @@
 user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
-source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
+source-git-commit: 58333495c7a4fba108f171b28a977cdb8f36b758
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 84%
+source-wordcount: '331'
+ht-degree: 82%
 
 ---
 
@@ -44,6 +44,9 @@ ht-degree: 84%
 + Sms-kanaal{#sms-channel}
    + [SMS-berichten verzenden en verzenden](/help/channels/author-and-deliver-sms-messages.md)
    + [Ondersteuning voor binnenkomende zoektermen voor sms](/help/channels/inbound-keyword-support-for-sms.md)
++ Webkanaal {#web-channel}
+   + [Een webcampagne maken](/help/channels/create-a-web-campaign.md)
+   + [Een webcampagne maken](/help/channels/author-a-web-campaign.md)
 + Klantprofielen, segmenten en lidmaatschappen {#profiles-segments-subscriptions}
    + [Uniform profiel en segmentatie - overzicht](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Segmenten maken](/help/set-up-resources/create-segments.md)

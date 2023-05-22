@@ -6,9 +6,9 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
 workflow-type: tm+mt
-source-wordcount: '1178'
+source-wordcount: '1126'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 1%
 | Vereiste vaardigheden | <ul><li>[Segmenten maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [HTML-e-mailcontent importeren en opstellen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[Gebruiksscenario - Leessegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
 | Te downloaden middelen | [E-mailbestanden voor seizoensgebonden verzameling](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Het artikel
 
@@ -140,7 +140,6 @@ E-mailvoorvertoning weergeven:
 Resultaat:
 
 * De onderwerpregel moet als volgt luiden: Louise, de nieuwe collectie Luma is hier!
-* De hoofdtekst van de e-mail moet overeenkomen met wat u in de voorvertoning hebt gezien: [Nieuwe aankondiging van verzameling in seizoensinvloeden](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 **E-mailbericht nr. 2 - Verzameling van Luma Men**
 
@@ -149,11 +148,11 @@ Een proefdruk naar uzelf sturen:
 1. Voeg een testprofiel toe: Stanleigh Stooke:
    * Naamruimte: *Luma CRM-id*
    * Identiteitswaarde: `4f34057d9d9e792c28ba18ecae378e98`
-1. Selecteer het testprofiel: Stanleigh Stooke.
-1. Stuur een proef naar uzelf.
+2. Selecteer het testprofiel: Stanleigh Stooke.
+3. Stuur een proef naar uzelf.
 
 Resultaat:\
-Je ontvangt een e-mail. De onderwerpregel moet *Stanleigh, ontdek de nieuwe atletische uitrusting van Men!* en de hoofdtekst van de e-mail moet overeenkomen met wat u in de voorvertoning hebt gezien: [Luma Men&#39;s Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+Je ontvangt een e-mail. De onderwerpregel moet *Stanleigh, ontdek de nieuwe atletische uitrusting van Men!* en de hoofdtekst van de e-mail moet overeenkomen met wat u in de voorvertoning hebt gezien.
 
 >[!NOTE]
 >Het kan een paar minuten duren voordat je de proefdruk ontvangt.
@@ -163,14 +162,12 @@ Je ontvangt een e-mail. De onderwerpregel moet *Stanleigh, ontdek de nieuwe atle
 E-mail voorvertonen met het testprofiel *Louise Petti.*
 
 * De onderwerpregel moet als volgt luiden: *Louise, verken Luma&#39;s Women Collection!*
-* De hoofdtekst van de e-mail moet overeenkomen met wat u in de voorvertoning hebt gezien: [Luma Women&#39;s Collection](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 **E-mailbericht #4 - Luma 20 % korting op collectie**
 
 E-mail voorvertonen met het testprofiel *Louise Petti.*
 
 * De onderwerpregel moet als volgt luiden: *Louise, geniet van 20% korting op de verkoop!*
-* De hoofdtekst van de e-mail moet overeenkomen met wat u in de voorvertoning hebt gezien: [Luminantie 20 % korting op collectie](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 #### Uw reis testen
 

@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: a3ac293c29e9965344c518215c2f034caa41557e
+source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 2%
@@ -202,6 +202,6 @@ Welkom in Vegas. De regel overslaan en inchecken met de mobiele app: lab://check
 Bevestigingsbericht
 
 **Onderwerpregel:**
-{{profile.person.name.firstName}}, je bent aangemeld. Bekijk nu onze voorstellen voor je verblijf!
+`{{profile.person.name.firstName}},` Je bent aangemeld. Bekijk nu onze voorstellen voor je verblijf!
 
 >[!ENDTABS]

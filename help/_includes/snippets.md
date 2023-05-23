@@ -1,5 +1,5 @@
 ---
-source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
+source-git-commit: 28f84590dba39c90cac51ff7edeb6e01efa57211
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -19,4 +19,4 @@ ht-degree: 0%
 >
 > Deze video maakt deel uit van een cursus [Cursus Aan de slag met besluitvormingsbeheer voor marketers](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=en), gratis beschikbaar op Experience League!
 
-## Cursus Aan de slag met Journey Optimizer for Journey Administrators en Managers
+## Cursus Aan de slag met Journey Optimizer for Journey Administrators en Managers {#}

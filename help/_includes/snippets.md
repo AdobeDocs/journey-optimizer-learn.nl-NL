@@ -1,14 +1,22 @@
 ---
-source-git-commit: 1eeaf36b58ec5a363f6f1823e3088dcbe1bc66cc
+source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
 workflow-type: tm+mt
-source-wordcount: '29'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 # AJO-fragmenten
 
-## Cursusjournaliste-a-1-2021-1 {#journeyoptimizer-a-1-2021-1}
+## Cursus Journey Optimizer for Administrators configureren {#journeyoptimizer-a-1-2021-1}
 
 >[!INFO]
 >
-> Deze video maakt deel uit van een cursus [Journey Optimizer voor beheerders configureren ](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-a-1-2021-1.html), gratis beschikbaar op Experience League!
+> Deze video maakt deel uit van een cursus [Journey Optimizer voor beheerders configureren](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-a-1-2021-1.html), gratis beschikbaar op Experience League!
+
+## Cursus Aan de slag met besluitvormingsbeheer voor marketers {#experienceplatform-u-1-2020-1-offerdecisioning}
+
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus [Cursus Aan de slag met besluitvormingsbeheer voor marketers](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=en), gratis beschikbaar op Experience League!
+
+## Cursus Aan de slag met Journey Optimizer for Journey Administrators en Managers

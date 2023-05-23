@@ -5,9 +5,9 @@ feature: Offers
 kt: 6753
 thumbnail: 329374.jpg
 exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
-source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
@@ -20,6 +20,4 @@ Leer hoe u [tags maakt](https://experienceleague.adobe.com/docs/journey-optimize
 
 Raadpleeg de [producthandleiding](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/tags/create.html?lang=nl) voor meer informatie over het maken van tags met een API
 
->[!INFO]
->
-> Deze video maakt deel uit van de cursus [Aan de slag met Offer Decisioning voor marketeers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), die gratis beschikbaar is op Experience League.
+{{experienceplatform-u-1-2020-1-offerdecisioning}}

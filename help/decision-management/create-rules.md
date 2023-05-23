@@ -5,9 +5,9 @@ feature: Offers
 kt: 6738
 thumbnail: 329373.jpg
 exl-id: 1b4cd1cd-f082-46ec-a331-9733d7c87bde
-source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
@@ -20,6 +20,4 @@ Leer hoe u [beslissingsregels](https://experienceleague.adobe.com/docs/journey-o
 
 Raadpleeg de [producthandleiding](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/decision-rules/create.html?lang=nl) voor meer informatie over het maken van beslissingsregels met een API
 
->[!INFO]
->
-> Deze video maakt deel uit van de cursus [Aan de slag met Offer Decisioning voor marketeers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), die gratis beschikbaar is op Experience League.
+{{experienceplatform-u-1-2020-1-offerdecisioning}}

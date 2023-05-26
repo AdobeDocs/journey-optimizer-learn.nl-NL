@@ -1,5 +1,5 @@
 ---
-title: Experimenten maken voor in-app berichten
+title: Inhoud-experimenten maken voor in-app-berichten
 description: Leer hoe u experimenten configureert voor het testen van berichten in de app op A/B.
 feature: In App, Experimentation
 role: User
@@ -8,15 +8,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-25T00:00:00Z
 jira: KT-13341
 thumbnail: 3419898.jpeg
-source-git-commit: 572f0e9bf9f4221597ca655803d0583865df281b
+source-git-commit: 3c5d14fd27b2df28f89b6642ad5749f0ef9d3ce9
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
 
 
-# Experimenten maken voor in-app berichten
+# Inhoud-experimenten maken voor in-app-berichten
 
 Leer hoe u experimenten configureert voor het testen van berichten in de app op A/B.
 

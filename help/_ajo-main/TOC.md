@@ -2,10 +2,10 @@
 user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
-source-git-commit: 1d7c1b264769d55a80755da9d9a15aaa5cb45a92
+source-git-commit: 88c1c616fe8f7de8356358a8fe5cc73153c35afb
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 73%
+source-wordcount: '375'
+ht-degree: 72%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 73%
    + [HTML-e-mailcontent importeren en opstellen](/help/channels/import-and-author-html-email-content.md)
    + [Voorvertonen, proeven en publiceren](/help/channels/preview-proof-and-publish.md)
    + [Contentsjablonen](/help/channels/content-templates.md)
+   + [Fragmenten beheren, maken en gebruiken](/help/content-management/manage-author-use-fragments.md)
    + [Inhoud-experimenten voor e-mails configureren](/help/experimentation/content-experiments-for-emails.md)
 + In App-kanaal{#in-app-channel}
    + [Een in-app-campagne maken](/help/channels/create-an-in-app-campaign.md)

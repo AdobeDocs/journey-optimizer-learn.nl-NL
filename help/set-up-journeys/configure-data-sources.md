@@ -9,10 +9,10 @@ team: PM
 role: Admin, Developer
 level: Beginner
 exl-id: 042d94dc-2906-4745-8375-02ff888165a8
-source-git-commit: 3d86dd9cb2b32600776346c7fe77cb2a3942c2ea
-workflow-type: ht
-source-wordcount: '40'
-ht-degree: 100%
+source-git-commit: e801ea853c84c1bfd95d5b5648682fff49d317b7
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,5 +21,3 @@ ht-degree: 100%
 Begrijp wat een databron is en leer hoe u Experience Platform en externe databronnen kunt configureren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334256?quality=12&learn=on)
-
-{{journeyoptimizer-a-1-2021-1}}

@@ -25,20 +25,16 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 ## Nieuwe functies
 
 * **[Dynamische inhoud maken met de ontwikkelaar voor voorwaardelijke regels](/help/personalize-content/create-dynamic-content.md)**
-
-   *Leer voorwaardelijke regels te maken en op te slaan, en leer deze voorwaardelijke regels toepassen op content over alle kanalen.*
+  *Leer voorwaardelijke regels te maken en op te slaan, en leer deze voorwaardelijke regels toepassen op content over alle kanalen.*
 
 * **[Waarschuwingen gebruiken](/help/administration/alerts.md)**
-
-   *Ontdek hoe u vooraf gedefinieerde waarschuwingen kunt ontvangen voor onverwacht journeygedrag en hoe u meldingen kunt ontvangen via e-mail, in Journey Optimizer of via een API.*
+  *Ontdek hoe u vooraf gedefinieerde waarschuwingen kunt ontvangen voor onverwacht journeygedrag en hoe u meldingen kunt ontvangen via e-mail, in Journey Optimizer of via een API.*
 
 * **[Een journey naar een andere sandbox kopiëren](/help/create-journeys/copy-a-journey.md)**
-
-   *Ontdek hoe u een journey en zijn afhankelijke objecten van de ene sandbox naar de andere kunt kopiëren.*
+  *Ontdek hoe u een journey en zijn afhankelijke objecten van de ene sandbox naar de andere kunt kopiëren.*
 
 * **[Gegevens in berichten maskeren](/help/privacy/mask-data-in-messages.md)**
-
-   *Begrijp wat het maskeren van gegevens is en waarom we gegevens maskeren. Leer hoe u gegevens in Journey Optimizer-berichten kunt maskeren.*
+  *Begrijp wat het maskeren van gegevens is en waarom we gegevens maskeren. Leer hoe u gegevens in Journey Optimizer-berichten kunt maskeren.*
 
 </div>
 
@@ -48,12 +44,10 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 ## Live gebeurtenissen in Experience League
 
 * **[Uw campagnes uitvoeren in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=nl)**
-
-   *In deze Experience League Live-aflevering, oorspronkelijk gehouden op 22 september 2022, ziet u gastvrouw Sandra Hausmann en productdeskundigen Bridgette Darling en Frederic Mary bij het bespreken van de gebruiksscenario&#39;s waarop deze nieuwe functie betrekking heeft en hoe een campagne in Journey Optimizer eenvoudig kan worden opgezet en uitgevoerd.*
+  *In deze Experience League Live-aflevering, oorspronkelijk gehouden op 22 september 2022, ziet u gastvrouw Sandra Hausmann en productdeskundigen Bridgette Darling en Frederic Mary bij het bespreken van de gebruiksscenario&#39;s waarop deze nieuwe functie betrekking heeft en hoe een campagne in Journey Optimizer eenvoudig kan worden opgezet en uitgevoerd.*
 
 * **[Pushmeldingen met Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=nl)**
-
-   *In deze Experience League Live-aflevering praten we over doorsnee gebruiksscenario&#39;s voor pushberichten met Adobe Journey Optimizer en gaan we in op de technische details over het configureren van een app voor Push die wordt aangestuurd door Adobe Experience Platform.*
+  *In deze Experience League Live-aflevering praten we over doorsnee gebruiksscenario&#39;s voor pushberichten met Adobe Journey Optimizer en gaan we in op de technische details over het configureren van een app voor Push die wordt aangestuurd door Adobe Experience Platform.*
 
 </div>
 

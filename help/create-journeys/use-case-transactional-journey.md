@@ -1,6 +1,6 @@
 ---
 title: Gebruiksscenario - Transactionele journey
-description: Begrijp de toepasselijke gebruiksscenario's voor transactionele journeys. Leer hoe u transactionele journeys bouwt en welke aanbevolen procedures u kunt toepassen.
+description: Begrijp de van toepassing zijnde gebruiksgevallen voor transactiereizen en leer hoe te om transactiereizen te bouwen.
 kt: 8030
 thumbnail: 334202.jpg
 feature: Journeys
@@ -9,17 +9,18 @@ team: PM
 role: User
 level: Beginner
 exl-id: f42f9bba-a309-44ae-943c-d9142046dcd3
-hidefromtoc: true
-hide: true
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
-workflow-type: ht
-source-wordcount: '48'
-ht-degree: 100%
+last-substantial-update: 2023-06-15T00:00:00Z
+hidefromtoc: false
+hide: false
+source-git-commit: 7cd1d1ce68f58251c1041d4a76a58eb8b407e824
+workflow-type: tm+mt
+source-wordcount: '38'
+ht-degree: 21%
 
 ---
 
 # Gebruiksscenario - Transactionele journey
 
-Begrijp de toepasselijke gebruiksscenario&#39;s voor transactionele journeys. Leer hoe u transactionele journeys bouwt en welke aanbevolen procedures u kunt toepassen.
+Begrijp de van toepassing zijnde gebruiksgevallen voor transactiereizen en leer hoe te om transactiereizen te bouwen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on)

@@ -1,23 +1,25 @@
 ---
-title: Een schema maken
-description: Leer hoe u een schema maakt, veldgroepen toevoegt en aangepaste veldgroepen maakt en configureert.
+title: Schema's maken
+description: Leer hoe u schema's maakt in Adobe Experience Platform met de klasse Individueel profiel XDM en verschillende veldgroepen.
 kt: 7565
-thumbnail: 334461.jpg
+thumbnail: 27012.jpg
 feature: Schemas
 doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
 exl-id: 168550e9-e304-4a1a-96da-8aab9e4af4dd
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
-workflow-type: ht
-source-wordcount: '36'
-ht-degree: 100%
+source-git-commit: 89a324312afc2f28aa63754ce8213d792ec705db
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 0%
 
 ---
 
-# Een schema maken
+# Schema&#39;s maken
 
-Leer hoe u een schema maakt, veldgroepen toevoegt en aangepaste veldgroepen maakt en configureert.
+Leer hoe u schema&#39;s maakt in Adobe Experience Platform met de klasse Individueel profiel XDM en verschillende veldgroepen.
 
->[!VIDEO](https://video.tv.adobe.com/v/334461?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27012?quality=12&learn=on)
+
+Zie voor gedetailleerde productdocumentatie [Aan de slag met schema&#39;s](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/get-started-schemas.html), [een schema maken in de gebruikersinterface](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html) en [een schema maken met de API](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-api.html).

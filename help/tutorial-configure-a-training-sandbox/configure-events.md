@@ -3,12 +3,12 @@ title: Gebeurtenissen configureren
 description: Vorm drie gebeurtenissen die voor de hands-on Uitdagingen van Journey Optimizer worden vereist
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
-kt: 9382
+jira: KT-9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 6%

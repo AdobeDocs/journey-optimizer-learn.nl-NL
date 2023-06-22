@@ -1,12 +1,12 @@
 ---
 title: Aankondiging van een zomerverzameling maken - uitdaging
 description: Verzend een aankondiging van de Inzameling van de Zomer naar een segment van bestaande klanten om de nieuwe Inzameling van de Zomer van de Luma te bevorderen.
-kt: 8109
+jira: KT-8109
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: tm+mt
 source-wordcount: '1126'
 ht-degree: 1%
@@ -177,17 +177,14 @@ E-mail voorvertonen met het testprofiel *Louise Petti.*
 >
 >1. Zorg ervoor dat de [!UICONTROL Segmentactiviteit lezen] heeft de naamruimte ingesteld op **Luma CRM-id (lumaCrmId)**
 >1. Overschrijf voor elke e-mail de standaard e-mailparameters voor de e-mail, zodat deze naar uw e-mailadres worden verzonden:
-   >    * Verborgen waarden weergeven door op het oogsymbool te klikken.
-   >    * Klik in de e-mailparameters op het T-symbool (parameteroverschrijving inschakelen).
-
-      >
-      >      ![E-mailparameters overschrijven](/help/challenges/assets/c3-override-email-paramters.jpg)
-   > 
-   >    * Klik in de [!UICONTROL Adres] field
-   >    * Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: `"yourname@yourdomain"` in de uitdrukkingsredacteur en klik o.k.
-
+>    * Verborgen waarden weergeven door op het oogsymbool te klikken.
+>    * Klik in de e-mailparameters op het T-symbool (parameteroverschrijving inschakelen).
 >
-
+>      ![E-mailparameters overschrijven](/help/challenges/assets/c3-override-email-paramters.jpg)
+> 
+>    * Klik in de [!UICONTROL Adres] field
+>    * Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: `"yourname@yourdomain"` in de uitdrukkingsredacteur en klik o.k.
+>
 
 Test de reis en stuur de e-mails naar je eigen account:
 

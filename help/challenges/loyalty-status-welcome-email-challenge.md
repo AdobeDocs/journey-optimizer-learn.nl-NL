@@ -1,13 +1,13 @@
 ---
 title: Een welkomstbericht voor een loyaliteitsstatus maken - Uitdaging
 description: Bouw een reis die automatisch een welkome e e-mail naar klanten verzendt wanneer zij loyaliteitsrij bereiken.
-kt: 8109
+jira: KT-8109
 feature: Journeys
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 0%

@@ -1,13 +1,13 @@
 ---
 title: Een bevestigingsbericht voor bestelling maken
 description: Test uw kennis op hoe te om transactionele berichten tot stand te brengen en te personaliseren.
-kt: 7531
+jira: KT-7531
 feature: Journeys
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 4%
@@ -77,7 +77,7 @@ De e-mail moet als volgt worden gestructureerd:
   <td>
     <p>
     <strong>Tekst</strong><p>
-    <em>Hey {firstName},</em><p>
+    <em>Hé {firstName},</em><p>
    <div>
     <p>
      <em>Uw bestelling is geplaatst.

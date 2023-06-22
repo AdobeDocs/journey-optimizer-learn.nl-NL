@@ -1,7 +1,7 @@
 ---
 title: Een campagne maken
 description: Leer hoe u eenmalige content aan een specifiek publiek kunt leveren door acties direct of volgens een opgegeven planning uit te voeren.
-kt: 10590
+jira: KT-10590
 thumbnail: 346680.jpg
 feature: Journeys
 doc-type: feature video
@@ -9,8 +9,8 @@ team: PM
 role: User
 level: Beginner
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
-source-git-commit: 1ba4f4603e9d52a1712530f311ebe31c473b3b1a
-workflow-type: ht
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 

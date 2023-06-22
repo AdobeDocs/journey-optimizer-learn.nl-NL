@@ -1,14 +1,14 @@
 ---
 title: Uitdaging voor productvervanging
 description: Pas toe wat u hebt geleerd over het maken van segmenten en test uw vaardigheden.
-kt: 8417
+jira: KT-8417
 feature: Segments
 role: User
 level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 2%
@@ -101,7 +101,6 @@ Voorwaardencode:
 > * Selecteer de SKU onder Opslaan voor later in het dialoogvenster *Door variabelen bladeren* sectie
 > * Gebruik de vergelijkingsoptie wanneer u de SKU onder Opslaan voor later in het gebeurtenisveld plaatst
 
-
 Controleer de code in de rechterbenedenhoek van het scherm Segment bewerken onder Gebeurtenissen. De code moet er als volgt uitzien:
 
 Code:
@@ -118,6 +117,7 @@ Klanten op de hoogte stellen die een product uit de voorraad hebben toegevoegd m
 >[!TIP]
 >
 > Gebruik de bestaande bedrijfsgebeurtenis. Voeg een voorwaarde toe die controleert dat restock SKU in (om het even welk) gebeurtenistype sparen voor laters inbegrepen is.
+>
 
 
 

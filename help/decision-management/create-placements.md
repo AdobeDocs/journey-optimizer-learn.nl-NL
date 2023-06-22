@@ -2,11 +2,11 @@
 title: Plaatsingen maken
 description: Leer hoe u plaatsingen voor beslissingsbeheer kunt maken. Plaatsingen vormen een van de bouwstenen van aanbiedingen.
 feature: Offers
-kt: 6736
+jira: KT-6736
 thumbnail: 329372.jpg
 exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
-source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
-workflow-type: ht
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 

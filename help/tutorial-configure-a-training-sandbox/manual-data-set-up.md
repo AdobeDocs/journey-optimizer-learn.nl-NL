@@ -3,12 +3,12 @@ title: Gegevensstructuur handmatig instellen
 description: Maak de vereiste naamruimten en definieer de gegevensstructuur van het Luminagevoorbeeld.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
-kt: 9382
+jira: KT-9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: tm+mt
 source-wordcount: '1021'
 ht-degree: 2%
@@ -320,12 +320,12 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
       1. **[!UICONTROL Referentieschema]**: [!DNL Luma Product Catalog Schema].
 
       2. **[!UICONTROL Naamruimte van verwijzing]**: [!DNL LumaProductSKU].
+
    3. Selecteren **[!UICONTROL Toepassen]**.
 
       Het schema moet er als volgt uitzien:
 
       ![SKU-relatie](assets/sku_relationship.png)
-
 
 1. Inschakelen voor **Profiel**.
 
@@ -340,7 +340,7 @@ Maak de volgende aanvullende [!UICONTROL schema&#39;s]:
 | **[!UICONTROL Klasse]** | [!UICONTROL Afzonderlijk XDM-profiel] | [!UICONTROL XDM Experience Event] | [!UICONTROL Afzonderlijk XDM-profiel] | [IUICONTROL XDM ExperienceEvent] |
 | **[!UICONTROL Bestaande veldgroep toevoegen]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`<br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
 | **[!UICONTROL Relatie]** |  | `productListItems.SKU`:<br> Referentieschema `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |  | `productListItems.SKU`:<br> Referentieschema `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |
-| **[!UICONTROL Primaire identiteit] [!UICONTROL namespace])** | `systemIdentifier.crmId` |  | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
+| **[!UICONTROL Primaire identiteit] [!UICONTROL namespace])** | `systemIdentifier.crmId` | | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
 | **[!UICONTROL Inschakelen voor profiel]** | ja | ja | ja | ja |
 
 ## Volgende stappen

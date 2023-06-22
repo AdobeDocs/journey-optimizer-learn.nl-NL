@@ -2,11 +2,11 @@
 title: Demo van de mogelijkheden voor beslissingsbeheer
 description: Leer hoe merken de mogelijkheden voor beslissingsbeheer kunnen gebruiken om hun aanbiedingen te definiëren en te beheren, realtimeklantgegevens toe te passen en de juiste ervaringen te leveren die hun klanten verwachten.
 feature: Offers
-kt: 6492
+jira: KT-6492
 thumbnail: 326841.jpg
 exl-id: 44136443-a3fd-435f-9f6d-23c7696acabe
-source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
-workflow-type: ht
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
 

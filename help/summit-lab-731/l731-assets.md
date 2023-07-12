@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
+source-git-commit: e7deb1d6c57a5b582448542a2679de6aeef44750
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '342'
 ht-degree: 2%
 
 ---
@@ -125,8 +125,6 @@ U wordt gevraagd Testflight, stappen 1 tot en met 4 te installeren. Nadat u Test
 
 ![QR-code voor Android](/help/assets/lab731-android-qr-code.png)
 
-Gebruik de volgende koppeling als u de Android-simulator gebruikt: [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
-
 Aangezien de app niet bij de Google Play Store is geregistreerd, ontvangt u een waarschuwingsbericht:
 
 ![Android-waarschuwingsscherm](/help/assets/lab731-install-android.png)
@@ -149,14 +147,14 @@ Klikken **Toch installeren**
 
 | Veld | Tekst | Koppelingen |
 |----|----|----|
-| Campagnenaam | `<your seat number> March Vegas Campaign` |  |
+| Campagnenaam | `<your seat number> Vegas Stay Campaign` |  |
 | Matcher | oplichten |  |
 | Media-URL, optie |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Titel | Het gebeurt en het is live! |  |
-| Lichaam | Adobe Summit keert terug naar Las Vegas March 21-23, 2023. Bereid u voor op inspirerende luidsprekers, sessies die de vaardigheden uitbreiden en nieuwe verbindingen. |  |
-| Knop | Boekhotel nu en bespaar 10% | lab://booking?suite=presidential&amp;discount=10 |
+| Titel | Haal je vroege vogelkorting op! |  |
+| Lichaam | Adobe Summit keert terug naar Las Vegas in 2024. Bereid u voor op inspirerende luidsprekers, sessies die de vaardigheden uitbreiden en nieuwe verbindingen. Boek nu uw suite en krijg 10% korting. |  |
+| Knop | Boek nu | lab://booking?suite=presidential&amp;discount=10 |
 | Knop: Interactieve gebeurtenis | CTA in de app |  |
-| Basis-URL |  | iOS: lab:// <br>Android&amp;: https://lab |
+| Basis-URL |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 
 ## Les 3 Een OmniChannel-reis maken

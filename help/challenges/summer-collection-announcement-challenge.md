@@ -2,12 +2,12 @@
 title: Aankondiging van een zomerverzameling maken - uitdaging
 description: Verzend een aankondiging van de Inzameling van de Zomer naar een segment van bestaande klanten om de nieuwe Inzameling van de Zomer van de Luma te bevorderen.
 jira: KT-8109
-feature: Segments, Journeys, EMail
+feature: Segments, Journeys, Email
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+source-git-commit: 035d568fc25119142b92e0caa8adfb0ae5e21be8
 workflow-type: tm+mt
 source-wordcount: '1126'
 ht-degree: 1%

@@ -2,10 +2,12 @@
 title: Verzamelingen maken
 description: Leer hoe u verzamelingen maakt voor beslissingsbeheer. Aan verzamelingen zijn regels verbonden om u te helpen ze alleen aan relevante klanten te tonen.
 feature: Offers
+role: User
+level: Beginner
 jira: KT-6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%

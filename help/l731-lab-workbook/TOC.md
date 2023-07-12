@@ -1,11 +1,13 @@
 ---
 user-guide-title: Top Lab 731 - Werkboek
 user-guide-description: In dit hands-on laboratorium, leert u hoe te om een multi-kanaals marketing strategie uit te voeren die in-app, dupberichten, SMS, en e-mailoverseinencampagnes en reizen in Adobe Journey Optimizer omvat.
+role: User
+level: Beginner
 breadcrumb-title: Journey Optimizer - werkboek L731
 breadcrumb-url: /docs/journey-optimizer-learn/summit-lab/overview.html
 index: false
 hide: true
-source-git-commit: a1751f374f611fcf38db7ad9b51c42315c890b04
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 3%

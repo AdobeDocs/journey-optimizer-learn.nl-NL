@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: d44943b27a1681a2f264e762a2eac9d993ce46be
+source-git-commit: c3081f196d271f8b32084b0477639ba0fe889e92
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '286'
 ht-degree: 3%
 
 ---
@@ -162,6 +162,6 @@ Klikken **Toch installeren**
 | Veld | Tekst | Koppelingen |
 |----|----|----|
 | Campagnenaam | `<your seat number> Max Push Campaign` |  |
-| Media-URL, optie |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
+| Media-URL, optie |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
 | Titel | Hé! |  |
 | Lichaam | Wist je dat Adobe Max terugkomt naar Vegas? Boek nu uw ruimte en profiteer van 10% korting. |  |

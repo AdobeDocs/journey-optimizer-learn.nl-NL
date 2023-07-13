@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: c3081f196d271f8b32084b0477639ba0fe889e92
+source-git-commit: 152435650d2160fd6def2614d50fc06ade79f24c
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 3%
+source-wordcount: '306'
+ht-degree: 2%
 
 ---
 
@@ -29,6 +29,11 @@ Scan de QR-code om de app te downloaden
 >[!TAB iOS]
 
 ![QR-code voor iOS](/help/assets/lab731-ios-qr-code.png)
+
+>[!Tip]
+>
+>Sluit TestFlight-app en scan nogmaals de QR-code als u om de inwisselingscode wordt gevraagd.
+>**Sta &#39;Meldingen&#39; toe.**
 
 U wordt gevraagd Testflight, stappen 1 tot en met 4 te installeren. Nadat u Testflight hebt geïnstalleerd, voert u de stappen 5 tot en met 8 uit om de Las van Vegas te installeren:
 

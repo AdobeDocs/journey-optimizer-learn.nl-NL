@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: e7deb1d6c57a5b582448542a2679de6aeef44750
+source-git-commit: 6580652b9c28d51c03944362a0fb848a0a8194e2
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 2%
+source-wordcount: '286'
+ht-degree: 3%
 
 ---
 
@@ -133,7 +133,7 @@ Klikken **Toch installeren**
 
 >[!ENDTABS]
 
-## Oefening 1.3: Aanmelden bij Adobe Journey Optimizer
+## Oefening 1: Aanmelden bij Adobe Journey Optimizer
 
 [Klik hier om u aan te melden bij Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
 
@@ -143,63 +143,25 @@ Klikken **Toch installeren**
 * **Wachtwoord:** Adobe 2023!
 
 
-## Oefening 2.1 Een campagne in de app maken
+## Oefening 2 Een campagne in de app maken
 
 | Veld | Tekst | Koppelingen |
 |----|----|----|
 | Campagnenaam | `<your seat number> Vegas Stay Campaign` |  |
 | Matcher | oplichten |  |
-| Media-URL, optie |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
+| Media-URL, optie |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
 | Titel | Haal je vroege vogelkorting op! |  |
-| Lichaam | Adobe Summit keert terug naar Las Vegas in 2024. Bereid u voor op inspirerende luidsprekers, sessies die de vaardigheden uitbreiden en nieuwe verbindingen. Boek nu uw suite en krijg 10% korting. |  |
+| Lichaam | Adobe Max keert terug naar Las Vegas. Bereid u voor op inspirerende luidsprekers, sessies die de vaardigheden uitbreiden en nieuwe verbindingen. Boek nu uw suite en krijg 10% korting. |  |
 | Knop | Boek nu | lab://booking?suite=presidential&amp;discount=10 |
 | Knop: Interactieve gebeurtenis | CTA in de app |  |
-| Basis-URL |  | **iOS:** lab:// <br>**Android**: https://lab |
+| Basis-URL die moet worden gebruikt voor voorvertoning op apparaat |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 
-## Les 3 Een OmniChannel-reis maken
+## Oefening 3: Een pushmelding maken
 
-**Reislabel:**
-`<your seat number>` - Welkomstreis
-
->[!BEGINTABS]
-
->[!TAB Push-bericht]
-
-**Label:**
-Welkomstbericht
-
-**Titel:**\
-Welkom in Vegas!
-
-**Lichaam:**\
-De regel overslaan en inchecken met de mobiele app
-
-**Deëplink:** iOS: lab://, Android&amp;: https://lab
-
-**Media:**
-
-https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
-
-
-Dit is de afbeelding die we gebruiken voor de pushmelding:
-
-![Online inchecken](/help/assets/vegas_online_check_in.jpg)
-
->[!TAB SMS-bericht]
-
-**Label:**
-Welkomstbericht
-
-**Bericht:**
-Welkom in Vegas. De regel overslaan en inchecken met de mobiele app: lab://checkin
-
->[!TAB E-mailbericht]
-
-**Label:**
-Bevestigingsbericht
-
-**Onderwerpregel:**
-`{{profile.person.name.firstName}},` Je bent aangemeld. Bekijk nu onze voorstellen voor je verblijf!
-
->[!ENDTABS]
+| Veld | Tekst | Koppelingen |
+|----|----|----|
+| Campagnenaam | `<your seat number> Max Push Campaign` |  |
+| Media-URL, optie |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| Titel | Hé! |  |
+| Lichaam | Wist je dat Adobe Max terugkomt naar Vegas? Boek nu uw ruimte en profiteer van 10% korting. |  |

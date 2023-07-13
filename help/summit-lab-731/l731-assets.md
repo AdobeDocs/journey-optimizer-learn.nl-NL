@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 6580652b9c28d51c03944362a0fb848a0a8194e2
+source-git-commit: d44943b27a1681a2f264e762a2eac9d993ce46be
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '285'
 ht-degree: 3%
 
 ---
@@ -149,10 +149,10 @@ Klikken **Toch installeren**
 |----|----|----|
 | Campagnenaam | `<your seat number> Vegas Stay Campaign` |  |
 | Matcher | oplichten |  |
-| Media-URL, optie |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| Media-URL, optie |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | Titel | Haal je vroege vogelkorting op! |  |
 | Lichaam | Adobe Max keert terug naar Las Vegas. Bereid u voor op inspirerende luidsprekers, sessies die de vaardigheden uitbreiden en nieuwe verbindingen. Boek nu uw suite en krijg 10% korting. |  |
-| Knop | Boek nu | lab://booking?suite=presidential&amp;discount=10 |
+| Knop | Ontvang je korting van 10%! | lab://booking?suite=presidential&amp;discount=10 |
 | Knop: Interactieve gebeurtenis | CTA in de app |  |
 | Basis-URL die moet worden gebruikt voor voorvertoning op apparaat |  | **iOS:** lab:// <br>**Android**: https://lab |
 
@@ -162,6 +162,6 @@ Klikken **Toch installeren**
 | Veld | Tekst | Koppelingen |
 |----|----|----|
 | Campagnenaam | `<your seat number> Max Push Campaign` |  |
-| Media-URL, optie |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| Media-URL, optie |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | Titel | Hé! |  |
 | Lichaam | Wist je dat Adobe Max terugkomt naar Vegas? Boek nu uw ruimte en profiteer van 10% korting. |  |

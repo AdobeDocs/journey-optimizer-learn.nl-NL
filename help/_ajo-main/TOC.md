@@ -2,10 +2,10 @@
 user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
-source-git-commit: d755729d2a426e291f6b417546346cbd78900898
+source-git-commit: 7dd39b0bc8b2aa17522310d38140afff9bb1e727
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 72%
+source-wordcount: '382'
+ht-degree: 71%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 72%
 + Webkanaal {#web-channel}
    + [Een webcampagne maken](/help/channels/create-a-web-campaign.md)
    + [Een webcampagne maken](/help/channels/author-a-web-campaign.md)
-+ Klantprofielen, segmenten en lidmaatschappen {#profiles-segments-subscriptions}
++ Profielen, publiek en abonnementen {#profiles-segments-subscriptions}
    + [Uniform profiel en segmentatie - overzicht](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Segmenten maken](/help/set-up-resources/create-segments.md)
    + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)

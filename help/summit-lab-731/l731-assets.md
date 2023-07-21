@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: af22cd4dfe86ade11a88428cd44460fad721942a
+source-git-commit: 056965ea13a84a182971b10138e5d9a75522d5c7
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 2%
+source-wordcount: '326'
+ht-degree: 3%
 
 ---
 
@@ -142,7 +142,7 @@ Klikken **Toch installeren**
 
 ## Oefening 1: Aanmelden bij Adobe Journey Optimizer
 
-[Klik hier om u aan te melden bij Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
+[Klik hier om u aan te melden bij Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"}
 
 **Aanmeldingsgegevens:**
 
@@ -152,16 +152,16 @@ Klikken **Toch installeren**
 
 ## Oefening 2 Een campagne in de app maken
 
-| Veld | Tekst | Koppelingen |
-|----|----|----|
-| Campagnenaam | `<your seat number> Vegas Stay Campaign` |  |
-| Matcher | oplichten |  |
-| Media-URL, optie |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
-| Titel | Haal je vroege vogelkorting op! |  |
-| Lichaam | Adobe Max keert terug naar Las Vegas. Bereid u voor op inspirerende luidsprekers, sessies die de vaardigheden uitbreiden en nieuwe verbindingen. Boek nu uw suite en krijg 10% korting. |  |
-| Knop | Ontvang je korting van 10%! | lab://booking?suite=presidential&amp;discount=10 |
-| Knop: Interactieve gebeurtenis | CTA in de app |  |
-| Basis-URL die moet worden gebruikt voor voorvertoning op apparaat |  | **iOS:** lab:// <br>**Android**: https://lab |
+| Sectie | Veld | Tekst | Koppelingen |
+|----|----|----|----|
+| **Properties** |  | Campagnenaam | `<your seat number> Vegas Stay Campaign` |  |
+| **Triggers** | Staat | oplichten |  |
+| **Inhoud bewerken:** Media | Media-URL, optie |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
+| **Inhoud bewerken:** Inhoud | Titel | Haal je vroege vogelkorting op! |  |
+| **Inhoud bewerken:** Inhoud | Lichaam | Adobe Max keert terug naar Las Vegas. Bereid u voor op inspirerende luidsprekers, sessies die de vaardigheden uitbreiden en nieuwe verbindingen. Boek nu uw suite en krijg 10% korting. |  |
+| **Inhoud bewerken:** Knoppen | Knop | Ontvang je korting van 10%! | lab://booking?suite=presidential&amp;discount=10 |
+| **Inhoud bewerken:** Inhoud |  | Knop: Interactie | CTA in de app |  |
+| **Voorvertonen op apparaat** |  | Basis-URL die moet worden gebruikt voor voorvertoning op apparaat |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 
 ## Oefening 3: Een pushmelding maken

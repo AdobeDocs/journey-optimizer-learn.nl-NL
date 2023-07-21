@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 056965ea13a84a182971b10138e5d9a75522d5c7
+source-git-commit: 0932b5cd3ad318b0094e859cbc64c5de4f8ba747
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '325'
 ht-degree: 3%
 
 ---
@@ -160,9 +160,8 @@ Klikken **Toch installeren**
 | **Inhoud bewerken:** Inhoud | Titel | Haal je vroege vogelkorting op! |  |
 | **Inhoud bewerken:** Inhoud | Lichaam | Adobe Max keert terug naar Las Vegas. Bereid u voor op inspirerende luidsprekers, sessies die de vaardigheden uitbreiden en nieuwe verbindingen. Boek nu uw suite en krijg 10% korting. |  |
 | **Inhoud bewerken:** Knoppen | Knop | Ontvang je korting van 10%! | lab://booking?suite=presidential&amp;discount=10 |
-| **Inhoud bewerken:** Inhoud |  | Knop: Interactie | CTA in de app |  |
+| **Inhoud bewerken:** Knoppen | Interactie | CTA in de app |  |
 | **Voorvertonen op apparaat** |  | Basis-URL die moet worden gebruikt voor voorvertoning op apparaat |  | **iOS:** lab:// <br>**Android**: https://lab |
-
 
 ## Oefening 3: Een pushmelding maken
 

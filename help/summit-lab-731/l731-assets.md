@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 2f0412400db4d5bdddbb84d41e8bde17ea2533b2
+source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 3%
@@ -144,7 +144,7 @@ Klikken **Toch installeren**
 
 [Klik hier om u aan te melden bij Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"}
 
-**Aanmeldingsgegevens:**
+**Aanmeldingsgegevens**
 
 * **Gebruikersnaam:** `L731+<your seat number>@summitlab.us` (voorbeeld: L731+001@summitlab.us)
 * **Wachtwoord:** Adobe 2023!
@@ -161,7 +161,7 @@ Klikken **Toch installeren**
 | **Inhoud bewerken:** Inhoud | Lichaam | Adobe Max keert terug naar Las Vegas. Bereid u voor op inspirerende luidsprekers, sessies die de vaardigheden uitbreiden en nieuwe verbindingen. Boek nu uw suite en krijg 10% korting. |  |
 | **Inhoud bewerken:** Knoppen | Knop | Ontvang je korting van 10%! | lab://booking?suite=presidential&amp;discount=10 |
 | **Inhoud bewerken:** Knoppen | Interactie | CTA in de app |  |
-| **Voorvertonen op apparaat** |  | Basis-URL die moet worden gebruikt voor voorvertoning op apparaat |  | **iOS:** lab:// <br>**Android**: https://lab |
+| **Voorvertonen op apparaat** | Basis-URL die moet worden gebruikt voor voorvertoning op apparaat |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 ## Oefening 3: Een pushmelding maken
 

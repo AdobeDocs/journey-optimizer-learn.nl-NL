@@ -8,7 +8,7 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 2%
@@ -29,15 +29,15 @@ Wanneer klanten op de Luma-website bladeren, kunnen ze producten toevoegen die z
 
 ## Uw uitdaging
 
-Luma vraagt u om een reis in Journey Optimizer uit te voeren die klanten op de hoogte brengt, die een punt op hun verlanglijst hebben dat eerder verouderd was, wanneer dit punt weer in voorraad is. Het creatieve team biedt u [E-mailbestand voor productvoorraad](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip).
+Luma vraagt u om een reis in Journey Optimizer uit te voeren die klanten op de hoogte brengt, die een punt op hun verlanglijst hebben dat eerder verouderd was, wanneer dit punt weer in voorraad is. Het creatieve team biedt u de [E-mailbestand voor productvoorraad](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip).
 
 >[!BEGINTABS]
 
 >[!TAB Taak]
 
-## 1. Definieer het segment - items in de Wishlist-lijst buiten de voorraad
+## 1. Definieer het segment - Afzonderlijke items op de weergavelijst
 
-Om potentiële geïnteresseerde klanten te richten wanneer de producten worden herbevolkt, creeer een segment dat uit klanten bestaat:
+Om potentiële geïnteresseerde klanten te richten wanneer de producten worden herbevolkt, creeer een publiek dat uit klanten bestaat:
 
 * Wie ten minste één item aan hun verlanglijst heeft toegevoegd (gebruik het gebeurtenistype: [!UICONTROL Opslaan voor later])
 * die in de laatste drie maanden niet meer in voorraad was (voorraadhoeveelheid = 0)
@@ -67,12 +67,12 @@ Test uw reis:
 1. De overgang naar de testmodus instellen
 1. Trigger een gebeurtenis - ga de volgende gegevens in:
 
-   * Omschrijving: Vergeet de mooie machines en dure lidmaatschappen - de Harmony Lumaflex Sterkte Band Kit is alles wat u nodig hebt voor een geweldige werkout. De kit bevat alles wat u nodig hebt voor een reeks oefeningen voor versterking en kleurtonen.
+   * Beschrijving: Vergeet favoriete machines en dure lidmaatschappen - de Harmony Lumaflex Sterke Band Kit is alles wat u nodig hebt voor een geweldige werkout. De kit bevat alles wat u nodig hebt voor een reeks oefeningen voor versterking en kleurtonen.
    * Naam: Harmony Lumaflex Strength Band Kit
    * Prijs: 22
-   * Product-id: 24-UG03
-   * URL afbeelding product: https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/ug03-bk-0.jpSKU: 24-UG03
-   * Type voorraadgebeurtenis: herbevoorraden
+   * Product-ID: 24-UG03
+   * URL van productafbeelding: https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/ug03-bk-0.jpSKU: 24-UG03
+   * Type aandelengebeurtenis: voorraad
    * Profiel-id: Jenna_Palmer9530@emailsim.io
 
 U ontvangt de e-mail &quot;Luma Email Product Replenging&quot; met de productgegevens en de personalisatie voor Wenen.
@@ -88,7 +88,7 @@ Zo ziet uw reis eruit:
 
 ![Reis voor productaanvulling](/help/challenges/assets/c3-j3-journey.png)
 
-Voorwaarde: In verlanglijst
+Voorwaarde: in verlanglijst
 
 ![Voorwaarde - in wenslijst](/help/challenges/assets/c3-j3-condition.png)
 
@@ -108,7 +108,7 @@ Code:
 
 >[!ENDTABS]
 
-### E-mail maken - Luminantiefunctie voor productvervanging
+### E-mail maken - Luminantiedetail
 
 Klanten op de hoogte stellen die een product uit de voorraad hebben toegevoegd met een oproep om te gaan winkelen, nu het product weer in voorraad is.
 

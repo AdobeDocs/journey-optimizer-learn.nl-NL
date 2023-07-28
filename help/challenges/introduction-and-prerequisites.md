@@ -6,7 +6,7 @@ role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
+source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
 workflow-type: tm+mt
 source-wordcount: '482'
 ht-degree: 14%
@@ -66,7 +66,7 @@ Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en d
    <strong><a href="summer-collection-announcement-challenge.md">Een aankondiging van een zomerverzameling maken </strong>
     </a>
       <p>
-      <em>Creeer een reis die een de aankondiging van de zomerinzameling e-mail naar een segment van bestaande klanten verzendt. </em>
+      <em>Creeer een reis die een de aankondiging van de zomerinzameling e-mail naar een publiek van bestaande klanten verzendt. </em>
       <p>
       <b>Vereiste vaardigheden:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Segmenten maken</li>

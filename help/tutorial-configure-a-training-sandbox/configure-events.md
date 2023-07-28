@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: df055830da42b94d751890af6c19074ddfea2237
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 6%
+source-wordcount: '159'
+ht-degree: 5%
 
 ---
 
@@ -23,7 +23,7 @@ In de volgende video wordt uitgelegd hoe u gebeurtenissen kunt maken:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on)
 
-## Online Luma-aankoopgebeurtenis maken
+## De online aanschafgebeurtenis Luma maken
 
 Wanneer u deze gebeurtenis gebruikt, ontvangt Journey Optimizer informatie wanneer iemand online lumaproducten koopt.
 
@@ -52,26 +52,14 @@ Wanneer u deze gebeurtenis gebruikt, ontvangt Journey Optimizer informatie wanne
 
 1. Selecteren **[!UICONTROL Opslaan]**.
 
-## Maken *[!DNL Luma Wishlist Add]* event
-
-| [!UICONTROL Parameter] | [!UICONTROL Value] |
-|-------------|-----------|
-| [!UICONTROL NAAM] | `LumaWishlistAdd` |
-| [!UICONTROL TYPE] | [!UICONTROL Unitair] |
-| [!UICONTROL Type gebeurtenis-id] | [!UICONTROL Op regel gebaseerd] |
-| [!UICONTROL Schema] | `Luma Product Interactions` |
-| [!UICONTROL Velden] | EventType<br>productListItem.quantity<br><b>In de Punten van de Lijst van het Product > Lumatieproducten > _*[!DNL yourOrganizationID]* > Product:</b> <br>Naam<br>Prijs<br> ProductImageURL<br>ProductURL |
-| [!UICONTROL Condition] | [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters] |
-| [!UICONTROL Naamruimte] | E-mail (e-mail) |
-
 ## Maken *[!DNL Luma Product Restock]* event
 
 | [!UICONTROL Parameter] | [!UICONTROL Value] |
 |-------------|-----------|
 | [!UICONTROL NAAM] | `LumaProductRestock` |
 | [!UICONTROL TYPE] | [!UICONTROL Zakelijk] |
-| [!UICONTROL Schema] | [!DNL Luma Product Inventory Events] |
-| [!UICONTROL Velden] | SKU <br> stockEventType<br><b> yourOrganizationID > product:</b> <br>name<br>prijs<br> ImageURL<br>beschrijving |
+| [!UICONTROL Schema] | [!DNL Luma Product Inventory Event Schema] |
+| [!UICONTROL Velden] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganizationID.product :</b> <br>name<br>prijs<br> ImageURL<br>beschrijving |
 | [!UICONTROL Condition] | LumaProductRestock._`your organization's ID`.voorraadEvent.stockEventType is restock |
 
 Gefeliciteerd! Uw sandbox kan nu worden gebruikt.

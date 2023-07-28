@@ -1,15 +1,15 @@
 ---
 title: Aankondiging van een zomerverzameling maken - uitdaging
-description: Verzend een aankondiging van de Inzameling van de Zomer naar een segment van bestaande klanten om de nieuwe Inzameling van de Zomer van de Luma te bevorderen.
+description: Verzend een aankondiging van de Inzameling van de Zomer aan een publiek van bestaande klanten om de nieuwe Inzameling van de Zomer van de Luma te bevorderen.
 jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 035d568fc25119142b92e0caa8adfb0ae5e21be8
+source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
 workflow-type: tm+mt
-source-wordcount: '1126'
+source-wordcount: '1125'
 ht-degree: 1%
 
 ---
@@ -28,24 +28,24 @@ ht-degree: 1%
 
 ## Het artikel
 
-Luma, een fictioneel atletisch kledingbedrijf, promoot zijn nieuwste kleding en tandwielcollectie en drijft de verkoop voor bestaande klanten aan. Luma lanceert de nieuwe Inzameling van de Zomer en zou verschillende klantensegmenten specifiek willen richten.
+Luma, een fictioneel atletisch kledingbedrijf, promoot zijn nieuwste kleding en tandwielcollectie en drijft de verkoop voor bestaande klanten aan. Luma lanceert de nieuwe zomerverzameling en wil zich specifiek richten op verschillende doelgroepen.
 
 ## Uw uitdaging
 
 Het marketingteam van Luma vraagt u om een marketingcampagne voor Summer Collection in Journey Optimizer uit te voeren. Uw uitdaging is:
 
-* Maak een segment waarin wordt gedefinieerd welke profielen in aanmerking komen om de speciale actie te ontvangen.
+* Maak een publiek waarin wordt gedefinieerd welke profielen in aanmerking komen om de speciale actie te ontvangen.
 * Bouw de reis.
 
-### Stap 1: Bepaal het segment - Actieve Klanten
+### Stap 1: Bepaal het publiek - Actieve Klanten
 
 >[!BEGINTABS]
 
 >[!TAB Taak]
 
-#### Een segment maken in [!DNL Journey Optimizer]
+#### Een publiek maken in [!DNL Journey Optimizer]
 
-* Een segment maken in [!DNL Journey Optimizer] gebeld *Actieve klanten*.
+* Een publiek maken in [!DNL Journey Optimizer] gebeld *Actieve klanten*.
 * Het segment moet alleen actieve Luma-klanten bevatten.
 * Actieve klanten worden gedefinieerd als klanten met een laag in het loyaliteitsprogramma van Luma (bronze, zilver, goud of platina).
 
@@ -59,9 +59,9 @@ In de segmentbouwer, kunt u het geschatte aantal gekwalificeerde profielen zien.
 
 **Er is een in aanmerking komend profiel toegevoegd aan het segment:**
 
-U kunt controleren de profielen die aan het segment zijn toegevoegd kwalificeren door aan één van in de profielen te navigeren die op de de detailmening van uw segment worden vermeld.
+U kunt controleren welke profielen aan het segment zijn toegevoegd door aan één van in de profielen te navigeren die op de de detailmening van uw segment worden vermeld.
 
-Controleer op de profielpagina de [!UICONTROL Attributen] om te bevestigen dat zij in aanmerking komen: De laag moet zilver, goud, platina of diamant zijn.
+Controleer op de profielpagina de [!UICONTROL Attributen] tabblad om te bevestigen dat zij in aanmerking komen: De laag moet zilver, goud, platina of diamant zijn.
 
 ![Profielkenmerken](assets/C1-S1-profile-attributes.png)
 
@@ -86,7 +86,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >[!ENDTABS]
 
 
-### Stap 2: Aankondiging Reis - zomerverzameling maken
+### Stap 2: Maak de aankondiging van de reis - zomerverzameling
 
 >[!BEGINTABS]
 
@@ -103,7 +103,7 @@ Een bureau heeft u vier HTML-bestanden geleverd met het ontwerp voor de e-mails:
 
 1. [De e-mailbestanden voor seizoensverzamelingen downloaden](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip).
 
-1. Een reis maken met de naam *Aankondiging van Luma-zomerverzameling* op basis van de volgende richtsnoeren :
+1. Een reis maken die *Aankondiging van Luma-zomerverzameling* op basis van de volgende richtsnoeren :
 
    1. Verzenden *Luma - Nieuwe mededeling over de zomerverzameling* e-mailen naar *Actieve klanten* segment, dat 10% van het publiek als controlegroep uithoudt
       * Berichttitel *Luma - Aankondiging zomerverzameling*
@@ -132,15 +132,15 @@ Een bureau heeft u vier HTML-bestanden geleverd met het ontwerp voor de e-mails:
 
 **E-mailbericht #1 - Luma - Aankondiging van de zomerverzameling**
 
-E-mailvoorvertoning weergeven:
+E-mailvoorvertoning:
 
-1. Voeg een testprofiel toe: Louise Petti:
+1. Voeg een testprofiel toe: Louise Petti
    * Naamruimte: *Luma CRM-id*
    * Identiteitswaarde: *d1f132f9f9502bba047a6ec86c4b61f9*
 
-Resultaat:
+Resultaat
 
-* De onderwerpregel moet als volgt luiden: Louise, de nieuwe collectie Luma is hier!
+* De onderwerpregel zou moeten lezen: Louise, de nieuwe inzameling van de Luma is hier!
 
 **E-mailbericht nr. 2 - Verzameling van Luma Men**
 
@@ -152,7 +152,7 @@ Een proefdruk naar uzelf sturen:
 2. Selecteer het testprofiel: Stanleigh Stooke.
 3. Stuur een proef naar uzelf.
 
-Resultaat:\
+Resultaat\
 Je ontvangt een e-mail. De onderwerpregel moet *Stanleigh, ontdek de nieuwe atletische uitrusting van Men!* en de hoofdtekst van de e-mail moet overeenkomen met wat u in de voorvertoning hebt gezien.
 
 >[!NOTE]
@@ -183,7 +183,7 @@ E-mail voorvertonen met het testprofiel *Louise Petti.*
 >
 >      ![E-mailparameters overschrijven](/help/challenges/assets/c3-override-email-paramters.jpg)
 > 
->    * Klik in de [!UICONTROL Adres] field
+>    * Klik in het dialoogvenster [!UICONTROL Adres] field
 >    * Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: `"yourname@yourdomain"` in de uitdrukkingsredacteur en klik o.k.
 >
 
@@ -191,11 +191,11 @@ Test de reis en stuur de e-mails naar je eigen account:
 
 1. Zet de reis in testmodus.
 1. Selecteren **[!UICONTROL Eén profiel tegelijk]**.
-1. Wacht tijd: Stel de timer in op 120 seconden (typ deze in het veld).
+1. Wacht tijd: plaats de tijdopnemer aan 120 seconden (typ het in het gebied).
 1. Invoer van triggerprofiel
 1. U kunt elke vertakking testen met een van de volgende opties *Luma CRM-id&#39;s* als profiel-id&#39;s:
    * Vrouwelijk: Leora Dietsche, Identiteitswaarde:`a8f14eab3b483c2b96171b575ecd90b1`
-   * Mannelijk: Stanleigh Stooke, identiteitswaarde: `4f34057d9d9e792c28ba18ecae378e98`
+   * Mannelijk: Stanleigh Stooke, Identiteitswaarde: `4f34057d9d9e792c28ba18ecae378e98`
    * Geslacht niet gespecificeerd: Louise Petti, identiteitswaarde: `d1f132f9f9502bba047a6ec86c4b61f9`
 
 1. Nadat u de profielingang teweegbrengt, zou u eerste e-mail moeten ontvangen. De koptekst moet worden aangepast aan het profiel dat u hebt gekozen.
@@ -209,10 +209,10 @@ Je ontvangt de volgende e-mails:
 
 * Luma - Nieuwe aankondiging van seizoensverzameling
 * Afhankelijk van het testprofiel dat u hebt gebruikt, ontvangt u een van de volgende e-mails:
-   * Leora: Luma Women&#39;s Collection
+   * Leora: Vrouwencollectie Luma
    * Stanleigh: Luma Men&#39;s Collection
-   * Louise: Luminantie - 20% korting op verzameling
-* Als u het tweede e-mailbericht niet hebt geopend: De luminantie - 20% korting van collectie
+   * Loep: Luminantie - 20% korting op verzameling
+* Als u het tweede e-mailbericht niet hebt geopend: De Luma - 20% korting op de verzameling
 
 >[!TAB Uw werk controleren]
 
@@ -224,7 +224,7 @@ Zo ziet uw reis eruit:
 
 ![Controlegroep](/help/challenges/assets/c3-j1-condition-control-group.png)
 
-**Voorwaarde - Geslacht:**\
+**Voorwaarde - geslacht:**\
 
-![Voorwaarde - geslacht](/help/challenges/assets/c3-j1-condition-gender.png)
+![Voorwaarde - Geslacht](/help/challenges/assets/c3-j1-condition-gender.png)
 >[!ENDTABS]

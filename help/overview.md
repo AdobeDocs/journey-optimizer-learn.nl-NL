@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
-workflow-type: ht
-source-wordcount: '490'
-ht-degree: 100%
+source-git-commit: 1f1b8b3237dccebbf6741253edaf380e4a83753b
+workflow-type: tm+mt
+source-wordcount: '594'
+ht-degree: 82%
 
 ---
 
@@ -45,6 +45,12 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 <div id="events-section">
 
 ## Live gebeurtenissen in Experience League
+
+* **[Maximaliseer de mogelijkheden van uw mobiele app met Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en)**
+  *Leer de voordelen van berichtgeving in de app als een realtime service-kanaal en hoe u persoonlijke ervaringen met mobiele apps in Adobe Journey Optimizer kunt configureren en ontwerpen.*
+
+* **[De toekomst van Adobe Journey Optimizer verkennen met het webkanaal en content experimenteren](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=en)**
+  *Het nieuwe Webkanaal laat marketers toe om Webcampagnes met een visuele ontwerper te bouwen WYSIWYG. Bovendien kunt u met Journey Optimizer nu experimenteren met inhoud in elk kanaal, zoals e-mail, web, push, in-app, SMS en meer.*
 
 * **[Uw campagnes uitvoeren in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=nl)**
   *In deze Experience League Live-aflevering, oorspronkelijk gehouden op 22 september 2022, ziet u gastvrouw Sandra Hausmann en productdeskundigen Bridgette Darling en Frederic Mary bij het bespreken van de gebruiksscenario&#39;s waarop deze nieuwe functie betrekking heeft en hoe een campagne in Journey Optimizer eenvoudig kan worden opgezet en uitgevoerd.*

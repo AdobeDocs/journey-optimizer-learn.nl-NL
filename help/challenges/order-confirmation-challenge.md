@@ -1,5 +1,5 @@
 ---
-title: Een bevestigingsbericht voor bestelling maken
+title: Een bevestigingsbericht voor een bestelling maken
 description: Test uw kennis op hoe te om transactionele berichten tot stand te brengen en te personaliseren.
 jira: KT-7531
 feature: Journeys
@@ -7,7 +7,7 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 8b8d163b65dbd34f769a26231638f0bfeb6eb0b1
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 4%
@@ -15,7 +15,7 @@ ht-degree: 4%
 ---
 
 
-# Een bevestigingsbericht voor bestelling maken
+# Een bevestigingsbericht voor een bestelling maken
 
 ![Bevestiging van bestelling](/help/challenges/assets/email-assets/luma-transactional-order-confirmation.png)
 
@@ -39,7 +39,7 @@ Maak een reis die een bevestigingsbericht voor bestellingen verzendt wanneer een
 
 >[!TAB Taak]
 
-1. Een reis maken met de naam `Luma - Order Confirmation`.
+1. Een reis maken die `Luma - Order Confirmation`.
 
 1. Gebruik de gebeurtenis: `LumaOnlinePurchase`.
 
@@ -54,6 +54,7 @@ Maak een reis die een bevestigingsbericht voor bestellingen verzendt wanneer een
       * Voeg de koppeling voor afmelden onder aan de e-mail toe
 
 De e-mail moet als volgt worden gestructureerd:
+
 <table>
 <tr>
 <td>
@@ -64,7 +65,7 @@ De e-mail moet als volgt worden gestructureerd:
   <td>
       <p>
      <li>luma_logo.png</li>
-    <li>De website moet een link hebben naar de lumawebsite: https://luma.enablementadobe.com/content/luma/us/en.html</li>
+    <li>De link naar de luma-website: https://luma.enablementadobe.com/content/luma/us/en.html</li>
     <p>
     </td>
   </tr>
@@ -111,7 +112,7 @@ De e-mail moet als volgt worden gestructureerd:
       <p><b>Tips:</b>
       <li>De structuurcomponent gebruiken <b>1:2, kolom links</b> voor deze sectie
       <li>Dit is contextuele gebeurtenisinformatie.
-      <li>Gebruik de functie [!UICONTROL helper]: [!UICONTROL each]
+      <li>Gebruik de hulpfunctie [!UICONTROL]: [!UICONTROL each]
       <li>Schakel over naar de indeling van de code-editor om de contextuele gegevens toe te voegen.
   </td>
   <td>
@@ -144,7 +145,7 @@ Trigger de Reis die u in testwijze creeerde en verzend e-mail naar me:
    1. Klik in het gedeelte E-mailparameters op het T-symbool (parameteroverschrijving inschakelen)
    1. Klik in het veld Adres
    1. Voeg uw e-mailadres tussen haakjes toe op het volgende scherm: *&quot;yourname@yourdomain&quot;* in de uitdrukkingsredacteur en klik o.k.
-1. Het traject in testmodus zetten
+1. Het traject in de testmodus zetten
 1. De gebeurtenis activeren met de volgende parameters:
    * Stel de profiel-id in op: Identiteitswaarde:`a8f14eab3b483c2b96171b575ecd90b1`
    * Type gebeurtenis: commerce.purchase
@@ -176,7 +177,7 @@ Je ontvangt het bevestigingsbericht voor een persoonlijke aankoop.
 
 **Onderwerpregel:**
 
-Bedankt voor uw aankoop, {{ profile.person.name.firstName }}!
+Bedankt voor uw aankoop, `{{ profile.person.name.firstName }}`!
 
 **Naar sectie verzenden:**
 
@@ -190,7 +191,7 @@ Zo ziet uw code eruit:
 
 *event.45481416* Dit is een ander nummer voor jou.
 
-TIP: Elke regel afzonderlijk aanpassen
+TIP: elke regel afzonderlijk aanpassen
 
 **Sectie met orderdetails:**
 

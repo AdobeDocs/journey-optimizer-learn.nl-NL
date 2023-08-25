@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 1f1b8b3237dccebbf6741253edaf380e4a83753b
+source-git-commit: cc84bc66485a7136e433ea500352a0b029a71592
 workflow-type: tm+mt
-source-wordcount: '594'
-ht-degree: 82%
+source-wordcount: '627'
+ht-degree: 78%
 
 ---
 
@@ -45,6 +45,9 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 <div id="events-section">
 
 ## Live gebeurtenissen in Experience League
+
+* **[API-activering van berichten in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en)**
+  *Leer hoe te om REST APIs voor contextuele, gepersonaliseerde en in real time transactie en marketing mededelingen te gebruiken.*
 
 * **[Maximaliseer de mogelijkheden van uw mobiele app met Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en)**
   *Leer de voordelen van berichtgeving in de app als een realtime service-kanaal en hoe u persoonlijke ervaringen met mobiele apps in Adobe Journey Optimizer kunt configureren en ontwerpen.*

@@ -7,7 +7,7 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: cc84bc66485a7136e433ea500352a0b029a71592
+source-git-commit: bbdfb4b2a6bea5043c5db99d7973ef8905a30153
 workflow-type: tm+mt
 source-wordcount: '627'
 ht-degree: 78%
@@ -42,6 +42,13 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
 </div>
 
 
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
 <div id="events-section">
 
 ## Live gebeurtenissen in Experience League
@@ -62,13 +69,6 @@ Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden
   *In deze Experience League Live-aflevering praten we over doorsnee gebruiksscenario&#39;s voor pushberichten met Adobe Journey Optimizer en gaan we in op de technische details over het configureren van een app voor Push die wordt aangestuurd door Adobe Experience Platform.*
 
 </div>
-
-<div id="recs-overview-body-1"></div>
-<div id="recs-overview-body-2"></div>
-<div id="recs-overview-body-3"></div>
-<div id="recs-overview-body-4"></div>
-<div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div>
 
 <div id="staff-picks-section">
 

@@ -6,7 +6,8 @@ type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/journey-optimizer-learn.nl-NL
 index: true
-source-git-commit: a68e7eae1c38d7484e449de5cccb78ea8b892308
+auto-video-transcripts: true
+source-git-commit: bd0b08ead432093a44a689c11859bb87be0ac1b5
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
@@ -14,8 +15,8 @@ ht-degree: 100%
 ---
 
 
-# Metagegevens voor intern gebruik
+# Metadata voor intern gebruik
 
-Het bestand metadata.md bevat metagegevens op niveau van de repository die worden doorgegeven aan TOC.md-bestanden van de gebruikershandleiding in de repository. Als u de content van metadata.md voor om het even welke gebruikershandleiding wilt veranderen, doet u dit in om het even welk TOC.md-bestand.
+Het bestand metadata.md bevat metadata op repo-niveau die worden doorgegeven aan de handleiding voor TOC.md-bestanden in de repo. Als u de inhoud van metadata.md voor een handleiding wilt wijzigen, doe dit dan in een TOC.md-bestand.
 
 Zie [Metadata](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=nl) voor een lijst met geldige waarden voor **oplossing**, **product** en **type**.

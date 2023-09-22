@@ -9,10 +9,10 @@ team: PM
 role: Developer
 level: Beginner
 exl-id: 05264e3e-7ed1-422e-8cde-f09c6d7e590b
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
-source-wordcount: '68'
-ht-degree: 100%
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+workflow-type: tm+mt
+source-wordcount: '70'
+ht-degree: 97%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Leer hoe en wanneer u een schemaveld als identiteit labelt, hoe u een naamruimte tot stand brengt, wanneer u een identiteit primair maakt en hoe u identiteitsgegevens opneemt en verifieert.
 
->[!VIDEO](https://video.tv.adobe.com/v/335918?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335918?quality=12&learn=on){transcript=true}

@@ -9,10 +9,10 @@ team: PM
 role: Admin, Developer
 level: Beginner
 exl-id: 6275786c-d407-4d46-95f0-e366acad1054
-source-git-commit: 778187cba7ea59bd483b42925d67f74e14b275ba
-workflow-type: ht
-source-wordcount: '36'
-ht-degree: 100%
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+workflow-type: tm+mt
+source-wordcount: '38'
+ht-degree: 94%
 
 ---
 
@@ -20,5 +20,5 @@ ht-degree: 100%
 
 Leer hoe u een gebeurtenis kunt configureren, en het streamingeindpunt en de payload voor een gebeurtenis kunt specificeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
 

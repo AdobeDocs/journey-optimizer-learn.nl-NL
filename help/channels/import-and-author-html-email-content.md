@@ -9,10 +9,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: 6b8b5c30-5b12-486e-8787-352670e0b164
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
-source-wordcount: '64'
-ht-degree: 100%
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 96%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Leer hoe u bestaande HTML-content kunt importeren, het ontwerp kunt aanpassen, spiegelpagina&#39;s kunt toevoegen en lidmaatschapskoppelingen kunt opheffen, en hoe u de content kunt coderen.
 
->[!VIDEO](https://video.tv.adobe.com/v/334102?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334102?quality=12&learn=on){transcript=true}

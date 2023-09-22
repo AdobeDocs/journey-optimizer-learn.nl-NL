@@ -12,10 +12,10 @@ last-substantial-update: 2023-05-16T00:00:00Z
 exl-id: 8b96e3b0-84f4-4aa8-b2f5-1bf30e3e4106
 hide: false
 hidefromtoc: false
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
-source-wordcount: '52'
-ht-degree: 100%
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+workflow-type: tm+mt
+source-wordcount: '54'
+ht-degree: 96%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Leer hoe u voorinstellingen voor berichten maakt, hoe u ze gebruikt en hoe u een subdomein delegeert en een IP-pool maakt.
 
->[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on){transcript=true}

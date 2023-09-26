@@ -3,10 +3,10 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: eb4bbc4cd8eb511dbadc87cb9b7bc6c9838a8394
+source-git-commit: 076be9da7d5fd89e47852a6d275602f10a81d7bd
 workflow-type: tm+mt
-source-wordcount: '403'
-ht-degree: 64%
+source-wordcount: '412'
+ht-degree: 63%
 
 ---
 
@@ -59,6 +59,7 @@ ht-degree: 64%
 + Webkanaal {#web-channel}
    + [Een webcampagne maken](/help/channels/create-a-web-campaign.md)
    + [Een webcampagne maken](/help/channels/author-a-web-campaign.md)
+   + [Ondersteuning SPA in de webeditor](/help/channels/singel-page-application-support.md)
 + Profielen, publiek en abonnementen {#profiles-segments-subscriptions}
    + [Uniform profiel en segmentatie - overzicht](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Segmenten maken](/help/set-up-resources/create-segments.md)
@@ -93,6 +94,7 @@ ht-degree: 64%
    + [Gegevenssets exporteren naar opslaglocaties in de cloud](/help/set-up-data/export-datasets.md)
 + Rapporteren en controleren {#report-and-monitor}
    + [Live en globale rapporten](/help/report-and-monitor/live-and-global-reports.md)
+   + [Rapporten op kanaalniveau](/help/report-and-monitor/channel-level-reports.md)
    + [Waarschuwingen gebruiken](/help/administration/alerts.md)
 + Configuratie {#configuration}
    + Kanalen configureren {#channel-configuration}

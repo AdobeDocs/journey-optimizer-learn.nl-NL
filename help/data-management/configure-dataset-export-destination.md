@@ -2,13 +2,13 @@
 title: Vorm een bestemming van de datasetuitvoer
 description: Leer over de configuratie, het werkschema, en de gebruiksgevallen voor het uitvoeren van datasets van [!DNL Adobe Experience Platform] naar een locatie voor cloudopslag via een doelverbinding.
 solution: Real-Time Customer Data Platform, Experience Platform, Journey Optimizer
-feature: Data Management
+feature: Destinations, Data Management
 role: User, Admin
 level: Beginner
 jira: KT-13946
 thumbnail: 3424392.jpg
 last-substantial-update: 2023-09-27T00:00:00Z
-source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
+source-git-commit: 8542676e7c75962b7a59cef554070a10f8f5e3d0
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

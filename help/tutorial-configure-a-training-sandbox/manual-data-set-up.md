@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
 source-wordcount: '1021'
 ht-degree: 2%
@@ -20,9 +20,9 @@ ht-degree: 2%
 In deze sectie maakt u de vereiste naamruimten en definieert u de [!DNL Luma] de structuur van steekproefgegevens door te creëren [[!UICONTROL schema&#39;s]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html).
 
 >[!TIP]
->De videozelfstudie bekijken [Identiteiten toewijzen](/help/set-up-data/map-identities.md) voordat u begint.
+>De videozelfstudie bekijken [Identiteiten toewijzen](/help/data-management/map-identities.md) voordat u begint.
 
-## Stap 1: Naamruimten voor identiteiten maken
+## Stap 1: Naamruimten maken
 
 In deze stap maakt u naamruimten voor de [!DNL Luma] aangepaste identiteitsvelden genaamd `lumaLoyaltyId`, `lumaCrmId`, en `lumaProductSKU`. Identiteitsnaamruimten spelen een kritieke rol in de bouw van klantenprofielen in real time, aangezien twee passende waarden in zelfde namespace twee gegevensbronnen toestaan om een identiteitsgrafiek te vormen.
 
@@ -49,7 +49,7 @@ Begin met het maken van een [!UICONTROL namespace] voor de [!DNL Luma Loyalty ID
    | `Luma CRM ID` | `lumaCrmId` | [!UICONTROL Apparaatoverschrijdende id] |
    | `Luma Product SKU` | `lumaProductSKU` | [!UICONTROL Id van niet-personen] |
 
-## Stap 2: Schema&#39;s maken
+## Stap 2: schema&#39;s maken
 
 In deze stap definieert u de structuur van de voorbeeldgegevens door zes [[!UICONTROL schema&#39;s]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
 
@@ -69,7 +69,7 @@ In deze stap definieert u de structuur van de voorbeeldgegevens door zes [[!UICO
 
 >[!TIP]
 >
->Bekijk de videozelfstudie: [Een schema maken](/help/set-up-data/create-schema.md) voordat u begint.
+>Bekijk de videozelfstudie: [Een schema maken](/help/data-management/create-schema.md) voordat u begint.
 
 ### Maken [!DNL Luma Loyalty Schema] {#create-luma-loyalty-schema}
 
@@ -111,7 +111,7 @@ Vervolgens wordt u gevraagd om met behulp van groepen veldgroepen toe te voegen 
 
 #### Een [!UICONTROL veldgroep] {#create-field-group}
 
-Om consistentie over de schema&#39;s te verzekeren, adviseert Adobe het beheren van alle systeemherkenningstekens in één enkele groep:
+Om consistentie over de schema&#39;s te verzekeren, adviseert de Adobe het beheren van alle systeemherkenningstekens in één enkele groep:
 
 1. Van de **[!UICONTROL Samenstelling]** deel onder [!UICONTROL Veldgroepen], selecteert u **[!UICONTROL Toevoegen]**.
 
@@ -131,7 +131,7 @@ De nieuwe, lege veldgroep wordt toegevoegd aan uw schema. Met de knoppen + kunt 
 
 1. Selecteren **[!UICONTROL +]** naast de naam van het schema.
 
-   Met deze stap voegt u een veld onder toe **uw huurder** naamruimte, om conflicten te beheren tussen uw aangepaste velden en standaardvelden.
+   Met deze stap voegt u een veld onder toe **uw huurder** naamruimte, voor het beheren van conflicten tussen uw aangepaste velden en standaardvelden.
 
 1. In de **[!UICONTROL Veldeigenschappen]** zijbalk voegt u de details van het nieuwe veld toe:
 
@@ -166,13 +166,13 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
 
    1. Selecteer **[!DNL Luma Identity Profile Field Group]**.
 
-   2. Selecteer **[!DNL loyaltyId]** veld.
+   2. Selecteer de **[!DNL loyaltyId]** veld.
 
    3. In de **[!UICONTROL Veldeigenschappen]** de **[!UICONTROL Identiteit]** doos.
 
    4. De optie **[!UICONTROL Primaire identiteit]** doos.
 
-   5. Selecteer `Luma Loyalty Id` naamruimte van **[!UICONTROL Identiteitsnaamruimten]** vervolgkeuzemenu.
+   5. Selecteer de `Luma Loyalty Id` naamruimte van **[!UICONTROL Identiteitsnaamruimten]** vervolgkeuzelijst.
 
    6. Selecteren **[!UICONTROL Toepassen]**.
 
@@ -184,11 +184,11 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
 
    1. Selecteer **[!DNL Luma Identity Profile Field Group]**.
 
-   2. Selecteer `crmId` veld.
+   2. Selecteer de `crmId` veld.
 
    3. In de **[!UICONTROL Veldeigenschappen]** de **[!UICONTROL Identiteit]** doos.
 
-   4. Selecteer `Luma CRM Id` naamruimte van **[!UICONTROL Identiteitsnaamruimten]** vervolgkeuzelijst.
+   4. Selecteer de `Luma CRM Id` naamruimte van **[!UICONTROL Identiteitsnaamruimten]** vervolgkeuzelijst.
 
    5. Selecteren **[!UICONTROL Toepassen]**.
 
@@ -258,7 +258,7 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
 
 1. Ga naar **[!UICONTROL GEGEVENSBEHEER]** > **[!UICONTROL Schemas]** in de linkernavigatie.
 
-1. Selecteer **[!UICONTROL Schema maken]** aan de rechterbovenzijde.
+1. Selecteer de **[!UICONTROL Schema maken]** aan de rechterbovenzijde.
 
 1. Selecteer in het vervolgkeuzemenu de optie **[!UICONTROL Bladeren door alle schematypen]**.
 
@@ -311,7 +311,7 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
 
 1. Set `inventory.Event.sku` veld als **[!UICONTROL primaire identiteit]** met de **[!DNL LumaProductSKU namespace]**.
 
-1. Selecteer `sku` en een relatie met de `product.sku` in het **[!DNL Luma Product catalog Schema]** Schema:
+1. Selecteer de `sku` en een relatie met de `product.sku` in het veld **[!DNL Luma Product catalog Schema]** Schema:
 
    1. Omlaag schuiven naar de onderkant van het dialoogvenster **[!UICONTROL Veldeigenschappen]**.
 
@@ -329,7 +329,7 @@ U hebt nu de [!UICONTROL namespace] en de [!DNL Luma Loyalty schema] geconfigure
 
 1. Inschakelen voor **Profiel**.
 
-1. Selecteren [!UICONTROL Opslaan] om het schema op te slaan.
+1. Selecteren [!UICONTROL Opslaan] het schema opslaan.
 
 ### Aanvullende schema&#39;s maken {#create-additional-schemas}
 

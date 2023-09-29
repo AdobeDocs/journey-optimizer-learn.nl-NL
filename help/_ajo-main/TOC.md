@@ -3,10 +3,10 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: bc127e90867bcda59a44881e7e4f462be2e88d5e
+source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 61%
+source-wordcount: '427'
+ht-degree: 60%
 
 ---
 
@@ -87,12 +87,13 @@ ht-degree: 61%
    + [Aanbiedingen leveren met de Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [Frequentiecorrectie](/help/decision-management/frequency-capping.md)
 + Data management {#data-management}
-   + [Overzicht](/help/set-up-data/set-up-data-overview.md)
-   + [Een schema maken](/help/set-up-data/create-schema.md)
-   + [Identiteiten toewijzen](/help/set-up-data/map-identities.md)
-   + [Gegevenssets maken en gegevens opnemen](/help/set-up-data/create-datasets-and-ingest-data.md)
-   + [Bronconnectors configureren](/help/set-up-data/configure-source-connectors.md)
-   + [Gegevenssets exporteren naar opslaglocaties in de cloud](/help/set-up-data/export-datasets.md)
+   + [Overzicht](/help/data-management/set-up-data-overview.md)
+   + [Een schema maken](/help/data-management/create-schema.md)
+   + [Identiteiten toewijzen](/help/data-management/map-identities.md)
+   + [Gegevenssets maken en gegevens opnemen](/help/data-management/create-datasets-and-ingest-data.md)
+   + [Bronconnectors configureren](/help/data-management/configure-source-connectors.md)
+   + [Vorm een bestemming van de datasetuitvoer](/help/data-management/configure-dataset-export-destination.md)
+   + [Gegevenssets exporteren naar opslaglocaties in de cloud](/help/data-management/export-datasets.md)
 + Rapporteren en controleren {#report-and-monitor}
    + [Live en globale rapporten](/help/report-and-monitor/live-and-global-reports.md)
    + [Rapporten op kanaalniveau](/help/report-and-monitor/channel-level-reports.md)

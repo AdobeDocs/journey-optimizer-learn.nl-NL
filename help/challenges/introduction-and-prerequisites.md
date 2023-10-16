@@ -6,16 +6,14 @@ role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
+source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '479'
 ht-degree: 14%
 
 ---
 
 # Journey Optimizer-uitdagingen - Inleiding en voorwaarden
-
-![AJO Challenges Banner](./assets/ajo-banner-challenges.png)
 
 Uitdagingen bieden een scenario en de vereisten die nodig zijn om te oefenen wat u hebt geleerd. De uitdagingen helpen u uw vaardigheidsniveau evalueren en kennishiaten identificeren.
 
@@ -28,7 +26,7 @@ Controleer of aan de volgende voorwaarden is voldaan.
 ### Systeemvereisten
 
 * Toegang tot een Journey Optimizer-sandbox - het wordt aanbevolen de uitdaging in een specifieke trainingssandbox te voltooien.
-* AEM Assets Essentials moet zijn ingericht voor uw instantie.
+* Voor uw instantie moeten AEM Assets Essentials zijn ingericht.
 * De [e-mailkanalen moeten zijn geconfigureerd](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html) voor transactie- en marketingberichten.
 
 ### Toegangsrechten
@@ -47,9 +45,9 @@ U hebt de volgende toegangsrechten nodig:
 
 ## Het artikel
 
-Luma is een fictioneel atletisch kledingbedrijf met winkels in meerdere landen, een online aanwezigheid met een website en mobiele apps. Luma gebruikt Adobe Journey Optimizer om verbonden, contextafhankelijke en persoonlijke ervaringen aan hun klanten te bieden.
+Luma is een fictief atletisch kledingbedrijf, met winkels in meerdere landen, een online aanwezigheid met een website en mobiele apps. Luma gebruikt Adobe Journey Optimizer om verbonden, contextuele en gepersonaliseerde ervaringen aan hun klanten te bieden.
 
-Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en de verkoop voor bestaande klanten te stimuleren. U bent ingehuurd om de marketing- en retentiecampagnes van Luma in Journey Optimizer te implementeren.
+Luma wil zijn nieuwste kleding en uitrusting promoten en de verkoop voor bestaande klanten stimuleren. U bent ingehuurd om de Luma marketing- en retentiecampagnes in Journey Optimizer te implementeren.
 
 ## Uw uitdagingen
 
@@ -71,7 +69,7 @@ Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en d
       <b>Vereiste vaardigheden:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Segmenten maken</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">Segment lezen</li>
-       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html">HTML e-mailinhoud importeren</li>
+       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html">E-mailinhoud van HTML importeren</li>
   </td>
   </tr>
    <tr>
@@ -100,7 +98,7 @@ Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en d
   <td>
   <div>
     <a href="order-confirmation-challenge.md">
-      <img alt="Luminantie-e-mail" src="./assets/email-assets/luma-transactional-order-confirmation.png"/>
+      <img alt="Luma-e-mail" src="./assets/email-assets/luma-transactional-order-confirmation.png"/>
     </a>
   </td>
   <td>

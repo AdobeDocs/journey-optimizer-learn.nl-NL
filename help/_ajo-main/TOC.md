@@ -3,7 +3,7 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 585264701dcffb714c74c37c1605749465a0c92b
+source-git-commit: 78d8e19a8ab0cf1253cdb724a4d05e8d5b4dfdc4
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 60%
@@ -38,8 +38,10 @@ ht-degree: 60%
    + [Een testprofiel maken](/help/create-journeys/test-a-journey.md)
    + [Een journey publiceren](/help/create-journeys/publish-a-journey.md)
    + [Een journey naar een andere sandbox kopiëren](/help/create-journeys/copy-a-journey.md)
-+ Direct mailkanaal{#direct-mail-channel}
-   + [Direct mailkanaal](/help/channels/direct-mail.md)
++ Profielen, publiek en abonnementen {#profiles-audiences-subscriptions}
+   + [Uniform profiel en segmentatie - overzicht](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [Toegankelijkheid maken met de regelbouwer](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
+   + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
 + E-mailkanaal{#email-channel}
    + [Content maken met de Email Designer](/help/channels/create-content-with-the-email-designer.md)
    + [HTML-e-mailcontent importeren en opstellen](/help/channels/import-and-author-html-email-content.md)
@@ -48,6 +50,8 @@ ht-degree: 60%
    + [Fragmenten beheren, maken en gebruiken](/help/content-management/manage-author-use-fragments.md)
    + [Expressiefragmenten maken en gebruiken](/help/content-management/expression-fragments.md)
    + [Inhoud-experimenten voor e-mails configureren](/help/experimentation/content-experiments-for-emails.md)
++ Direct mailkanaal{#direct-mail-channel}
+   + [Direct mailkanaal](/help/channels/direct-mail.md)
 + In App-kanaal{#in-app-channel}
    + [Een in-app-campagne maken](/help/channels/create-an-in-app-campaign.md)
    + [Een bericht in de app maken tijdens een rit](/help/channels/create-an-in-app-message-in-a-journey.md)
@@ -62,10 +66,6 @@ ht-degree: 60%
    + [Een webcampagne maken](/help/channels/create-a-web-campaign.md)
    + [Een webcampagne maken](/help/channels/author-a-web-campaign.md)
    + [Ondersteuning SPA in de webeditor](/help/channels/singel-page-application-support.md)
-+ Profielen, publiek en abonnementen {#profiles-segments-subscriptions}
-   + [Uniform profiel en segmentatie - overzicht](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
-   + [Toegankelijkheid maken met de regelbouwer](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
-   + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Content personaliseren {#personalize-content}
    + [Personalisatie op basis van profiel en doelgroep](/help/personalize-content/profile-and-audience-membership-based-personalization.md)

@@ -3,10 +3,10 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: e775fc958c65a001d3ca1e09b0b43b3c69084310
+source-git-commit: 585264701dcffb714c74c37c1605749465a0c92b
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 61%
+source-wordcount: '428'
+ht-degree: 60%
 
 ---
 
@@ -63,8 +63,8 @@ ht-degree: 61%
    + [Een webcampagne maken](/help/channels/author-a-web-campaign.md)
    + [Ondersteuning SPA in de webeditor](/help/channels/singel-page-application-support.md)
 + Profielen, publiek en abonnementen {#profiles-segments-subscriptions}
-   + [Uniform profiel en segmentatie - overzicht](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
-   + [Segmenten maken](/help/set-up-resources/create-segments.md)
+   + [Uniform profiel en segmentatie - overzicht](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [Toegankelijkheid maken met de regelbouwer](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Content personaliseren {#personalize-content}

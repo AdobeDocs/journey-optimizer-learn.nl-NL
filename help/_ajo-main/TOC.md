@@ -3,10 +3,10 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 78d8e19a8ab0cf1253cdb724a4d05e8d5b4dfdc4
+source-git-commit: 0d3c552a0c66a80447221b5e99945de2615f1404
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 60%
+source-wordcount: '463'
+ht-degree: 57%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 60%
    + [Een webcampagne maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html)
    + [Campagnes activeren met API&#39;s](/help/create-campaigns/api-triggered-campaigns.md)
    + [Inhoud-experimenten maken voor e-mailcampagnes](/help/create-campaigns/content-experiments.md)
-+ Journeys {#create-journeys}
++ Reizen {#create-journeys}
    + [Overzicht van het reiscanvas](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Inleiding tot het samenstellen van een journey](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Gebruiksscenario - transactionele journey](/help/create-journeys/use-case-transactional-journey.md)
@@ -42,7 +42,7 @@ ht-degree: 60%
    + [Uniform profiel en segmentatie - overzicht](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Toegankelijkheid maken met de regelbouwer](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
-+ E-mailkanaal{#email-channel}
++ Email channel{#email-channel}
    + [Content maken met de Email Designer](/help/channels/create-content-with-the-email-designer.md)
    + [HTML-e-mailcontent importeren en opstellen](/help/channels/import-and-author-html-email-content.md)
    + [Voorvertonen, proeven en publiceren](/help/channels/preview-proof-and-publish.md)
@@ -59,7 +59,7 @@ ht-degree: 60%
    + [Inhoud-experimenten voor in-app-berichten configureren](/help/experimentation/content-experiments-for-in-app-messages.md)
 + Push-kanaal{#push-channel}
    + [Een pushcampagne configureren en verzenden](/help/channels/create-a-push-campaign.md)
-+ Sms-kanaal{#sms-channel}
++ SMS-kanaal{#sms-channel}
    + [Sms-berichten configureren, opstellen en leveren](/help/channels/author-sms-messages.md)
    + [Ondersteuning voor binnenkomende zoektermen voor sms](/help/channels/inbound-keyword-support-for-sms.md)
 + Webkanaal {#web-channel}
@@ -120,3 +120,9 @@ ht-degree: 60%
    + [Een trainingssandbox configureren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
    + [Uitdagingen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
 + [Top Lab](/help/summit-lab-731/l731-assets.md)
++ Actieve opnamen Experiencen League{#experience-league-live-recordings}
+   + [API-activering van berichten in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en){target="_blank"}
+   + [Maximaliseer de mogelijkheden van uw mobiele app met Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en){target="_blank"}
+   + [Het juiste aanbod op het juiste moment met beslissingsbeheer aanbieden](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en){target="_blank"}
+   + [Uw campagnes uitvoeren in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en){target="_blank"}
+   + [Pushmeldingen met Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en){target="_blank"}

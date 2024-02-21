@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 0d3c552a0c66a80447221b5e99945de2615f1404
+source-git-commit: 146e1ef57ccdc1f192fc377a6c1df893168f447b
 workflow-type: tm+mt
-source-wordcount: '588'
-ht-degree: 81%
+source-wordcount: '490'
+ht-degree: 77%
 
 ---
 
@@ -20,25 +20,6 @@ ht-degree: 81%
 Journey Optimizer helpt bedrijven hun klanten verbonden, contextafhankelijke en persoonlijke ervaringen te bieden. De customer journey is het hele proces van de interacties van een klant met het merk, vanaf het eerste contactmoment totdat de klant de site verlaat.
 
 Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Journey Optimizer.
-
-<div id="whats-new-section">
-
-## Nieuwe functies
-
-* **[Dynamische inhoud maken met de ontwikkelaar voor voorwaardelijke regels](/help/personalize-content/create-dynamic-content.md)**
-  *Leer voorwaardelijke regels te maken en op te slaan, en leer deze voorwaardelijke regels toepassen op content over alle kanalen.*
-
-* **[Waarschuwingen gebruiken](/help/administration/alerts.md)**
-  *Ontdek hoe u vooraf gedefinieerde waarschuwingen kunt ontvangen voor onverwacht journeygedrag en hoe u meldingen kunt ontvangen via e-mail, in Journey Optimizer of via een API.*
-
-* **[Een journey naar een andere sandbox kopiëren](/help/create-journeys/copy-a-journey.md)**
-  *Ontdek hoe u een journey en zijn afhankelijke objecten van de ene sandbox naar de andere kunt kopiëren.*
-
-* **[Gegevens in berichten maskeren](/help/privacy/mask-data-in-messages.md)**
-  *Begrijp wat het maskeren van gegevens is en waarom we gegevens maskeren. Leer hoe u gegevens in Journey Optimizer-berichten kunt maskeren.*
-
-</div>
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

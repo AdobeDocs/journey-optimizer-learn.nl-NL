@@ -1,5 +1,5 @@
 ---
-title: Tutorials voor Journey Optimizer - Overzicht
+title: Lesbestanden voor Journey Optimizer
 description: We hebben een aantal videotutorials waarin u kunt zien hoe u de voordelen van Journey Optimizer kunt benutten.
 recommendations: noDisplay, noCatalog
 feature: Get Started
@@ -7,15 +7,15 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 146e1ef57ccdc1f192fc377a6c1df893168f447b
+source-git-commit: 53f92861c15c65dac900f279dd815efa314741a1
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '489'
 ht-degree: 77%
 
 ---
 
 
-# Tutorials voor Journey Optimizer
+# Lesbestanden voor Journey Optimizer
 
 Journey Optimizer helpt bedrijven hun klanten verbonden, contextafhankelijke en persoonlijke ervaringen te bieden. De customer journey is het hele proces van de interacties van een klant met het merk, vanaf het eerste contactmoment totdat de klant de site verlaat.
 

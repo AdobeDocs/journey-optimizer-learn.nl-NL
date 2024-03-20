@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
+source-git-commit: ec5d79920c305ad77f042db845932a8b1671e65b
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 3%
+source-wordcount: '334'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ Scan de QR-code om de app te downloaden
 >Meldingen toestaan.
 >
 
-U wordt gevraagd Testflight, stappen 1 tot en met 4 te installeren. Nadat u Testflight hebt geïnstalleerd, voert u de stappen 5 tot en met 8 uit om de Las van Vegas te installeren:
+U wordt gevraagd Testflight, stappen 1 tot en met 4, te installeren. Nadat u Testflight hebt geïnstalleerd, voert u de stappen 5 tot en met 8 uit om de Las van Vegas te installeren:
 
 <table>
 <tr>
@@ -154,7 +154,7 @@ Klikken **Toch installeren**
 
 | Sectie | Veld | Tekst | Koppelingen |
 |----|----|----|----|
-| **Properties** | Campagnenaam | `<your seat number> Vegas Stay Campaign` |  |
+| **Eigenschappen** | Campagnenaam | `<your seat number> Vegas Stay Campaign` |  |
 | **Triggers** | Staat | oplichten |  |
 | **Inhoud bewerken:** Media | Media-URL, optie |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | **Inhoud bewerken:** Inhoud | Titel | Haal je vroege vogelkorting op! |  |
@@ -163,11 +163,11 @@ Klikken **Toch installeren**
 | **Inhoud bewerken:** Knoppen | Interactie | CTA in de app |  |
 | **Voorvertonen op apparaat** | Basis-URL die moet worden gebruikt voor voorvertoning op apparaat |  | **iOS:** lab:// <br>**Android**: https://lab |
 
-## Oefening 3: Een pushmelding maken
+## Oefening 3: een pushmelding maken
 
 | Veld | Tekst | Koppelingen |
 |----|----|----|
-| Campagnenaam | `<your seat number> Max Push Campaign` |  |
+| Campagnenaam | **`<your seat number> Max Push Campaign`** |  |
 | Titel | Hé! |  |
-| Lichaam | Wist je dat Adobe Max terugkomt naar Vegas? Boek nu uw ruimte en profiteer van 10% korting. |  |
+| Lichaam | Wist je dat Adobe Max terugkomt naar Vegas. Boek nu uw ruimte en profiteer van 10% korting. |  |
 | Media-URL, optie |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |

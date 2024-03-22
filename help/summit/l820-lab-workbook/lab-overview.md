@@ -9,7 +9,7 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: d53c2218ee69c81881b12dedc435826034a710e3
+source-git-commit: 0a31369dc315d1d68f291c0c15f87b0211dfddb1
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -21,21 +21,23 @@ ht-degree: 0%
 
 ![Adobe Summit - alternatieve tekst](/help/summit/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
+## L820 - Aangepaste mobiele momenten maken met Adobe Journey Optimizer
+
+In dit hands-on laboratorium, onderzoekt u diverse mobiele scenario&#39;s en leert hoe te om gepersonaliseerde ervaringen voor Web en mobiel met Journey Optimizer uit te voeren.
+
+
 >[!IMPORTANT]
 >
 >U kunt geen foto&#39;s of screenshots van de sessie naar sociale media publiceren.
->
+><br>
 >**Vertrouwelijkheid Adobe**
 >De informatie en productinformatie die vandaag tijdens dit laboratorium wordt gedeeld zijn Vertrouwelijke Informatie van de Adobe.
 >Deelnemers mogen geen vertrouwelijke informatie aan personen of entiteiten reproduceren, gebruiken, verspreiden of openbaar maken.
 >De informatie over producten dient uitsluitend ter informatie, is geen garantie voor toekomstige functies of functies en kan op elk moment worden gewijzigd. Daarom maken dergelijke productfuncties of functies op geen enkele wijze deel uit van uw overeenkomst met Adobe of op enige andere wijze aan u gehecht.
->
+><br>
 >**Disclaimer**
 >Adobe biedt u in een vroeg stadium toegang tot de functies die u van generatieve AI-technologie kunt gebruiken. Deze functies zijn nog in ontwikkeling en kunnen leiden tot onverwachte of onjuiste reacties. We verwelkomen uw feedback als we deze functie op de markt brengen.
 
-## L820 - Aangepaste mobiele momenten maken met Adobe Journey Optimizer
-
-In dit hands-on laboratorium, onderzoekt u diverse mobiele scenario&#39;s en leert hoe te om gepersonaliseerde ervaringen voor Web en mobiel met Journey Optimizer uit te voeren.
 
 ### Toetsen
 

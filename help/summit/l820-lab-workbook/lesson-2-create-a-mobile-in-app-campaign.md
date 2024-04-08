@@ -9,13 +9,13 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
-source-git-commit: c509c768d07984d07ed2ec65634e000c54bb6ff1
+exl-id: fe18eca7-229c-4867-ab34-1862bad63124
+source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
 workflow-type: tm+mt
-source-wordcount: '1395'
+source-wordcount: '1433'
 ht-degree: 0%
 
 ---
-
 
 # Les 2 - Een mobiele campagne in de app maken
 
@@ -309,4 +309,18 @@ De **campagne dupliceren** en **Voorvertonen op apparaat** -functies zijn functi
 >
 > Uw in-app-bericht wordt op uw apparaat weergegeven.
 >
-> *Wanneer de verbinding tot stand is gebracht, wordt het bericht in de app elke keer weergegeven en klikt u op de knop **[!UICONTROL Voorvertonen op apparaat] knop**.*
+> *Nadat de verbinding tot stand is gebracht, wordt het bericht in de app elke keer weergegeven en klikt u op de knop **[!UICONTROL Voorvertonen op apparaat] knop**.
+
+## Aanvullende bronnen
+
+**Hoe kan ik-video&#39;s:**
+
+* [Een in-app-campagne maken](/help/channels/create-an-in-app-campaign.md)
+* [Een in-app bericht schrijven](/help/channels/author-in-app-messages.md)
+
+**Productdocumentatie:**
+
+* [Aan de slag met In-app-kanaal](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Een bericht over een mobiele In-app maken](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
+* [In-app-inhoud ontwerpen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [In-app-meldingen controleren en verzenden](/https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

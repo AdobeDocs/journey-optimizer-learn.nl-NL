@@ -9,14 +9,13 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
-source-git-commit: c509c768d07984d07ed2ec65634e000c54bb6ff1
+exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
+source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '698'
 ht-degree: 0%
 
 ---
-
-
 
 # Les 3 - Een in-app campagne voor het web maken
 
@@ -144,3 +143,18 @@ In deze sectie definieert u de inhoud, het ontwerp en de lay-out van uw bericht.
 >Als u op de knop Verzenden klikt met uw unieke waarde, wordt het bericht Web In-app geactiveerd. En u zou uw Web in-app bericht op uw scherm moeten zien verschijnen.
 >
 >Deze oefening simuleerde een douane XDM verzendt gebeurtenis die u door uw Fréscopa klantenervaring zag.
+
+
+## Aanvullende bronnen
+
+**Hoe kan ik-video&#39;s:**
+
+* [Een in-app-campagne maken](/help/channels/create-an-in-app-campaign.md)
+* [Een in-app bericht schrijven](/help/channels/author-in-app-messages.md)
+
+**Productdocumentatie:**
+
+* [Aan de slag met In-app-kanaal](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Een Web In-app-bericht maken](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [In-app-inhoud ontwerpen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [In-app-meldingen controleren en verzenden](/https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

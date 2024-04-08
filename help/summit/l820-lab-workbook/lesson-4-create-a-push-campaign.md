@@ -8,13 +8,13 @@ doc-type: Tutorial
 duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
-source-git-commit: c590b47ad3dfc54badbac0d8fcaff6b9dd053cc1
+exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
+source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 0%
+source-wordcount: '781'
+ht-degree: 1%
 
 ---
-
 
 # Les 4 - Een pushcampagne maken
 
@@ -203,8 +203,15 @@ Als je tevreden bent met de inhoud van je bericht, kun je het bericht activeren:
 >
 > ![push-resultaten](/help/summit/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
+## Aanvullende bronnen
 
-**Bedankt!**
+**Hoe kan ik-video&#39;s:**
 
-Dank u voor uw deelname. Geef ons feedback, over hoe we dat deden en of het lab aan uw verwachtingen voldeed, door de Lab 820 Session-enquête in de Summit App te voltooien.
+* [Een pushcampagne configureren en verzenden](/help/channels/create-a-push-campaign.md)
 
+**Productdocumentatie:**
+
+* [Aan de slag met pushmeldingen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
+* [Een pushmelding maken](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
+* [Een pushmelding ontwerpen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
+* [Controleer en verzend uw pushmelding](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)

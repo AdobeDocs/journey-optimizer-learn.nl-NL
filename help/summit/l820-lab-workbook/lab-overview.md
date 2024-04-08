@@ -6,16 +6,16 @@ role: User
 level: Intermediate
 doc-type: Tutorial
 duration: 0
-recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: 654520e25814eb94c5b19cb13087c1b93b4e4683
+last-substantial-update: 2024-03-26T00:00:00Z
+exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
+source-git-commit: b4eb509d50afeea02eac937be85643aa22370249
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
 
 ---
-
 
 # LAB-WERKBOEK
 
@@ -67,4 +67,3 @@ De kern van de activiteiten van Fréscopa ligt in haar koffieabonnementdiensten,
 De website van Fréscopa en de mobiele app vormen een aanvulling op haar abonnementendiensten en bieden een uitgebreid aanbod aan koffieproducten, waardoor klanten hun koffierituelen kunnen verkennen en verbeteren. Van brouwerijapparatuur tot ambachtelijke accessoires, Fréscopa biedt een one-stop-shop voor koffiecafés die kwaliteit en gebruiksgemak zoeken.
 
 De inzet van Fréscopa voor topkwaliteit gaat verder dan haar producten, aangezien het bedrijf zich inzet voor het creëren van een naadloze en aangename klantentransport. Door de combinatie van innovatieve technologieën en een klantgerichte benadering staat Fréscopa voorop in de evoluerende koffieindustrie. In wezen belichaamt Fréscopa de fusie van passie en technologie, en herdefinieert het de manier waarop individuen ervaren en van hun koffie genieten. Fréscopa richt zich op kwaliteit, gebruiksgemak en persoonlijke aanbiedingen en nodigt koffieliefhebbers uit om een reis van smaak te beginnen, die direct aan hun deur wordt geleverd.
-

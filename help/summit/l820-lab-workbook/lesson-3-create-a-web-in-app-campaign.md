@@ -10,9 +10,9 @@ recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
-source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
+source-git-commit: 4f5c92f79eba3651b3633b7850e993160cb1f72c
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '699'
 ht-degree: 0%
 
 ---
@@ -157,4 +157,4 @@ In deze sectie definieert u de inhoud, het ontwerp en de lay-out van uw bericht.
 * [Aan de slag met In-app-kanaal](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
 * [Een Web In-app-bericht maken](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
 * [In-app-inhoud ontwerpen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [In-app-meldingen controleren en verzenden](/https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [In-app-meldingen controleren en verzenden](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

@@ -10,10 +10,10 @@ team: PM
 role: Admin, Developer
 level: Beginner
 exl-id: 45206e23-46bf-4aaf-8d45-012ea0e64e92
-source-git-commit: 7a93a7e78e573d1675f278e404edbe3ee21109aa
+source-git-commit: f273f8f14dc42c65e4989142d16ac967cb0cc26c
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 11%
+source-wordcount: '69'
+ht-degree: 8%
 
 ---
 
@@ -22,3 +22,5 @@ ht-degree: 11%
 Leer wat een actie is, hoe te om de Edit actie van het Profiel en van de Sprong in Journey Optimizer te gebruiken, en hoe te om een douaneactie te vormen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428396?quality=12&learn=on){transcript=true}
+
+Bezoek de productdocumentatie voor meer informatie over hoe u [Een aangepaste handeling configureren](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/configure-journeys/action-journeys/about-custom-action-configuration){target="_blank"}.

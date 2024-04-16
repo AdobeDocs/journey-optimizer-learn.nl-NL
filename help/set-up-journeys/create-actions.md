@@ -1,23 +1,24 @@
 ---
 title: Acties maken
-description: Begrijp de verschillende statussen van een journey en de gevolgen van publiceren.
+description: Leer wat een actie is, hoe te om de Edit actie van het Profiel en van de Sprong in Journey Optimizer te gebruiken, en hoe te om een douaneactie te vormen.
 jira: KT-7536
 thumbnail: 334257.jpg
 feature: Actions
 doc-type: feature video
+last-substantial-update: 2024-04-15T00:00:00Z
 team: PM
 role: Admin, Developer
 level: Beginner
 exl-id: 45206e23-46bf-4aaf-8d45-012ea0e64e92
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: 7a93a7e78e573d1675f278e404edbe3ee21109aa
 workflow-type: tm+mt
-source-wordcount: '33'
-ht-degree: 93%
+source-wordcount: '54'
+ht-degree: 11%
 
 ---
 
 # Acties maken
 
-Leer wat een actie is in Journey Optimizer en hoe u een aangepaste actie configureert.
+Leer wat een actie is, hoe te om de Edit actie van het Profiel en van de Sprong in Journey Optimizer te gebruiken, en hoe te om een douaneactie te vormen.
 
->[!VIDEO](https://video.tv.adobe.com/v/334257?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428396?quality=12&learn=on){transcript=true}

@@ -3,10 +3,10 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: e6b93c32b25c2976828d714ab7230c5cce14da51
+source-git-commit: e1b7bd76b1f496b5f43f39004d393739f3e1e0c2
 workflow-type: tm+mt
-source-wordcount: '482'
-ht-degree: 54%
+source-wordcount: '487'
+ht-degree: 53%
 
 ---
 
@@ -29,6 +29,7 @@ ht-degree: 54%
    + [Campagnes activeren met API&#39;s](/help/create-campaigns/api-triggered-campaigns.md)
    + [Inhoud-experimenten maken voor e-mailcampagnes](/help/create-campaigns/content-experiments.md)
 + Reizen {#create-journeys}
+   + [Ontdek de nieuwe Journey Designer](/help/create-journeys/new-journey-designer.md)
    + [Overzicht van het reiscanvas](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Inleiding tot het samenstellen van een journey](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Gebruiksscenario - transactionele journey](/help/create-journeys/use-case-transactional-journey.md)

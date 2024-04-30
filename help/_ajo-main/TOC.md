@@ -3,10 +3,10 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 1499ccefd78a34e8d6f930bae9d6d76db5af9da1
+source-git-commit: b58a4f37ac4cba27ff4dcea88ffa0d3b0db037cf
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 53%
+source-wordcount: '495'
+ht-degree: 52%
 
 ---
 
@@ -122,7 +122,7 @@ ht-degree: 53%
    + [Een trainingssandbox configureren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
    + [Uitdagingen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
 + Actieve opnamen Experiencen League{#experience-league-live-recordings}
-   + [Het nieuwe codereperingskanaal in Journey Optimizer](/https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
+   + [Het nieuwe codereperingskanaal in Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
    + [API-activering van berichten in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en){target="_blank"}
    + [Maximaliseer de mogelijkheden van uw mobiele app met Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en){target="_blank"}
    + [Het juiste aanbod op het juiste moment met beslissingsbeheer aanbieden](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en){target="_blank"}

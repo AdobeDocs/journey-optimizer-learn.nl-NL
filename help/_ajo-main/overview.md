@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b4eb509d50afeea02eac937be85643aa22370249
+source-git-commit: 1499ccefd78a34e8d6f930bae9d6d76db5af9da1
 workflow-type: tm+mt
-source-wordcount: '501'
-ht-degree: 72%
+source-wordcount: '521'
+ht-degree: 69%
 
 ---
 
@@ -31,6 +31,9 @@ Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en 
 <div id="events-section">
 
 ## Live gebeurtenissen in Experience League
+
+* **[Het nieuwe codereperingskanaal in Journey Optimizer](/https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
+  *Leer hoe te om binnenkomende oppervlakten en korrelige verpersoonlijkingscontrole met ontwikkelaars-centric acties te activeren.*
 
 * **[API-activering van berichten in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en){target="_blank"}**
   *Leer hoe te om REST APIs voor contextuele, gepersonaliseerde en in real time transactie en marketing mededelingen te gebruiken.*

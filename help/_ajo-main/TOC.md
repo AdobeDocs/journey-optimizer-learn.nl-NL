@@ -3,9 +3,9 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: b58a4f37ac4cba27ff4dcea88ffa0d3b0db037cf
+source-git-commit: 42e7d88fa169980445d537a85681858675023620
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '498'
 ht-degree: 52%
 
 ---
@@ -62,6 +62,7 @@ ht-degree: 52%
    + [Een pushcampagne configureren en verzenden](/help/channels/create-a-push-campaign.md)
 + SMS-kanaal{#sms-channel}
    + [Sms-berichten configureren, opstellen en leveren](/help/channels/author-sms-messages.md)
+   + [Auteur een MMS](/help/channels/author-mms.md)
    + [SMS - Dubbele opt-in voor Sinch en Infobip](/help/channels/sms-double-opt-in.md)
 + Webkanaal {#web-channel}
    + [Een webcampagne maken](/help/channels/create-a-web-campaign.md)

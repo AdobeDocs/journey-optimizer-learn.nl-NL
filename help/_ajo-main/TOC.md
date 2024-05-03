@@ -3,10 +3,10 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 42e7d88fa169980445d537a85681858675023620
+source-git-commit: 41a651b01380181d2ebc586fdb6a5eb697a92448
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 52%
+source-wordcount: '517'
+ht-degree: 50%
 
 ---
 
@@ -25,7 +25,9 @@ ht-degree: 52%
 + Campagnes {#create-campaigns}
    + [Een campagne maken](/help/create-campaigns/create-a-campaign.md)
    + [Een in-app-campagne maken](/help/create-campaigns/in-app.md)
-   + [Een webcampagne maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html)
+   + [Een pushcampagne configureren en verzenden](/help/create-campaigns/push-campaign.md)
+   + [Een webcampagne maken](/help/create-campaigns/web-campaign.md)
+   + [Een op code gebaseerde ervaringscampagne maken](/help/create-campaigns/code-based-experience.md)
    + [Campagnes activeren met API&#39;s](/help/create-campaigns/api-triggered-campaigns.md)
    + [Inhoud-experimenten maken voor e-mailcampagnes](/help/create-campaigns/content-experiments.md)
 + Reizen {#create-journeys}
@@ -51,6 +53,8 @@ ht-degree: 52%
    + [Fragmenten beheren, maken en gebruiken](/help/content-management/manage-author-use-fragments.md)
    + [Expressiefragmenten maken en gebruiken](/help/content-management/expression-fragments.md)
    + [Inhoud-experimenten voor e-mails configureren](/help/experimentation/content-experiments-for-emails.md)
++ Code-gebaseerd ervaringskanaal{#code-based-experience-channel}
+   + [Een op code gebaseerde ervaringscampagne maken](/help/channels/create-a-code-based-experience-campaign.md)
 + Direct mailkanaal{#direct-mail-channel}
    + [Direct mailkanaal](/help/channels/direct-mail.md)
 + In App-kanaal{#in-app-channel}
@@ -62,7 +66,7 @@ ht-degree: 52%
    + [Een pushcampagne configureren en verzenden](/help/channels/create-a-push-campaign.md)
 + SMS-kanaal{#sms-channel}
    + [Sms-berichten configureren, opstellen en leveren](/help/channels/author-sms-messages.md)
-   + [Auteur een MMS](/help/channels/author-mms.md)
+   + [Auteur een MMS-bericht](/help/channels/author-mms.md)
    + [SMS - Dubbele opt-in voor Sinch en Infobip](/help/channels/sms-double-opt-in.md)
 + Webkanaal {#web-channel}
    + [Een webcampagne maken](/help/channels/create-a-web-campaign.md)

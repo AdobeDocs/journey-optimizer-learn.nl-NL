@@ -3,9 +3,9 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 41a651b01380181d2ebc586fdb6a5eb697a92448
+source-git-commit: ecaa9e4d2d63494f8c0f6ac75c3cb6b390bc654d
 workflow-type: tm+mt
-source-wordcount: '517'
+source-wordcount: '524'
 ht-degree: 50%
 
 ---
@@ -113,6 +113,7 @@ ht-degree: 50%
       + [SMS API-referenties en kanaaloppervlakken configureren](/help/set-up-channels/set-up-sms-channel.md)
       + [Regels voor berichtfrequentie configureren](/help/administration/configure-frequency-rules.md)
       + [Een ip-warmup-abonnement maken en uitvoeren](/help/administration/create-and-execute-an-ip-warmup-plan.md)
+      + [MMS API-referenties en kanaaloppervlakken configureren](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + Journey&#39;s configureren {#journey-configuration}
       + [Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)
       + [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)

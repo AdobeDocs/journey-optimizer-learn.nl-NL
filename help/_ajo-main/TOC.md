@@ -1,12 +1,12 @@
 ---
 user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: Dit zijn tutorials voor Journey Optimizer.
+user-guide-description: Dit zijn Journey Optimizer Tutorials.
 auto-video-transcripts: true
-source-git-commit: ecaa9e4d2d63494f8c0f6ac75c3cb6b390bc654d
+source-git-commit: 11c852e7e52747306ccd3cfa692c142f631859f7
 workflow-type: tm+mt
 source-wordcount: '524'
-ht-degree: 50%
+ht-degree: 48%
 
 ---
 
@@ -31,8 +31,8 @@ ht-degree: 50%
    + [Campagnes activeren met API&#39;s](/help/create-campaigns/api-triggered-campaigns.md)
    + [Inhoud-experimenten maken voor e-mailcampagnes](/help/create-campaigns/content-experiments.md)
 + Reizen {#create-journeys}
-   + [Ontdek de nieuwe Journey Designer](/help/create-journeys/new-journey-designer.md)
    + [Overzicht van het reiscanvas](/help/create-journeys/overview-over-the-journey-canvas.md)
+   + [Ontdek de nieuwe Journey Designer](/help/create-journeys/new-journey-designer.md)
    + [Inleiding tot het samenstellen van een journey](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Gebruiksscenario - transactionele journey](/help/create-journeys/use-case-transactional-journey.md)
    + [Gebruiksscenario - bedrijfsgebeurtenis](/help/create-journeys/use-case-business-event.md)
@@ -49,7 +49,7 @@ ht-degree: 50%
    + [Content maken met de Email Designer](/help/channels/create-content-with-the-email-designer.md)
    + [HTML-e-mailcontent importeren en opstellen](/help/channels/import-and-author-html-email-content.md)
    + [Voorvertonen, proeven en publiceren](/help/channels/preview-proof-and-publish.md)
-   + [Contentsjablonen](/help/channels/content-templates.md)
+   + [Inhoudssjablonen](/help/channels/content-templates.md)
    + [Fragmenten beheren, maken en gebruiken](/help/content-management/manage-author-use-fragments.md)
    + [Expressiefragmenten maken en gebruiken](/help/content-management/expression-fragments.md)
    + [Inhoud-experimenten voor e-mails configureren](/help/experimentation/content-experiments-for-emails.md)
@@ -93,7 +93,7 @@ ht-degree: 50%
    + [Beslissingen maken](/help/decision-management/create-decisions.md)
    + [Aanbiedingen leveren met de Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [Frequentiecorrectie](/help/decision-management/frequency-capping.md)
-+ Data management {#data-management}
++ Gegevensbeheer {#data-management}
    + [Overzicht](/help/data-management/set-up-data-overview.md)
    + [Een schema maken](/help/data-management/create-schema.md)
    + [Identiteiten toewijzen](/help/data-management/map-identities.md)

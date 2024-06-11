@@ -3,9 +3,9 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn Journey Optimizer Tutorials.
 auto-video-transcripts: true
-source-git-commit: 11c852e7e52747306ccd3cfa692c142f631859f7
+source-git-commit: 640be5f146208fb7fc3729acbb36edf90aae06e4
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '525'
 ht-degree: 48%
 
 ---
@@ -45,33 +45,34 @@ ht-degree: 48%
    + [Uniform profiel en segmentatie - overzicht](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Toegankelijkheid maken met de regelbouwer](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
-+ Email channel{#email-channel}
-   + [Content maken met de Email Designer](/help/channels/create-content-with-the-email-designer.md)
-   + [HTML-e-mailcontent importeren en opstellen](/help/channels/import-and-author-html-email-content.md)
-   + [Voorvertonen, proeven en publiceren](/help/channels/preview-proof-and-publish.md)
-   + [Inhoudssjablonen](/help/channels/content-templates.md)
-   + [Fragmenten beheren, maken en gebruiken](/help/content-management/manage-author-use-fragments.md)
-   + [Expressiefragmenten maken en gebruiken](/help/content-management/expression-fragments.md)
-   + [Inhoud-experimenten voor e-mails configureren](/help/experimentation/content-experiments-for-emails.md)
-+ Code-gebaseerd ervaringskanaal{#code-based-experience-channel}
-   + [Een op code gebaseerde ervaringscampagne maken](/help/channels/create-a-code-based-experience-campaign.md)
-+ Direct mailkanaal{#direct-mail-channel}
-   + [Direct mailkanaal](/help/channels/direct-mail.md)
-+ In App-kanaal{#in-app-channel}
-   + [Een in-app-campagne maken](/help/channels/create-an-in-app-campaign.md)
-   + [Een bericht in de app maken tijdens een rit](/help/channels/create-an-in-app-message-in-a-journey.md)
-   + [Een in-app bericht schrijven](/help/channels/author-in-app-messages.md)
-   + [Inhoud-experimenten voor in-app-berichten configureren](/help/experimentation/content-experiments-for-in-app-messages.md)
-+ Push-kanaal{#push-channel}
-   + [Een pushcampagne configureren en verzenden](/help/channels/create-a-push-campaign.md)
-+ SMS-kanaal{#sms-channel}
-   + [Sms-berichten configureren, opstellen en leveren](/help/channels/author-sms-messages.md)
-   + [Auteur een MMS-bericht](/help/channels/author-mms.md)
-   + [SMS - Dubbele opt-in voor Sinch en Infobip](/help/channels/sms-double-opt-in.md)
-+ Webkanaal {#web-channel}
-   + [Een webcampagne maken](/help/channels/create-a-web-campaign.md)
-   + [Een webcampagne maken](/help/channels/author-a-web-campaign.md)
-   + [Ondersteuning SPA in de webeditor](/help/channels/singel-page-application-support.md)
++ Kanalen {#channels}
+   + Code-gebaseerd ervaringskanaal{#code-based-experience-channel}
+      + [Een op code gebaseerde ervaringscampagne maken](/help/channels/create-a-code-based-experience-campaign.md)
+   + Direct mailkanaal{#direct-mail-channel}
+      + [Direct mailkanaal](/help/channels/direct-mail.md)
+   + Email channel{#email}
+      + [Content maken met de Email Designer](/help/channels/create-content-with-the-email-designer.md)
+      + [HTML-e-mailcontent importeren en opstellen](/help/channels/import-and-author-html-email-content.md)
+      + [Voorvertonen, proeven en publiceren](/help/channels/preview-proof-and-publish.md)
+      + [Inhoudssjablonen](/help/channels/content-templates.md)
+      + [Fragmenten beheren, maken en gebruiken](/help/content-management/manage-author-use-fragments.md)
+      + [Expressiefragmenten maken en gebruiken](/help/content-management/expression-fragments.md)
+      + [Inhoud-experimenten voor e-mails configureren](/help/experimentation/content-experiments-for-emails.md)
+   + In App-kanaal{#in-app-channel}
+      + [Een in-app-campagne maken](/help/channels/create-an-in-app-campaign.md)
+      + [Een bericht in de app maken tijdens een rit](/help/channels/create-an-in-app-message-in-a-journey.md)
+      + [Een in-app bericht schrijven](/help/channels/author-in-app-messages.md)
+      + [Inhoud-experimenten voor in-app-berichten configureren](/help/experimentation/content-experiments-for-in-app-messages.md)
+   + Push-kanaal{#push-channel}
+      + [Een pushcampagne configureren en verzenden](/help/channels/create-a-push-campaign.md)
+   + SMS-kanaal{#sms-channel}
+      + [Sms-berichten configureren, opstellen en leveren](/help/channels/author-sms-messages.md)
+      + [Auteur een MMS-bericht](/help/channels/author-mms.md)
+      + [SMS - Dubbele opt-in voor Sinch en Infobip](/help/channels/sms-double-opt-in.md)
+   + Webkanaal {#web-channel}
+      + [Een webcampagne maken](/help/channels/create-a-web-campaign.md)
+      + [Een webcampagne maken](/help/channels/author-a-web-campaign.md)
+      + [Ondersteuning SPA in de webeditor](/help/channels/singel-page-application-support.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Content personaliseren {#personalize-content}
    + [Personalisatie op basis van profiel en doelgroep](/help/personalize-content/profile-and-audience-membership-based-personalization.md)

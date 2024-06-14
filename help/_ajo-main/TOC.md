@@ -3,10 +3,10 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn Journey Optimizer Tutorials.
 auto-video-transcripts: true
-source-git-commit: b48fa701b3291e0d6347d5e86110801a0a9aa1ff
+source-git-commit: 93feb322403ee343686d901576a6c70b1a08287a
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 48%
+source-wordcount: '532'
+ht-degree: 47%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 48%
    + [Hoofdlettergebruik - kwalificatie van publiek](/help/create-journeys/use-case-audience-qualification.md)
    + [Een testprofiel maken](/help/create-journeys/test-a-journey.md)
    + [Een journey publiceren](/help/create-journeys/publish-a-journey.md)
+   + [Inhoud tijdens een live reis bijwerken](/help/create-journeys/update-content-in-live-journey.md)
    + [Een journey naar een andere sandbox kopiëren](/help/create-journeys/copy-a-journey.md)
 + Profielen, publiek en abonnementen {#profiles-audiences-subscriptions}
    + [Uniform profiel en segmentatie - overzicht](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)

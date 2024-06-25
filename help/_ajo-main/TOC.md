@@ -1,12 +1,12 @@
 ---
 user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: Dit zijn Journey Optimizer Tutorials.
+user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 6a0f50992c7112be09f85cd4b87268c9441d0d4d
+source-git-commit: 3c32d6ade8353c7533d6d84f5c64325b9a2d778e
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 47%
+source-wordcount: '539'
+ht-degree: 48%
 
 ---
 
@@ -55,7 +55,7 @@ ht-degree: 47%
       + [Content maken met de Email Designer](/help/channels/create-content-with-the-email-designer.md)
       + [HTML-e-mailcontent importeren en opstellen](/help/channels/import-and-author-html-email-content.md)
       + [Voorvertonen, proeven en publiceren](/help/channels/preview-proof-and-publish.md)
-      + [Inhoudssjablonen](/help/channels/content-templates.md)
+      + [Contentsjablonen](/help/channels/content-templates.md)
       + [Fragmenten beheren, maken en gebruiken](/help/content-management/manage-author-use-fragments.md)
       + [Expressiefragmenten maken en gebruiken](/help/content-management/expression-fragments.md)
       + [Inhoud-experimenten voor e-mails configureren](/help/experimentation/content-experiments-for-emails.md)
@@ -95,7 +95,7 @@ ht-degree: 47%
    + [Beslissingen maken](/help/decision-management/create-decisions.md)
    + [Aanbiedingen leveren met de Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [Frequentiecorrectie](/help/decision-management/frequency-capping.md)
-+ Gegevensbeheer {#data-management}
++ Data management {#data-management}
    + [Overzicht](/help/data-management/set-up-data-overview.md)
    + [Een schema maken](/help/data-management/create-schema.md)
    + [Identiteiten toewijzen](/help/data-management/map-identities.md)
@@ -108,6 +108,7 @@ ht-degree: 47%
    + [Rapporten op kanaalniveau](/help/report-and-monitor/channel-level-reports.md)
    + [Rapporten exporteren in CSV-indeling](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Waarschuwingen gebruiken](/help/administration/alerts.md)
+   + [Verbeterde rapportage met Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + Configuratie {#configuration}
    + Kanalen configureren {#channel-configuration}
       + [E-mailkanaal instellen](/help/set-up-channels/set-up-email-channel.md)

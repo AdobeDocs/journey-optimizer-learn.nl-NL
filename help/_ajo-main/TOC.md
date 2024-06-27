@@ -3,9 +3,9 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 3c32d6ade8353c7533d6d84f5c64325b9a2d778e
+source-git-commit: 823ba83b03a2886a755f0e475c39931f08c76fb2
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '544'
 ht-degree: 48%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 48%
    + [Architectuur](/help/introduction/architecture.md)
    + [Mobiele mogelijkheden voor marketeers](/help/channels/mobile-capabilities.md)
    + [Mobiele mogelijkheden voor ontwikkelaars](/help/channels/mobile-capabilities-for-developers.md)
+   + [Hulp krijgen met de AI-assistent](/help/ai-assistant.md)
 + Campagnes {#create-campaigns}
    + [Een campagne maken](/help/create-campaigns/create-a-campaign.md)
    + [Een in-app-campagne maken](/help/create-campaigns/in-app.md)

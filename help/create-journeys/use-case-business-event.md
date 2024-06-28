@@ -1,23 +1,24 @@
 ---
-title: Gebruiksscenario - Bedrijfsgebeurtenis
-description: Begrijp de toepasselijke gebruiksscenario's voor bedrijfsgebeurtenissen. Leer hoe u een journey bouwt met behulp van een bedrijfsgebeurtenis en welke aanbevolen procedures u toepast.
-jira: KT-7702
-thumbnail: 334234.jpg
+title: 'Hoofdletters/kleine letters gebruiken: Business Event'
+description: Leer hoe u zakelijke gebeurtenissen in Journey Optimizer kunt gebruiken. Begrijp hoe de gegevens van bedrijfsgebeurtenissen voor gepersonaliseerd overseinen in reizen kunnen worden gebruikt.
 feature: Journeys
-doc-type: feature video
-team: PM
 role: User
 level: Beginner
+doc-type: Feature Video
+duration: 250
+last-substantial-update: 2024-06-28T00:00:00Z
+jira: KT-7702
 exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: 6eba4838f70e8f7b8b2192eeb6255ac2b50ce1e2
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 96%
+source-wordcount: '85'
+ht-degree: 0%
 
 ---
 
-# Gebruiksscenario - Bedrijfsgebeurtenis
 
-Begrijp de toepasselijke gebruiksscenario&#39;s voor bedrijfsgebeurtenissen. Leer hoe u een journey bouwt met behulp van een bedrijfsgebeurtenis en welke aanbevolen procedures u toepast.
+# Hoofdletters/kleine letters gebruiken: Business Event
 
->[!VIDEO](https://video.tv.adobe.com/v/334234?quality=12&learn=on){transcript=true}
+Leer hoe u zakelijke gebeurtenissen in Journey Optimizer kunt gebruiken. Met bedrijfsevenementen kunnen merken reizen starten op basis van niet-persoonlijke evenementen, zoals het melden van abonnees wanneer een nieuwspublicatie nieuwe inhoud heeft of het verzenden van communicatie tijdens een sportevenement. Begrijp hoe de gegevens van bedrijfsgebeurtenissen voor gepersonaliseerd overseinen in reizen kunnen worden gebruikt.
+
+>[!VIDEO](https://video.tv.adobe.com/v/334234/?learn=on)

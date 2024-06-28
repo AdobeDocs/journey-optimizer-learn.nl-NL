@@ -3,10 +3,10 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 823ba83b03a2886a755f0e475c39931f08c76fb2
+source-git-commit: 71fca35f267d5dae16c73323b206fb18c39b9f64
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 48%
+source-wordcount: '562'
+ht-degree: 46%
 
 ---
 
@@ -75,7 +75,11 @@ ht-degree: 48%
       + [Een webcampagne maken](/help/channels/create-a-web-campaign.md)
       + [Een webcampagne maken](/help/channels/author-a-web-campaign.md)
       + [Ondersteuning SPA in de webeditor](/help/channels/singel-page-application-support.md)
-+ [Assets Essentials](/help/assets-essentials-overview.md)
++ Inhoud beheren{#content-management}
+   + [Assets beheren](/help/assets-essentials-overview.md)
+   + [Expressiefragmenten maken en gebruiken](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
+   + [Inhoud-experimenten voor e-mails configureren](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/manage-author-use-fragments)
+   + [Meertalige berichten instellen](/help/content-management/set-up-multilingual-messages.md)
 + Content personaliseren {#personalize-content}
    + [Personalisatie op basis van profiel en doelgroep](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Aanbiedingen toevoegen als personalisatie](/help/personalize-content/add-offer-decisioning-to-messages.md)

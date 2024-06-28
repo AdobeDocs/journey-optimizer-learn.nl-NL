@@ -3,9 +3,9 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 71fca35f267d5dae16c73323b206fb18c39b9f64
+source-git-commit: c9a4813c607c87a44c8a70ceea727e554f097521
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '556'
 ht-degree: 46%
 
 ---
@@ -78,7 +78,6 @@ ht-degree: 46%
 + Inhoud beheren{#content-management}
    + [Assets beheren](/help/assets-essentials-overview.md)
    + [Expressiefragmenten maken en gebruiken](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
-   + [Inhoud-experimenten voor e-mails configureren](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/manage-author-use-fragments)
    + [Meertalige berichten instellen](/help/content-management/set-up-multilingual-messages.md)
 + Content personaliseren {#personalize-content}
    + [Personalisatie op basis van profiel en doelgroep](/help/personalize-content/profile-and-audience-membership-based-personalization.md)

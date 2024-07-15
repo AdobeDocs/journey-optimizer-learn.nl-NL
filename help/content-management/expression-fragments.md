@@ -1,5 +1,5 @@
 ---
-title: Expressiefragmenten maken en gebruiken
+title: Expressiefragmenten maken
 description: Leer expressiefragmenten maken en gebruiken.
 feature: Templates, Email Design
 role: User
@@ -9,15 +9,15 @@ last-substantial-update: 2023-09-28T00:00:00Z
 jira: KT-14043
 thumbnail: 3424587.jpeg
 hidefromtoc: false
-source-git-commit: 2e12d30c620620155985a5d8c13a9e6c593332e8
+exl-id: e97ad4be-0d42-4516-8c20-948c604c61a3
+source-git-commit: 0f6f0d4e66b8dad174f2ea6e07fc41f142ff3f3e
 workflow-type: tm+mt
-source-wordcount: '26'
+source-wordcount: '22'
 ht-degree: 0%
 
 ---
 
-
-# Expressiefragmenten maken en gebruiken
+# Expressiefragmenten maken
 
 Leer expressiefragmenten maken en gebruiken.
 

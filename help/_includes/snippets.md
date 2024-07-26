@@ -1,7 +1,7 @@
 ---
-source-git-commit: def6df7acf248f61ac64f1c2d3fc99e519c3ffe6
+source-git-commit: dc11d8bae005038b610637fd0057b4bd92d53374
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -11,21 +11,21 @@ ht-degree: 0%
 
 >[!INFO]
 >
-> Deze video maakt deel uit van een cursus [Journey Optimizer voor beheerders configureren](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-a-1-2021-1.html), gratis beschikbaar op Experience League!
+> Deze video maakt deel uit van een cursus [ vormt Journey Optimizer voor Beheerders ](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-a-1-2021-1.html), beschikbaar voor vrij op Experience League!
 
 ## Cursus Aan de slag met besluitvormingsbeheer voor marketers {#experienceplatform-u-1-2020-1-offerdecisioning}
 
 >[!INFO]
 >
-> Deze video maakt deel uit van een cursus [Cursus Aan de slag met besluitvormingsbeheer voor marketers](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=en), gratis beschikbaar op Experience League!
+> Deze video maakt deel uit van een cursus [ Cursus die met besluitvormingsbeheer voor marketers ](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=en) wordt begonnen, beschikbaar voor vrij op Experience League!
 
 ## ExL Live in app {#exl-live-in-app}
 
 Experience League LIVE:
 
-* [Maximaliseer de mogelijkheden van uw mobiele app met Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en)
+* [ maximaliseer het potentieel van uw mobiele app met Adobe Journey Optimizer ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en)
 
-  *Leer de voordelen van berichtgeving in de app als een realtime service-kanaal en hoe u persoonlijke ervaringen met mobiele apps in Adobe Journey Optimizer kunt configureren en ontwerpen.*
+  *leer de voordelen van in-app overseinen als in real time betrokkenheidskanaal en hoe te om gepersonaliseerde mobiele app ervaringen in Adobe Journey Optimizer te vormen en te schrijven.*
 
 ## Beperkte beschikbaarheid {#limited-availability}
 
@@ -33,3 +33,8 @@ Experience League LIVE:
 >
 >Deze functies zijn momenteel alleen beschikbaar voor een aantal organisaties (beperkte beschikbaarheid). Neem contact op met uw Adobe als u toegang wilt.
 
+## Beta {#beta}
+
+>[!AVAILABILITY]
+>
+>Deze mogelijkheid is momenteel beschikbaar in bètaversie en alleen voor bètaklanten. Neem contact op met de klantenservice van de Adobe om deel te nemen aan het bètaprogramma.

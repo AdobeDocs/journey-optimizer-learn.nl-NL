@@ -3,9 +3,9 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 56ce5f811573046687f735e0f1e6f3f8b972773e
+source-git-commit: e0abc58d1356044d1dae64f112eec22f4ed2b99d
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '560'
 ht-degree: 46%
 
 ---
@@ -115,6 +115,7 @@ ht-degree: 46%
    + [Verbeterde rapportage met Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + Configuratie {#configuration}
    + Kanalen configureren {#channel-configuration}
+      + [Kanaalinstellingen met instructies](/help/set-up-channels/guided-channel-setup.md)
       + [E-mailkanaal instellen](/help/set-up-channels/set-up-email-channel.md)
       + [CName-subdomeinen delegeren](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Opstelling en voer een IP opwarmingsplan uit](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)

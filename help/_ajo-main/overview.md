@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b58a4f37ac4cba27ff4dcea88ffa0d3b0db037cf
+source-git-commit: 4c51e1a1b04750559f3d1316fc9c13bedd94ae60
 workflow-type: tm+mt
-source-wordcount: '522'
-ht-degree: 69%
+source-wordcount: '343'
+ht-degree: 75%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 69%
 
 Journey Optimizer helpt bedrijven hun klanten verbonden, contextafhankelijke en persoonlijke ervaringen te bieden. De customer journey is het hele proces van de interacties van een klant met het merk, vanaf het eerste contactmoment totdat de klant de site verlaat.
 
-Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en mogelijkheden van Adobe Journey Optimizer. Volg wat u hebt geleerd door het [Journey Optimizer-uitdagingen](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites).
+Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en mogelijkheden van Adobe Journey Optimizer. Praktijk wat u door de [ Uitdagingen van Journey Optimizer ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites) te nemen hebt geleerd.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -30,26 +30,12 @@ Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en 
 
 <div id="events-section">
 
-## Live gebeurtenissen in Experience League
+## Nieuwste Experience League Live-gebeurtenissen
 
-* **[Het nieuwe codereperingskanaal in Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
-  *Leer hoe te om binnenkomende oppervlakten en korrelige verpersoonlijkingscontrole met ontwikkelaars-centric acties te activeren.*
-
-* **[API-activering van berichten in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en){target="_blank"}**
-  *Leer hoe te om REST APIs voor contextuele, gepersonaliseerde en in real time transactie en marketing mededelingen te gebruiken.*
-
-* **[Maximaliseer de mogelijkheden van uw mobiele app met Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en){target="_blank"}**
-  *Leer de voordelen van berichtgeving in de app als een realtime service-kanaal en hoe u persoonlijke ervaringen met mobiele apps in Adobe Journey Optimizer kunt configureren en ontwerpen.*
-
-* **[De toekomst van Adobe Journey Optimizer verkennen met het webkanaal en content experimenteren](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=en){target="_blank"}**
-  *Het nieuwe Webkanaal laat marketers toe om Webcampagnes met een visuele ontwerper te bouwen WYSIWYG. Bovendien kunt u met Journey Optimizer nu experimenteren met inhoud in elk kanaal, zoals e-mail, web, push, in-app, SMS en meer.*
-
-* **[Uw campagnes uitvoeren in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=nl){target="_blank"}**
-  *In deze Experience League Live-aflevering, oorspronkelijk gehouden op 22 september 2022, ziet u gastvrouw Sandra Hausmann en productdeskundigen Bridgette Darling en Frederic Mary bij het bespreken van de gebruiksscenario&#39;s waarop deze nieuwe functie betrekking heeft en hoe een campagne in Journey Optimizer eenvoudig kan worden opgezet en uitgevoerd.*
-
-* **[Pushmeldingen met Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=nl)**
-  *In deze Experience League Live-aflevering praten we over doorsnee gebruiksscenario&#39;s voor pushberichten met Adobe Journey Optimizer en gaan we in op de technische details over het configureren van een app voor Push die wordt aangestuurd door Adobe Experience Platform.*
-
+* **[Spotlight van de Zomer - drie moet eigenschappen in Adobe Journey Optimizer ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24) proberen**
+  *bovenop uw klantenovereenkomst deze zomer met Adobe Journey Optimizer drie eigenschappen: reis experimenteren, frequentie het aftappen, en multi-linguaal overseinen.*
+* **[Nieuw code-Gebaseerd Kanaal van de Ervaring in Journey Optimizer ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
+  *leer hoe te om binnenkomende oppervlakten en korrelige verpersoonlijkingscontrole met ontwikkelaar-centric acties te activeren.*
 </div>
 
 <div id="staff-picks-section">

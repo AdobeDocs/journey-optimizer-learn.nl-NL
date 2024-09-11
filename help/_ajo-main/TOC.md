@@ -3,10 +3,10 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 066df8631872b0322a7b0622ce273f27fd612272
+source-git-commit: d0c3d37dc6c3e28cab4ecd6cc8b03cfe65ef51c3
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 43%
+source-wordcount: '592'
+ht-degree: 42%
 
 ---
 
@@ -73,6 +73,7 @@ ht-degree: 43%
       + [Een webcampagne maken](/help/channels/author-a-web-campaign.md)
       + [Ondersteuning SPA in de webeditor](/help/channels/singel-page-application-support.md)
 + Inhoudsbeheer {#content-management}
+   + [Inhoud maken met de AI Assistant in Journey Optimizer - Content Accelerator](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
    + [Assets beheren](/help/assets-essentials-overview.md)
    + [Inhoudssjablonen beheren](/help/content-management/content-templates.md)
    + [Fragmenten beheren](/help/content-management/manage-fragments.md)

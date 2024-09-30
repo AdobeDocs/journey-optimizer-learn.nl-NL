@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 4c51e1a1b04750559f3d1316fc9c13bedd94ae60
+source-git-commit: cf1bf6d0602314e870834035882f2bf1929f307a
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 75%
+source-wordcount: '377'
+ht-degree: 68%
 
 ---
 
@@ -32,10 +32,13 @@ Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en 
 
 ## Nieuwste Experience League Live-gebeurtenissen
 
+* **[AI Bash - ontgrendel de Macht van AI Medewerker in de Toepassingen van Adobe Experience Platform en Campagne ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+  *Onderzoek hoe AI Medewerker klanteninteractie omzet en productiviteit in de Toepassingen van Adobe Experience Cloud en Adobe Campaign verbetert.*
 * **[Spotlight van de Zomer - drie moet eigenschappen in Adobe Journey Optimizer ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24) proberen**
   *bovenop uw klantenovereenkomst deze zomer met Adobe Journey Optimizer drie eigenschappen: reis experimenteren, frequentie het aftappen, en multi-linguaal overseinen.*
 * **[Nieuw code-Gebaseerd Kanaal van de Ervaring in Journey Optimizer ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *leer hoe te om binnenkomende oppervlakten en korrelige verpersoonlijkingscontrole met ontwikkelaar-centric acties te activeren.*
+
 </div>
 
 <div id="staff-picks-section">

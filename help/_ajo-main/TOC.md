@@ -3,10 +3,10 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 94f3e7dacbfa0231829d60b90d73f90048029186
+source-git-commit: 4261e738c5c539b387a5f05c48c581954fe11510
 workflow-type: tm+mt
-source-wordcount: '624'
-ht-degree: 41%
+source-wordcount: '628'
+ht-degree: 40%
 
 ---
 
@@ -138,8 +138,8 @@ ht-degree: 41%
    + [Toegangsbeheer](/help/set-up-access/access-management.md)
    + [Op kenmerken gebaseerd toegangsbeheer configureren](/help/administration/attribute-based-access-control.md)
    + [Sandboxen maken en beheren](/help/set-up-access/create-and-manage-sandboxes.md)
-+ Privacy {#privacy}
-   + [Datagovernance](help/privacy/data-governance.md)
++ Gegevensbeheer en privacy {#data-governance-and-privacy}
+   + [Data Governance Framework](/help/privacy/data-governance-framework.md)
    + [Gegevens in berichten maskeren](/help/privacy/mask-data-in-messages.md)
 + Uitoefeningen en uitdagingen {#exercises-and-challenges}
    + [ vorm een trainingszandbak ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)

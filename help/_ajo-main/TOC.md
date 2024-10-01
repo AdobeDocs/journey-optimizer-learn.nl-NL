@@ -3,9 +3,9 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 4261e738c5c539b387a5f05c48c581954fe11510
+source-git-commit: 0f286412ace011859fc5f1f79ef4baf61d83ac50
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '631'
 ht-degree: 40%
 
 ---
@@ -57,12 +57,13 @@ ht-degree: 40%
       + [HTML-e-mailcontent importeren en opstellen](/help/channels/import-and-author-html-email-content.md)
       + [Voorvertonen, proeven en publiceren](/help/channels/preview-proof-and-publish.md)
       + [Inhoud-experimenten voor e-mails configureren](/help/experimentation/content-experiments-for-emails.md)
+   + Inhoudskaarten (#content-cards)
+      + [Inhoudskaarten maken](/help/channels/create-content-cards.md)
    + In toepassingskanaal {#in-app-channel}
       + [Een in-app-campagne maken](/help/channels/create-an-in-app-campaign.md)
       + [Een bericht in de app maken tijdens een rit](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [Een in-app bericht schrijven](/help/channels/author-in-app-messages.md)
       + [Inhoud-experimenten voor in-app-berichten configureren](/help/experimentation/content-experiments-for-in-app-messages.md)
-      + [Inhoudskaarten maken](/help/channels/create-content-cards.md)
    + Pushkanaal {#push-channel}
       + [Een pushcampagne configureren en verzenden](/help/channels/create-a-push-campaign.md)
    + Het kanaal van SMS {#sms-channel}

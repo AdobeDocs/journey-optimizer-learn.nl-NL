@@ -1,7 +1,7 @@
 ---
-source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+source-git-commit: f6e9e2b286c220bf90eab7632f2110176b0c7ba2
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,6 @@ Experience League LIVE:
 
 ## Platform Video - Beleid (#platform-video)
 
->>[!NOTE]
->>
-De video demonstreert deze functie in de gebruikersinterface van Adobe Experience Platform. Dezelfde functionaliteit is beschikbaar in Journey Optimizer in de secties GEGEVENSBEHEER en PRIVACY in de linkernavigatie.
+>[!NOTE]
+>
+>De video demonstreert deze functie in de gebruikersinterface van Adobe Experience Platform. Dezelfde functionaliteit is beschikbaar in Journey Optimizer in de secties GEGEVENSBEHEER en PRIVACY in de linkernavigatie.

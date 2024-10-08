@@ -3,10 +3,10 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
+source-git-commit: f0c457a9aa6e96ca185e526058797479bfbf72da
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 39%
+source-wordcount: '685'
+ht-degree: 36%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 39%
    + [Campagnes activeren met API&#39;s](/help/create-campaigns/api-triggered-campaigns.md)
    + [Inhoud-experimenten maken voor e-mailcampagnes](/help/create-campaigns/content-experiments.md)
 + Reizen {#create-journeys}
-   + [Overzicht van het reiscanvas](/help/create-journeys/overview-over-the-journey-canvas.md)
+   + [Reis Designer - Overzicht](/help/create-journeys/journey-designer-overview.md)
    + [Ontdek de nieuwe Journey Designer](/help/create-journeys/new-journey-designer.md)
    + [Inleiding tot het samenstellen van een journey](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Gebruiksscenario - transactionele journey](/help/create-journeys/use-case-transactional-journey.md)
@@ -44,15 +44,19 @@ ht-degree: 39%
    + [Inhoud tijdens een live reis bijwerken](/help/create-journeys/update-content-in-live-journey.md)
    + [Een journey naar een andere sandbox kopiëren](/help/create-journeys/copy-a-journey.md)
 + Profielen, publiek en abonnementen {#profiles-audiences-subscriptions}
+   + [Profielen en publiek - Overzicht](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Uniform profiel en segmentatie - overzicht](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Toegankelijkheid maken met de regelbouwer](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
 + Kanalen {#channels}
+   + [Optimalisatie van mobiele toepassingen - Overzicht](/help/channels/mobile-app-optimization-overview.md)
    + Code-based ervaringskanaal {#code-based-experience-channel}
       + [Een op code gebaseerde ervaringscampagne maken](/help/channels/create-a-code-based-experience-campaign.md)
    + Direct-mailkanaal {#direct-mail-channel}
       + [Een directe e-mail maken](/help/channels/direct-mail.md)
    + E-mailkanaal {#email-channel}
+      + [E-mailkanaal - Overzicht](/help/channels/email-channel-overview.md)
+      + [E-mailontwerp en personalisatie - Overzicht](/help/channels/email-design-and-personalization-overview.md)
       + [Content maken met de Email Designer](/help/channels/create-content-with-the-email-designer.md)
       + [HTML-e-mailcontent importeren en opstellen](/help/channels/import-and-author-html-email-content.md)
       + [Voorvertonen, proeven en publiceren](/help/channels/preview-proof-and-publish.md)
@@ -60,31 +64,40 @@ ht-degree: 39%
    + Inhoudskaarten {#content-cards}
       + [Inhoudskaarten maken](/help/channels/create-content-cards.md)
    + In toepassingskanaal {#in-app-channel}
+      + [In-app berichten - Overzicht](/help/channels/in-app-messages-overview.md)
       + [Een in-app-campagne maken](/help/channels/create-an-in-app-campaign.md)
       + [Een bericht in de app maken tijdens een rit](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [Een in-app bericht schrijven](/help/channels/author-in-app-messages.md)
       + [Inhoud-experimenten voor in-app-berichten configureren](/help/experimentation/content-experiments-for-in-app-messages.md)
    + Pushkanaal {#push-channel}
+      + [Pushmeldingen - Overzicht](/help/channels/push-notifications-overview.md)
       + [Een pushcampagne configureren en verzenden](/help/channels/create-a-push-campaign.md)
    + Het kanaal van SMS {#sms-channel}
+      + [SMS/MMS-berichten - Overzicht](/help/channels/sms-mms-messages-overview.md)
       + [Sms-berichten configureren, opstellen en leveren](/help/channels/author-sms-messages.md)
       + [Auteur een MMS-bericht](/help/channels/author-mms.md)
       + [SMS - Dubbele opt-in voor Sinch en Infobip](/help/channels/sms-double-opt-in.md)
    + Webkanaal {#web-channel}
+      + [Webpersonalisatie - Overzicht](/help/channels/web-personalization-overview.md)
       + [Een webcampagne maken](/help/channels/create-a-web-campaign.md)
       + [Een webcampagne maken](/help/channels/author-a-web-campaign.md)
       + [Ondersteuning SPA in de webeditor](/help/channels/singel-page-application-support.md)
 + Inhoudsbeheer {#content-management}
-   + AI Assistant Content Accelerator {#content-accelerator}
-      + [Inleiding tot de AI Assistant Content Accelerator](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
-      + [Inhoud maken met de AI Assistant in Journey Optimizer - Content Accelerator](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
+   + [Berichtontwerp - Overzicht](/help/content-management/message-authoring-overview.md)
+   + [Digitaal middelenbeheer - Overzicht](/help/content-management/digital-asset-management-overview.md)
    + [Assets beheren](/help/assets-essentials-overview.md)
    + [Inhoudssjablonen beheren](/help/content-management/content-templates.md)
    + [Fragmenten beheren](/help/content-management/manage-fragments.md)
    + [Expressiefragmenten maken](/help/content-management/expression-fragments.md)
-   + [Meertalige berichten instellen](/help/content-management/set-up-multilingual-messages.md)
-   + [Een meertalig bericht maken](/help/content-management/create-multilingual-messages.md)
+   + [Experimentatie - Overzicht](/help/content-management/experimentation-overview.md)
+   + Meertalig verzenden {#multilingual-messaging}
+      + [Meertalige berichten instellen](/help/content-management/set-up-multilingual-messages.md)
+      + [Een meertalig bericht maken](/help/content-management/create-multilingual-messages.md)
+   + AI Assistant Content Accelerator {#content-accelerator}
+      + [AI Assistant Content Accelerator - Overzicht](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [Inhoud maken met de AI Assistant-versnelling voor inhoud](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + Content personaliseren {#personalize-content}
+   + [Personalization Editor - Overzicht](/help/personalize-content/personalization-editor-overview.md)
    + [Personalisatie op basis van profiel en doelgroep](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Aanbiedingen toevoegen als personalisatie](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Contextuele gebeurtenisinformatie gebruiken voor personalisatie](/help/personalize-content/use-contextual-event-information-for-personalization.md)
@@ -113,6 +126,7 @@ ht-degree: 39%
    + [Vorm een bestemming van de datasetuitvoer](/help/data-management/configure-dataset-export-destination.md)
    + [Gegevenssets exporteren naar opslaglocaties in de cloud](/help/data-management/export-datasets.md)
 + Rapporteren en controleren {#report-and-monitor}
+   + [Meting en rapportage - Overzicht](/help/report-and-monitor/measurement-and-reporting-overview.md)
    + [Live en globale rapporten](/help/report-and-monitor/live-and-global-reports.md)
    + [Rapporten op kanaalniveau](/help/report-and-monitor/channel-level-reports.md)
    + [Rapporten exporteren in CSV-indeling](/help/report-and-monitor/export-reports-in-csv-format.md)

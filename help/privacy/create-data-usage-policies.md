@@ -10,7 +10,7 @@ last-substantial-update: 2024-10-03T00:00:00Z
 jira: KT-16267
 hide: false
 hidefromtoc: false
-source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
+source-git-commit: da924ae1f11f87ef6d940d7ccfc0ac3b9cf3b896
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Beleid voor gegevensgebruik maken
 
-Leer hoe u beleid voor gegevensgebruik maakt en beheert. Met het beleid voor gegevensgebruik kunt u het gebruik van gegevens voor specifieke doeleinden beperken op basis van de labels van gegevens. Om de op API-Gebaseerde benadering te leren, zie [ het beleid van het gegevensgebruik met API tot stand brengen|https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create ].
+Leer hoe u beleid voor gegevensgebruik maakt en beheert. Met het beleid voor gegevensgebruik kunt u het gebruik van gegevens voor specifieke doeleinden beperken op basis van de labels van gegevens. Om de op API-Gebaseerde benadering te leren, zie [ het beleid van het gegevensgebruik met API ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create) creëren.
 
 >[!NOTE]
 >

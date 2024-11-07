@@ -1,6 +1,6 @@
 ---
 title: Campagnes activeren met API's
-description: Leer hoe u SMS-berichten over transacties en e-mailberichten van een extern systeem kunt activeren.
+description: Leer hoe u SMS-berichten over transacties en e-mailberichten van een extern systeem in AJO kunt activeren.
 feature: Campaigns, API
 role: User, Developer
 level: Experienced
@@ -8,16 +8,16 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-31T00:00:00Z
 jira: KT-10658
 thumbnail: 3425358.jpeg
-source-git-commit: 138a7f1637b5a55b0e04af880b2322c72c93db40
+exl-id: 039ce9b1-6942-44ac-b8e3-068b0ad9264e
+source-git-commit: 4f5670b3e7a835bdda1accccdb2e79926d243744
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-
 # Campagnes activeren met API&#39;s
 
-Leer hoe u een campagne kunt maken en deze kunt activeren op een extern systeem op basis van gebruikersinteracties, met de opdracht [Interactive Message Execution REST API](https://developer.adobe.com/journey-optimizer-apis/references/messaging/#tag/execution).
+Leer hoe te om een campagne tot stand te brengen en het van een extern systeem teweeg te brengen dat op gebruikersinteractie wordt gebaseerd, die de [ Interactieve WEERGAVE API van de Uitvoering van het Bericht ](https://developer.adobe.com/journey-optimizer-apis/references/messaging/#tag/execution) gebruiken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425358/?learn=on)

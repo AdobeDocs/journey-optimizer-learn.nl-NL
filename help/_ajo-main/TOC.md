@@ -3,10 +3,10 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: fb7f9c22ab23392da00f1d7770f33534748de8ea
+source-git-commit: a42991e258dd5f9964d7859003b1cc479bc79c21
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 35%
+source-wordcount: '599'
+ht-degree: 37%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 35%
 # Lesbestanden voor Journey Optimizer {#tutorials}
 
 + [Lesbestanden voor Journey Optimizer](/help/_ajo-main/overview.md)
++ [ Experience League Levende showopnamen ](/help/experience-league-live-show-recordings.md)
 + Inleiding tot Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Overzicht](/help/introduction/journey-optimizer-overview.md)
    + [Inleiding tot Journey Optimizer](/help/introduction/introduction.md)
@@ -161,14 +162,5 @@ ht-degree: 35%
 + Uitoefeningen en uitdagingen {#exercises-and-challenges}
    + [ vorm een trainingszandbak ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
    + [ Uitdagingen ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
-+ Actieve opnamen Experiencen League {#experience-league-live-recordings}
-   + [ AI Bash - ontgrendel de Macht van AI Medewerker in de Toepassingen en de Campagne van Adobe Experience Platform ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
-   + [ Spotlight van de Zomer - drie moet eigenschappen in Adobe Journey Optimizer proberen ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)
-   + [ Nieuw code-Gebaseerd Kanaal van de Ervaring in Journey Optimizer ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
-   + [ API teweeggebracht Overseinen in Adobe Journey Optimizer ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en) {target="_blank"}
-   + [ lever de juiste aanbieding in de juiste tijd met besluitvormingsbeheer ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en) {target="_blank"}
-   + [ maximaliseer het potentieel van uw mobiele app met Adobe Journey Optimizer ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en) {target="_blank"}
-   + [Uw campagnes uitvoeren in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en){target="_blank"}
-   + [Pushmeldingen met Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en){target="_blank"}
 + Summit Labs {#summit-labs}
    + [ Bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview) {target="_blank"}

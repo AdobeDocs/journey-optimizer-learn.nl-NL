@@ -2,8 +2,9 @@
 title: Experience League LIVE-presentaties
 description: Experience League LIVE is een live streaming show die wordt gemaakt door het team van Experiencen League. Het is een kans om met de deskundigen van het product van de Adobe te verbinden en actionable uiteinden, trucs, en strategieën te leren u met de toepassingen van Adobe Experience Cloud kunt toepassen.
 feature: Overview
+doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: 5f39cdfb854bc5b0920413785bdedf34329ef13f
+source-git-commit: f50cf10fe0b051ef158be29a7048cfcc8cc83e20
 workflow-type: tm+mt
 source-wordcount: '787'
 ht-degree: 0%

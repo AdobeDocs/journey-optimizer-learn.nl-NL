@@ -4,9 +4,9 @@ description: Experience League LIVE is een live streaming show die wordt gemaakt
 feature: Overview
 doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: 7ac7d6f068caf4e7e05c5e3aba48182128d4f8e6
+source-git-commit: 46f9f606490ce7364792e370e24ba1d76d8ffe1c
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '774'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,9 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
 * https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24
   {description = Learn how Content Cards deliver key updates, promotions, and messages seamlessly within your app or website, ensuring a non-intrusive user experience. (November 6, 2024)}
 * https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
+     {description = Learn about Federated Audience Composition provides a comprehensive approach to audience curation and activation with Real-Time CDP and Journey Optimizer. (October 24, 2024)}
 * https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24
+    {description = AI-driven tools are transforming the way we engage customers and streamline workflows. Learn how Adobe's AI capabilities will accelerate your productivity. (September 26, 2024)}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -32,7 +34,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24" title="Weergavekaarten voor inhoud in Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436281/?quality=12&format=jpeg&nocache=1732141554372" alt="Weergavekaarten voor inhoud in Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436281/?quality=12&format=jpeg&nocache=1732146043307" alt="Weergavekaarten voor inhoud in Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -55,7 +57,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="Harmoniseren van publiek in ervaringsecosystemen - Federatieve publiekssamenstelling in Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?quality=12&format=jpeg&nocache=1732141554374" alt="Harmoniseren van publiek in ervaringsecosystemen - Federatieve publiekssamenstelling in Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?quality=12&format=jpeg&nocache=1732146043310" alt="Harmoniseren van publiek in ervaringsecosystemen - Federatieve publiekssamenstelling in Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -65,7 +67,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="Harmoniseren van publiek in ervaringsecosystemen - Federatieve publiekssamenstelling in Experience Platform"> harmoniseer publiek in Ervings Ecosystems - Federated Audience Composition in Experience Platform </a>
                     </p>
-                    <p class="is-size-6">Meer informatie over hoe Federated Audience Composition een uitgebreide benadering biedt van publiekscurve en activering met Real-Time CDP en Journey Optimizer.</p>
+                    <p class="is-size-6">Meer informatie over Federated Audience Composition biedt een uitgebreide benadering van publiekscurve en activering met Real-Time CDP en Journey Optimizer. (24 oktober 2024)</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
@@ -78,7 +80,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24" title="AI Bash - De kracht van AI Assistant vrijmaken in Adobe Experience Platform-toepassingen en -campagne" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434781/?format=jpeg&nocache=1732141554366" alt="AI Bash - De kracht van AI Assistant vrijmaken in Adobe Experience Platform-toepassingen en -campagne"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434781/?format=jpeg&nocache=1732146043304" alt="AI Bash - De kracht van AI Assistant vrijmaken in Adobe Experience Platform-toepassingen en -campagne"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -88,7 +90,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24" target="_blank" rel="referrer" title="AI Bash - De kracht van AI Assistant vrijmaken in Adobe Experience Platform-toepassingen en -campagne"> AI Bash - ontgrendel de Macht van AI Medewerker in de Toepassingen en de Campagne van Adobe Experience Platform </a>
                     </p>
-                    <p class="is-size-6">AI-tools transformeren de manier waarop we klanten betrekken en workflows stroomlijnen. Sluit u aan bij ons live webinar voor AI-Experiencen League om het innovatietempo bij te houden en te leren hoe de mogelijkheden van de Adobe uw productiviteit zullen versnellen.</p>
+                    <p class="is-size-6">AI-tools transformeren de manier waarop we klanten betrekken en workflows stroomlijnen. Leer hoe de AI-mogelijkheden van Adobe uw productiviteit zullen versnellen. (26 september 2024)</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
@@ -121,7 +123,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24" title="Zomerspotlicht - Drie functies moeten in Adobe Journey Optimizer worden geprobeerd" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433225/?format=jpeg&nocache=1732141554889" alt="Zomerspotlicht - Drie functies moeten in Adobe Journey Optimizer worden geprobeerd"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433225/?format=jpeg&nocache=1732146045031" alt="Zomerspotlicht - Drie functies moeten in Adobe Journey Optimizer worden geprobeerd"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -144,7 +146,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24" title="Het nieuwe codereperingskanaal in Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428095/?quality=12&format=jpeg&nocache=1732141554907" alt="Het nieuwe codereperingskanaal in Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428095/?quality=12&format=jpeg&nocache=1732146045035" alt="Het nieuwe codereperingskanaal in Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -167,7 +169,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en" title="API-activering van berichten in Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422169/?format=jpeg&nocache=1732141555020" alt="API-activering van berichten in Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422169/?format=jpeg&nocache=1732146045417" alt="API-activering van berichten in Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -190,7 +192,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en" title="Maximaliseer de mogelijkheden van uw mobiele app met Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419194/?quality=12&format=jpeg&nocache=1732141554960" alt="Maximaliseer de mogelijkheden van uw mobiele app met Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419194/?quality=12&format=jpeg&nocache=1732146045235" alt="Maximaliseer de mogelijkheden van uw mobiele app met Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -213,7 +215,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en" title="Het juiste aanbod op het juiste moment met beslissingsbeheer aanbieden" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410560/?quality=12&format=jpeg&nocache=1732141554959" alt="Het juiste aanbod op het juiste moment met beslissingsbeheer aanbieden"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410560/?quality=12&format=jpeg&nocache=1732146045377" alt="Het juiste aanbod op het juiste moment met beslissingsbeheer aanbieden"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -236,7 +238,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en" title="Je campagnes uitvoeren in Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3409504/?quality=12&format=jpeg&nocache=1732141555017" alt="Je campagnes uitvoeren in Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3409504/?quality=12&format=jpeg&nocache=1732146045412" alt="Je campagnes uitvoeren in Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -259,7 +261,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en" title="Pushmeldingen met Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/342810/?quality=12&format=jpeg&nocache=1732141555019" alt="Pushmeldingen met Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/342810/?quality=12&format=jpeg&nocache=1732146045229" alt="Pushmeldingen met Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

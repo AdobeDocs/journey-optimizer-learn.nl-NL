@@ -3,7 +3,7 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: a42991e258dd5f9964d7859003b1cc479bc79c21
+source-git-commit: f445b5c7572cf8b85d1e1ef053b9385fcb9c3fbd
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 37%
@@ -14,7 +14,6 @@ ht-degree: 37%
 # Lesbestanden voor Journey Optimizer {#tutorials}
 
 + [Lesbestanden voor Journey Optimizer](/help/_ajo-main/overview.md)
-+ [ Experience League Levende showopnamen ](/help/experience-league-live-show-recordings.md)
 + Inleiding tot Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Overzicht](/help/introduction/journey-optimizer-overview.md)
    + [Inleiding tot Journey Optimizer](/help/introduction/introduction.md)
@@ -162,5 +161,6 @@ ht-degree: 37%
 + Uitoefeningen en uitdagingen {#exercises-and-challenges}
    + [ vorm een trainingszandbak ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
    + [ Uitdagingen ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
++ [ Experience League Levende showopnamen ](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [ Bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview) {target="_blank"}

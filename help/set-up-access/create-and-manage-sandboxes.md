@@ -1,23 +1,23 @@
 ---
 title: Sandboxen maken en beheren
-description: Begrijp wat sandboxen zijn en hoe u onderscheid kunt maken tussen ontwikkelings- en productiesandboxen. Leer hoe u sandboxen kunt maken, herstellen en verwijderen.
+description: Leer hoe Experience Platforms sandboxen geïsoleerde omgevingen bieden om nieuwe of bestaande functionaliteit uit te proberen en met een faalsnelle aanpak te werken. Leer hoe u de ontwikkelomgevingen kunt herstellen en opnieuw kunt starten en sandboxen kunt gebruiken met API-aanroepen.
 jira: KT-7568
-thumbnail: 334355.jpg
 feature: Sandboxes
 doc-type: feature video
-team: PM
-role: Admin
+team: TM
+role: Admin, User
 level: Beginner
+last-substantial-update: 2024-11-22T00:00:00Z
 exl-id: b1ad3aa7-2b58-4a9f-8c5c-085126586c11
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: cfa548b1c8490e74cb40bba48386a4b6efd0ba67
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 96%
+source-wordcount: '90'
+ht-degree: 5%
 
 ---
 
-# Sandboxen maken en beheren
+# Sandboxen gebruiken
 
-Begrijp wat sandboxen zijn en hoe u onderscheid kunt maken tussen ontwikkelings- en productiesandboxen. Leer hoe u sandboxen kunt maken, herstellen en verwijderen.
+Leer hoe Experience Platform sandboxen geïsoleerde omgevingen bieden om nieuwe of bestaande functionaliteit uit te proberen en met een &quot;faalsnelle&quot; aanpak te werken. Leer hoe u de ontwikkelomgevingen kunt herstellen en opnieuw kunt starten en sandboxen kunt gebruiken met API-aanroepen. Voor meer informatie, gelieve de [ de gebruikersgids van Sandboxen ](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=nl) te bezoeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/334355?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29838/?learn=on)

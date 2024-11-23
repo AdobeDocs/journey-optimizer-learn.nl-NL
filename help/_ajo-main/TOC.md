@@ -3,9 +3,9 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: f445b5c7572cf8b85d1e1ef053b9385fcb9c3fbd
+source-git-commit: bf1a97a0950782838946ecf2e21d82e84913340f
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '597'
 ht-degree: 37%
 
 ---
@@ -151,7 +151,7 @@ ht-degree: 37%
 + Toegangsbeheer {#access-control}
    + [Toegangsbeheer](/help/set-up-access/access-management.md)
    + [Op kenmerken gebaseerd toegangsbeheer configureren](/help/administration/attribute-based-access-control.md)
-   + [Sandboxen maken en beheren](/help/set-up-access/create-and-manage-sandboxes.md)
+   + [Sandboxen gebruiken](/help/set-up-access/create-and-manage-sandboxes.md)
 + Gegevensbeheer en privacy {#data-governance-and-privacy}
    + [Data Governance Framework](/help/privacy/data-governance-framework.md)
    + [Gegevens classificeren met labels](/help/privacy/classify-data-using-lables.md)

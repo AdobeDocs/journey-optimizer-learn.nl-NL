@@ -3,9 +3,9 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 20c8649624e91fcc77745309a4816bd02e6d09bd
+source-git-commit: 55205636bb73af692c24ebabe4168a514b547b6f
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: '601'
 ht-degree: 36%
 
 ---
@@ -133,7 +133,6 @@ ht-degree: 36%
    + [Rapporten exporteren in CSV-indeling](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Waarschuwingen gebruiken](/help/administration/alerts.md)
    + [Verbeterde rapportage met Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
-   + [Rapportage van interactiviteit](/help/report-and-monitor/adobe-journey-optimizer-reporting-interactivity.md)
 + Configuratie {#configuration}
    + Kanalen configureren {#channel-configuration}
       + [Kanalen configureren](/help/set-up-channels/configure-channels.md)

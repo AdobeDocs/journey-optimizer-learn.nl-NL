@@ -3,9 +3,9 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: fce89856e1fb8459af493f3b722b9a098a3f1b03
+source-git-commit: cad09b4cc870a9a241c92940e424bb2fbe03e0d6
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '605'
 ht-degree: 36%
 
 ---
@@ -54,7 +54,6 @@ ht-degree: 36%
    + [Optimalisatie van mobiele toepassingen - Overzicht](/help/channels/mobile-app-optimization-overview.md)
    + Code-based ervaringskanaal {#code-based-experience-channel}
       + [Een op code gebaseerde ervaringscampagne maken](/help/channels/create-a-code-based-experience-campaign.md)
-      + [ Beslissing van het gebruik in het code gebaseerde kanaal ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Direct-mailkanaal {#direct-mail-channel}
       + [Een directe e-mail maken](/help/channels/direct-mail.md)
    + E-mailkanaal {#email-channel}
@@ -168,3 +167,4 @@ ht-degree: 36%
 + [ Experience League Levende showopnamen ](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [ Bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview) {target="_blank"}
+   + [Cheat Sheet](/help/summit-lab-assets/l535-assets.md)

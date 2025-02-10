@@ -3,10 +3,10 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: cad09b4cc870a9a241c92940e424bb2fbe03e0d6
+source-git-commit: 697fde1c593052ad9e2dc9eb0bc8f8bb6fafe1ff
 workflow-type: tm+mt
-source-wordcount: '605'
-ht-degree: 36%
+source-wordcount: '621'
+ht-degree: 35%
 
 ---
 
@@ -49,11 +49,13 @@ ht-degree: 36%
    + [Profielen en publiek - Overzicht](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Uniform profiel en segmentatie - overzicht](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Toegankelijkheid maken met de regelbouwer](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
+   + [Een publiek maken door een CSV-bestand te uploaden](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
 + Kanalen {#channels}
    + [Optimalisatie van mobiele toepassingen - Overzicht](/help/channels/mobile-app-optimization-overview.md)
    + Code-based ervaringskanaal {#code-based-experience-channel}
       + [Een op code gebaseerde ervaringscampagne maken](/help/channels/create-a-code-based-experience-campaign.md)
+      + [ Beslissing van het gebruik in het code gebaseerde kanaal ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Direct-mailkanaal {#direct-mail-channel}
       + [Een directe e-mail maken](/help/channels/direct-mail.md)
    + E-mailkanaal {#email-channel}
@@ -83,7 +85,7 @@ ht-degree: 36%
       + [Webpersonalisatie - Overzicht](/help/channels/web-personalization-overview.md)
       + [Een webcampagne maken](/help/channels/create-a-web-campaign.md)
       + [Een webcampagne maken](/help/channels/author-a-web-campaign.md)
-      + [Ondersteuning SPA in de webeditor](/help/channels/singel-page-application-support.md)
+      + [SPA-ondersteuning in de webeditor](/help/channels/singel-page-application-support.md)
 + Inhoudsbeheer {#content-management}
    + [Berichtontwerp - Overzicht](/help/content-management/message-authoring-overview.md)
    + [Digitaal middelenbeheer - Overzicht](/help/content-management/digital-asset-management-overview.md)
@@ -164,7 +166,7 @@ ht-degree: 36%
 + Uitoefeningen en uitdagingen {#exercises-and-challenges}
    + [ vorm een trainingszandbak ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
    + [ Uitdagingen ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
-+ [ Experience League Levende showopnamen ](/help/experience-league-live-show-recordings.md)
++ [ Live Experience League toont opnamen ](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [ Bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview) {target="_blank"}
    + [Cheat Sheet](/help/summit-lab-assets/l535-assets.md)

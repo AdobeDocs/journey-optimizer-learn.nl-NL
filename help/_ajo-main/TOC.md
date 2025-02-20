@@ -3,9 +3,9 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: fbced616531cc24465e6fcc0baa18f37cf6de88c
+source-git-commit: 3e27236efac68961a2bd0a12d1b6e78431de0655
 workflow-type: tm+mt
-source-wordcount: '625'
+source-wordcount: '629'
 ht-degree: 35%
 
 ---
@@ -171,3 +171,4 @@ ht-degree: 35%
 + Summit Labs {#summit-labs}
    + [ Bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview) {target="_blank"}
    + [Cheat Sheet](/help/summit-lab-assets/l535-assets.md)
+   + [De mobiele toepassing installeren](/help/summit-lab-assets/install-mobile-app.md)

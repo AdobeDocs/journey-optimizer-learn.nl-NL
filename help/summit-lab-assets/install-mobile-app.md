@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: f32ce2e2fd32bc11e46b6e37f62e60d641038310
+source-git-commit: 278f78c256a4124e287e6f7d8b11adad39d18275
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -45,11 +45,10 @@ Nadat u de app hebt geïnstalleerd, moet u de Adobe Enterprise Developer vertrou
 
    U moet nu de * SecureFinancial app** op uw iPhone kunnen starten:
 
-2. Open de app.
+1. Open de app.
 
-3. Voor pop-up, klik **Toestaan**, om DX toe te staan demo app om u berichten te verzenden.
+1. Voor pop-up, klik **Toestaan**, om DX toe te staan demo app om u berichten te verzenden.
 
-   ![ bericht pop - op ](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB  Android ]
 

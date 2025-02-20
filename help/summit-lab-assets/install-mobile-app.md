@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: b65e9640705ca4bf1b27edac9047b70600feb8b1
+source-git-commit: f32ce2e2fd32bc11e46b6e37f62e60d641038310
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Apparaatspecifieke installatie:
 
 >[!TAB  iOS ]
 
-### iOS:
+## iOS:
 
 Nadat u de app hebt geïnstalleerd, moet u de Adobe Enterprise Developer vertrouwen:
 
@@ -43,18 +43,17 @@ Nadat u de app hebt geïnstalleerd, moet u de Adobe Enterprise Developer vertrou
 
    ![ het scherm van de Systemen van Adobe van het Vertrouwen ](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
-   * U moet nu de * SecureFinancial app** op uw iPhone kunnen starten: ! SecureFinancial App Icon](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+   U moet nu de * SecureFinancial app** op uw iPhone kunnen starten:
 
+2. Open de app.
 
-1. Open de app.
-
-1. Voor pop-up, klik **Toestaan**, om DX toe te staan demo app om u berichten te verzenden.
+3. Voor pop-up, klik **Toestaan**, om DX toe te staan demo app om u berichten te verzenden.
 
    ![ bericht pop - op ](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB  Android ]
 
-### Android
+## Android
 
 In Android downloadt en installeert u de APK aan de hand van de onderstaande waarschuwingsinstructies:
 
@@ -62,6 +61,6 @@ In Android downloadt en installeert u de APK aan de hand van de onderstaande waa
 <br>
 ![ Android installatiescherm ](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
-* U moet nu de * SecureFinancial app** kunnen starten op uw Android-apparaat: ! SecureFinancial App Icon](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+U moet nu de * SecureFinancial app** op uw Android-apparaat kunnen starten:
 
 >[!ENDTABS]

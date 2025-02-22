@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: 278f78c256a4124e287e6f7d8b11adad39d18275
+source-git-commit: 9e0de40d26aa53dca190d469e51c9cf3345abcbb
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,9 @@ ht-degree: 0%
 
 # De SecureFinancial-app downloaden en installeren
 
-Installeer de mobiele app op uw iOS- of Android™-apparaat door de QR-code hieronder te scannen:
+Installeer de mobiele app op uw iOS of Android&amp;trade.
+
+**Stap 1:** Scan de QR code voor uw apparaat van onder:
 
 ![ SecureFinancial mobiele app QR codes ](/help/summit-lab-assets/assets/dx-demo-app-qr-codes.png)
 
@@ -28,7 +30,18 @@ Apparaatspecifieke installatie:
 
 >[!TAB  iOS ]
 
-## iOS:
+## Stap 2: Installeer de app op een iOS-apparaat:
+
+1. Klik op **installeer** op modaal die omhoog in camera app springt.
+
+   ![ installeer pop-up ](/help/summit-lab-assets/assets/install_popup.png){width="250" align="center" zoomable="yes"}
+
+2. Sluit **Camera** app en zoek DX Demo app op uw scherm
+
+   ![ DX-demo App ](/help/summit-lab-assets/assets/dx_demo_on_ios_screen.png){width="250" align="center" zoomable="yes"}
+
+
+## Stap 3: Trust Adobe Enterprise developer
 
 Nadat u de app hebt geïnstalleerd, moet u de Adobe Enterprise Developer vertrouwen:
 
@@ -45,16 +58,12 @@ Nadat u de app hebt geïnstalleerd, moet u de Adobe Enterprise Developer vertrou
 
    U moet nu de * SecureFinancial app** op uw iPhone kunnen starten:
 
-1. Open de app.
-
-1. Voor pop-up, klik **Toestaan**, om DX toe te staan demo app om u berichten te verzenden.
-
 
 >[!TAB  Android ]
 
-## Android
+## Installeer de app op een Android-apparaat:
 
-In Android downloadt en installeert u de APK aan de hand van de onderstaande waarschuwingsinstructies:
+Download en installeer de APP in Android aan de hand van de onderstaande waarschuwingsinstructies:
 
 ![ het downloadscherm van Android ](/help/summit/l820-lab-workbook/assets/1-2-5-android-download.jpg " Android downloadscherm "){width="250" align="center" zoomable="yes"}
 <br>
@@ -63,3 +72,5 @@ In Android downloadt en installeert u de APK aan de hand van de onderstaande waa
 U moet nu de * SecureFinancial app** op uw Android-apparaat kunnen starten:
 
 >[!ENDTABS]
+
+

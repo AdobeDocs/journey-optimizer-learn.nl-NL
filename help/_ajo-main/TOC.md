@@ -3,10 +3,10 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 3e27236efac68961a2bd0a12d1b6e78431de0655
+source-git-commit: dd1b5afc1547169139371247255f4d42a5c105be
 workflow-type: tm+mt
-source-wordcount: '629'
-ht-degree: 35%
+source-wordcount: '632'
+ht-degree: 34%
 
 ---
 
@@ -97,9 +97,9 @@ ht-degree: 35%
    + Meertalig verzenden {#multilingual-messaging}
       + [Meertalige berichten instellen](/help/content-management/set-up-multilingual-messages.md)
       + [Een meertalig bericht maken](/help/content-management/create-multilingual-messages.md)
-   + AI Assistant Content Accelerator {#content-accelerator}
-      + [AI Assistant Content Accelerator - Overzicht](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [Inhoud maken met de AI Assistant-versnelling voor inhoud](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+   + AI Assistant voor het genereren van inhoud {#content-accelerator}
+      + [AI Assistant voor het genereren van inhoud - Overzicht](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [Inhoud maken met de AI-assistent voor het genereren van inhoud](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + Content personaliseren {#personalize-content}
    + [Personalization Editor - Overzicht](/help/personalize-content/personalization-editor-overview.md)
    + [Personalisatie op basis van profiel en doelgroep](/help/personalize-content/profile-and-audience-membership-based-personalization.md)

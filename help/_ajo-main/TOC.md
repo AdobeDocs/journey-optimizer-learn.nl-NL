@@ -3,9 +3,9 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: dd1b5afc1547169139371247255f4d42a5c105be
+source-git-commit: b1b2fdf163024ff4dee2ff88bf780462ccd74842
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '642'
 ht-degree: 34%
 
 ---
@@ -100,6 +100,9 @@ ht-degree: 34%
    + AI Assistant voor het genereren van inhoud {#content-accelerator}
       + [AI Assistant voor het genereren van inhoud - Overzicht](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [Inhoud maken met de AI-assistent voor het genereren van inhoud](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+   + Inhoudssjablonen (content-templates)
+      + [Inhoudssjablonen maken](/help/content-management/templates/create-content-templates.md)
+      + [Inhoud in sjablonen vergrendelen](/help/content-management/templates/content-locking.md)
 + Content personaliseren {#personalize-content}
    + [Personalization Editor - Overzicht](/help/personalize-content/personalization-editor-overview.md)
    + [Personalisatie op basis van profiel en doelgroep](/help/personalize-content/profile-and-audience-membership-based-personalization.md)

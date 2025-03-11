@@ -3,10 +3,10 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: eb429656bc1e86a8be9e8bac3d5bfff9c5807b1e
+source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
 workflow-type: tm+mt
-source-wordcount: '638'
-ht-degree: 34%
+source-wordcount: '635'
+ht-degree: 32%
 
 ---
 
@@ -110,9 +110,9 @@ ht-degree: 34%
    + [Helpfuncties gebruiken voor personalisatie](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Opgeslagen expressies gebruiken en beheren in de personalisatiebibliotheek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Dynamische content maken met de ontwikkelaar voor voorwaardelijke regels](/help/personalize-content/create-dynamic-content.md)
-+ Beslissingsbeheer {#decision-management}
-   + [Inleiding tot beslissingsbeheer](/help/decision-management/introduction-to-decision-management.md)
-   + [Demo van de mogelijkheden voor beslissingsbeheer](/help/decision-management/demo-of-decision-management-capabilities.md)
++ Decisioning {#decisioning}
+   + [Inleiding tot besluitvorming](/help/decision-management/introduction-to-decisioning.md)
+   + [Demo van de beslissingsmogelijkheden](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [Plaatsingen maken](/help/decision-management/create-placements.md)
    + [Regels maken](/help/decision-management/create-rules.md)
    + [Tags maken](/help/decision-management/create-tags.md)

@@ -3,9 +3,9 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
+source-git-commit: 8727d3b84573f78ac28da260177aab607014f6fe
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '647'
 ht-degree: 32%
 
 ---
@@ -110,19 +110,23 @@ ht-degree: 32%
    + [Helpfuncties gebruiken voor personalisatie](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Opgeslagen expressies gebruiken en beheren in de personalisatiebibliotheek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Dynamische content maken met de ontwikkelaar voor voorwaardelijke regels](/help/personalize-content/create-dynamic-content.md)
-+ Decisioning {#decisioning}
-   + [Inleiding tot besluitvorming](/help/decision-management/introduction-to-decisioning.md)
-   + [Demo van de beslissingsmogelijkheden](/help/decision-management/demo-of-decision-management-capabilities.md)
-   + [Plaatsingen maken](/help/decision-management/create-placements.md)
-   + [Regels maken](/help/decision-management/create-rules.md)
-   + [Tags maken](/help/decision-management/create-tags.md)
-   + [Persoonlijke aanbiedingen maken](/help/decision-management/create-personalized-offers.md)
-   + [AI-modellen maken](/help/decision-management/create-ai-models.md)
-   + [Alternatieve aanbiedingen maken](/help/decision-management/create-fallback-offers.md)
-   + [Verzamelingen maken](/help/decision-management/create-collections.md)
-   + [Beslissingen maken](/help/decision-management/create-decisions.md)
-   + [Aanbiedingen leveren met de Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
-   + [Frequentiecorrectie](/help/decision-management/frequency-capping.md)
++ Beslissingsmogelijkheden {#decision-capabilites}
+   + Decisioning {#decisioning}
+      + [Inleiding tot het besluit](/help/decisioning/introduction-to-decisioning.md)
+      + [Beslissende analyse van begin tot eind](/help/decisioning/decisioning-end-to-end.md)
+   + Beslissingsbeheer {#decision-management}
+      + [Inleiding tot het beheer van besluiten](/help/decision-management/introduction-to-decision-management.md)
+      + [Demo van de mogelijkheden voor het beheer van besluiten](/help/decision-management/demo-of-decision-management-capabilities.md)
+      + [Plaatsingen maken](/help/decision-management/create-placements.md)
+      + [Regels maken](/help/decision-management/create-rules.md)
+      + [Tags maken](/help/decision-management/create-tags.md)
+      + [Persoonlijke aanbiedingen maken](/help/decision-management/create-personalized-offers.md)
+      + [AI-modellen maken](/help/decision-management/create-ai-models.md)
+      + [Alternatieve aanbiedingen maken](/help/decision-management/create-fallback-offers.md)
+      + [Verzamelingen maken](/help/decision-management/create-collections.md)
+      + [Beslissingen maken](/help/decision-management/create-decisions.md)
+      + [Aanbiedingen leveren met de Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
+      + [Frequentiecorrectie](/help/decision-management/frequency-capping.md)
 + Data management {#data-management}
    + [Overzicht](/help/data-management/set-up-data-overview.md)
    + [Een schema maken](/help/data-management/create-schema.md)

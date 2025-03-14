@@ -3,7 +3,7 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 8727d3b84573f78ac28da260177aab607014f6fe
+source-git-commit: 070dd91ef8fee8ff1801d6cfb5fc4a6658fc9d15
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 32%
@@ -110,7 +110,7 @@ ht-degree: 32%
    + [Helpfuncties gebruiken voor personalisatie](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Opgeslagen expressies gebruiken en beheren in de personalisatiebibliotheek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Dynamische content maken met de ontwikkelaar voor voorwaardelijke regels](/help/personalize-content/create-dynamic-content.md)
-+ Beslissingsmogelijkheden {#decision-capabilites}
++ Beslissingsmogelijkheden {#decision-capabilities}
    + Decisioning {#decisioning}
       + [Inleiding tot het besluit](/help/decisioning/introduction-to-decisioning.md)
       + [Beslissende analyse van begin tot eind](/help/decisioning/decisioning-end-to-end.md)

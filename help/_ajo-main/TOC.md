@@ -3,10 +3,10 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 943d35a082ec511fd389ad8c439b94fdd528eed4
+source-git-commit: fc1d1eeb472e4f9f5230425c16220df86db9dbb7
 workflow-type: tm+mt
-source-wordcount: '652'
-ht-degree: 32%
+source-wordcount: '657'
+ht-degree: 31%
 
 ---
 
@@ -50,6 +50,7 @@ ht-degree: 32%
    + [Uniform profiel en segmentatie - overzicht](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Toegankelijkheid maken met de regelbouwer](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Een publiek maken door een CSV-bestand te uploaden](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
+   + [ evalueer publiek op bestelling ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
 + Kanalen {#channels}
    + [Optimalisatie van mobiele toepassingen - Overzicht](/help/channels/mobile-app-optimization-overview.md)

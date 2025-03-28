@@ -9,10 +9,10 @@ doc-type: Feature Video
 duration: 324
 last-substantial-update: 2025-03-28T00:00:00Z
 jira: KT-17531
-source-git-commit: 7d6dfc4ab8e4d8bdfcb51c7512dcafce390d006e
+source-git-commit: 21e0d23dd012b0954bf18d29016a5c1041ad519f
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 8%
+source-wordcount: '119'
+ht-degree: 7%
 
 ---
 
@@ -29,4 +29,4 @@ Ontdek het proces voor het exporteren van een e-mailsjabloon van [!DNL Journey O
 
 >[!VIDEO](https://video.tv.adobe.com/v/3456038/?learn=on&enablevpops)
 
-Meer over [!DNL GenStudio for Performance Marketing] leren, bezoek de [ documentatie ](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) {target="_blank"}.
+Meer over [!DNL GenStudio for Performance Marketing] leren, bezoek de [[!DNL Adobe GenStudio for Performance Marketing]  Gids van de Gebruiker ](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) {target="_blank"} of zie de [ zelfstudies van Adobe GenStudio for Performance Marketing ](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing-learn/tutorials/overview).

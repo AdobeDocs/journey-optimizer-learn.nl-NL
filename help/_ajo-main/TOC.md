@@ -3,9 +3,9 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
+source-git-commit: 602252c2f39bb97486460486ef9a6fec628a3aee
 workflow-type: tm+mt
-source-wordcount: '662'
+source-wordcount: '671'
 ht-degree: 31%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 31%
 # Lesbestanden voor Journey Optimizer {#tutorials}
 
 + [Lesbestanden voor Journey Optimizer](/help/_ajo-main/overview.md)
-+ Gevallen gebruiken {#use-cases}
++ Gebruiksscenario’s {#use-cases}
    + [Klant aan boord](/help/use-cases/customer-onboarding.md)
    + [Verlaten karretje](/help/use-cases/abandoned-cart.md)
 + Inleiding tot Journey Optimizer {#introduction-to-journey-optimizer}
@@ -33,7 +33,7 @@ ht-degree: 31%
    + [ creeer een op code-gebaseerde ervaringscampagne ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
    + [Campagnes activeren met API&#39;s](/help/create-campaigns/api-triggered-campaigns.md)
    + [Inhoud-experimenten maken voor e-mailcampagnes](/help/create-campaigns/content-experiments.md)
-+ Reizen {#create-journeys}
++ Journeys {#create-journeys}
    + [Reis Designer - Overzicht](/help/create-journeys/journey-designer-overview.md)
    + [Ontdek de nieuwe Journey Designer](/help/create-journeys/new-journey-designer.md)
    + [Inleiding tot het samenstellen van een journey](/help/create-journeys/introduction-to-building-a-journey.md)
@@ -54,30 +54,30 @@ ht-degree: 31%
    + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
 + Kanalen {#channels}
    + [Optimalisatie van mobiele toepassingen - Overzicht](/help/channels/mobile-app-optimization-overview.md)
-   + Code-based ervaringskanaal {#code-based-experience-channel}
+   + Code-gebaseerd ervaringskanaal{#code-based-experience-channel}
       + [Een op code gebaseerde ervaringscampagne maken](/help/channels/create-a-code-based-experience-campaign.md)
       + [ Beslissing van het gebruik in het code gebaseerde kanaal ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
-   + Direct-mailkanaal {#direct-mail-channel}
+   + Direct mailkanaal{#direct-mail-channel}
       + [Een directe e-mail maken](/help/channels/direct-mail.md)
-   + E-mailkanaal {#email-channel}
+   + Email channel{#email-channel}
       + [E-mailkanaal - Overzicht](/help/channels/email-channel-overview.md)
       + [E-mailontwerp en personalisatie - Overzicht](/help/channels/email-design-and-personalization-overview.md)
       + [Content maken met de Email Designer](/help/channels/create-content-with-the-email-designer.md)
       + [HTML-e-mailcontent importeren en opstellen](/help/channels/import-and-author-html-email-content.md)
       + [Voorvertonen, proeven en publiceren](/help/channels/preview-proof-and-publish.md)
       + [Inhoud-experimenten voor e-mails configureren](/help/experimentation/content-experiments-for-emails.md)
-   + Inhoudskaarten {#content-cards}
+   + Inhoudskaarten{#content-cards}
       + [Inhoudskaarten maken](/help/channels/create-content-cards.md)
-   + In toepassingskanaal {#in-app-channel}
+   + In App-kanaal{#in-app-channel}
       + [In-app berichten - Overzicht](/help/channels/in-app-messages-overview.md)
       + [Een in-app-campagne maken](/help/channels/create-an-in-app-campaign.md)
       + [Een bericht in de app maken tijdens een rit](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [Een in-app bericht schrijven](/help/channels/author-in-app-messages.md)
       + [Inhoud-experimenten voor in-app-berichten configureren](/help/experimentation/content-experiments-for-in-app-messages.md)
-   + Pushkanaal {#push-channel}
+   + Push-kanaal{#push-channel}
       + [Pushmeldingen - Overzicht](/help/channels/push-notifications-overview.md)
       + [Een pushcampagne configureren en verzenden](/help/channels/create-a-push-campaign.md)
-   + Het kanaal van SMS {#sms-channel}
+   + SMS-kanaal{#sms-channel}
       + [SMS/MMS-berichten - Overzicht](/help/channels/sms-mms-messages-overview.md)
       + [Sms-berichten configureren, opstellen en leveren](/help/channels/author-sms-messages.md)
       + [Auteur een MMS-bericht](/help/channels/author-mms.md)
@@ -87,25 +87,28 @@ ht-degree: 31%
       + [Een webcampagne maken](/help/channels/create-a-web-campaign.md)
       + [Een webcampagne maken](/help/channels/author-a-web-campaign.md)
       + [SPA-ondersteuning in de webeditor](/help/channels/singel-page-application-support.md)
-+ Inhoudsbeheer {#content-management}
++ Contentmanagement{#content-management}
    + [Berichtontwerp - Overzicht](/help/content-management/message-authoring-overview.md)
-   + [Digitaal middelenbeheer - Overzicht](/help/content-management/digital-asset-management-overview.md)
-   + [Assets beheren](/help/assets-essentials-overview.md)
-   + [Elementen bewerken met Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
-   + [Fragmenten beheren](/help/content-management/manage-fragments.md)
-   + [Expressiefragmenten maken](/help/content-management/expression-fragments.md)
-   + [Experimentatie - Overzicht](/help/content-management/experimentation-overview.md)
-   + [Een e-mail maken met GenStudio](/help/content-management/create-an-email-using-genstudio.md)
-   + Meertalig verzenden {#multilingual-messaging}
+   + [ beheert activa ]{#assets}
+      + [Digitaal middelenbeheer - Overzicht](/help/content-management/digital-asset-management-overview.md)
+      + [Assets beheren](/help/assets-essentials-overview.md)
+      + [Elementen bewerken met Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
+   + Werken met fragmenten {#fragments}
+      + [Fragmenten beheren](/help/content-management/manage-fragments.md)
+      + [Expressiefragmenten maken](/help/content-management/expression-fragments.md)
+      + [AEM-inhoudsfragmenten gebruiken](/help/content-management/aem_content_fragments.md)
+   + Contentsjablonen{#content-templates}
+      + [Inhoudssjablonen maken](/help/content-management/templates/create-content-templates.md)
+      + [Inhoud in sjablonen vergrendelen](/help/content-management/templates/content-locking.md)
+   + Meertalig berichtenverkeer {#multilingual-messaging}
       + [Meertalige berichten instellen](/help/content-management/set-up-multilingual-messages.md)
       + [Een meertalig bericht maken](/help/content-management/create-multilingual-messages.md)
    + AI Assistant voor het genereren van inhoud {#content-accelerator}
       + [AI Assistant voor het genereren van inhoud - Overzicht](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [Inhoud maken met de AI-assistent voor het genereren van inhoud](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
-   + Inhoudssjablonen {#content-templates}
-      + [Inhoudssjablonen maken](/help/content-management/templates/create-content-templates.md)
-      + [Inhoud in sjablonen vergrendelen](/help/content-management/templates/content-locking.md)
-+ Content personaliseren {#personalize-content}
+   + [Experimentatie - Overzicht](/help/content-management/experimentation-overview.md)
+   + [Een e-mail maken met GenStudio](/help/content-management/create-an-email-using-genstudio.md)
++ Inhoud personaliseren {#personalize-content}
    + [Personalization Editor - Overzicht](/help/personalize-content/personalization-editor-overview.md)
    + [Personalisatie op basis van profiel en doelgroep](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Aanbiedingen toevoegen als personalisatie](/help/personalize-content/add-offer-decisioning-to-messages.md)
@@ -113,8 +116,8 @@ ht-degree: 31%
    + [Helpfuncties gebruiken voor personalisatie](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Opgeslagen expressies gebruiken en beheren in de personalisatiebibliotheek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Dynamische content maken met de ontwikkelaar voor voorwaardelijke regels](/help/personalize-content/create-dynamic-content.md)
-+ Beslissingsmogelijkheden {#decision-capabilities}
-   + Decisioning {#decisioning}
++ Beslissingsmogelijkheden{#decision-capabilities}
+   + Beslissing {#decisioning}
       + [Inleiding tot het besluit](/help/decisioning/introduction-to-decisioning.md)
       + [Beslissende analyse van begin tot eind](/help/decisioning/decisioning-end-to-end.md)
    + Beslissingsbeheer {#decision-management}
@@ -138,7 +141,7 @@ ht-degree: 31%
    + [Bronconnectors configureren](/help/data-management/configure-source-connectors.md)
    + [Vorm een bestemming van de datasetuitvoer](/help/data-management/configure-dataset-export-destination.md)
    + [Gegevenssets exporteren naar opslaglocaties in de cloud](/help/data-management/export-datasets.md)
-+ Rapporteren en controleren {#report-and-monitor}
++ Rapport en toezicht {#report-and-monitor}
    + [Meting en rapportage - Overzicht](/help/report-and-monitor/measurement-and-reporting-overview.md)
    + [Live en globale rapporten](/help/report-and-monitor/live-and-global-reports.md)
    + [Rapporten op kanaalniveau](/help/report-and-monitor/channel-level-reports.md)
@@ -155,11 +158,11 @@ ht-degree: 31%
       + [SMS API-referenties en kanaaloppervlakken configureren](/help/set-up-channels/set-up-sms-channel.md)
       + [Breng je eigen SMS-provider (Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
       + [MMS API-referenties en kanaaloppervlakken configureren](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
-   + Journey&#39;s configureren {#journey-configuration}
+   + Reizen configureren {#journey-configuration}
       + [Gegevensbronnen configureren](/help/set-up-journeys/configure-data-sources.md)
       + [Gebeurtenissen maken](/help/set-up-journeys/create-events.md)
       + [Acties maken](/help/set-up-journeys/create-actions.md)
-   + Bedrijfsregels {#business-rules}
+   + Bedrijfsvoorschriften {#business-rules}
       + [Regels voor frequentiecontrole configureren](/help/business-rules/configure-frequency-capping-rules.md)
       + [Werken met regelsets](/help/business-rules/work-with-rule-sets.md)
       + [Testen en rapporteren van frequentievoorschriften](/help/business-rules/test-and-report-on-frequency-rules.md)
@@ -167,17 +170,17 @@ ht-degree: 31%
    + [Toegangsbeheer](/help/set-up-access/access-management.md)
    + [Op kenmerken gebaseerd toegangsbeheer configureren](/help/administration/attribute-based-access-control.md)
    + [Sandboxen gebruiken](/help/set-up-access/create-and-manage-sandboxes.md)
-+ Gegevensbeheer en privacy {#data-governance-and-privacy}
++ Beheer en privacy van gegevens {#data-governance-and-privacy}
    + [Data Governance Framework](/help/privacy/data-governance-framework.md)
    + [Gegevens classificeren met labels](/help/privacy/classify-data-using-lables.md)
    + [Beleid voor gegevensgebruik maken](/help/privacy/create-data-usage-policies.md)
    + [Beleid voor gegevensgebruik afdwingen in Journey Optimizer-kanalen](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Gegevens in berichten maskeren](/help/privacy/mask-data-in-messages.md)
-+ Uitoefeningen en uitdagingen {#exercises-and-challenges}
++ Uitoefening en uitdagingen {#exercises-and-challenges}
    + [ vorm een trainingszandbak ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
    + [ Uitdagingen ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
 + [ Live Experience League toont opnamen ](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
-   + [ Bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview) {target="_blank"}
+   + [ bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
    + [Cheat Sheet](/help/summit-lab-assets/l535-assets.md)
    + [De mobiele toepassing installeren](/help/summit-lab-assets/install-mobile-app.md)

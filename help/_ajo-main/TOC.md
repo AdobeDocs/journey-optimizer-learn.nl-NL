@@ -3,7 +3,7 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: bc284bc408bb05e9454b3de4193b05c95643797b
+source-git-commit: 6dd5b60426226724bb7855594fac387f7f6d8a7d
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 31%
@@ -89,7 +89,7 @@ ht-degree: 31%
       + [SPA-ondersteuning in de webeditor](/help/channels/singel-page-application-support.md)
 + Contentmanagement{#content-management}
    + [Berichtontwerp - Overzicht](/help/content-management/message-authoring-overview.md)
-   + [ beheert activa ]{#assets}
+   + Elementen beheren {#assets}
       + [Digitaal middelenbeheer - Overzicht](/help/content-management/digital-asset-management-overview.md)
       + [Assets beheren](/help/assets-essentials-overview.md)
       + [Elementen bewerken met Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)

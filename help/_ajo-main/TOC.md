@@ -190,6 +190,6 @@ ht-degree: 30%
    + [Webformulier maken](../tutorial-creating-audience/create-web-form.md)
    + [ zuivert de oplossing ](../tutorial-creating-audience/debug.md)
 + Summit Labs {#summit-labs}
-   + [ bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
+   + [ bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
    + [Cheat Sheet](/help/summit-lab-assets/l535-assets.md)
    + [De mobiele toepassing installeren](/help/summit-lab-assets/install-mobile-app.md)

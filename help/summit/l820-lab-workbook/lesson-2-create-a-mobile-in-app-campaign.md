@@ -109,7 +109,7 @@ Als uw nummer bijvoorbeeld 99 is:  `99 - Welcome Campaign`.
 
 1. Voeg in het volgende tekstveld een *`<custom string value>`* dat u zich kunt herinneren.
 
-1. Klik op ** om de waarde op te slaan[!UICONTROL Toevoegen**] `<custom string value>`.
+1. Klik op **&#x200B; om de waarde op te slaan[!UICONTROL Toevoegen**] `<custom string value>`.
 
    Deze aangepaste tekenreekswaarde wordt later gebruikt om uw bericht te verzenden.
 
@@ -204,6 +204,7 @@ Wanneer u buiten het waardeveld klikt, wordt de afbeelding weergegeven.
          5. Aangepaste positie
          6. Aangepaste animatie
          7. Hoek voor bericht
+
    <br>
 4. Wanneer u klaar bent met het ontwerpen van de inhoud en tevreden bent met uw bericht, klikt u op de knop **[!UICONTROL Controleren om te activeren] knop**.
 

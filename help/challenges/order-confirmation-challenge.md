@@ -110,7 +110,7 @@ De e-mail moet als volgt worden gestructureerd:
       <p><b>Tips:</b>
       <li>De structuurcomponent gebruiken <b>1:2, kolom links</b> voor deze sectie
       <li>Dit is contextuele gebeurtenisinformatie.
-      <li>Gebruik de hulpfunctie [!UICONTROL]: [!UICONTROL each]
+      <li>Gebruik de hulpfunctie : [!UICONTROL each]
       <li>Schakel over naar de indeling van de code-editor om de contextuele gegevens toe te voegen.
   </td>
   <td>

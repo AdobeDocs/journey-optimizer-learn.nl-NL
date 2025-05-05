@@ -21,7 +21,7 @@ ht-degree: 7%
 
 >[!AVAILABILITY]
 >
->De integratie van GenStudio in [!DNL Adobe Journey Optimizer] is momenteel niet beschikbaar voor gebruik met het **Schild van de Gezondheidszorg** of **Privacy en het 4} toe:voegen-op dienstenaanbod van het Schild van de Veiligheid.**
+>De integratie van GenStudio in [!DNL Adobe Journey Optimizer] is momenteel niet beschikbaar voor gebruik met het **Schild van de Gezondheidszorg** of **Privacy en het 4&rbrace; toe:voegen-op dienstenaanbod van het Schild van de Veiligheid.**
 >
 >Deze functie is alleen beschikbaar voor het e-mailkanaal.
 
@@ -29,4 +29,4 @@ Ontdek het proces voor het exporteren van een e-mailsjabloon van [!DNL Journey O
 
 >[!VIDEO](https://video.tv.adobe.com/v/3456038/?learn=on&enablevpops)
 
-Meer over [!DNL GenStudio for Performance Marketing] leren, bezoek de [[!DNL Adobe GenStudio for Performance Marketing]  Gids van de Gebruiker ](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) {target="_blank"} of zie de [ zelfstudies van Adobe GenStudio for Performance Marketing ](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing-learn/tutorials/overview).
+Meer over [!DNL GenStudio for Performance Marketing] leren, bezoek de [[!DNL Adobe GenStudio for Performance Marketing]  Gids van de Gebruiker ](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}  of zie de [ zelfstudies van Adobe GenStudio for Performance Marketing ](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing-learn/tutorials/overview).

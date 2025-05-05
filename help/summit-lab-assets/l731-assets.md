@@ -142,7 +142,7 @@ Klik **installeren toch**
 
 ## Oefening 1: Aanmelden bij Adobe Journey Optimizer
 
-[ klik hier aan login aan Journey Optimizer ](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home) {target="_blank"}
+[ klik hier aan login aan Journey Optimizer ](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"} 
 
 **Login Details**
 

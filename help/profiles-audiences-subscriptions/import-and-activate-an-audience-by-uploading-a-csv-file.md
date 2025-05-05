@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Ontdek hoe u een publiek efficiënt kunt importeren en activeren door een CSV-bestand te uploaden. Leer uw inhoud aan te passen aan de hand van verrijkingskenmerken uit het CSV-bestand, zodat uw doelgroep een meer op maat gemaakte ervaring krijgt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444298/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444349/?learn=on&enablevpops&captions=dut)

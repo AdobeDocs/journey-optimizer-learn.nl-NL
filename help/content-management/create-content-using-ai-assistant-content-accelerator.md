@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Leer hoe u de AI-assistent gebruikt om inhoud te genereren en proactieve suggesties voor inhoudsvariaties voor zowel tekst als afbeeldingen te genereren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434641/?learn=on&captions=dut)

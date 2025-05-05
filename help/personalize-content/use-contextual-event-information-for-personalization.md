@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Leer hoe u contextuele gebeurtenisinformatie van een journey kunt gebruiken om een bericht te personaliseren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425027?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428532?quality=12&learn=on&captions=dut){transcript=true}

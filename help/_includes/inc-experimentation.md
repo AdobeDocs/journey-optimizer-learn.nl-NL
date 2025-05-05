@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Leer hoe u contentexperimenten configureert voor een A/B-test en e-mailinhoud verkent, wat de beste manier is om uw zakelijke doelstellingen te bepalen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419893/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447337/?learn=on&captions=dut){transcript=true}

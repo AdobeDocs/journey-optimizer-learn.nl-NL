@@ -21,4 +21,4 @@ Leer over de configuratie, het werkschema, en de gebruiksgevallen voor het uitvo
 
 Ga voor meer informatie over datasets exporteren naar cloudopslaglocaties vanuit Adobe Journey Optimizer naar de [documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=nl-NL).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424392/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448824/?learn=on&captions=dut)

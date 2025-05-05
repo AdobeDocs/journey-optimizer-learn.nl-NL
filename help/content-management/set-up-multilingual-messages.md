@@ -25,4 +25,4 @@ Met de meertalige berichtfunctie van Adobe Journey Optimizer kunt u moeiteloos i
 
 Leer hoe u vertaalprojecten kunt opzetten voor geautomatiseerde vertaling en de vereiste taalinstelling voor handmatige vertaling en geautomatiseerde vertaalprojecten voor meertalige berichten.
  
->[!VIDEO](https://video.tv.adobe.com/v/3430661/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453549/?learn=on&captions=dut)

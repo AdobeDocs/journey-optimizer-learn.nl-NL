@@ -21,4 +21,4 @@ ht-degree: 3%
 
 Begrijp de toepasselijke gebruiksgevallen voor publiekskwalificatiereizen. Leer hoe u een reis maakt met de kwalificatie van het publiek en welke aanbevolen procedures u toepast.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425028?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446210?quality=12&learn=on&captions=dut){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Begrijp de belangrijkste mogelijkheden en persona&#39;s van de Journey Optimizer. Leer hoe u door de gebruikersinterface navigeert.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424995?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430315?quality=12&learn=on&captions=dut){transcript=true}

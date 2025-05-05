@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Begrijp welke mobiele mogelijkheden Adobe Journey Optimizer biedt aan marketeers.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430379?quality=12&learn=on&captions=dut){transcript=true}

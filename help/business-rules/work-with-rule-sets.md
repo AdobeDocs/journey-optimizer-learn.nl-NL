@@ -20,6 +20,6 @@ ht-degree: 10%
 
 Leer hoe te om een de afschilderingsregel van de klantenfrequentie tot stand te brengen die wordt geplaatst om het aantal mededelingen te beperken die naar klanten op communicatietype worden verzonden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444732/?learn=on&enablevpops&captions=dut)
 
 Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/configuration/rule-sets) voor meer informatie.

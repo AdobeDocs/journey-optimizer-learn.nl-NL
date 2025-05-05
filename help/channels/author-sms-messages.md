@@ -21,4 +21,4 @@ ht-degree: 27%
 
 Leer hoe u SMS-berichten configureert, ontwerpt en levert in Journey Optimizer-campagnes en -reizen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420509?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428917?quality=12&learn=on&captions=dut){transcript=true}

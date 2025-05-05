@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Begrijp wat IP opwarming is en leer hoe te opstelling en een IP opwarmingsplan in Adobe Journey Optimizer uit te voeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453846/?learn=on&captions=dut)
 
 Zie de [ Gids van de Beste praktijken van de Levering ](https://experienceleague.adobe.com/nl/docs/deliverability-learn/deliverability-best-practice-guide/introduction) voor beste praktijken op [ het richten van criteria ](https://experienceleague.adobe.com/nl/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria), [ ISP-specifieke overwegingen tijdens IP opwarming ](https://experienceleague.adobe.com/nl/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming), en [ volume ](https://experienceleague.adobe.com/nl/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume) tijdens IP opwarming.
 

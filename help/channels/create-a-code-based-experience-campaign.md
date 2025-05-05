@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u een op code gebaseerde ervaringscampagne kunt maken om personalisatie te schalen met ondersteuning voor implementatiemethoden op server-side, API- of SDK-basis om naadloos te integreren met ontwikkelomgevingen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449459/?learn=on&captions=dut)

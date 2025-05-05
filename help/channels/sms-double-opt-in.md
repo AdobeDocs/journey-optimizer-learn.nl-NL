@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Leer hoe te om dubbele opt-in voor SMS te vormen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427129/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440284/?learn=on&captions=dut)

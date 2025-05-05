@@ -20,4 +20,4 @@ ht-degree: 5%
 
 Leer hoe Experience Platform sandboxen geïsoleerde omgevingen bieden om nieuwe of bestaande functionaliteit uit te proberen en met een &quot;faalsnelle&quot; aanpak te werken. Leer hoe u de ontwikkelomgevingen kunt herstellen en opnieuw kunt starten en sandboxen kunt gebruiken met API-aanroepen. Voor meer informatie, gelieve de [ de gebruikersgids van Sandboxen ](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=nl) te bezoeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/29838/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430294/?learn=on&captions=dut)

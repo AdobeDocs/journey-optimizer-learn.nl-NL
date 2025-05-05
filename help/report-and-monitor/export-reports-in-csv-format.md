@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Begrijp hoe te om een CSV- rapport voor een rapport en voor één enkele widget te downloaden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439616/?learn=on&captions=dut)

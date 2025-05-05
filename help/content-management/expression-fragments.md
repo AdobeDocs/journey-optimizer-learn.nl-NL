@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Leer expressiefragmenten maken en gebruiken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424587/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3438923/?learn=on&captions=dut)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u contentexperimenten configureert en analyseert op basis van A/B-test in-app-berichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419898/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445294/?learn=on&captions=dut){transcript=true}

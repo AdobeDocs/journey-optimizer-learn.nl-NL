@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Leer hoe u inhoudskaarten voor uw toepassing maakt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434783/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434789/?learn=on&captions=dut)

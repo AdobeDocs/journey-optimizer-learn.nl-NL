@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Begrijp hoe Journey Optimizer regels gebruikt om publiek te produceren en te leren hoe te om attributen, gebeurtenissen, en bestaand publiek te gebruiken om een publiek tot stand te brengen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425020?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430325?quality=12&learn=on&captions=dut){transcript=true}

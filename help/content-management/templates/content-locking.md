@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Leer hoe u inhoud in sjablonen kunt vergrendelen. In deze zelfstudie wordt uitgelegd hoe u sjablonen volledig of gedeeltelijk vergrendelt, alleen-lezen gebruikt en de vergrendelingsmodi voor inhoud gebruikt, en hoe u bewerkbare gebieden binnen een vergrendelde sjabloon beheert.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451591/?learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451613/?learn=on&enablevpops&captions=dut){transcript=true}
 
 Gelieve te verwijzen naar de [ productdocumentatie ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/content-management/content-templates/content-locking) voor meer informatie.

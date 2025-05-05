@@ -21,7 +21,7 @@ In deze sectie stelt u de drie gebeurtenissen in die vereist zijn voor de prakti
 
 In de volgende video wordt uitgelegd hoe u gebeurtenissen kunt maken:
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431512?quality=12&learn=on&captions=dut){transcript=true}
 
 ## De online aanschafgebeurtenis Luma maken
 

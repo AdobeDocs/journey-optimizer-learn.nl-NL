@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Leer hoe het beleid voor gegevensgebruik wordt afgedwongen in Journey Optimizer-kanalen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434911/?learn=on&captions=dut)
 
 Zie de productdocumentatie voor meer informatie over [ gegevensbeheer ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted) en hoe te [ met toestemmingsbeleid ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent-restricted) in Journey Optimizer werken.

@@ -22,4 +22,4 @@ ht-degree: 5%
 
 Ontdek het nieuwe, opnieuw ontworpen reiscanvas en hoe u live rapportering tijdens reizen kunt gebruiken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443601/?learn=on&captions=dut){transcript=true}

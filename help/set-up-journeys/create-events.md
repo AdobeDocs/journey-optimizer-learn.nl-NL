@@ -20,5 +20,5 @@ ht-degree: 94%
 
 Leer hoe u een gebeurtenis kunt configureren, en het streamingeindpunt en de payload voor een gebeurtenis kunt specificeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431512?quality=12&learn=on&captions=dut){transcript=true}
 

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u het Direct Mail-kanaal instelt en hoe u direct-mailcampagnes maakt en er een voorvertoning van weergeeft.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422019/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449360/?learn=on&captions=dut){transcript=true}

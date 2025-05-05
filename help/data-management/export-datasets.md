@@ -27,6 +27,6 @@ Leer hoe u een dataset van Journey Optimizer naar een Amazon S3-bestemming expor
 >[!NOTE]
 >Tijdens de bètafase zijn alle datasets zichtbaar. Zodra deze eigenschap algemeen beschikbaar is, zal het tot slechts de systeem-geproduceerde datasets worden beperkt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432013/?quality=12&learn=on&captions=dut){transcript=true}
 
 Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=nl-NL) voor meer informatie.

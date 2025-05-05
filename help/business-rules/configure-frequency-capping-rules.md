@@ -20,6 +20,6 @@ ht-degree: 21%
 
 Leer hoe te om frequentie het begrenzen regels te vormen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433401/?learn=on&captions=dut)
 
 Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/configuration/frequency-rules) voor meer informatie.

@@ -23,4 +23,4 @@ Leer hoe u in Journey Optimizer-campagnes een webervaring kunt ontwerpen met de 
 >[!NOTE]
 > U moet de [Adobe Experience Cloud Visual Editing Helper Chrome-extensie](https://chrome.google.com/webstore/detail/adobe-experience-cloud-vi/kgmjjkfjacffaebgpkpcllakjifppnca) om uw website in Adobe Journey Optimizer te kunnen laden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418803/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452641/?quality=12&learn=on&captions=dut){transcript=true}

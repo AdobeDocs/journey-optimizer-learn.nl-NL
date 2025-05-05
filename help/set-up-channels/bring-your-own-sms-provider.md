@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Leer om extra leveranciers van SMS binnen Journey Optimizer buiten de standaardleveranciers toe te voegen en te vormen Sinch, Infobip, en Twilio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432088/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443634/?learn=on&captions=dut)

@@ -21,4 +21,4 @@ ht-degree: 16%
 
 Leer hoe u het renderen van e-mailberichten in verschillende postvakken kunt testen met Litmus, hoe u uw persoonlijke e-mails kunt bekijken met testprofielen, proefdrukken kunt verzenden en uw e-mail kunt publiceren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425026?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430341?quality=12&learn=on&captions=dut){transcript=true}

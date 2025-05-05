@@ -28,5 +28,5 @@ Leer hoe u een pushkanaalmelding instelt en valideert voor een voorbeeld van een
 
 Raadpleeg de productdocumentatie voor meer informatie:
 
-* [ begin met geleide kanaalopstelling ](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html)
-* [ creeer een kanaalopstelling ](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html)
+* [ begin met geleide kanaalopstelling ](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=nl-NL)
+* [ creeer een kanaalopstelling ](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=nl-NL)

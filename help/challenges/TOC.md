@@ -17,4 +17,4 @@ ht-degree: 23%
 + [Uitdaging - Een aankondiging van de zomerverzameling maken](/help/challenges/summer-collection-announcement-challenge.md)
 + [Uitdaging - Een welkomstbericht voor een loyaliteitsstatus maken](/help/challenges/loyalty-status-welcome-email-challenge.md)
 + [Uitdaging - Een bevestigingsbericht voor bestelling maken](/help/challenges/order-confirmation-challenge.md)
-+ [Lesbestanden](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
++ [Lesbestanden](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=nl-NL)

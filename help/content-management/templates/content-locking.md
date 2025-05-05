@@ -23,4 +23,4 @@ Leer hoe u inhoud in sjablonen kunt vergrendelen. In deze zelfstudie wordt uitge
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451591/?learn=on&enablevpops){transcript=true}
 
-Gelieve te verwijzen naar de [ productdocumentatie ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/content-locking) voor meer informatie.
+Gelieve te verwijzen naar de [ productdocumentatie ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/content-management/content-templates/content-locking) voor meer informatie.

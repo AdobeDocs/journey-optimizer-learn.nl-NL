@@ -17,7 +17,7 @@ ht-degree: 2%
 
 # Gegevens handmatig instellen
 
-In deze sectie maakt u de vereiste naamruimten en definieert u de [!DNL Luma] de structuur van steekproefgegevens door te creëren [[!UICONTROL schema&#39;s]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html).
+In deze sectie maakt u de vereiste naamruimten en definieert u de [!DNL Luma] de structuur van steekproefgegevens door te creëren [[!UICONTROL schema&#39;s]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=nl-NL).
 
 >[!TIP]
 >De videozelfstudie bekijken [Identiteiten toewijzen](/help/data-management/map-identities.md) voordat u begint.
@@ -51,7 +51,7 @@ Begin met het maken van een [!UICONTROL namespace] voor de [!DNL Luma Loyalty ID
 
 ## Stap 2: schema&#39;s maken
 
-In deze stap definieert u de structuur van de voorbeeldgegevens door zes [[!UICONTROL schema&#39;s]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
+In deze stap definieert u de structuur van de voorbeeldgegevens door zes [[!UICONTROL schema&#39;s]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=nl-NL):
 
 * [[!DNL Luma Loyalty Schema]](#create-luma-loyalty-schema)
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Beleid voor gegevensgebruik maken
 
-Leer hoe u beleid voor gegevensgebruik maakt en beheert. Met het beleid voor gegevensgebruik kunt u het gebruik van gegevens voor specifieke doeleinden beperken op basis van de labels van gegevens. Om de op API-Gebaseerde benadering te leren, zie [ het beleid van het gegevensgebruik met API ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create) creëren.
+Leer hoe u beleid voor gegevensgebruik maakt en beheert. Met het beleid voor gegevensgebruik kunt u het gebruik van gegevens voor specifieke doeleinden beperken op basis van de labels van gegevens. Om de op API-Gebaseerde benadering te leren, zie [ het beleid van het gegevensgebruik met API ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/policies/create) creëren.
 
 >[!NOTE]
 >

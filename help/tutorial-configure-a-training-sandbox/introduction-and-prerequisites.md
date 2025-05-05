@@ -29,9 +29,9 @@ Aan het einde van deze zelfstudie hebt u een sandbox die de [!DNL Luma] gebruik 
 
 Voordat u begint met het instellen van de trainingssandbox, moet u controleren of:
 
-1. Een speciale ontwikkeling [sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/access-control/create-and-manage-sandboxes.html?lang=en).
+1. Een speciale ontwikkeling [sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/access-control/create-and-manage-sandboxes.html?lang=nl-NL).
 
-1. [Voorinstellingen voor e-mailberichten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-email-channel.html?lang=en) geconfigureerd voor marketing en transactieberichten.
+1. [Voorinstellingen voor e-mailberichten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-email-channel.html?lang=nl-NL) geconfigureerd voor marketing en transactieberichten.
 
 1. **[!UICONTROL Reisbeheerder]** en **[!UICONTROL Data Manager]** rechten voor de trainingssandbox.
 

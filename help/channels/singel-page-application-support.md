@@ -28,6 +28,6 @@ In deze video wordt uitgelegd hoe u:
 * websitewijzigingen toepassen op meerdere weergaven of op alle weergaven die zijn ontdekt
 * Handelingen bulksgewijs uitvoeren op wijzigingen&quot;
 
-Ga voor meer informatie naar de [Aan de slag met documentatie over webkanalen](https://experienceleague.adobe.com/docs/journey-optimizer/using/web/get-started-web.html).
+Ga voor meer informatie naar de [Aan de slag met documentatie over webkanalen](https://experienceleague.adobe.com/docs/journey-optimizer/using/web/get-started-web.html?lang=nl-NL).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424536/?learn=on)

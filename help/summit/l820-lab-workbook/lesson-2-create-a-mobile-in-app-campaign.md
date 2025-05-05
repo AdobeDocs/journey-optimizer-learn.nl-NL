@@ -321,7 +321,7 @@ De **campagne dupliceren** en **Voorvertonen op apparaat** -functies zijn functi
 
 **Productdocumentatie:**
 
-* [Aan de slag met In-app-kanaal](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Een bericht over een mobiele In-app maken](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
-* [In-app-inhoud ontwerpen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [In-app-meldingen controleren en verzenden](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [Aan de slag met In-app-kanaal](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Een bericht over een mobiele In-app maken](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/in-app/create-in-app)
+* [In-app-inhoud ontwerpen](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/in-app/design-in-app)
+* [In-app-meldingen controleren en verzenden](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/in-app/send-in-app)

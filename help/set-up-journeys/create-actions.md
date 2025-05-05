@@ -23,4 +23,4 @@ Leer wat een actie is, hoe te om de Edit actie van het Profiel en van de Sprong 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428396?quality=12&learn=on){transcript=true}
 
-Bezoek de productdocumentatie voor meer informatie over hoe u [Een aangepaste handeling configureren](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/configure-journeys/action-journeys/about-custom-action-configuration){target="_blank"}.
+Bezoek de productdocumentatie voor meer informatie over hoe u [Een aangepaste handeling configureren](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/configuration/configure-journeys/action-journeys/about-custom-action-configuration){target="_blank"}.

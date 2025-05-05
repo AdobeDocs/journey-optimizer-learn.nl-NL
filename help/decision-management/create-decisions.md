@@ -17,8 +17,8 @@ ht-degree: 66%
 
 # Beslissingen maken
 
-Leer hoe u [beslissingen](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/create-manage-activities/create-offer-activities.html) maakt voor beslissingsbeheer. Bij een beslissing worden uw plaatsingen en collecties in één entiteit gecombineerd, zodat een beslissing kan worden gemaakt om de meest relevante aanbieding aan de klant te leveren.
+Leer hoe u [beslissingen](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/create-manage-activities/create-offer-activities.html?lang=nl-NL) maakt voor beslissingsbeheer. Bij een beslissing worden uw plaatsingen en collecties in één entiteit gecombineerd, zodat een beslissing kan worden gemaakt om de meest relevante aanbieding aan de klant te leveren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329606?quality=12&learn=on){transcript=true}
 
-Als u meer wilt weten over het maken van beslissingen met de API voor het bepalen van batch, raadpleegt u de [producthandleiding.](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/api-reference/offer-delivery-api/batch-decisioning-api.html)
+Als u meer wilt weten over het maken van beslissingen met de API voor het bepalen van batch, raadpleegt u de [producthandleiding.](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/api-reference/offer-delivery-api/batch-decisioning-api.html?lang=nl-NL)

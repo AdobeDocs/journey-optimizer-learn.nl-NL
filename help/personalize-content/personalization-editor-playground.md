@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Afspeelveld van Personalization-editor
 
-De [ playground van de verpersoonlijkingsredacteur ](https://experienceleague.adobe.com/en/apps/journey-optimizer/ajo-personalization#) verstrekt een gesimuleerd milieu om verpersoonlijkingscode te schrijven en te testen gebruikend steekproefgegevens zonder levende datasets te vereisen.
+De [ playground van de verpersoonlijkingsredacteur ](https://experienceleague.adobe.com/nl/apps/journey-optimizer/ajo-personalization#) verstrekt een gesimuleerd milieu om verpersoonlijkingscode te schrijven en te testen gebruikend steekproefgegevens zonder levende datasets te vereisen.
 
 Leer hoe u vooraf gedefinieerde codevoorbeelden kunt gebruiken, dummy-profielladingen kunt bewerken en de uitvoer van uw personalisatiecode in real-time kunt bekijken.
 

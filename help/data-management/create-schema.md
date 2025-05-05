@@ -22,4 +22,4 @@ Leer hoe u schema&#39;s maakt in Adobe Experience Platform met de klasse Individ
 
 >[!VIDEO](https://video.tv.adobe.com/v/27012?quality=12&learn=on){transcript=true}
 
-Zie voor gedetailleerde productdocumentatie [Aan de slag met schema&#39;s](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/get-started-schemas.html), [een schema maken in de gebruikersinterface](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html) en [een schema maken met de API](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-api.html).
+Zie voor gedetailleerde productdocumentatie [Aan de slag met schema&#39;s](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/get-started-schemas.html?lang=nl-NL), [een schema maken in de gebruikersinterface](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=nl-NL) en [een schema maken met de API](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-api.html?lang=nl-NL).

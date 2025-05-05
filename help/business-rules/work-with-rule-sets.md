@@ -22,4 +22,4 @@ Leer hoe te om een de afschilderingsregel van de klantenfrequentie tot stand te 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
 
-Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/rule-sets) voor meer informatie.
+Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/configuration/rule-sets) voor meer informatie.

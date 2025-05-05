@@ -28,6 +28,6 @@ Zie de productdocumentatie voor meer informatie over [ gegevensbeheer ](https://
 
 ## Aanvullende leermogelijkheden
 
-* [ Playlist: Krijg Begonnen met het Beheer van Gegevens van Adobe Experience Platform ](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-data-governance)
+* [ Playlist: Krijg Begonnen met het Beheer van Gegevens van Adobe Experience Platform ](https://experienceleague.adobe.com/nl/playlists/experience-platform-get-started-with-data-governance)
 
   *leer meer over gegevensbeheer op Adobe Experience Platform en hoe te om gegevens te classificeren gebruikend etiketten, het beleid van het gegevensgebruik tot stand te brengen, en het beleid van het gegevensgebruik op Experience Platform af te dwingen.*

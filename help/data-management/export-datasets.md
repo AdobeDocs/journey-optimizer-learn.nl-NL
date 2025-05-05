@@ -29,4 +29,4 @@ Leer hoe u een dataset van Journey Optimizer naar een Amazon S3-bestemming expor
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on){transcript=true}
 
-Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=en) voor meer informatie.
+Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=nl-NL) voor meer informatie.

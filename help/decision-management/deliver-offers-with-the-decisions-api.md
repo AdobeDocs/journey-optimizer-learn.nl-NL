@@ -23,4 +23,4 @@ Leer hoe u aanbiedingen kunt leveren [met de API voor de beslissingshub](https:/
 
 >[!INFO]
 >
-> Deze video maakt deel uit van de cursus [Aan de slag met Offer Decisioning voor marketeers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), die gratis beschikbaar is op Experience League.
+> Deze video maakt deel uit van de cursus [Aan de slag met Offer Decisioning voor marketeers](https://experienceleague.adobe.com/?lang=nl&recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), die gratis beschikbaar is op Experience League.

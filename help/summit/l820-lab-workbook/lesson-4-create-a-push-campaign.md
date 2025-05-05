@@ -211,7 +211,7 @@ Als je tevreden bent met de inhoud van je bericht, kun je het bericht activeren:
 
 **Productdocumentatie:**
 
-* [Aan de slag met pushmeldingen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
-* [Een pushmelding maken](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
-* [Een pushmelding ontwerpen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
-* [Controleer en verzend uw pushmelding](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)
+* [Aan de slag met pushmeldingen](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/push/get-started-push)
+* [Een pushmelding maken](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/push/create-push)
+* [Een pushmelding ontwerpen](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/push/design-push)
+* [Controleer en verzend uw pushmelding](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/push/send-push)

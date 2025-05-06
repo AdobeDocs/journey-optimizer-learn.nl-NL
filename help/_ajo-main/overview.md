@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 812d668949923db814f0ec44d858b72d9bac472d
+source-git-commit: f6ddb0f7b8b7570582eaaa3b20fd3a70450cdaf1
 workflow-type: tm+mt
-source-wordcount: '375'
-ht-degree: 39%
+source-wordcount: '377'
+ht-degree: 38%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 39%
 
 Journey Optimizer stelt bedrijven in staat samenhangende, contextuele en persoonlijke klantervaringen te maken. Het leidt klanten naadloos door hun volledige reis met het merk, van het eerste contactpunt tot het ogenblik dat zij de plaats verlaten, die een verbonden en bevredigende ervaring op elk aanraakpunt verzekeren.
 
-Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en mogelijkheden van Adobe Journey Optimizer. Praktijk wat u door de [ Uitdagingen van Journey Optimizer ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites) te nemen hebt geleerd.
+Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en mogelijkheden van Adobe Journey Optimizer. Praktijk wat u door de [ Uitdagingen van Journey Optimizer ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites) te nemen hebt geleerd.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -32,11 +32,11 @@ Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en 
 
 ## Nieuwste Experience League Live-gebeurtenissen
 
-* **[AI Bash - ontgrendel de Macht van AI Medewerker in de Toepassingen van Adobe Experience Platform en Campagne ](https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+* **[AI Bash - ontgrendel de Macht van AI Medewerker in de Toepassingen van Adobe Experience Platform en Campagne ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
   *Onderzoek hoe AI Medewerker klanteninteractie omzet en productiviteit in de Toepassingen van Adobe Experience Cloud en Adobe Campaign verbetert.*
-* **[Spotlight van de Zomer - drie moet eigenschappen in Adobe Journey Optimizer ](https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24) proberen**
+* **[Spotlight van de Zomer - drie moet eigenschappen in Adobe Journey Optimizer ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24) proberen**
   *bovenop uw klantenovereenkomst deze zomer met Adobe Journey Optimizer drie eigenschappen: reis experimenteren, frequentie het aftappen, en multi-linguaal overseinen.*
-* **[Nieuw code-Gebaseerd Kanaal van de Ervaring in Journey Optimizer ](https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
+* **[Nieuw code-Gebaseerd Kanaal van de Ervaring in Journey Optimizer ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *leer hoe te om binnenkomende oppervlakten en korrelige verpersoonlijkingscontrole met ontwikkelaar-centric acties te activeren.*
 
 </div>
@@ -48,16 +48,16 @@ Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en 
 <table>
 <tr>
     <td>
-    <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="Inhoud maken met AI Assistant Content Accelerator (video)" src="../assets/3434635.jpg"/>
+    <a href="../content-management/create-content-using-ai-assistant-for-content-generation.md">
+      <img alt="Inhoud maken met AI Assistant voor het genereren van inhoud (video)" src="../assets/3434635.jpg"/>
     </a>
     <div>
-      <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong> creeer inhoud gebruikend de Versneller van de Inhoud AI Hulp </strong>
+      <a href="../content-management/create-content-using-ai-assistant-for-content-generation.md">
+    <strong> creeer inhoud gebruikend AI Medewerker voor inhoudsgeneratie </strong>
     </a>
     </div>
     <p>
-    <em> Leer hoe te om de Versneller van de Inhoud van AI te gebruiken assistent om pro-actieve suggesties van de inhoudvariatie voor zowel tekst als beelden te produceren.
+    <em> Leer hoe te om AI Medewerker voor inhoudsgeneratie te gebruiken om pro-actieve suggesties van de inhoudsvariatie voor zowel tekst als beelden te produceren.
 </em>
     <p>
   </td>

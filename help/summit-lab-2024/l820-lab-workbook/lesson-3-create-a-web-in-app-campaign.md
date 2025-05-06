@@ -154,7 +154,7 @@ In deze sectie definieert u de inhoud, het ontwerp en de lay-out van uw bericht.
 
 **documentatie van het Product:**
 
-* [ worden begonnen met in-app kanaal ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [ creeer een Web in-app bericht ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [ Ontwerp uw inhoud in-app ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [ Controle en verzend uw bericht In-app ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [ worden begonnen met in-app kanaal ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [ creeer een Web in-app bericht ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [ Ontwerp uw inhoud in-app ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/in-app/design-in-app)
+* [ Controle en verzend uw bericht In-app ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/in-app/send-in-app)

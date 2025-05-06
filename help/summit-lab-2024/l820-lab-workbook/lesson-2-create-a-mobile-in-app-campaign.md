@@ -321,7 +321,7 @@ De **Duplicate campagne** en **Voorproef op apparaat** eigenschappen zijn uit-va
 
 **documentatie van het Product:**
 
-* [ worden begonnen met in-app kanaal ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [ creeer een Mobiel In-app bericht ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
-* [ Ontwerp uw inhoud in-app ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [ Controle en verzend uw bericht In-app ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [ worden begonnen met in-app kanaal ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [ creeer een Mobiel In-app bericht ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/in-app/create-in-app)
+* [ Ontwerp uw inhoud in-app ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/in-app/design-in-app)
+* [ Controle en verzend uw bericht In-app ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/in-app/send-in-app)

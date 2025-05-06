@@ -50,7 +50,7 @@ In deze oefening creeert u de campagne en bepaalt welke Web-pagina het in-app be
 
 Op deze pagina definieert u de eigenschappen van de campagne en de gebeurtenis die het bericht in de app activeert om op de webpagina te verschijnen. Laat alle andere instellingen op de standaardwaarde staan. Voor deze oefening hoeft u geen specifiek publiek te definiëren.
 
-### 3.2.1 [!UICONTROL  sectie van Eigenschappen ]
+### 3.2.1 [!UICONTROL &#x200B; sectie van Eigenschappen &#x200B;]
 
 1. In de **sectie van Eigenschappen**, geef uw campagne een unieke **Naam**:
 
@@ -83,7 +83,7 @@ In deze sectie definieert u wat activeert voor het bericht dat op de website wor
    ![ XDM gebeurtenistype ](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 
-1. Op het volgende tekstgebied, voeg a *`<custom string value>`* toe dat u zich kunt herinneren, en druk **** `<custom string value>` toevoegen om de waarde te bewaren.
+1. Op het volgende tekstgebied, voeg a *`<custom string value>`* toe dat u zich kunt herinneren, en druk **&#x200B;**&#x200B;`<custom string value>` toevoegen om de waarde te bewaren.
 
    Deze aangepaste tekenreekswaarde wordt later gebruikt om uw bericht te verzenden.
 
@@ -118,7 +118,7 @@ In deze sectie definieert u de inhoud, het ontwerp en de lay-out van uw bericht.
 
 1. Wanneer u klaar bent met het uitgeven van uw bericht, klik **[!UICONTROL Overzicht om]** te activeren.
 
-1. Als alles goed op het overzichtsscherm kijkt, activeert de klik **** om uw Web in-app bericht te publiceren.
+1. Als alles goed op het overzichtsscherm kijkt, activeert de klik **&#x200B;**&#x200B;om uw Web in-app bericht te publiceren.
 
 1. U wordt teruggestuurd naar het campagnedashboard.
 

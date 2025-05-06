@@ -33,7 +33,7 @@ In deze exercitie, zult u uw markeringspost op zetten en een marketing campagne 
 
 In deze oefening, creeert u de pushcampagne, ontwerp, en past de dupmelding aan, en verzendt het dupbericht naar uw eigen apparaat.
 
-1. In Journey Optimizer, in de linkernavigatie, in de ]**sectie van het BEHEER van de 1} JOURNEY, uitgezochte** Campagnes **.**[!UICONTROL 
+1. In Journey Optimizer, in de linkernavigatie, in de **sectie van het BEHEER van de 1&rbrace; JOURNEY, uitgezochte** Campagnes **.**
 
 1. Klik **[!UICONTROL creeer Campagne]**.
 
@@ -56,7 +56,7 @@ In deze oefening, creeert u de pushcampagne, ontwerp, en past de dupmelding aan,
 
 Op deze pagina, vormt u de eigenschappen, het publiek, de acties, en het programma van uw campagne.
 
-### 4.2.1 [!UICONTROL  sectie van Eigenschappen ]
+### 4.2.1 [!UICONTROL &#x200B; sectie van Eigenschappen &#x200B;]
 
 Geef uw campagne een naam. Zorg ervoor dat u de naam met het nummer van uw licentie start, zodat u de campagne eenvoudig kunt vinden wanneer u ernaar zoekt.
 
@@ -80,7 +80,7 @@ Als uw nummer van de licentie bijvoorbeeld 99 is: `99 - 10% Discount Campaign` .
 
 In deze oefening, ontwerpt u en past u de pushmelding aan.
 
-1. In de **[!UICONTROL sectie van de Actie]**, klik **[!UICONTROL uitgeven Inhoud ] knoop**.
+1. In de **[!UICONTROL sectie van de Actie]**, klik **[!UICONTROL uitgeven Inhoud &#x200B;] knoop**.
 
    ![ geef inhoudknoop ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-action-edit-content-button.png) uit
 
@@ -98,7 +98,7 @@ In deze oefening, ontwerpt u en past u de pushmelding aan.
 
 >[!ENDTABS]
 
-#### 4.2.3.1 [!UICONTROL  stel de sectie van het Bericht ] samen
+#### 4.2.3.1 [!UICONTROL &#x200B; stel de sectie van het Bericht &#x200B;] samen
 
 1. **stel uw bericht samen:** voel vrij om het even welke tekst toe te voegen u zou willen. Hier volgen enkele voorbeelden die u kunt gebruiken:
 
@@ -127,7 +127,7 @@ In deze oefening, ontwerpt u en past u de pushmelding aan.
 
    Bijvoorbeeld: `HouseBlend.png`
 
-1. Klik het beeld en klik **[!UICONTROL Uitgezochte ] knoop** om het beeld aan uw duw bericht toe te voegen.
+1. Klik het beeld en klik **[!UICONTROL Uitgezochte &#x200B;] knoop** om het beeld aan uw duw bericht toe te voegen.
 
    ![ uitgezochte beeld ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-select-image.png)
 

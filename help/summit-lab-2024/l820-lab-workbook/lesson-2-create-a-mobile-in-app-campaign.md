@@ -82,7 +82,7 @@ In deze oefening, creeert u een binnen-app overseinencampagne, die wordt teweegg
 
 ## Oefening 2.3 Uw campagne configureren
 
-### 2.3.1 [!UICONTROL  sectie van Eigenschappen ]
+### 2.3.1 [!UICONTROL &#x200B; sectie van Eigenschappen &#x200B;]
 
 Geef uw campagne een naam. Zorg ervoor dat u de naam met het nummer van uw licentie start, zodat u de campagne eenvoudig opnieuw kunt vinden.
 
@@ -109,7 +109,7 @@ Als uw nummer van de licentie bijvoorbeeld 99 is: `99 - Welcome Campaign` .
 
 1. Voeg in het volgende tekstveld een *`<custom string value>`* toe die u kunt onthouden.
 
-1. Om de waarde te bewaren, klik ** [!UICONTROL  toevoegen* ] `<custom string value>`.
+1. Om de waarde te bewaren, klik ** [!UICONTROL &#x200B; toevoegen* &#x200B;] `<custom string value>`.
 
    Deze aangepaste tekenreekswaarde wordt later gebruikt om uw bericht te verzenden.
 
@@ -135,7 +135,7 @@ In de **[!UICONTROL sectie van de Actie]**, klik **[!UICONTROL geef Inhoud]** ui
 
 ![ geef inhoudknoop ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png) uit
 
-De ] redacteursvertoningen van het bericht in-app van 0} {, waar u de inhoud van het in-app bericht vormt.[!UICONTROL 
+De  redacteursvertoningen van het bericht in-app van 0&rbrace; &lbrace;, waar u de inhoud van het in-app bericht vormt.
 
 #### 2.3.3.1 Layout
 
@@ -204,8 +204,9 @@ Wanneer u buiten het waardeveld klikt, wordt de afbeelding weergegeven.
          5. Aangepaste positie
          6. Aangepaste animatie
          7. Hoek voor bericht
+
    <br>
-4. Wanneer u wordt gedaan creërend uw inhoud en met u bericht tevreden bent klikt het **[!UICONTROL Overzicht om ] knoop** te activeren.
+4. Wanneer u wordt gedaan creërend uw inhoud en met u bericht tevreden bent klikt het **[!UICONTROL Overzicht om &#x200B;] knoop** te activeren.
 
    >[!SUCCESS]
    >
@@ -275,7 +276,7 @@ De **Duplicate campagne** en **Voorproef op apparaat** eigenschappen zijn uit-va
 1. Wanneer u op de knop Dupliceren klikt, wordt de dubbele campagne gemaakt en gaat u terug naar het dashboard Campagnes.
 1. Als uw campagne eenmaal is gedupliceerd, opent u uw nieuwe campagne.
 
-1. U kunt tot de Voorproef op apparateneigenschap op de ]**pagina van het overzicht van de Campagne**[!UICONTROL  toegang hebben of op de **[!UICONTROL de auteur van de Campagne]** stap.
+1. U kunt tot de Voorproef op apparateneigenschap op de **pagina van het overzicht van de Campagne** toegang hebben of op de **[!UICONTROL de auteur van de Campagne]** stap.
 
    ![ voorproef op apparatenknoop ](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-1-preview-on-device-button.png)
    <br>
@@ -309,7 +310,7 @@ De **Duplicate campagne** en **Voorproef op apparaat** eigenschappen zijn uit-va
 >
 > Uw in-app-bericht wordt op uw apparaat weergegeven.
 >
-> *Once verbonden, zou uw in-app bericht elke keer moeten tonen, klikt u de **[!UICONTROL Voorproef op apparaat ] knoop**.
+> *Once verbonden, zou uw in-app bericht elke keer moeten tonen, klikt u de **[!UICONTROL Voorproef op apparaat &#x200B;] knoop**.
 
 ## Aanvullende bronnen
 

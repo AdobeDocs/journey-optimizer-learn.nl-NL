@@ -17,7 +17,7 @@ ht-degree: 29%
 + Gebruiksscenario’s {#use-cases}
    + [Klant aan boord](/help/use-cases/customer-onboarding.md)
    + [Verlaten karretje](/help/use-cases/abandoned-cart.md)
-   + [ Schaalend orchestratie aan omnichannel overeenkomst ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [ Schaalend orchestratie aan omnichannel overeenkomst](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Inleiding tot Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Overzicht](/help/introduction/journey-optimizer-overview.md)
@@ -191,6 +191,6 @@ ht-degree: 29%
    + [Webformulier maken](../tutorial-creating-audience/create-web-form.md)
    + [ zuivert de oplossing ](../tutorial-creating-audience/debug.md)
 + Summit Labs {#summit-labs}
-   + [ bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [ het Schalen orchestratie aan omnichannel betrokkenheid in Adobe Journey Optimizer (2025) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [ bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+   + [ het Schalen orchestratie aan omnichannel betrokkenheid in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 

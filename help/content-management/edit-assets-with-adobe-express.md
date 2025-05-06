@@ -9,11 +9,11 @@ doc-type: Feature Video
 duration: 300
 last-substantial-update: 2025-03-27T00:00:00Z
 jira: KT-17529
-hidefromtoc: true
-hide: true
-index: false
+hidefromtoc: false
+hide: false
+index: true
 exl-id: c42fca4f-bc31-43ad-9e3a-9936a6623051
-source-git-commit: 55f3c99e9c21155ee227d73add83b4790b904d83
+source-git-commit: fd50ce73503ca6b42e0171d8476ea08928ebd165
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -28,6 +28,6 @@ ht-degree: 0%
 
 Leer hoe u uw middelen in Adobe Journey Optimizer kunt bewerken met de Adobe Express-gereedschappen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455529/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
 
-Zie de [ het productdocumentatie van Journey Optimizer ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/assets-images/express) voor meer informatie over hoe te om tot deze eigenschap van de inhoudsredacteur toegang te hebben. Meer op Adobe Express leren, verwijs naar [ deze documentatie ](https://helpx.adobe.com/nl/express/user-guide.html).
+Zie de [ het productdocumentatie van Journey Optimizer ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/assets-images/express) voor meer informatie over hoe te om tot deze eigenschap van de inhoudsredacteur toegang te hebben. Meer op Adobe Express leren, verwijs naar [ deze documentatie ](https://helpx.adobe.com/express/user-guide.html).

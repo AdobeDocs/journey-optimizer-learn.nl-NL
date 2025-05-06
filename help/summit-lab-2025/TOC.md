@@ -5,9 +5,9 @@ role: User
 level: Beginner,Intermediate
 breadcrumb-title: schaling-orkest-aan-omnichannel-engagement
 breadcrumb-url: /docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
-source-git-commit: fd50ce73503ca6b42e0171d8476ea08928ebd165
+source-git-commit: e7c9cc0861f3c0b94e08c82d5ae5d71ce8143aaa
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '97'
 ht-degree: 1%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 1%
 
 [ Overzicht van het Leerprogramma ]{#overview}
 + [Inleiding](/help/summit-lab-2025/introduction.md)
-+ [Les 1 - Ervaar de reis](/help/summit-lab-2025/lesson-1.md)
-+ [Les 2 - Maak een welkomstreis](/help/summit-lab-2025/lesson-2.md)
-+ [Les 3 - Dynamische inhoud maken](/help/summit-lab-2025/lesson-3.md)
-+ [Les 4 - Een inhoudexperiment maken](/help/summit-lab-2025/lesson-4.md)
-+ [Les 5 - Test uw reis](/help/summit-lab-2025/lesson-5.md)
-+ [Les 6 - Een campagne voor een inhoudskaart maken](/help/summit-lab-2025/lesson-6.md)
++ [ Les 1 - Ervaar de reis ] (/help/top-laboratorium-2025/les-1-ervaring - de-reis.md)
++ [Les 2 - Maak een welkomstreis](/help/summit-lab-2025/lesson-2-create-a-welcome-journey.md)
++ [Les 3 - Dynamische inhoud maken](/help/summit-lab-2025/lesson-3-create-dynamic-content.md)
++ [Les 4 - Een inhoudexperiment maken](/help/summit-lab-2025/lesson-4-create-a-content-experiment.md)
++ [Les 5 - Test uw reis](/help/summit-lab-2025/lesson-5-test-your-journey.md)
++ [ Les 6 - creeer een campagne van de inhoudskaart ] (/help/top-laboratorium-2025/les-6-creeer-a content-card-campagne.md)

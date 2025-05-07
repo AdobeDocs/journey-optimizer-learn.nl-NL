@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u een instapreis van klanten in Journey Optimizer implementeert. Het proces richt zich op nieuwe loyaliteitsleden, leverend gepersonaliseerde e-mail en SMS om app downloads aan te moedigen. Dit omvat het verzenden van een welkomstbericht, het controleren van de installatie van de app en het volgen van herinneringen. &#x200B;Deze zelfstudie laat ook zien hoe u de AI-inhoudsassistent kunt gebruiken om inhoud te maken en aan te passen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440650/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440656/?learn=on&enablevpops&captions=dut)

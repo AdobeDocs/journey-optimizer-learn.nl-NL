@@ -7,15 +7,15 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
-source-git-commit: 9695a4db0d0caa44a8c7d49e069320309ffc40a6
+exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
+source-git-commit: 5ab637d9b9955ab334ee67ed887e34026b04206d
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
-
-# AJO-soorten publiek maken op basis van de investeringsvoorkeuren van de gebruiker (voorraden, obligaties, cd&#39;s)
+# Webpaginaberichten aanpassen met AJO-beslissing op basis van publiek
 
 Deze zelfstudie bouwt verder op een eerder gemaakte configuratie voor publiekssegmentatie met behulp van Adobe Experience Platform (AEP) Web SDK. In de vorige zelfstudie werden gebruikersvoorkeuren (zoals interesse in voorraden, obligaties of certificaten van aanbetaling (cd&#39;s)) vastgelegd en gebruikt om personen te segmenteren naar doelgroepen in Adobe Experience Platform (AEP). Deze zelfstudie bouwt verder op die basis door Adobe Journey Optimizer (AJO) Decisioning te gebruiken om persoonlijke financiële aanbiedingen te leveren aan die doelgroepen in real-time, waardoor zowel de betrokkenheid als de conversiesultaten worden verbeterd.
 
@@ -47,8 +47,3 @@ Deze zelfstudie begeleidt u door het aanbieden van persoonlijke investeringsaanb
 * AEP Web SDK (Alloy.js)
 * AEP Edge Segmentation
 * Een webpagina waarop de aanbiedingen worden weergegeven
-
-
-
-
-

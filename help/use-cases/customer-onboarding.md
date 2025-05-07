@@ -9,15 +9,15 @@ duration: 505
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16344
 exl-id: 9237122b-cd98-4ad0-bd64-7a3407116f86
-source-git-commit: 812d668949923db814f0ec44d858b72d9bac472d
+source-git-commit: efe6a95b3b0ae1694c85b3868a3270b255d3dac7
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
 
 # Hoofdletters gebruiken - Klantinstapsysteem (zelfstudie)
 
-Leer hoe u een instapreis van klanten in Journey Optimizer implementeert. Het proces richt zich op nieuwe loyaliteitsleden, leverend gepersonaliseerde e-mail en SMS om app downloads aan te moedigen. &#x200B;Dit omvat het verzenden van een welkomstbericht, het controleren van de installatie van de app en het volgen van herinneringen. &#x200B;Deze zelfstudie laat ook zien hoe u de AI-inhoudsassistent kunt gebruiken om inhoud te maken en aan te passen.
+Leer hoe u een instapreis van klanten in Journey Optimizer implementeert. Het proces richt zich op nieuwe loyaliteitsleden, leverend gepersonaliseerde e-mail en SMS om app downloads aan te moedigen. Dit omvat het verzenden van een welkomstbericht, het controleren van de installatie van de app en het volgen van herinneringen. &#x200B;Deze zelfstudie laat ook zien hoe u de AI-inhoudsassistent kunt gebruiken om inhoud te maken en aan te passen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440656/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3440650/?learn=on&enablevpops)

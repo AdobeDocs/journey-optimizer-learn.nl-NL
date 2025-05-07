@@ -3,9 +3,9 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: f24ee1c6024e7ed7242448fe119a1437d6a69cb6
+source-git-commit: 55af4c67ad3839ac306416bdf58d7d98602cd8d3
 workflow-type: tm+mt
-source-wordcount: '707'
+source-wordcount: '726'
 ht-degree: 29%
 
 ---
@@ -17,7 +17,6 @@ ht-degree: 29%
 + Gebruiksscenario’s {#use-cases}
    + [Klant aan boord](/help/use-cases/customer-onboarding.md)
    + [Verlaten karretje](/help/use-cases/abandoned-cart.md)
-   + [ Schaalend orchestratie aan omnichannel overeenkomst](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Inleiding tot Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Overzicht](/help/introduction/journey-optimizer-overview.md)
@@ -32,7 +31,7 @@ ht-degree: 29%
    + [Een in-app-campagne maken](/help/create-campaigns/in-app.md)
    + [Een pushcampagne configureren en verzenden](/help/create-campaigns/push-campaign.md)
    + [Een webcampagne maken](/help/create-campaigns/web-campaign.md)
-   + [ creeer een op code-gebaseerde ervaringscampagne ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
+   + [ creeer een op code-gebaseerde ervaringscampagne ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
    + [Campagnes activeren met API&#39;s](/help/create-campaigns/api-triggered-campaigns.md)
    + [Inhoud-experimenten maken voor e-mailcampagnes](/help/create-campaigns/content-experiments.md)
 + Journeys {#create-journeys}
@@ -52,13 +51,13 @@ ht-degree: 29%
    + [Uniform profiel en segmentatie - overzicht](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Toegankelijkheid maken met de regelbouwer](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Een publiek maken door een CSV-bestand te uploaden](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-   + [ evalueer publiek op bestelling ](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
+   + [ evalueer publiek op bestelling ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
 + Kanalen {#channels}
    + [Optimalisatie van mobiele toepassingen - Overzicht](/help/channels/mobile-app-optimization-overview.md)
    + Code-gebaseerd ervaringskanaal{#code-based-experience-channel}
       + [Een op code gebaseerde ervaringscampagne maken](/help/channels/create-a-code-based-experience-campaign.md)
-      + [ Beslissing van het gebruik in het code gebaseerde kanaal ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
+      + [ Beslissing van het gebruik in het code gebaseerde kanaal ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Direct mailkanaal{#direct-mail-channel}
       + [Een directe e-mail maken](/help/channels/direct-mail.md)
    + Email channel{#email-channel}
@@ -181,8 +180,8 @@ ht-degree: 29%
    + [Beleid voor gegevensgebruik afdwingen in Journey Optimizer-kanalen](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Gegevens in berichten maskeren](/help/privacy/mask-data-in-messages.md)
 + Uitoefening en uitdagingen {#exercises-and-challenges}
-   + [ vorm een trainingszandbak ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=nl-NL)
-   + [ Uitdagingen ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=nl-NL)
+   + [ vorm een trainingszandbak ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
+   + [ Uitdagingen ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
 + [Opnamen van Experience League Live-show](/help/experience-league-live-show-recordings.md)
 + Soorten publiek maken met Web SDK {#tutorial-creating-audiences}
    + [Inleiding](../tutorial-creating-audience/introduction.md)
@@ -190,7 +189,19 @@ ht-degree: 29%
    + [AEP-tags maken](../tutorial-creating-audience/create-aep-tags.md)
    + [Webformulier maken](../tutorial-creating-audience/create-web-form.md)
    + [ zuivert de oplossing ](../tutorial-creating-audience/debug.md)
++ Besluit op webpagina {#getting-started-with-decisioning-webpage}
+   + [Productie](../getting-started-with-decisioning-webpage/introduction.md)
+   + [Tags maken](../getting-started-with-decisioning-webpage/create-tags.md)
+   + [Voorstel maken](../getting-started-with-decisioning-webpage/create-offers.md)
+   + [Verzameling maken](../getting-started-with-decisioning-webpage/create-collection.md)
+   + [Selectiestrategie maken](../getting-started-with-decisioning-webpage/create-selection-strategy.md)
+   + [Kanaal maken](../getting-started-with-decisioning-webpage/create-channel.md)
+   + [Campagne maken](../getting-started-with-decisioning-webpage/create-campaign.md)
+   + [Beslissingsbeleid maken](../getting-started-with-decisioning-webpage/create-decision-policy.md)
+   + [AEP-tags maken](../getting-started-with-decisioning-webpage/create-aep-tags.md)
+   + [Webpagina maken](../getting-started-with-decisioning-webpage/create-web-page.md)
+
 + Summit Labs {#summit-labs}
-   + [ bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [ het Schalen orchestratie aan omnichannel betrokkenheid in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [ bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+   + [ het Schalen orchestratie aan omnichannel betrokkenheid in Adobe Journey Optimizer (2025) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 

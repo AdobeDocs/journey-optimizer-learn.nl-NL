@@ -202,6 +202,6 @@ ht-degree: 29%
    + [Webpagina maken](../getting-started-with-decisioning-webpage/create-web-page.md)
 
 + Summit Labs {#summit-labs}
-   + [ bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [ het Schalen orchestratie aan omnichannel betrokkenheid in Adobe Journey Optimizer (2025) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [ bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+   + [ het Schalen orchestratie aan omnichannel betrokkenheid in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 

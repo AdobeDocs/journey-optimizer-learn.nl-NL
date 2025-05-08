@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
-source-git-commit: a675979bc590190e0481e63efbc2cfd30752b7c0
+exl-id: 186e4a7d-6077-401f-9958-2f955214bc35
+source-git-commit: 6bf0c2487afff4811aa94e9591ae29c38af15d34
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
-
 
 # Beslissingsbeleid maken
 
@@ -42,4 +42,4 @@ In dit stadium kunt u alle vereiste beslissingskenmerken rechtstreeks in de code
 Deze code doorloopt een lijst met persoonlijke aanbiedingen die voor de gebruiker zijn gekozen en geeft de tekst voor elke aanbieding op de webpagina weer. Het toont het bericht (genoemd offerText) van elk aanbod binnen een paragraaf, zodat kunnen de gebruikers hun op maat gemaakte inhoud duidelijk zien.
 Als geen gepersonaliseerde aanbieding beschikbaar is, een fallback aanbieding-wordt getoond om ervoor te zorgen de ruimte niet leeg wordt verlaten.
 
-Klik op Opslaan en activeer de campagne
+Klik op Opslaan en activeer de campagne.

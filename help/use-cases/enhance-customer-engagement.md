@@ -1,30 +1,33 @@
 ---
 title: Hoofdletters gebruiken - De betrokkenheid van klanten verbeteren (zelfstudie)
-description: Leer hoe u een instapreis van klanten in Adobe Journey Optimizer (AJO) implementeert. ​Het proces richt zich op nieuwe loyaliteitsleden, leverend gepersonaliseerde e-mail en SMS om app downloads aan te moedigen. ​Dit omvat het verzenden van een welkomstbericht, het controleren van de installatie van de app en het volgen van herinneringen. ​Deze zelfstudie laat ook zien hoe u de AI-inhoudsassistent kunt gebruiken om inhoud te maken en aan te passen.
+description: Deze zelfstudies richten zich op het verbeteren van de betrokkenheid en personalisatie van klanten door het creëren van publiek in real time en gepersonaliseerd besluit door Webformulieren en Web-pagina's te gebruiken.
 feature: Use Cases, Audiences, Decisioning
 role: Developer
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-9
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+exl-id: 586b6d20-7849-4d20-a9e5-d3ff4daef253
+source-git-commit: 8eeb8cdd1a8c55643af3d3f367816af6b85bb2d1
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
-
 # Hoofdletters gebruiken - De betrokkenheid van klanten verbeteren (zelfstudie)
 
-Deze zelfstudies hebben betrekking op het zakelijke gebruik van het verbeteren van de betrokkenheid en de personalisatie van klanten door het creëren van realtime publiek en gepersonaliseerde beslissingsstrategieën via webformulieren en webpagina&#39;s te combineren.
+Deze zelfstudies richten zich op het verbeteren van de betrokkenheid en personalisatie van klanten door het creëren van publiek in real time en gepersonaliseerd besluit door Webformulieren en Web-pagina&#39;s te gebruiken. Door deze krachtige technieken te integreren, kunnen de ondernemingen ervoor zorgen dat de juiste boodschap het juiste publiek op het juiste ogenblik bereikt, die klantenbetrokkenheid en het drijven van gepersonaliseerde marketing inspanningen bevorderen.
 
 1. [ Beslissing van het Gebruik om Webaanbiedingen (Leerprogramma) te personaliseren ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction)
 
-   *Leer hoe te om gebruikersvoorkeur door Webvormen te vangen, gegevens naar Adobe Experience Platform in real time te verzenden, en dynamisch gebruikers in specifiek publiek te kwalificeren dat op hun selecties wordt gebaseerd*
+   Leer hoe u:
+
+   * Leg gebruikersvoorkeuren vast via webformulieren.
+   * Gegevens direct naar Adobe Experience Platform verzenden.
+   * Gebruikers automatisch sorteren op specifieke doelgroepen op basis van hun keuze.
 
 
 2. [ creeer publiek gebruikend Web SDK (Leerprogramma) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction)
 
-   *Voortbouwend op het eerste leerprogramma, leer hoe te hefboomwerking een gecentraliseerde catalogus van marketing aanbiedingen en een verfijnde besluitvormingsmotor om de meest relevante besluitpunten aan elk individu voor te stellen.*
+   Op basis van de eerste zelfstudie leert u hoe u een gecentraliseerde catalogus met marketingaanbiedingen en een slimme besluitvormingsengine kunt gebruiken om aan elke persoon de meest relevante aanbiedingen te laten zien.
 
-Door deze krachtige technieken te integreren, kunnen de ondernemingen ervoor zorgen dat het juiste bericht het juiste publiek op het juiste ogenblik bereikt, daardoor verbeterend klantenbetrokkenheid en drijvende gepersonaliseerde marketing inspanningen.

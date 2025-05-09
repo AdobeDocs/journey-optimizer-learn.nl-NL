@@ -17,8 +17,8 @@ ht-degree: 29%
 + Gebruiksscenario’s {#use-cases}
    + [Klant aan boord](/help/use-cases/customer-onboarding.md)
    + [Verlaten karretje](/help/use-cases/abandoned-cart.md)
-   + [ verbetert klantenovereenkomst ](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [ Schaalend orchestratie aan omnichannel overeenkomst ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [ verbetert klantenovereenkomst](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
+   + [ Schaalend orchestratie aan omnichannel overeenkomst](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Inleiding tot Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Overzicht](/help/introduction/journey-optimizer-overview.md)
    + [Inleiding tot Journey Optimizer](/help/introduction/introduction.md)
@@ -53,7 +53,7 @@ ht-degree: 29%
    + [Uniform profiel en segmentatie - overzicht](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Toegankelijkheid maken met de regelbouwer](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Een publiek maken door een CSV-bestand te uploaden](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-   + [ creeer publiek gebruikend Web SDK (Leerprogramma) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
+   + [ creeer publiek gebruikend Web SDK (Leerprogramma)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
    + [ evalueer publiek op bestelling ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
 + Kanalen {#channels}
@@ -139,7 +139,7 @@ ht-degree: 29%
       + [Beslissingen maken](/help/decision-management/create-decisions.md)
       + [Aanbiedingen leveren met de Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [Frequentiecorrectie](/help/decision-management/frequency-capping.md)
-   + [ Beslissing van het Gebruik om Webaanbiedingen (Leerprogramma) te personaliseren ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+   + [ Beslissing van het Gebruik om Webaanbiedingen (Leerprogramma) te personaliseren](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 + Data management {#data-management}
    + [Overzicht](/help/data-management/set-up-data-overview.md)
    + [Een schema maken](/help/data-management/create-schema.md)
@@ -188,6 +188,6 @@ ht-degree: 29%
    + [ Uitdagingen ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
 + [Opnamen van Experience League Live-show](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
-   + [ bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [ het Schalen orchestratie aan omnichannel betrokkenheid in Adobe Journey Optimizer (2025) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [ bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+   + [ het Schalen orchestratie aan omnichannel betrokkenheid in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 

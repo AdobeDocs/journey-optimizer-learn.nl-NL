@@ -20,7 +20,7 @@ ht-degree: 0%
 
 * Aanmelden bij Adobe Experience Platform
 
-* Creeer een XDM gebeurtenis gebaseerd schema genoemd Financiële Advisors in Journey Optimizer. Als u niet vertrouwd met het creëren van een schema bent, te volgen gelieve deze [ documentatie ](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Creeer een XDM gebeurtenis gebaseerd schema genoemd Financiële Advisors in Journey Optimizer. Als u niet vertrouwd met het creëren van een schema bent, te volgen gelieve deze [ documentatie ](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 * Voeg de volgende structuur aan uw schema toe. In het PreferredFinancialInstrument-element wordt de voorkeur van de gebruiker voor voorraden, obligaties, cd opgeslagen
   ![ xdm-schema ](assets/xdm-schema.png)

@@ -1,6 +1,6 @@
 ---
-title: Verzameling maken
-description: Een inzameling wordt gebruikt om verwante aanbiedingspunten in besluit te groeperen, die het gemakkelijker maken om inhoud rond een specifiek thema, een publiek, of campagnedoel te beheren en te organiseren.
+title: Een verzameling maken
+description: Leer hoe u verzamelingen kunt gebruiken om verwante aanbiedingen te groeperen bij de besluitvorming. Met verzamelingen kunt u inhoud eenvoudiger beheren en ordenen rond een bepaald thema, een bepaald publiek of een specifiek campagnedoel.
 feature: Decisioning
 role: User
 level: Beginner
@@ -8,19 +8,19 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 5c08ff99-b4d5-48c1-8b84-19f43c613880
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 0%
+source-wordcount: '86'
+ht-degree: 3%
 
 ---
 
-# Verzameling maken
+# Een verzameling maken
 
 Met verzamelingen kunt u uw beslissingsitems categoriseren en groeperen op basis van uw voorkeuren. Deze categorieën worden gecreeerd door het ontwerpen van regels die hefboomwerking de attributen van besluitvormingspunten.
 
-* Aanmelden bij Journey Optimizer
-* Beslissing -> Catalogi -> Verzamelingen ->Verzameling maken
-* Geef de verzamelingsnaam en de verzamelingsregels op zoals in de schermafbeelding wordt weergegeven
+1. Aanmelden bij Journey Optimizer.
+1. Klik **[!UICONTROL Beslissing]** > **[!UICONTROL Catalogi]** > **[!UICONTROL Inzamelingen]** > **[!UICONTROL creeer inzameling]**.
+1. Geef de naam van de verzameling en de regels voor de verzameling op, zoals wordt weergegeven in de volgende screeshot.
 
-![ creeer-inzameling ](assets/fin-wise-collection.png)
+   ![ creeer-inzameling ](assets/fin-wise-collection.png)

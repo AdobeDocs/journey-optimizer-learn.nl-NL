@@ -1,5 +1,5 @@
 ---
-title: Een webpagina maken om de oplossing te testen
+title: Creeer een Web-pagina om de Oplossing te testen
 description: Web-pagina om de gepersonaliseerde aanbiedingen te testen die gebruikend besluit worden geleverd.
 role: User
 level: Beginner
@@ -8,9 +8,9 @@ feature: Decisioning
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 72a67137-303d-4dfe-9b70-322c81e5fb27
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -21,18 +21,27 @@ Deze webpagina is gemaakt om gepersonaliseerde aanbiedingen te testen die via Ad
 
 Het volgende script is verantwoordelijk voor het ophalen en weergeven van een gepersonaliseerde aanbieding op een webpagina met Adobe Journey Optimizer.
 
-1. Decoderen HTML-entiteiten: er is een hulpfunctie waarmee speciale tekens in de aanbiedingsinhoud veilig kunnen worden omgezet in leesbare HTML.
+1. HTML-entiteiten decoderen:
 
-2. Personalisatie uitvoeren:
-Wanneer geroepen, verzendt het een verzoek (sendEvent) naar het Web SDK van Adobe om gepersonaliseerde inhoud voor een specifiek gebied op de pagina (het #ajo-aanbiedingselement) te krijgen.
-Als een aanbieding wordt geretourneerd, wordt de HTML gedecodeerd en op de pagina ingevoegd.
-Als niets is teruggekeerd, registreert het een waarschuwing.
+   Er is een hulpfunctie die speciale karakters in de aanbiedingsinhoud veilig omzet in leesbare HTML.
 
-3. Wacht op de SDK:
-Aangezien Adobe SDK (legering) asynchroon laadt, wacht het manuscript tot het volledig geladen alvorens het verzoek te doen.
-Het controleert om de 200 milliseconden, tot 20 keer, legering om fouten te vermijden.
+1. Personalisatie uitvoeren:
 
-4. Bij het laden van de pagina: wanneer de pagina klaar is met laden, start het script het proces door waitForAlloy() aan te roepen.
+   Wanneer het geroepen, verzendt het een verzoek (`sendEvent`) naar het Web SDK van Adobe om gepersonaliseerde inhoud voor een specifiek gebied op de pagina (het `#ajo-offer` element) te krijgen.
+
+   Als een aanbieding wordt geretourneerd, wordt de HTML gedecodeerd en op de pagina ingevoegd.
+
+   Als niets is teruggekeerd, registreert het een waarschuwing.
+
+1. Wacht op de SDK:
+
+   Aangezien Adobe SDK (legering) asynchroon laadt, wacht het manuscript tot het volledig geladen alvorens het verzoek te doen.
+
+   Het controleert om de 200 milliseconden, tot 20 keer, legering om fouten te vermijden.
+
+1. Bij laden van pagina:
+
+   Wanneer de pagina klaar is met laden, start het script het proces door `waitForAlloy()` aan te roepen.
 
 
 

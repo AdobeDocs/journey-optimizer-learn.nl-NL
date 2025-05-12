@@ -1,6 +1,6 @@
 ---
-title: Campagne maken
-description: Een campagne in AJO verbindt publiek, besluitvormingsbeleid, en kanalen om gepersonaliseerde aanbiedingen op het juiste ogenblik over klantenaanraakpunten te leveren.
+title: Een campagne maken
+description: Leer hoe een AJO-campagne het publiek, het beslissingsbeleid en de kanalen verbindt om persoonlijke aanbiedingen op het juiste moment aan te bieden via de verschillende aanraakpunten van de klant.
 feature: Decisioning
 role: User
 level: Beginner
@@ -8,20 +8,26 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: a48a3702-4d66-467b-a7ec-9d91b81b771d
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 90f691b1cebb202ead66aafeb2e79087a8ae49ef
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 0%
+source-wordcount: '126'
+ht-degree: 4%
 
 ---
 
-# Campagne maken
+# Een campagne maken
 
 In Adobe Journey Optimizer (AJO) fungeert een campagne als een container waarin alle elementen zijn opgenomen die nodig zijn om persoonlijke ervaringen aan een doelgroep te kunnen bieden. Het organiseert wanneer en hoe aanbiedingen worden voorgesteld, die componenten zoals kanalen, plaatsen, inzamelingen, en besluitvormingsstrategieën verbinden.
 
-* Aanmelden bij Journey Optimizer
-* Reisbeheer ->Campagnes ->Campagne maken ->Marketing plannen
-* Zorg ervoor om op code-gebaseerde ervaringsactie te selecteren en de configuratie te selecteren die in de vroegere stap wordt gecreeerd.
-  ![ creeer-campagne ](assets/create-campaign.png)
-* Klik op Inhoud bewerken en vervolgens code bewerken om de verpersoonlijkingseditor te openen. Het is een interface voor het maken van een niet-visuele ervaring waarmee u uw code kunt ontwerpen
-  ![ uitgeven-cbe_html ](assets/edit_code_based_exp_html.png)
+1. Aanmelden bij Journey Optimizer.
+1. Klik **[!UICONTROL Beheer van de Reis]** > **[!UICONTROL Campagnes]** > **[!UICONTROL creeer campagne]** > **[!UICONTROL Plan Marketing]**.
+1. Selecteer **[!UICONTROL op code-gebaseerde ervaring]** actie, dan de configuratie die in de vroegere stap wordt gecreeerd selecteren.
+1. Klik **[!UICONTROL uitgeven inhoud]**.
+
+   ![ creeer-campagne ](assets/create-campaign.png)
+
+1. Om de verpersoonlijkingsredacteur te openen, klik **[!UICONTROL geef code]** uit.
+
+   ![ uitgeven-cbe_html ](assets/edit_code_based_exp_html.png)
+
+   De verpersoonlijkingsredacteur is een niet-visuele interface van de ervaringsverwezenlijking die u toestaat om uw code te ontwerpen.

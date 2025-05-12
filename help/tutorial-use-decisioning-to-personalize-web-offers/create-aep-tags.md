@@ -8,44 +8,47 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17923
 exl-id: 6823ce13-bc77-4e2b-89e0-606e403c15f2
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 90f691b1cebb202ead66aafeb2e79087a8ae49ef
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
 
-# Adobe Experience Platform maken
+# Adobe Experience Platform-tags maken
 
-Adobe Launch is geconfigureerd op de webpagina om de Adobe Experience Platform Web SDK te laden, zodat de sendEvent API-aanroep gepersonaliseerde ervaringen kan activeren. Deze opstelling zorgt ervoor dat de noodzakelijke cliënt-zijbibliotheken correct worden geïnitialiseerd, die interactie in real time met Adobe Journey Optimizer voor aanbiedingslevering toestaan.
+Experience Platform-tags worden geconfigureerd op de webpagina om de Adobe Experience Platform Web SDK te laden, zodat de sendEvent API-aanroep gepersonaliseerde ervaringen kan activeren. Deze opstelling zorgt ervoor dat de noodzakelijke cliënt-zijbibliotheken correct worden geïnitialiseerd, die interactie in real time met Adobe Journey Optimizer voor aanbiedingslevering toestaan.
 
-* Aanmelden bij gegevensverzameling
-* Klik op Labels -> Nieuwe eigenschap
-* Maak een Adobe Experience Platform-tag met de naam ECID Service.
+1. Meld u aan bij Gegevensverzameling.
+1. Klik **[!UICONTROL Markeringen]** > **[!UICONTROL Nieuw Bezit]**.
+1. Maak een Adobe Experience Platform-tag met de naam ECID Service.
+1. Voeg de volgende extensies toe aan de tag:
 
-* De volgende extensies toevoegen aan de tag
-  ![ markeringen-uitbreidingen ](assets/ecid-tag.png)
+   ![ markeringen-uitbreidingen ](assets/ecid-tag.png)
 
-* Zorg ervoor dat u de Adobe Experience Platform Web SDK configureert voor het gebruik van de juiste omgeving en de DataStream voor financiële adviseurs die in de vorige zelfstudie is gemaakt
-  ![ web-sdk-configuration ](assets/web-sdk-configuration.png)
+1. Configureer de Adobe Experience Platform Web SDK voor het gebruik van de juiste omgeving en de DataStream voor financiële adviseurs die in de vorige zelfstudie is gemaakt
 
-* Er is geen aanvullende configuratie nodig voor Adobe Client Data Layer en Core-extensies
+   ![ web-sdk-configuration ](assets/web-sdk-configuration.png)
 
-## Gegevenselement maken
+Geen extra configuratie nodig voor Adobe Client Data Layer en core extensions
 
-Het ECID-gegevenselement in Adobe Launch wordt alleen gemaakt voor foutopsporing- en testdoeleinden. Hiermee kunnen ontwikkelaars de Experience Cloud-id weergeven die is toegewezen aan de browsersessie van een gebruiker. Zo kunnen identiteitsstitching worden gevalideerd en kunnen ze ervoor zorgen dat de sendEvent-aanroepen aan het juiste profiel zijn gekoppeld. Dit element wordt niet vereist voor personalisatie om te functioneren maar is nuttig tijdens implementatie en QA
+## Het gegevenselement maken
+
+Het ECID-gegevenselement in Experience Platform-tags wordt alleen gemaakt voor foutopsporing- en testdoeleinden. Met het gegevenselement kunnen ontwikkelaars de Experience Cloud-id weergeven die is toegewezen aan de browsersessie van een gebruiker. Zo kunnen identiteitsstitching worden gevalideerd en kan worden gecontroleerd of de `sendEvent` -aanroepen aan het juiste profiel zijn gekoppeld. Dit element wordt niet vereist voor personalisatie om te functioneren maar is nuttig tijdens implementatie en QA
 
 ![ ecid ](assets/ecid-data-element.png)
 
 
 ## AEP-tags opnemen op de HTML-pagina
 
-Adobe Experience Platform-tags maken en publiceren
+Stel de Adobe Experience Platform-tags samen en publiceer deze.
 
 Wanneer een AEP-eigenschap Tags wordt gepubliceerd, geeft Adobe u een scripttag die u in uw HTML ``` <head>``` of onder aan de ``` <body>``` -tags moet plaatsen.
 
-* Ga naar de eigenschap Tags (ECID Service).
+1. Ga naar de eigenschap Tags (ECID Service).
 
-* Klik op Milieu&#39;s en klik het installatiepictogram van het milieu u wilt (bijvoorbeeld, Ontwikkeling, het Staging, Productie).
+1. Klik op Omgevingen en klik vervolgens op het installatiepictogram van de gewenste omgeving (bijvoorbeeld Ontwikkeling, Staging, Productie).
 
-* Noteer de ingesloten code. Deze code moet vlak voor de afsluitende tag ```</body>``` op de HTML-pagina worden geplaatst.
+1. Noteer de ingesloten code.
+
+   Deze code moet vlak voor de afsluitende tag ```</body>``` op de HTML-pagina worden geplaatst.

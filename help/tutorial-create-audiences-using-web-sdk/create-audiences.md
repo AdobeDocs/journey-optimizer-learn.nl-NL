@@ -34,7 +34,7 @@ Soorten publiek in Adobe Experience Platform zijn groepen gebruikers die zijn ge
    * Klanten die geïnteresseerd zijn in cd
 
 
-* Zorg ervoor dat de evaluatiemethode voor elk publiek aan _**Edge**_ voor kwalificatie in real time wordt geplaatst.
+* Zorg ervoor dat de evaluatiemethode voor elk publiek aan _&#x200B;**Edge**&#x200B;_ voor kwalificatie in real time wordt geplaatst.
   ![ rand-publiek ](assets/audience-edge.png)
 
 * Gebruik het veld PreferredFinancialInstrument om gebruikers te segmenteren op basis van hun geselecteerde investeringsrente, zoals voorraden, obligaties of cd&#39;s
@@ -48,7 +48,7 @@ Soorten publiek in Adobe Experience Platform zijn groepen gebruikers die zijn ge
 
 >[!NOTE]
 >
->>Als het veld PreferredFinancialInstrument niet zichtbaar is op het tabblad Gebeurtenissen, klikt u op het pictogram Instellingen en schakelt u het volledige XDM-schema tonen in of uit.
+>&#x200B;>Als het veld PreferredFinancialInstrument niet zichtbaar is op het tabblad Gebeurtenissen, klikt u op het pictogram Instellingen en schakelt u het volledige XDM-schema tonen in of uit.
 
 
 

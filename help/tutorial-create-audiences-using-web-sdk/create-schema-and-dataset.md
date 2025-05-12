@@ -24,7 +24,7 @@ ht-degree: 0%
 
 * Creeer een XDM gebeurtenis gebaseerd schema genoemd _Financiële Advisors_. Als u niet vertrouwd met het creëren van een schema bent, te volgen gelieve deze [ documentatie ](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
-* Voeg de volgende structuur aan uw schema toe. In het PreferredFinancialInstrument-element wordt de voorkeur van de gebruiker voor Stocks, Bonds, CD opgeslagen. **__techmarketingdemos_**is huurder identiteitskaart, en zal in uw milieu verschillend zijn.
+* Voeg de volgende structuur aan uw schema toe. In het PreferredFinancialInstrument-element wordt de voorkeur van de gebruiker voor Stocks, Bonds, CD opgeslagen. **__techmarketingdemos_**&#x200B;is huurder identiteitskaart, en zal in uw milieu verschillend zijn.
   ![ xdm-schema ](assets/xdm-schema.png)
 
 * Het PreferredFinancialInstrument-element heeft opsommingswaarden die hieronder zijn gedefinieerd

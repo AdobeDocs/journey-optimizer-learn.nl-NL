@@ -1,6 +1,6 @@
 ---
-title: Beslissing gebruiken om webaanbiedingen aan te passen
-description: Leer hoe u Adobe Journey Optimizer (AJO) Decisioning kunt gebruiken om persoonlijke aanbiedingen op een webpagina te leveren door gebruik te maken van de segmentering van het publiek die is ingebouwd in Adobe Experience Platform (AEP).
+title: Webaanbiedingen personaliseren met beslissing
+description: Leer hoe u Journey Optimizer (AJO) Decisioning kunt gebruiken om persoonlijke aanbiedingen op een webpagina te leveren door gebruik te maken van de segmentering van het publiek die is ingebouwd in Experience Platform (AEP).
 feature: Decisioning
 role: User
 level: Beginner
@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 0c42bf9a9af53bf80a14d904733ae0c1f03be0ee
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Met de onderstaande link kun je de persoonlijke aanbiedingen van AJO live testen
 * Mogelijkheid om Browser DevTools te gebruiken (tabbladen Console en Netwerk)
 
 
-## GOAL
+## Goal
 
 Deze zelfstudie begeleidt u door het aanbieden van persoonlijke investeringsaanbiedingen (zoals voorraden, obligaties of cd&#39;s) op een website met Adobe Journey Optimizer (AJO). Door gebruik te maken van segmentatie van het publiek en beslissingsstrategieën, leert u hoe u ervoor kunt zorgen dat elke bezoeker het meest relevante aanbod ziet op basis van zijn voorkeuren.
 

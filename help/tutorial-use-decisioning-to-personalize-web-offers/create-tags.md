@@ -24,4 +24,4 @@ Als u tags met aanbiedingen wilt maken in Adobe Experience Platform (AEP), moet 
 1. Geef een betekenisvolle naam en beschrijving op voor de tagcategorie.
 1. Tags maken in de nieuwe categorie.
 
-Voor dit leerprogramma, werd de _markeringscategorie van de Aanbiedingen van Financiën 0} FinWise {gecreeerd en een markering genoemd_ AssetPreference _werd gecreeerd._
+Voor dit leerprogramma, werd de _markeringscategorie van de Aanbiedingen van Financiën 0&rbrace; FinWise &lbrace;gecreeerd en een markering genoemd_ AssetPreference _werd gecreeerd._

@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: d705992a-0d47-4bb9-b3d8-b925974e64cb
-source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
+source-git-commit: 502cdc41b666959141ff4dfc63608cc463009811
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,8 @@ Dit schema:
    Kopieer en plak voor elke aanbieding de tekst van de desbetreffende aanbieding aan het einde van dit artikel in het betreffende aanbiedingsobject.
 
 1. Geef de aanbiedingen een label met de tag die u in de vorige stap hebt gemaakt.
-
+1. Voeg een passend publiek toe aan elke aanbieding.
+   ![ aanbieding-geschiktheid ](assets/offer-eligibility.png)
 1. Goedkeuren van de voorstellen.
 
 Voltooide aanbieding met gedefinieerde standaard- en aangepaste kenmerken:

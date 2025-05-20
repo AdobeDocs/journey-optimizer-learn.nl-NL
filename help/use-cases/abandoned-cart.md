@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe u de verlaten draagtas voor winkelwagentjes kunt implementeren met de functie Playbook in Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443970/?learn=on&enablevpops&captions=dut)
 
 Voor meer informatie, vormt het bezoek [ een playbook zandbak ](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} en [ creeer en publiceer playbook instanties ](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}.

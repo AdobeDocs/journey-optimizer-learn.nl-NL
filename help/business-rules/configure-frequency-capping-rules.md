@@ -22,4 +22,4 @@ Leer hoe u de bedrijfsregels van Adobe Journey Optimizer kunt gebruiken voor het
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
 
-Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/frequency-rules) voor meer informatie.
+Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/configuration/frequency-rules) voor meer informatie.

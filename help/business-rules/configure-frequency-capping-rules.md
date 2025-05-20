@@ -20,6 +20,6 @@ ht-degree: 5%
 
 Leer hoe u de bedrijfsregels van Adobe Journey Optimizer kunt gebruiken voor het instellen van frequentietoewijzing en het voorkomen van te veel vragen aan uw klanten. Deze video loopt door het creëren van zowel globale als douaneregel reeksen-als het beperken van alle e-mails tot één per dag of het begrenzen van promotionele e-mail afzonderlijk-en toont hoe te om deze regels op campagnes toe te passen om klantenvermoeidheid effectief te beheren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433401/?learn=on&captions=dut)
 
 Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/configuration/frequency-rules) voor meer informatie.

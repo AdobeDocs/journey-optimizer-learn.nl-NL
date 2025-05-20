@@ -8,16 +8,18 @@ doc-type: Tutorial
 duration: 373
 last-substantial-update: 2025-02-04T00:00:00Z
 jira: KT-16346
-source-git-commit: be0838d1d46606570994bc2a38f86cd678d1f2c2
+exl-id: 01216374-2457-4dcd-b970-42315578bb1a
+source-git-commit: 7d10b8f053f981cea8997f35e069acadde99ee2c
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
-
 
 # Hoofdletters gebruiken - Verlaten winkelwagentje
 
 Leer hoe u de verlaten draagtas voor winkelwagentjes kunt implementeren met de functie Playbook in Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443970/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+
+Voor meer informatie, vormt het bezoek [ een playbook zandbak ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} en [ creeer en publiceer playbook instanties ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}.

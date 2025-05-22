@@ -22,4 +22,4 @@ Leer hoe u een aangepaste SMS-provider in Adobe Journey Optimizer configureert, 
 
 Zie [ een leverancier van douaneSMS ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom) voor meer informatie vormen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431625/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443612/?learn=on&enablevpops&captions=dut)

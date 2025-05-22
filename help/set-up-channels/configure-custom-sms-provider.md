@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe u een aangepaste SMS-provider in Adobe Journey Optimizer configureert, API-referenties en -websites voor binnenkomende berichten instelt, de trefwoorden opt-in/opt-out beheert en persoonlijke SMS-campagnes start met behulp van native gereedschappen en aangepaste payloads.
 
-Zie [ een leverancier van douaneSMS ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom) voor meer informatie vormen.
+Zie [ een leverancier van douaneSMS ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom) voor meer informatie vormen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431625/?learn=on&enablevpops)

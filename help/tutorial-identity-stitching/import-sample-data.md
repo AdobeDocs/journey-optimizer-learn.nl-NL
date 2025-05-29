@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 jira: KT-18089
-source-git-commit: 502cdc41b666959141ff4dfc63608cc463009811
+exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
+source-git-commit: 461906416a976ef9a9dea4fdb583b853b4fe61c7
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '267'
 ht-degree: 3%
 
 ---
@@ -34,27 +35,22 @@ Voeg een identiteitsgebied **_toe midden_** onder het voorwerp SystemIdentifier.
 
 ## Voorbeeldgegevens voorbereiden
 
-| crmId | firstName | lastName | email | loyaltyStatus | jaarinkomen |
-|--------|-----------|----------|---------------------------|---------------|--------------|
-| FIN001 | Alice | Wong | alice.wong@example.com | Goud | 336104 |
-| FIN002 | Brian | Smith | brian.smith@example.com | Zilver | 191065 |
-| FIN003 | Cathy | Johnson | cathy.johnson@example.com | Brons | 117015 |
-| FIN004 | David | Lee | david.lee@example.com | Brons | 61869 |
-| FIN005 | Eva | Martinez | eva.martinez@example.com | Zilver | 191371 |
-| FIN006 | Frank | Bruin | frank.brown@example.com | Zilver | 196132 |
-| FIN007 | Grace | Kim | grace.kim@example.com | Goud | 309851 |
-| FIN008 | Henry | Davis | henry.davis@example.com | Goud | 318378 |
-| FIN009 | Isla | Clark | isla.clark@example.com | Zilver | 181776 |
-| FIN010 | Jack | Lopez | jack.lopez@example.com | Zilver | 186643 |
+| crmId | firstName | lastName | email | loyaltyStatus | zipCode | jaarinkomen |
+|--------|-----------|----------|-------------------------|---------------|---------|--------------|
+| FIN001 | Alice | Wong | alice.wong@example.com | Goud | 92128 | 120000 |
+| FIN002 | Bob | Smith | bob.smith@example.com | Zilver | 92126 | 85000 |
+| FIN003 | Charlie | Kim | charlie.kim@example.com | Platina | 60614 | 175000 |
+| FIN004 | Diana | Lee | diana.lee@example.com | Goud | 30303 | 98000 |
+| FIN005 | Ethan | Bruin | ethan.brown@example.com | Brons | 75201 | 60000 |
 
 ## Het CSV-bestand opnemen
 
 * Creeer een dataset genoemd **_FinWiseCustomerDataSetWithAnnualIncome_** die op **_wordt gebaseerd FinWiseProfileSchema_** in de vroegere stap wordt gecreeerd
 
 * Ga naar Verbindingen -> Bronnen -> Lokaal systeem
-* Selecteer **_Gegevens_** toevoegen onder de Lokale dossierupload. Zorg ervoor om _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ als doeldataset te selecteren.
+* Selecteer **_Gegevens_** toevoegen onder de Lokale dossierupload. Zorg ervoor om _**FinWiseCustomerDataSetWithAnnualIncome**_ als doeldataset te selecteren.
   ![ ingest-csv ](assets/ingest-csv-into-dataset.png)
-* Navigeer naar het volgende scherm. Upload het [ csv- dossier ](assets/sample_crm_data.csv) en verifieer de afbeeldingen
+* Navigeer naar het volgende scherm. Upload het [ csv- dossier ](assets/finwise_profiles.csv) en verifieer de afbeeldingen
   ![ afbeeldingen ](assets/mappings.png)
 
 * Klik op Voltooien om het gegevensinvoerproces te starten

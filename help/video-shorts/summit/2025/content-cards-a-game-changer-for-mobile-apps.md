@@ -20,4 +20,4 @@ ht-degree: 0%
 Ontdek hoe Content Cards in Adobe Journey Optimizer persoonlijke, niet-indringende inhoud rechtstreeks in uw app kunnen leveren om betrokkenheid en conversies te stimuleren.
 
 <!-- 62_S603_3442534_58_content-cards-a-gamechanger-for-mobile-apps -->
->[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460090/?learn=on&enablevpops=true&captions=dut)

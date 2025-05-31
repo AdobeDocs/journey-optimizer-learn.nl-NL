@@ -20,4 +20,4 @@ ht-degree: 0%
 Leer hoe u met Content Cards in Adobe Journey Optimizer persoonlijke en aantrekkelijke inhoud rechtstreeks in uw mobiele app kunt leveren.
 
 <!-- 62_S603_3442534_62_introduction-to-content-cards-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458206/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460392/?learn=on&enablevpops=true&captions=dut)

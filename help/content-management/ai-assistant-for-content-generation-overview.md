@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Begrijp hoe AI Assistant voor het genereren van inhoud marketers kan helpen door proactieve suggesties voor inhoudvariatie voor zowel tekst als afbeeldingen te bieden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432686/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463106/?learn=on&captions=dut)

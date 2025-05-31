@@ -20,4 +20,4 @@ ht-degree: 0%
 Leer hoe u Adobe Journey Optimizer-integratie met Plaatsen Service kunt gebruiken om in-app-berichten op locatie te maken voor persoonlijke betrokkenheid van klanten.
 
 <!-- 72_S522_3442522_189_geofencebased-inapp-messaging-with-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458203/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460414/?learn=on&enablevpops=true&captions=dut)

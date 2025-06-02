@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 jira: KT-18089
-source-git-commit: 68bd0a65e7d7f2d57f9620e76555485a1a79b4ae
+exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
+source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 5%
@@ -22,7 +23,7 @@ Er wordt een AEP-eigenschap met de naam FinWise gemaakt. De volgende extensies z
 
 ![ markeringen-uitbreidingen ](assets/tags-extensions.png)
 
-Configureer de AEP Web SDK-extensie met gebruik van de DataStream voor financiële adviseurs die in de eerdere zelfstudie is gemaakt.
+Configureer de AEP Web SDK-extensie met gebruik van de DataStream voor financiële adviseurs die in de vorige stap is gemaakt.
 Experience Cloud ID Service is een optionele extensie die voor foutopsporingsdoeleinden aan de eigenschap tag wordt toegevoegd.
 
 ## Taggegevenselementen
@@ -51,4 +52,3 @@ Gebeurtenisactie verzenden
 ## Opslaan en samenstellen
 
 Sla uw wijzigingen op, maak en maak de bibliotheek.
-

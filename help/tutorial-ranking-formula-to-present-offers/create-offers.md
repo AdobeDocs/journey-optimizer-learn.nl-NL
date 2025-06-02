@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: 7dd49746-bea6-4679-9d88-d8f9d2aa5b52
+source-git-commit: fb0ef6d502c6e3ba37ef528683a8888ed83f2990
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # Locatiegebaseerde voorstellen maken met ZIP-codering als doel
 
@@ -73,12 +73,9 @@ De aanbiedingstekst voor Algemene aanbieding, zonder postcode die aan de aanbied
 </div>
 ```
 
-Groep deze aanbiedingen in een inzameling genoemd **_GenericOffers_**
+Groep deze aanbiedingen in een inzameling genoemd **inkomen-verwant-aanbiedt**
 
 De aanbiedingen zijn beschikbaar voor alle bezoekers—wat betekent dat er geen strikte toelatingsbeperkingen zijn—en de rangschikkingsformule wordt dan van essentieel belang om te bepalen welke aanbieding op profielcontext zou moeten worden getoond.
 Aangezien de toelatingsregels de aanbiedingen niet filtreren, worden alle drie behandeld als kandidaten.
 De selectiestrategie haalt alle drie op.
 De rangschikkende formule scores hen die op profielattributen (zoals zipcode en annualIncome) worden gebaseerd om beste te kiezen.
-
-
-

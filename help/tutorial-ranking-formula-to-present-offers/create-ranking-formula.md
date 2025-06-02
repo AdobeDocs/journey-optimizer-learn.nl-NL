@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: eee1b86e-b33f-408e-9faf-90317bc5e861
+source-git-commit: 69868d1f303fa0c67530b3343a678a850a8e493b
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # Willekeurige formule maken
 
@@ -31,35 +31,34 @@ Een criterium in een rangschikkingsformule verwijst naar een voorwaardelijke reg
 
 
 Criteria 1
-![ criteria_one ](assets/criteria1.png)
 
-Criteria 1 bevatten drie criteria:
-
-* voorstel._techmarketingdemos.aanbiedingDetails.zipCode == &quot;92128&quot; - controleert de postcode verbonden aan de aanbieding.
-
-* _techmarketingdemos.zipCode == &quot;92128&quot; - hiermee wordt de ZIP-code op het profiel van de gebruiker gecontroleerd.
-
-* _techmarketing demos.yearIncome > 100000 - controleert het inkomensniveau van het profiel van de gebruiker.
-
-Als aan al deze criteria wordt voldaan, krijgt de aanbieding een score van 40.
+Deze voorwaarde filtert besluitpunten (aanbiedingen) **om slechts** de aanbiedingen te omvatten die met &quot;IncomeLevel.&quot;worden geëtiketteerd
+Deze gefilterde aanbiedingen gaan vervolgens door naar de volgende stap, zoals rangschikking of levering, op basis van extra logica die u definieert.
+![ criteria_one ](assets/income-related-formula.png)
 
 
+De volgende expressie wordt gebruikt om de waarderingsscore te maken
+
+```pql
+if(   offer._techmarketingdemos.offerDetails.zipCode = _techmarketingdemos.zipCode,   _techmarketingdemos.annualIncome / 1000 + 10000,   if(     not offer._techmarketingdemos.offerDetails.zipCode,     _techmarketingdemos.annualIncome / 1000,     -9999   ) )
+```
+
+Wat de formule doet
+
+* Als de aanbieding dezelfde postcode heeft als de gebruiker, geef deze een zeer hoge score zodat deze als eerste wordt gekozen.
+
+* Als de aanbieding helemaal geen postcode heeft (het is een algemene aanbieding), geef deze een normale score op basis van de inkomsten van de gebruiker.
+
+* Als de aanbieding een andere postcode heeft dan de gebruiker, geef deze een zeer lage score zodat deze niet is geselecteerd.
+
+Op deze manier is het systeem:
+
+* Probeer altijd eerst een aanbieding voor ZIP-matching te tonen,
+
+* Als er geen overeenkomst wordt gevonden, wordt een algemene aanbieding teruggestuurd en worden aanbiedingen voor andere ZIP-codes niet weergegeven.
 
 
-
-
-Criteria 2
-![ criteria_two ](assets/criteria2.png)
-
-Criteria 2 bevatten drie criteria:
-
-* voorstel._techmarketingdemos.aanbiedingDetails.zipCode == &quot;92126&quot; - controleert de postcode verbonden aan de aanbieding.
-
-* _techmarketingdemos.zipCode == &quot;92126&quot; - hiermee wordt de ZIP-code op het profiel van de gebruiker gecontroleerd.
-
-* _techmarketing demos.yearIncome &lt; 100000 - controleert het inkomensniveau van het profiel van de gebruiker.
-
-Als aan al deze criteria wordt voldaan, krijgt de aanbieding een score van 30.
+Als een aanbiedingsitem aan geen van de filtercriteria voldoet (bijvoorbeeld niet de tag &quot;IncomeLevel&quot;), ontvangt de aanbieding een standaardwaarderingsscore van 10.
 
 
 

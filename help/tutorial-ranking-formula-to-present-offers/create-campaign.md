@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
+source-git-commit: 666d25d1ed06ab76331d197a1677731516f73d7c
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '607'
 ht-degree: 1%
 
 ---
-
 
 # Een campagne maken
 
@@ -88,11 +88,14 @@ Deze instelling gebruikt de ECID als primaire identiteit voor het herkennen van 
      Een logische expressie waarmee elk in aanmerking komend aanbod wordt beoordeeld. De aanbieding met de hoogste score wordt weergegeven in een persoonlijke ervaring.
 
 
+6. **Tussenvoegsel het Beleid van het Besluit**
 
-6. **publiceer de Campagne**\
+   ![ verpersoonlijking-redacteur ](assets/personalization-editor.png)
+
+   De code Handlebars doorloopt de aanbiedingen die door een specifiek besluitvormingsbeleid in Adobe Journey Optimizer zijn teruggekeerd en leidt tot een `<div>` voor elke aanbieding. Elke `<div>` gebruikt een attribuut data-tags met de interne naam van de aanbieding om de carrouselgroep te helpen en aanbiedingen per categorie te ordenen voor vloeiende navigatie. De inhoud binnen elke `<div>` geeft de tekst van de gepersonaliseerde aanbieding weer, waardoor een dynamische en visueel gesegmenteerde presentatie van meerdere aanbiedingen mogelijk is.
+
+
+7. **publiceer de Campagne**\
    Activeer de campagne om persoonlijke aanbiedingen in real-time te leveren.
 
-
-
-
-
+![ img ](assets/personalization-editor.png)

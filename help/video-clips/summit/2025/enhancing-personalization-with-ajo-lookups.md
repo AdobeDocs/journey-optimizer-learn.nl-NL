@@ -20,4 +20,4 @@ ht-degree: 0%
 Onderzoek hoe te om op verslag-gebaseerde datasets voor gepersonaliseerd overseinen te gebruiken zonder klantenprofielen in Adobe Journey Optimizer te blokkeren.
 
 <!-- 62_S522_3442522_70_enhancing-personalization-with-ajo-lookups -->
->[!VIDEO](https://video.tv.adobe.com/v/3458226/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460337/?learn=on&enablevpops=true&captions=dut)

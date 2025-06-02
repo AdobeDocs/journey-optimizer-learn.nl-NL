@@ -20,4 +20,4 @@ ht-degree: 0%
 Leer hoe Adobe Journey Optimizer AI en machine leren voor de volgende-beste acties, reis optimalisering, en besluit om persoonlijke klantenervaringen te leveren.
 
 <!-- 62_S520_3442520_184_aipowered-decisioning-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458219/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460270/?learn=on&enablevpops=true&captions=dut)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Ontdek hoe AJO native integratie met WhatsApp Business naadloze marketing en transactionele communicatie mogelijk maakt.
 
 <!-- 72_S520_3442520_49_whatsapp-integration-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458215/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460474/?learn=on&enablevpops=true&captions=dut)

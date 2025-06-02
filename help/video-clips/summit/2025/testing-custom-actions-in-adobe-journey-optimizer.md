@@ -20,4 +20,4 @@ ht-degree: 0%
 Ontdek hoe u aangepaste acties rechtstreeks in Adobe Journey Optimizer kunt testen zonder dat u een volledige reis hoeft uit te voeren, zodat u tijd en moeite bespaart.
 
 <!-- 62_S522_3442522_39_testing-custom-actions-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458211/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460444/?learn=on&enablevpops=true&captions=dut)

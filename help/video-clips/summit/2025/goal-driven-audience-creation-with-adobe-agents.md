@@ -20,4 +20,4 @@ ht-degree: 0%
 Bekijk hoe Adobe Audience Agent AI gebruikt om nauwkeurige, doelgerichte doelgroepen te creëren door gegevens en machine het leren modellen in real time te gebruiken.
 
 <!-- 62_S653_3442539_281_goaldriven-audience-creation-with-adobe-agents -->
->[!VIDEO](https://video.tv.adobe.com/v/3458193/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460303/?learn=on&enablevpops=true&captions=dut)

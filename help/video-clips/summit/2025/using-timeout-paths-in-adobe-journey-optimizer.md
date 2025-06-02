@@ -20,4 +20,4 @@ ht-degree: 0%
 Leer hoe u time-outs en fouten in Adobe Journey Optimizer kunt afhandelen door time-outpaden in te stellen om profielen onderweg te houden.
 
 <!-- 62_S522_3442522_36_using-timeout-paths-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458213/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460477/?learn=on&enablevpops=true&captions=dut)

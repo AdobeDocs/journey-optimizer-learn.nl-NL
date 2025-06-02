@@ -20,4 +20,4 @@ ht-degree: 0%
 Leer hoe Adobe belangrijke obstakels voor het schalen van experimenten, van ideatie tot uitvoering, met behulp van platformgestuurde oplossingen heeft geïdentificeerd en aangepakt.
 
 <!-- 62_S531_3442531_165_overcoming-barriers-to-experimentation-at-scale -->
->[!VIDEO](https://video.tv.adobe.com/v/3458237/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460381/?learn=on&enablevpops=true&captions=dut)

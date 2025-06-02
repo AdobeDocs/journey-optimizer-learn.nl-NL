@@ -20,4 +20,4 @@ ht-degree: 0%
 Ontdek hoe Adobe Journey Optimizer RCS-berichten ondersteunt en direct merkboodschap, interactieve ervaringen en app-achtige ervaringen aanbiedt in de berichtvensters van gebruikers.
 
 <!-- 72_S520_3442520_186_rcs-messaging-the-future-of-rich-communication -->
->[!VIDEO](https://video.tv.adobe.com/v/3458209/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460370/?learn=on&enablevpops=true&captions=dut)

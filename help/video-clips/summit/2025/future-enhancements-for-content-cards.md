@@ -20,4 +20,4 @@ ht-degree: 0%
 Bekijk een blik bij de komende eigenschappen voor de Kaarten van de Inhoud, met inbegrip van nieuwe malplaatjes, bericht in dozen, en meer.
 
 <!-- 62_S603_3442534_83_future-enhancements-for-content-cards -->
->[!VIDEO](https://video.tv.adobe.com/v/3458202/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460326/?learn=on&enablevpops=true&captions=dut)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Zie hoe de Audience Agent in Adobe Journey Optimizer proactief de gezondheid van het publiek controleert, problemen identificeert en actiemogelijkheden aanbiedt om de betrokkenheid te verbeteren.
 
 <!-- 62_S653_3442539_203_audience-agent-proactive-monitoring-and-optimization -->
->[!VIDEO](https://video.tv.adobe.com/v/3458192/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460281/?learn=on&enablevpops=true&captions=dut)

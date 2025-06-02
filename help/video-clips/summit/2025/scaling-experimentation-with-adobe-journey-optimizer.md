@@ -20,4 +20,4 @@ ht-degree: 0%
 Ontdek hoe Adobe Journey Optimizer heeft gebruikt om experimenten te schalen, investeringsrendement te verbeteren en persoonlijke ervaringen op schaal te bieden.
 
 <!-- 72_S531_3442531_124_scaling-experimentation-with-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458240/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460426/?learn=on&enablevpops=true&captions=dut)

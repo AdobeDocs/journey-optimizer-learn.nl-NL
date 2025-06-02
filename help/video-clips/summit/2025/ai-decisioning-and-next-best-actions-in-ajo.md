@@ -20,4 +20,4 @@ ht-degree: 0%
 Onderzoek hoe Adobe Journey Optimizer AI gebruikt om reizen, wegen, en kanalen voor persoonlijke klantenervaringen te optimaliseren.
 
 <!-- 62_S520_3442520_184_ai-decisioning-and-next-best-actions-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3458188/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460237/?learn=on&enablevpops=true&captions=dut)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer om een IP pool tot stand te brengen om uw afzenderreputatie te beschermen en e-mailleverbaarheid op te voeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463145/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463255/?learn=on&enablevpops&captions=dut)

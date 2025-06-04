@@ -6,9 +6,10 @@ role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
-source-git-commit: 461906416a976ef9a9dea4fdb583b853b4fe61c7
+source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 3%
@@ -48,7 +49,7 @@ Voeg een identiteitsgebied **_toe midden_** onder het voorwerp SystemIdentifier.
 * Creeer een dataset genoemd **_FinWiseCustomerDataSetWithAnnualIncome_** die op **_wordt gebaseerd FinWiseProfileSchema_** in de vroegere stap wordt gecreeerd
 
 * Ga naar Verbindingen -> Bronnen -> Lokaal systeem
-* Selecteer **_Gegevens_** toevoegen onder de Lokale dossierupload. Zorg ervoor om _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ als doeldataset te selecteren.
+* Selecteer **_Gegevens_** toevoegen onder de Lokale dossierupload. Zorg ervoor om _**FinWiseCustomerDataSetWithAnnualIncome**_ als doeldataset te selecteren.
   ![ ingest-csv ](assets/ingest-csv-into-dataset.png)
 * Navigeer naar het volgende scherm. Upload het [ csv- dossier ](assets/finwise_profiles.csv) en verifieer de afbeeldingen
   ![ afbeeldingen ](assets/mappings.png)

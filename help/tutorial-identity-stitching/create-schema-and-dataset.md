@@ -6,8 +6,10 @@ role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-18089
-source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
+exl-id: 8bb85ba7-3c50-4596-88f8-e112c48a8253
+source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -25,7 +27,7 @@ Een XDM-schema maken
 * Aanmelden bij Adobe Experience Platform
 * Gegevensbeheer -> Schema&#39;s -> Schema maken
 
-* Creeer een XDM gebeurtenis gebaseerd schema genoemd **_Financiële Advisors_**. Als u niet vertrouwd met het creëren van een schema bent, te volgen gelieve deze [ documentatie ](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Creeer een XDM gebeurtenis gebaseerd schema genoemd **_Financiële Advisors_**. Als u niet vertrouwd met het creëren van een schema bent, te volgen gelieve deze [ documentatie ](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
 * Controleer of het schema is ingeschakeld voor het profiel.
@@ -54,4 +56,3 @@ Een gegevensstroom in Adobe Experience Platform is vergelijkbaar met een beveili
 * Kies de aangewezen (vroeger gecreeerd) dataset van de gebeurtenisdataset.
 
 * Sla de gegevensstroom op.
-

@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Een op code gebaseerd ervaringskanaal maken
 
-Een op code-gebaseerde ervaring in Adobe Journey Optimizer (AJO) [!UICONTROL  Beslissing ] is een configuratie die de levering van gepersonaliseerde aanbiedingen direct in een Web-pagina toelaat gebruikend cliënt-kant JavaScript. In plaats van zich het baseren op vooraf bepaalde malplaatjes of visuele lay-outhulpmiddelen, geeft deze benadering ontwikkelaars volledige controle over wanneer en waar de aanbiedingen gebruikend het Web SDK van Adobe (`Alloy.js`) worden teruggegeven.
+Een op code-gebaseerde ervaring in Adobe Journey Optimizer (AJO) [!UICONTROL &#x200B; Beslissing &#x200B;] is een configuratie die de levering van gepersonaliseerde aanbiedingen direct in een Web-pagina toelaat gebruikend cliënt-kant JavaScript. In plaats van zich het baseren op vooraf bepaalde malplaatjes of visuele lay-outhulpmiddelen, geeft deze benadering ontwikkelaars volledige controle over wanneer en waar de aanbiedingen gebruikend het Web SDK van Adobe (`Alloy.js`) worden teruggegeven.
 
 ![ creeer-kanaal ](assets/cbe-channel.png)

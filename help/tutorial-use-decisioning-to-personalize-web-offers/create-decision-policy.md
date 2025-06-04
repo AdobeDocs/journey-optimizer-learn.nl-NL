@@ -18,9 +18,9 @@ ht-degree: 0%
 
 # Beslissingsbeleid maken
 
-Het beleid van het besluit is containers voor uw aanbiedingen die hefboomwerking de [!UICONTROL  Duidelijke ] motor om de beste inhoud te kiezen te leveren, afhankelijk van het publiek.
+Het beleid van het besluit is containers voor uw aanbiedingen die hefboomwerking de [!UICONTROL &#x200B; Duidelijke &#x200B;] motor om de beste inhoud te kiezen te leveren, afhankelijk van het publiek.
 
-1. In de verpersoonlijkingsredacteur, klik ]**punt van het beleid van de Beslissing**[!UICONTROL  in de linkernavigatie, dan klik **[!UICONTROL besluitvormingsbeleid]** toevoegen.
+1. In de verpersoonlijkingsredacteur, klik **punt van het beleid van de Beslissing** in de linkernavigatie, dan klik **[!UICONTROL besluitvormingsbeleid]** toevoegen.
 
    ![ creeer-besluit-beleid ](assets/decision-policy.png)
 

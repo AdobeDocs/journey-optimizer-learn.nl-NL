@@ -22,4 +22,4 @@ Leer hoe te om aan binnenkomende acties voorrang te geven, ervoor zorgend dat de
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
 
-Zie de productdocumentatie voor meer informatie over [ het in kaart brengen van de Reis &amp; arbitrage ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping).
+Zie de productdocumentatie voor meer informatie over [ het in kaart brengen van de Reis &amp; arbitrage ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping).

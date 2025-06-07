@@ -22,4 +22,4 @@ Ontdek hoe u potentiële conflicten kunt onderkennen en beheren - zoals overlapp
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
 
-Zie de productdocumentatie voor meer informatie over hoe te [ potentiële conflicten in reizen &amp; campagnes ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/conflicts) ontdekken.
+Zie de productdocumentatie voor meer informatie over hoe te [ potentiële conflicten in reizen &amp; campagnes ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/conflict-prioritization/conflicts) ontdekken.

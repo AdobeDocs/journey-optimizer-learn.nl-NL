@@ -22,4 +22,4 @@ Leer hoe te om aan binnenkomende acties voorrang te geven, ervoor zorgend dat de
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435529/?learn=on&enablevpops)
 
-Zie de productdocumentatie voor meer informatie over hoe te [ prioritaire scores aan reizen &amp; campagnes ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/priority-scores) toewijzen.
+Zie de productdocumentatie voor meer informatie over hoe te [ prioritaire scores aan reizen &amp; campagnes ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/conflict-prioritization/priority-scores) toewijzen.

@@ -23,7 +23,7 @@ Deze [ video beschrijft het proces om de Markeringen van de Ervaring van Adobe t
 
 * Aanmelden bij gegevensverzameling
 * Klik op Labels -> Nieuwe eigenschap
-* Creeer een markering van Adobe Experience Platform genoemd _**verpersoonlijking-op-weer**_.
+* Creeer een markering van Adobe Experience Platform genoemd _&#x200B;**verpersoonlijking-op-weer**&#x200B;_.
 
 * De volgende extensies toevoegen aan de tag
   ![ markeringen-uitbreidingen ](assets/tags-extensions1.png)

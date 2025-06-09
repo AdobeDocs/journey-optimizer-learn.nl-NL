@@ -23,7 +23,7 @@ Bij het nemen van de biedingen wordt in Adobe Journey Optimizer een rangschikkin
 
 * Beslissing ->Strategie-instelling ->Beoordelingsformules ->Formule maken
 
-Noem de formule _**Weer - Verwant - Aanbiedingen**_
+Noem de formule _&#x200B;**Weer - Verwant - Aanbiedingen**&#x200B;_
 
 
 

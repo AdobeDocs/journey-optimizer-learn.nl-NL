@@ -76,7 +76,7 @@ Deze instelling gebruikt de ECID als primaire identiteit voor het herkennen van 
 
    Om het besluitvormingsbeleid op te nemen geeft de klik **_inhoud_** in de secties van Acties uit en klikt dan **_code_** uit om de verpersoonlijkingsredacteur te openen.
 
-   Selecteer _**pictogram van het Beleid van het Besluit**_ op de linkerzijde en klik op **voeg besluitvormingsbeleid** knoop toe om **te openen creeer besluitvormingsbeleid** scherm. Geef het beslissingsbeleid een betekenisvolle naam en selecteer het aantal items dat het beslissingsbeleid moet retourneren. De standaardwaarde is 1.
+   Selecteer _&#x200B;**pictogram van het Beleid van het Besluit**&#x200B;_ op de linkerzijde en klik op **voeg besluitvormingsbeleid** knoop toe om **te openen creeer besluitvormingsbeleid** scherm. Geef het beslissingsbeleid een betekenisvolle naam en selecteer het aantal items dat het beslissingsbeleid moet retourneren. De standaardwaarde is 1.
 Klik **_volgende_**, en voeg de selectiestrategie toe die in de vroegere stap aan het besluitvormingsbeleid wordt gecreeerd en klik **daarna** om het proces te voltooien om het besluitvormingsbeleid te creëren. Er zijn geen terugvalvoorstellen gekoppeld aan het besluitvormingsbeleid.
 
 
@@ -85,7 +85,7 @@ Klik **_volgende_**, en voeg de selectiestrategie toe die in de vroegere stap aa
 
    ![ verpersoonlijking-redacteur ](assets/personalization-editor.png)
 
-   Tussenvoegsel het onlangs gecreeerde besluitvormingsbeleid door op de _**knoop van het Beleid van het Tussenvoegsel**_ te klikken. Dit neemt een for lijn in de verpersoonlijkingsredacteur aan de rechterkant op.
+   Tussenvoegsel het onlangs gecreeerde besluitvormingsbeleid door op de _&#x200B;**knoop van het Beleid van het Tussenvoegsel**&#x200B;_ te klikken. Dit neemt een for lijn in de verpersoonlijkingsredacteur aan de rechterkant op.
 Plaats de cursor tussen de lus op regel twee en voeg de offerText in door naar het aanbod te navigeren door naar de lus te gaan door de `tenant name` omlaag te boren
 
    De code Handlebars doorloopt de aanbiedingen die door een specifiek besluitvormingsbeleid in Adobe Journey Optimizer zijn teruggekeerd.

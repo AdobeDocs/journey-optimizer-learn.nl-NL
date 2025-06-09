@@ -39,7 +39,7 @@ A **dataset in Adobe Experience Platform (AEP)** is een gestructureerde opslagco
 
 
 * Gegevensbeheer -> Datasets -> Gegevensset maken
-* Creeer een dataset genoemd **_Weer-schema-dataset_** die op het XDM schema (_**wordt gebaseerd Weer-Schema**_) in de vorige stap wordt gecreeerd.
+* Creeer een dataset genoemd **_Weer-schema-dataset_** die op het XDM schema (_&#x200B;**wordt gebaseerd Weer-Schema**&#x200B;_) in de vorige stap wordt gecreeerd.
 
 
 ## Een DataStream maken

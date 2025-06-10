@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Bij het nemen van de biedingen wordt in Adobe Journey Optimizer een rangschikkin
 
 * Aanmelden bij Journey Optimizer
 
-* Beslissing ->Strategie-instelling ->Beoordelingsformules ->Formule maken
+* Navigeer aan _**Beslissing ->Strategieopstelling ->Rangschikkende formules ->creeer formule**_
 
-Noem de formule _&#x200B;**Weer - Verwant - Aanbiedingen**&#x200B;_
+Noem de formule _**Weer - Verwant - Aanbiedingen**_
 
 
 
@@ -32,7 +32,7 @@ Een criterium in een rangschikkingsformule verwijst naar een voorwaardelijke reg
 De volgende 3 criteria worden gedefinieerd om aanbiedingen te filteren en dan een rangschikkingsscore toe te wijzen aan de kwalificerende aanbieding. De criteria worden gedefinieerd met behulp van de criteria builder. De contextgegevens kunnen ook worden gebruikt voor het definiëren van de criteria zoals weergegeven in de onderstaande schermafbeelding
 ![ context-gegevens ](assets/context-data.png)
 
-Alle drie de criteria hebben bij het definiëren van de criteria een aanbiedingskenmerk(tag) en een kenmerk(temperatuur) voor contextgegevens gebruikt.
+Alle drie de criteria hebben bij het definiëren van de criteria een aanbiedingskenmerk(tag) en een contextgegevenskenmerk(temperatuur) gebruikt.
 
 ## Criteria één
 

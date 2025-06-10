@@ -23,7 +23,7 @@ Een selectiestrategie maken
 
 * Aanmelden bij Journey Optimizer
 
-* Navigeer aan _**Beslissing ->Strategie opstelling ->de strategieën van de Selectie ->creeer selectiestrategie**_
+* Navigeer aan _&#x200B;**Beslissing ->Strategie opstelling ->de strategieën van de Selectie ->creeer selectiestrategie**&#x200B;_
 
 * Geef de naam van de selectiestrategie, de verzameling, de geschiktheid en de beoordelingsmethode op, zoals in de schermafbeelding wordt getoond
 

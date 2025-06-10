@@ -21,9 +21,9 @@ Bij het nemen van de biedingen wordt in Adobe Journey Optimizer een rangschikkin
 
 * Aanmelden bij Journey Optimizer
 
-* Navigeer aan _**Beslissing ->Strategieopstelling ->Rangschikkende formules ->creeer formule**_
+* Navigeer aan _&#x200B;**Beslissing ->Strategieopstelling ->Rangschikkende formules ->creeer formule**&#x200B;_
 
-Noem de formule _**Weer - Verwant - Aanbiedingen**_
+Noem de formule _&#x200B;**Weer - Verwant - Aanbiedingen**&#x200B;_
 
 
 

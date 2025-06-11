@@ -23,7 +23,7 @@ Met verzamelingen kunt u uw beslissingsitems categoriseren en groeperen op basis
 Stappen om een verzameling te maken
 
 * Aanmelden bij Journey Optimizer
-* Navigeer aan _**Markeringen ->creeer markeringscategorie**_ (_**WeatherRelatedOffers**_)
+* Navigeer aan _&#x200B;**Markeringen ->creeer markeringscategorie**&#x200B;_ (_&#x200B;**WeatherRelatedOffers**&#x200B;_)
 * Klik op Opslaan
-* Klik op Tags maken (warm, koud, veer). Deze markeringen zouden onder _**WeatherRelatedOffers**_ markeringscategorie moeten zijn
+* Klik op Tags maken (warm, koud, veer). Deze markeringen zouden onder _&#x200B;**WeatherRelatedOffers**&#x200B;_ markeringscategorie moeten zijn
 

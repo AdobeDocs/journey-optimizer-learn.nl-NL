@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -31,14 +31,14 @@ Voorbeeld van een op weersomstandigheden gebaseerde aanbieding
 
 ## Voorwaarden voor deze zelfstudie
 
-* Toegang tot Experience Platform
+* Toegang tot Experience Platform.
 
-* Basisbegrip van Adobe Experience Platform-tags
+* Basisbegrip van Adobe Experience Platform-tags.
 
-* Basiskennis van Experience Platform-concepten (profielen, soorten publiek, gegevenssets)
+* Basiskennis van Experience Platform-concepten (profielen, soorten publiek, gegevenssets).
 
-* Kennis van Journey Optimizer
+* Kennis van Journey Optimizer.
 
-* Basiskennis van JavaScript (eenvoudige functies lezen en schrijven)
+* Basiskennis van JavaScript (eenvoudige functies lezen en schrijven).
 
-* Mogelijkheid om Browser DevTools te gebruiken (tabbladen Console en Netwerk)
+* Mogelijkheid om Browser DevTools (de lusjes van de Console en van het Netwerk) te gebruiken.

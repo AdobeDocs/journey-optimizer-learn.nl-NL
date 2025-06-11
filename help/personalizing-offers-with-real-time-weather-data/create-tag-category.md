@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
 recommendations: noDisplay, noCatalog
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 6%
@@ -23,7 +23,7 @@ Met verzamelingen kunt u uw beslissingsitems categoriseren en groeperen op basis
 Stappen om een verzameling te maken
 
 * Aanmelden bij Journey Optimizer
-* Navigeer aan Markeringen ->creeer markeringscategorie (_&#x200B;**WeatherRelatedOffers**&#x200B;_)
+* Navigeer aan _**Markeringen ->creeer markeringscategorie**_ (_**WeatherRelatedOffers**_)
 * Klik op Opslaan
-* Klik op Tags maken (warm, koud, veer). Deze markeringen zouden onder _&#x200B;**WeatherRelatedOffers**&#x200B;_ markeringscategorie moeten zijn
+* Klik op Tags maken (warm, koud, veer). Deze markeringen zouden onder _**WeatherRelatedOffers**_ markeringscategorie moeten zijn
 

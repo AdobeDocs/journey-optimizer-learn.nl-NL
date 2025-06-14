@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe te om aan binnenkomende acties voorrang te geven, ervoor zorgend dat de hoogste prioritaire inhoud aan een klant wordt geleverd wanneer zij voor veelvoudige binnenkomende acties gebruikend de zelfde kanaalconfiguratie kwalificeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445007/?learn=on&enablevpops&captions=dut)
 
 Zie de productdocumentatie voor meer informatie over hoe te [ prioritaire scores aan reizen &amp; campagnes ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/conflict-prioritization/priority-scores) toewijzen.

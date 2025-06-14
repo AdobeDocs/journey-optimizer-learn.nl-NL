@@ -24,4 +24,4 @@ De Bouwer van de Formule in Adobe Journey Optimizer is een visuele interface die
 
 Deze video geeft u een kort overzicht van de gebruikersinterface van de Bouwer van de Formule.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463738?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3463745?quality=12&learn=on&captions=dut){transcript=true}

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Leer hoe u het e-mailkanaal in Adobe Journey Optimizer configureert. De video loopt door vestiging e-mailconfiguraties, met inbegrip van subdomeinen, IP pools, unsubscribe beheer, afzenderverpersoonlijking, BCC en zaadlijsten, retry logica, en volgende parameters. Het benadrukt naleving, leverability, en verpersoonlijking om marketing e-mailprestaties te optimaliseren.
 
->[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3463863?quality=12&learn=on&captions=dut){transcript=true}

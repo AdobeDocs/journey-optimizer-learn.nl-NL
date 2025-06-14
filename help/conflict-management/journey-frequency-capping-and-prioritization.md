@@ -1,5 +1,5 @@
 ---
-title: Afbakening en prioritering van reisfrequenties
+title: Reisfrequentiecapping en Prioriteit
 description: Leer hoe te om aan binnenkomende acties voorrang te geven, ervoor zorgend dat de hoogste prioritaire inhoud aan een klant wordt geleverd wanneer zij voor veelvoudige binnenkomende acties gebruikend de zelfde kanaalconfiguratie kwalificeren.
 feature: Frequency Rules, Journeys
 role: Admin, User
@@ -8,18 +8,18 @@ doc-type: Feature Video
 duration: 274
 last-substantial-update: 2025-06-07T00:00:00Z
 jira: KT-18267
-source-git-commit: cd99fb618d94e507b7d6dfd8810a275287eb96df
+source-git-commit: dfe947bd40b787ac6e3e1a6f3e2c4c9f25791a1d
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
 
-# Reisfrequentietoewijzing en -prioritering
+# Afbakening en prioritering van de reisfrequentie
 
 Leer hoe te om aan binnenkomende acties voorrang te geven, ervoor zorgend dat de hoogste prioritaire inhoud aan een klant wordt geleverd wanneer zij voor veelvoudige binnenkomende acties gebruikend de zelfde kanaalconfiguratie kwalificeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447621/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
 
-Zie de productdocumentatie voor meer informatie over [ het in kaart brengen van de Reis &amp; arbitrage ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping).
+Zie de productdocumentatie voor meer informatie over [ het in kaart brengen van de Reis &amp; arbitrage ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping).

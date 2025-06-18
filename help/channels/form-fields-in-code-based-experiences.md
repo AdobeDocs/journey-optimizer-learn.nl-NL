@@ -1,5 +1,5 @@
 ---
-title: Formuliervelden toevoegen aan codesjablonen voor Experience Channel
+title: Formuliervelden toevoegen aan op code gebaseerde ervaringskanaalsjablonen
 description: Ontdek hoe ontwikkelaars de samenwerking met marketingteams kunnen stroomlijnen door bewerkbare velden binnen op code gebaseerde ervaringskanalen in te schakelen. Leer hoe u bewerkbare JSON- en HTML-velden in inhoudssjablonen definieert, zodat marketers campagneelementen zoals titels en beschrijvingen kunnen bijwerken zonder de code aan te raken. Zie hoe het ingebedde besluitvormingsbeleid verpersoonlijking direct binnen malplaatjes-opdrijvende efficiency bevordert, fouten vermindert, en campagnelevering versnelt.
 feature: Code-based Experiences
 role: Developer
@@ -10,7 +10,7 @@ last-substantial-update: 2025-06-17T00:00:00Z
 jira: KT-18362
 hidefromtoc: false
 hide: false
-source-git-commit: 7bd4e66d31fb4182ded4ad14f8f9f426b5051019
+source-git-commit: cbc906146f595623281a1cbe66e8a4dbd7a65800
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -18,10 +18,10 @@ ht-degree: 0%
 ---
 
 
-# Formuliervelden toevoegen aan codesjablonen voor Experience Channel
+# Formuliervelden toevoegen aan op code gebaseerde ervaringskanaalsjablonen
 
 Ontdek hoe ontwikkelaars de samenwerking met marketingteams kunnen stroomlijnen door bewerkbare velden binnen op code gebaseerde ervaringskanalen in te schakelen. Leer hoe u bewerkbare JSON- en HTML-velden in inhoudssjablonen definieert, zodat marketers campagneelementen zoals titels en beschrijvingen kunnen bijwerken zonder de code aan te raken. Zie hoe het ingebedde besluitvormingsbeleid verpersoonlijking direct binnen malplaatjes-opdrijvende efficiency bevordert, fouten vermindert, en campagnelevering versnelt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463997/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3463990/?learn=on&enablevpops)
 
 Voor meer informatie, verwijs naar de gedetailleerde [ productdocumentatie ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields).

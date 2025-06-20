@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-05T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17728
 exl-id: a48a3702-4d66-467b-a7ec-9d91b81b771d
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 09c69d341e71af641febd74d319c28af1932ecec
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '138'
 ht-degree: 4%
 
 ---
@@ -22,6 +22,8 @@ In Adobe Journey Optimizer (AJO) fungeert een campagne als een container waarin 
 
 1. Aanmelden bij Journey Optimizer.
 1. Klik **[!UICONTROL Beheer van de Reis]** > **[!UICONTROL Campagnes]** > **[!UICONTROL creeer campagne]** > **[!UICONTROL Plan Marketing]**.
+1. Geef de campagne een betekenisvolle naam
+1. Ga aan het _**lusje van de Actie**_
 1. Selecteer **[!UICONTROL op code-gebaseerde ervaring]** actie, dan de configuratie die in de vroegere stap wordt gecreeerd selecteren.
 1. Klik **[!UICONTROL uitgeven inhoud]**.
 

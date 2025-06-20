@@ -34,7 +34,7 @@ Wanneer een gebruiker de website bezoekt, detecteert het systeem de locatie en h
 - Een kanaalconfiguratie maken
    - Bepaal waar en hoe de aanbiedingen worden weergegeven (bijvoorbeeld een webpagina met ervaring in code).
    - Aanmelden bij Reisoptimzer
-   - Navigeer aan _**Beleid ->Kanalen ->creeer kanaalconfiguratie**_
+   - Navigeer aan _&#x200B;**Beleid ->Kanalen ->creeer kanaalconfiguratie**&#x200B;_
    - **Naam**: `offers-by-weather`\
      Identificeert deze configuratie voor gepersonaliseerde levering van Webaanbieding.
 - **Kanaal**:
@@ -68,7 +68,7 @@ Deze instelling gebruikt de ECID als primaire identiteit voor het herkennen van 
 - **creeer het Beleid van het Besluit**
    - De actie is verbonden met het Beleid van het a **Besluit** dat bepaalt hoe de aanbiedingen worden geselecteerd en hoeveel aanbiedingen voor vertoning zijn teruggekeerd. Dit beleid gebruikt a **Strategie van de Selectie** die vroeger in het leerprogramma werd gecreeerd.
    - Om het besluitvormingsbeleid op te nemen geeft de klik **_inhoud_** in de secties van Acties uit en klikt dan **_code_** uit om de verpersoonlijkingsredacteur te openen.
-   - Selecteer _**pictogram van het Beleid van het Besluit**_ op de linkerzijde en klik op **voeg besluitvormingsbeleid** knoop toe om **te openen creeer besluitvormingsbeleid** scherm. Geef het beslissingsbeleid een betekenisvolle naam en selecteer het aantal items dat het beslissingsbeleid moet retourneren. De standaardwaarde is 1.
+   - Selecteer _&#x200B;**pictogram van het Beleid van het Besluit**&#x200B;_ op de linkerzijde en klik op **voeg besluitvormingsbeleid** knoop toe om **te openen creeer besluitvormingsbeleid** scherm. Geef het beslissingsbeleid een betekenisvolle naam en selecteer het aantal items dat het beslissingsbeleid moet retourneren. De standaardwaarde is 1.
    - Klik **_volgende_**, en voeg de selectiestrategie toe die in de vroegere stap aan het besluitvormingsbeleid wordt gecreeerd en klik **daarna** om het proces te voltooien om het besluitvormingsbeleid te creëren. Er zijn geen terugvalvoorstellen gekoppeld aan het besluitvormingsbeleid.
 
 
@@ -76,7 +76,7 @@ Deze instelling gebruikt de ECID als primaire identiteit voor het herkennen van 
 - **Tussenvoegsel het Beleid van het Besluit**
   ![ verpersoonlijking-redacteur ](assets/personalization-editor.png)
 
-  Tussenvoegsel het onlangs gecreeerde besluitvormingsbeleid door op de _**knoop van het Beleid van het Tussenvoegsel**_ te klikken. Dit neemt een for lijn in de verpersoonlijkingsredacteur aan de rechterkant op.
+  Tussenvoegsel het onlangs gecreeerde besluitvormingsbeleid door op de _&#x200B;**knoop van het Beleid van het Tussenvoegsel**&#x200B;_ te klikken. Dit neemt een for lijn in de verpersoonlijkingsredacteur aan de rechterkant op.
 Plaats de cursor tussen de lus op regel twee en voeg de offerText in door naar het aanbod te navigeren door naar de lus te gaan door de `tenant name` omlaag te boren
 
   De code Handlebars doorloopt de aanbiedingen die door een specifiek besluitvormingsbeleid in Adobe Journey Optimizer zijn teruggekeerd.

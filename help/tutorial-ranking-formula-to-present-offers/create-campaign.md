@@ -38,7 +38,7 @@ Het resultaat is een op maat gemaakte reeks aanbiedingen, die als HTML-inhoud wo
 1. **creeer een Configuratie van het Kanaal**\
    Bepaal waar en hoe de aanbiedingen worden weergegeven (bijvoorbeeld een webpagina met ervaring in code).
    - Aanmelden bij Reisoptimzer
-Navigeer aan _**Beleid ->Kanalen ->creeer kanaalconfiguratie**_
+Navigeer aan _&#x200B;**Beleid ->Kanalen ->creeer kanaalconfiguratie**&#x200B;_
    - **Naam**: `finwise-web-personalization`\
      Identificeert deze configuratie voor de gepersonaliseerde levering van de Webaanbieding van FinWise.
 
@@ -64,13 +64,13 @@ Navigeer aan _**Beleid ->Kanalen ->creeer kanaalconfiguratie**_
 
 
 3. **voeg Actie** toe\
-   Navigeer aan _**Acties**_ lusje
+   Navigeer aan _&#x200B;**Acties**&#x200B;_ lusje
 Voeg op code-gebaseerde-ervaring actie toe en verbind de actie met een eerder gecreeerde kanaalconfiguratie.
 
 
 
 4. **Doelgroep**\
-   Navigeer aan _**Publiek**_ lusje
+   Navigeer aan _&#x200B;**Publiek**&#x200B;_ lusje
 Alle bezoekers (standaard).
 
    Identiteitstype: ECID (Experience Cloud-id)
@@ -81,14 +81,14 @@ Deze instelling gebruikt de ECID als primaire identiteit voor het herkennen van 
 
    De actie is verbonden met het Beleid van het a **Besluit** dat bepaalt hoe de aanbiedingen worden geselecteerd en hoeveel aanbiedingen voor vertoning zijn teruggekeerd. Dit beleid gebruikt a **Strategie van de Selectie** die vroeger in het leerprogramma werd gecreeerd.
 
-   Om het besluitvormingsbeleid op te nemen geeft de klik **_inhoud_** in het _**3} lusje van Acties {uit en klikt dan**_ code _**uit om de verpersoonlijkingsredacteur te openen.**_
+   Om het besluitvormingsbeleid op te nemen geeft de klik **_inhoud_** in het _&#x200B;**3&rbrace; lusje van Acties &lbrace;uit en klikt dan**&#x200B;_ code _&#x200B;**uit om de verpersoonlijkingsredacteur te openen.**&#x200B;_
 
-   Selecteer _**pictogram van het Beleid van het Besluit**_ op de linkerzijde en klik op **voeg besluitvormingsbeleid** knoop toe om **te openen creeer besluitvormingsbeleid** scherm. Geef het beslissingsbeleid een betekenisvolle naam en selecteer het aantal items dat het beslissingsbeleid moet retourneren. De standaardwaarde is 1.
+   Selecteer _&#x200B;**pictogram van het Beleid van het Besluit**&#x200B;_ op de linkerzijde en klik op **voeg besluitvormingsbeleid** knoop toe om **te openen creeer besluitvormingsbeleid** scherm. Geef het beslissingsbeleid een betekenisvolle naam en selecteer het aantal items dat het beslissingsbeleid moet retourneren. De standaardwaarde is 1.
 Klik **_volgende_**, en voeg de selectiestrategie toe die in de vroegere stap aan het besluitvormingsbeleid wordt gecreeerd en klik **daarna** om het proces te voltooien om het besluitvormingsbeleid te creëren. Selecteer de gewenste fallback-aanbieding.
 
 6. **Tussenvoegsel het Beleid van het Besluit**
 
-   Tussenvoegsel het onlangs gecreeerde besluitvormingsbeleid door op de _**knoop van het Beleid van het Tussenvoegsel**_ te klikken. Dit neemt een for lijn in de verpersoonlijkingsredacteur aan de rechterkant op.
+   Tussenvoegsel het onlangs gecreeerde besluitvormingsbeleid door op de _&#x200B;**knoop van het Beleid van het Tussenvoegsel**&#x200B;_ te klikken. Dit neemt een for lijn in de verpersoonlijkingsredacteur aan de rechterkant op.
 Plaats de cursor tussen de lus op regel twee en voeg de offerText in door naar het aanbod te navigeren door naar de lus te gaan door de `tenant name` omlaag te boren
 
    Beleid voor beslissingen ingevoegd in de personalisatie-editor
@@ -101,6 +101,6 @@ Plaats de cursor tussen de lus op regel twee en voeg de offerText in door naar h
 
 7. **sparen de campagne**
 
-   Sparen de campagne door op _**Overzicht te klikken om**_ knoop te activeren
+   Sparen de campagne door op _&#x200B;**Overzicht te klikken om**&#x200B;_ knoop te activeren
 
 

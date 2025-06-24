@@ -9,7 +9,8 @@ doc-type: Feature Video
 duration: 333
 last-substantial-update: 2025-06-24T00:00:00Z
 jira: KT-18432
-source-git-commit: 3028f97274815d21de68793ed3ae42053ea393b1
+exl-id: 83bbfccd-dc86-422a-8412-9135973084ad
+source-git-commit: 34337e2d18a9ed1f84ef53e8b91780f14a4e2e11
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -23,4 +24,4 @@ Leer hoe u HTML-componenten in een fragment bewerkbaar kunt maken, zodat u zowel
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
 
-Zie de [ productdocumentatie ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/content-management/fragments/customizable-fragments) voor meer informatie over deze eigenschap.
+Zie de [ productdocumentatie ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"} voor meer informatie over deze eigenschap.

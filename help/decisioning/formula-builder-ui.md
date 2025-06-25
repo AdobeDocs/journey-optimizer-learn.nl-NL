@@ -1,27 +1,27 @@
 ---
 title: Gids aan de Interface van de Bouwer van de Formule in Adobe Journey Optimizer
-description: Doorloop van de gebruikersinterface van Formula Builder
+description: Leer hoe u de AI Formula Builder in Adobe Journey Optimizer kunt gebruiken voor het maken van classificatiestrategieën voor aangepaste aanbiedingen.
 feature: Decisioning
 topic: Integrations
 role: User
 level: Beginner
 doc-type: Feature Video
-duration: 186
-last-substantial-update: 2025-06-06T00:00:00Z
+duration: 282
+last-substantial-update: 2025-06-25T00:00:00Z
 jira: KT-17614
 thumbnail: KT-17614.jpeg
-source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
+exl-id: 0926ec17-7b6a-49be-95c1-059366cdaa81
+source-git-commit: 5139c3f3de9943eac4f63cba386c551aac4a804a
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Gids aan de Interface van de Bouwer van de Formule in Adobe Journey Optimizer
 
-De Bouwer van de Formule in Adobe Journey Optimizer is een visuele interface die wordt gebruikt om rangschikkende formules tot stand te brengen die bepalen hoe de aanbiedingen tijdens beslissing aan voorrang worden gegeven. Marketers en ontwikkelaars kunnen aangepaste logica definiëren met behulp van profielkenmerken, contextuele gegevens (zoals locatie of weer) en metagegevens (zoals tags of labels). De formules worden gebruikt in het rangschikken strategieën om een numerieke score aan elk aanbod toe te wijzen, ervoor zorgen dat de meest relevante inhoud aan elke gebruiker wordt geleverd die op gegevens in real time wordt gebaseerd.
+Leer hoe u de AI Formula Builder in Adobe Journey Optimizer kunt gebruiken voor het maken van classificatiestrategieën voor aangepaste aanbiedingen.
 
+Deze analyse verklaart hoe te om de Bouwer van de Formule van AI te gebruiken om modelscores, profiel te combineren en gegevens, contextuele signalen, en bedrijfsregels aan te bieden om besluiten te personaliseren en aanbiedingen voorrang te geven die op uw marketing doelstellingen worden gebaseerd.
 
-Deze video geeft u een kort overzicht van de gebruikersinterface van de Bouwer van de Formule.
-
->[!VIDEO](https://video.tv.adobe.com/v/3463745?quality=12&learn=on&captions=dut){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3464446/?learn=on&enablevpops){transcript=true}

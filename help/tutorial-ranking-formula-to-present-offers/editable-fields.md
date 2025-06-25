@@ -25,11 +25,11 @@ Dit maakt snelle updates mogelijk en zorgt ervoor dat alle campagnes aan de vere
 ## Bewerkbaar veld invoegen in personalisatie-editor
 
 - Open de campagne die u in de vorige stap hebt gemaakt.
-- Klik _**wijzigen campagne**_
-- Navigeer aan _**Inhoud**_ lusje
-- Klik op _**geef code**_ uit en neem een editable gebied genoemd legalDisclaimer met een standaardwaarde op gebruikend de volgende syntaxis in de verpersoonlijkingsredacteur
+- Klik _&#x200B;**wijzigen campagne**&#x200B;_
+- Navigeer aan _&#x200B;**Inhoud**&#x200B;_ lusje
+- Klik op _&#x200B;**geef code**&#x200B;_ uit en neem een editable gebied genoemd legalDisclaimer met een standaardwaarde op gebruikend de volgende syntaxis in de verpersoonlijkingsredacteur
 
-- 
+- &#x200B;
   <pre><code>&#123;&#123;#inline &quot;legalDisclaimer&quot; name=&quot;Legal Disclaimer&quot;&#125;&#125; Legal Disclaimer will go here &#123;&#123;/inline&#125;&#125;</code></pre>
 
 - <code> {{legalDisclaimer}} gebruiken</code> variabele in de template, zoals hieronder weergegeven

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Bewerkbare formuliervelden gebruiken in AJO Code-gebaseerde ervaringen
 
-Bij veel marketingreizen, met name in gereglementeerde industrieën, is het van essentieel belang om een juridische disclaimer op te nemen die kan variëren afhankelijk van de campagne, de geografie of het product. Door een [ editable gebied ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences) direct in de Redacteur van Personalization van AJO te gebruiken, kunnen de marketers en de juridische teams volledige controle over de ontkenningstekst handhaven zonder ontwikkelaars te impliceren of besluitvormingslogica te wijzigen.
+Bij veel marketingreizen, met name in gereglementeerde industrieën, is het van essentieel belang om een juridische disclaimer op te nemen die kan variëren afhankelijk van de campagne, de geografie of het product. Door een [ editable gebied ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences) direct in de Redacteur van Personalization van AJO te gebruiken, kunnen de marketers en de juridische teams volledige controle over de ontkenningstekst handhaven zonder ontwikkelaars te impliceren of besluitvormingslogica te wijzigen.
 
 Dit maakt snelle updates mogelijk en zorgt ervoor dat alle campagnes aan de vereisten voldoen en maakt gebruik van bepaalde inhoud, zoals aanbiedingen.
 

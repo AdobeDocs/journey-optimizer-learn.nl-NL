@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Leer hoe u HTML-componenten in een fragment bewerkbaar kunt maken, zodat u zowel inhoud als opmaak dynamisch kunt bijwerken. U leert hoe u uw HTML kunt structureren, inline bewerkbare velden kunt configureren en deze kunt verbinden met standaardinhoud en CSS. Vervolgens test en valideert u uw wijzigingen in een live campagneomgeving.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464374/?learn=on&enablevpops&captions=dut)
 
 Zie de [ productdocumentatie ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"} voor meer informatie over deze eigenschap.

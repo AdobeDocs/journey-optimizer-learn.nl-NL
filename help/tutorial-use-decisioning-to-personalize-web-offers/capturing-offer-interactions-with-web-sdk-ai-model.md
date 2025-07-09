@@ -26,7 +26,7 @@ Controleer voordat u begint of het volgende is ingesteld:
 
 - Een werkende Adobe Launch-eigenschap met de Adobe Experience Platform Web SDK-extensie geïnstalleerd.
 
-- A [ datastream ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset) gevormd en in kaart gebracht aan uw zandbak van AEP.
+- A [ datastream ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset) gevormd en in kaart gebracht aan uw zandbak van AEP.
 
 - Een website waarop Starten wordt geïmplementeerd.
 
@@ -35,7 +35,7 @@ Controleer voordat u begint of het volgende is ingesteld:
 
 Om ervaringsgebeurtenissen te verzamelen, moet u eerst een dataset tot stand brengen waar deze gebeurtenissen zullen worden verzonden.
 
-Volg de stappen in dit [ worden vermeld artikel om het vereiste schema en de dataset ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset) tot stand te brengen die
+Volg de stappen in dit [ worden vermeld artikel om het vereiste schema en de dataset ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset) tot stand te brengen die
 
 ## Een gegevensstroom maken in AEP
 

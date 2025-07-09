@@ -25,6 +25,6 @@ ht-degree: 0%
 
 Deze zelfstudie introduceert de functie Reis Dry Run in Adobe Journey Optimizer, die marketers in staat stelt reislogica te testen zonder echte communicatie te verzenden. U zult leren hoe te om een reis op droge looppaswijze te activeren, opties zoals het onbruikbaar maken van wachttijden en externe gegevensbronnen vormen, en de metriek van de profielstroom interpreteren om publiekssegmentatie en voorwaardelijke logica te bevestigen. Begrijp hoe te om kwesties-zulke zoals typos in voorwaardenknopen-en te identificeren en te bevestigen hoe te om tot droge looprunrapporten voor verdere analyse toegang te hebben en uit te voeren alvorens de reis levend te lanceren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464681/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464688/?learn=on&enablevpops&captions=dut)
 
 Gelieve te zien de [ productdocumentatie ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run) voor meer informatie over deze eigenschap.

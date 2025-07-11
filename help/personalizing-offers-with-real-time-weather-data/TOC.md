@@ -1,14 +1,16 @@
 ---
-user-guide-title: Aanbiedingen personaliseren met gegevens voor weersomstandigheden in real time in Adobe Journey Optimizer via Web SDK
+title: Personaliseer Aanbiedingen met de Gegevens van het Weer in real time die Web SDK gebruiken
+description: Leer hoe u webinhoud kunt aanpassen op basis van real-time weersomstandigheden met Web SDK.
+user-guide-title: Personaliseer Aanbiedingen met de Gegevens van het Weer in real time die Web SDK gebruiken
 user-guide-description: Deze zelfstudie laat zien hoe u webinhoud kunt aanpassen op basis van weersomstandigheden in real-time. Wanneer een gebruiker de website bezoekt, wordt de huidige locatie gebruikt om live weergegevens op te halen, zoals temperatuur en omstandigheden (bijvoorbeeld regen, luchten). Deze contextuele informatie wordt verzonden naar Adobe Experience Platform gebruikend het Web SDK (legering), die Adobe Journey Optimizer toestaat om gerichte aanbiedingen-zoals seizoensbevorderende of weer-aangewezen productsuggesties-te evalueren en terug te keren die automatisch op de pagina worden teruggegeven.
+solution: Journey Optimizer
 role: Developer
 level: Beginner
-breadcrumb-title: personalizing-aanbiedingen-met-real-time-weer-data
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: c81c3ce8a2564b26a92cef821a1e45533c347f30
+source-git-commit: 0f49176c9295cf20721320386f37094a7bb3b38d
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---

@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Leer hoe u merkgebonden, interactieve RCS-berichten in Adobe Journey Optimizer configureert en verzendt met een aangepaste SMS-provider. Deze zelfstudie doorloopt de aanmeldgegevens van de instellings-API, webhooks en kanaalconfiguraties en bouwt vervolgens een reis om rijke, gepersonaliseerde berichtenbeleving—allemaal binnen de native messaging-app te leveren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464755/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464761/?learn=on&enablevpops&captions=dut)
 
 Gelieve te zien de [ productdocumentatie ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration) voor meer informatie over hoe te om RCS te vormen.

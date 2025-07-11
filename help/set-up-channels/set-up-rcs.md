@@ -23,4 +23,4 @@ Leer hoe u merkgebonden, interactieve RCS-berichten in Adobe Journey Optimizer c
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464755/?learn=on&enablevpops)
 
-Gelieve te zien de [ productdocumentatie ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration) voor meer informatie over hoe te om RCS te vormen.
+Gelieve te zien de [ productdocumentatie ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration) voor meer informatie over hoe te om RCS te vormen.

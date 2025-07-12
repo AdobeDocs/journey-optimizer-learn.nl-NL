@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Met de functie voor meertalige berichten kunt u inhoud in meerdere talen maken in één campagne of reis. Leer hoe u meertalige berichten maakt in Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430921/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452119/?learn=on&captions=dut)

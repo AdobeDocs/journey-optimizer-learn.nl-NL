@@ -24,4 +24,4 @@ In deze zelfstudie leert u hoe u een aanvullende id in Adobe Journey Optimizer k
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
 
-Voor meer informatie over supplementaire IDs, gelieve te zien de [ productdocumentatie ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).
+Voor meer informatie over supplementaire IDs, gelieve te zien de [ productdocumentatie ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).

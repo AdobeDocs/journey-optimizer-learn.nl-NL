@@ -22,6 +22,6 @@ ht-degree: 0%
 
 In deze zelfstudie leert u hoe u een aanvullende id in Adobe Journey Optimizer kunt inschakelen en toepassen. U zult zien hoe het gebruiken van supplementaire herkenningstekens profielen toestaat om reizen opnieuw in te gaan, over objecten series te herhalen, en berichten te personaliseren gebruikend contextuele gegevens zoals product ID, verzendende info, en meer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464798/?learn=on&enablevpops&captions=dut)
 
 Voor meer informatie over supplementaire IDs, gelieve te zien de [ productdocumentatie ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).

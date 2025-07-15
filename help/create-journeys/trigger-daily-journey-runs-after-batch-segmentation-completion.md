@@ -8,15 +8,18 @@ doc-type: Feature Video
 duration: 78
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18066
-source-git-commit: 217e3e8b416c89f2d7141849028dc4d88e0bd484
+exl-id: 0ea0c787-e18b-489d-8b27-1f4e528cc0bc
+badge: label="Beperkte beschikbaarheid" type="Informative"
+source-git-commit: 5ccc553ad53af612c37ef7765aba8fcd166676f5
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-
 # Dagelijkse ritten activeren na voltooiing van batchsegmentatie
+
+
 
 Leer hoe u publiekstrajecten voor lezen configureert om pas te starten nadat segmentatietaken zijn voltooid, zodat u zeker bent van gegevensnauwkeurigheid en -compatibiliteit.
 

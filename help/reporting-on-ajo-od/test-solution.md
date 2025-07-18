@@ -42,7 +42,7 @@ Open het bestand weer-aanbiedingen.html in de teksteditor en vervang de scriptta
 
 - Open de webpagina in uw favoriete browser.
 
-- Toestaan _**plaats het volgen**_. Dit is vereist om de weerdetails op basis van uw locatie te krijgen.
+- Toestaan _&#x200B;**plaats het volgen**&#x200B;_. Dit is vereist om de weerdetails op basis van uw locatie te krijgen.
 
 - Klik op de knop in de aanbiedingen om de gebeurtenis &#39;interactie&#39; te activeren.
 

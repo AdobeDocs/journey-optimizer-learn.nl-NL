@@ -21,6 +21,6 @@ De rapportinstellingen voor Adobe Journey Optimizer Offer Decisioning starten
 
 - Aanmelden bij Journey Optimizer
 
-- Navigeer aan _**Beleid ->Configuraties ->Rapporteren ->Beheren ->Gegevensset toevoegen**_
-- Selecteer _**Weer-schema-dataset**_, die de aanbiedingsindruk opslaat en gebeurtenissen klikt die in het vroegere leerprogramma worden geproduceerd.
+- Navigeer aan _&#x200B;**Beleid ->Configuraties ->Rapporteren ->Beheren ->Gegevensset toevoegen**&#x200B;_
+- Selecteer _&#x200B;**Weer-schema-dataset**&#x200B;_, die de aanbiedingsindruk opslaat en gebeurtenissen klikt die in het vroegere leerprogramma worden geproduceerd.
 

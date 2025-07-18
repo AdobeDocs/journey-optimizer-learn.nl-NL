@@ -18,13 +18,13 @@ ht-degree: 0%
 
 Voer de volgende stappen uit om de code in de personalisatie-editor te wijzigen:
 
-Navigeer aan _**beheer van de Reis ->Campagnes**_
+Navigeer aan _&#x200B;**beheer van de Reis ->Campagnes**&#x200B;_
 
-Open de aangewezen campagne en klik de _**campagne van het Einde**_ knoop om de campagne tegen te houden.
+Open de aangewezen campagne en klik de _&#x200B;**campagne van het Einde**&#x200B;_ knoop om de campagne tegen te houden.
 
-Open de tegengehouden campagne en klik op _**wijzigen campagne**_ knoop.
+Open de tegengehouden campagne en klik op _&#x200B;**wijzigen campagne**&#x200B;_ knoop.
 
-Klik op _**Inhoud**_ lusje en klik dan op _**geef code**_ knoop uit om de verpersoonlijkingsredacteur te openen.
+Klik op _&#x200B;**Inhoud**&#x200B;_ lusje en klik dan op _&#x200B;**geef code**&#x200B;_ knoop uit om de verpersoonlijkingsredacteur te openen.
 
 Twee nieuwe gegevenskenmerken aan de div toevoegen, zoals wordt weergegeven in de schermafbeelding
 ![ het volgen-teken ](assets/offer-item-with-tracking-code.png)

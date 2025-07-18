@@ -8,9 +8,10 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
+exl-id: 1c7fe9e7-ab72-4d7b-960a-512d0e25808b
+source-git-commit: 95a8abd08fbf57900870826112b01a8cd375fe96
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -23,34 +24,36 @@ Om Adobe Experience Platform Web SDK (Alloy.js) op een Web-pagina te gebruiken, 
 
 Een XDM-schema maken
 
-* Aanmelden bij Adobe Experience Platform
-* Navigeer aan _&#x200B;**Gegevensbeheer -> Schema&#39;s -> creeer schema**&#x200B;_
+- Aanmelden bij Adobe Experience Platform
+- Navigeer aan _**Gegevensbeheer -> Schema&#39;s -> creeer schema**_
 
-* Creeer een XDM gebeurtenis gebaseerd schema genoemd **_Weer-Schema_**. Als u niet vertrouwd met het creëren van een schema bent, te volgen gelieve deze [ documentatie ](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/tutorials/create-schema-ui)
+- Creeer een XDM gebeurtenis gebaseerd schema genoemd **_Weer-Schema_**. Als u niet vertrouwd met het creëren van een schema bent, te volgen gelieve deze [ documentatie ](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
-* Zorg ervoor dat het schema de volgende gebieden met aangewezen gegevenstype heeft.
+- Zorg ervoor dat het schema de volgende gebieden met aangewezen gegevenstype heeft.
 
-![ weer-schema ](assets/weather-schema.png)
+- ![ weer-schema ](assets/weather-schema.png)
+
+- Voeg de Details van het Web van de Groep van het Gebied _**aan het schema toe.**_ Deze veldgroep is vereist voor rapportagedoeleinden.
 
 ## Creeer een Dataset die op het Schema wordt gebaseerd
 
 A **dataset in Adobe Experience Platform (AEP)** is een gestructureerde opslagcontainer die wordt gebruikt om, gegevens in te voeren op te slaan en te activeren die op een bepaald schema XDM worden gebaseerd.
 
-* Navigeer aan _&#x200B;**Gegevensbeheer -> Datasets -> Create dataset**&#x200B;_
-* Creeer een dataset genoemd **_Weer-schema-dataset_** die op het XDM schema (_&#x200B;**wordt gebaseerd Weer-Schema**&#x200B;_) in de vorige stap wordt gecreeerd.
+- Navigeer aan _**Gegevensbeheer -> Datasets -> Create dataset**_
+- Creeer een dataset genoemd **_Weer-schema-dataset_** die op het XDM schema (_**wordt gebaseerd Weer-Schema**_) in de vorige stap wordt gecreeerd.
 
 
 ## Een DataStream maken
 
 Een gegevensstroom in Adobe Experience Platform is vergelijkbaar met een beveiligde pijplijn (of snelweg) die uw website of toepassing verbindt met Adobe-services, waardoor gegevens kunnen worden ingevoerd en inhoud op maat kan worden teruggestroomd.
 
-* Navigeer aan _&#x200B;**de Inzameling van Gegevens > Gegevensstromen**&#x200B;_, dan klik Nieuwe DataStream. Noem de datastream **weer-verwant-datastream**
+- Navigeer aan _**de Inzameling van Gegevens > Gegevensstromen**_, dan klik Nieuwe DataStream. Noem de datastream **weer-verwant-datastream**
 
 
-* Geef de volgende details op, zoals hieronder in de schermafbeelding wordt weergegeven
+- Geef de volgende details op, zoals hieronder in de schermafbeelding wordt weergegeven
   ![ datastream ](assets/datastream.png)
-* Klik op Opslaan, klik vervolgens op Toewijzing toevoegen en voeg de Adobe Experience Platform-service en de Dataset van de gebeurtenis toe met de desbetreffende selectievakjes ingeschakeld
+- Klik op Opslaan, klik vervolgens op Toewijzing toevoegen en voeg de Adobe Experience Platform-service en de Dataset van de gebeurtenis toe met de desbetreffende selectievakjes ingeschakeld
   ![ datastream-afbeelding ](assets/datastream-service.png)
 
-* Sla de gegevensstroom op.
+- Sla de gegevensstroom op.

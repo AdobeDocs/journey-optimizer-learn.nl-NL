@@ -27,7 +27,7 @@ Een XDM-schema maken
 - Aanmelden bij Adobe Experience Platform
 - Navigeer aan _&#x200B;**Gegevensbeheer -> Schema&#39;s -> creeer schema**&#x200B;_
 
-- Creeer een XDM gebeurtenis gebaseerd schema genoemd **_Weer-Schema_**. Als u niet vertrouwd met het creëren van een schema bent, te volgen gelieve deze [ documentatie ](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
+- Creeer een XDM gebeurtenis gebaseerd schema genoemd **_Weer-Schema_**. Als u niet vertrouwd met het creëren van een schema bent, te volgen gelieve deze [ documentatie ](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
 - Zorg ervoor dat het schema de volgende gebieden met aangewezen gegevenstype heeft.

@@ -20,7 +20,7 @@ ht-degree: 0%
 Als u rapportage over AJO-presentaties en -klikken wilt inschakelen, moeten de volgende onderdelen zijn geconfigureerd:
 >[!NOTE]
 >
-> Deze eerste vereisten werden reeds voltooid in creeer schema en datasetsectie van het [ vorige leerprogramma ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
+> Deze eerste vereisten werden reeds voltooid in creeer schema en datasetsectie van het [ vorige leerprogramma ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
 
 ## 1. Dataset in Adobe Experience Platform (AEP)
 

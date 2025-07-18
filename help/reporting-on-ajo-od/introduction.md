@@ -31,7 +31,7 @@ Het doel is duidelijke, op gegevens gebaseerde inzichten te verschaffen in de ma
 
 ## Voorwaarden voor deze zelfstudie
 
-Alvorens te beginnen, voltooi de [ Persoonlijke Aanbiedingen met het Echte - de leerprogramma van Gegevens van het Echte - tijdGegevens.](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Alle basiscomponenten worden ingesteld, waaronder:
+Alvorens te beginnen, voltooi de [ Persoonlijke Aanbiedingen met het Echte - de leerprogramma van Gegevens van het Echte - tijdGegevens.](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Alle basiscomponenten worden ingesteld, waaronder:
 
 - Web SDK-integratie
 

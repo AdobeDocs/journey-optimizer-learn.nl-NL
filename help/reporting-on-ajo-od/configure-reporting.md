@@ -8,7 +8,8 @@ doc-type: Tutorial
 recommendations: noDisplay, noCatalog
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+exl-id: 5bff884b-17e2-4b86-affb-ea9cf3cc2a60
+source-git-commit: c2478bc3bde4c7770110a5672a0ffc425a117e62
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -19,8 +20,7 @@ ht-degree: 0%
 
 De rapportinstellingen voor Adobe Journey Optimizer Offer Decisioning starten
 
-- Aanmelden bij Journey Optimizer
+- Login aan _**Journey Optimizer**_
 
-- Navigeer aan _&#x200B;**Beleid ->Configuraties ->Rapporteren ->Beheren ->Gegevensset toevoegen**&#x200B;_
-- Selecteer _&#x200B;**Weer-schema-dataset**&#x200B;_, die de aanbiedingsindruk opslaat en gebeurtenissen klikt die in het vroegere leerprogramma worden geproduceerd.
-
+- Navigeer aan _**Beleid ->Configuraties ->Rapporteren ->Beheren ->Gegevensset toevoegen**_
+- Selecteer _**Weer-schema-dataset**_, die de aanbiedingsindruk opslaat en gebeurtenissen klikt die in het vroegere leerprogramma worden geproduceerd.

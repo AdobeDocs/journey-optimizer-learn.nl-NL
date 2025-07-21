@@ -8,19 +8,20 @@ doc-type: Tutorial
 recommendations: noDisplay, noCatalog
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 69bc8aace3cc502a18e691584824176833413c7e
+exl-id: 7e6014b5-c5a6-467b-8e31-58c5d966464c
+source-git-commit: ab60877bd5cb9eeeea45b1e1f08293d31929fc81
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
 
 # Impressies en interactiefuncties vastleggen
 
-Als u rapportage over AJO-presentaties en -klikken wilt inschakelen, moeten de volgende onderdelen zijn geconfigureerd:
+Om rapportering over aanbiedingsindrukkingen toe te laten en van het besluit van AJO te klikken, moeten de volgende componenten worden gevormd:
 >[!NOTE]
 >
-> Deze eerste vereisten werden reeds voltooid in creeer schema en datasetsectie van het [ vorige leerprogramma ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
+> Deze eerste vereisten werden reeds voltooid in creeer schema en datasetsectie van het [ vorige leerprogramma ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
 
 ## 1. Dataset in Adobe Experience Platform (AEP)
 

@@ -23,9 +23,9 @@ Met Adobe Experience Platform Tags (voorheen Adobe Launch) kunt u marketing- en 
 Deze [ video beschrijft het proces om de Markeringen van de Ervaring van Adobe te creëren ](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 - Aanmelden bij gegevensverzameling
-- Klik op _**Markeringen -> Nieuw Bezit**_
+- Klik op _&#x200B;**Markeringen -> Nieuw Bezit**&#x200B;_
 
-- Creeer een markering van Adobe Experience Platform genoemd _**verpersoonlijking-op-weer**_.
+- Creeer een markering van Adobe Experience Platform genoemd _&#x200B;**verpersoonlijking-op-weer**&#x200B;_.
 
 - De volgende extensies toevoegen aan de tag
   ![ markeringen-uitbreidingen ](assets/tags-extensions1.png)

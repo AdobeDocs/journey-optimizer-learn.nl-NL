@@ -20,7 +20,7 @@ ht-degree: 5%
 
 Adobe Experience Platform-tags worden gebruikt om de CRMID naar Adobe Experience Platform (AEP) te verzenden, omdat deze een flexibel, gebeurtenisgestuurd mechanisme biedt voor het rechtstreeks verzenden van identiteitsgegevens vanuit de browser. Als u CRMID na gebruikersaanmelding verzendt, kan AEP de anonieme ECID koppelen aan het bekende CRM-profiel, zodat u een nauwkeurige identiteitscontrole kunt instellen. Deze koppeling vormt de basis voor het samenstellen van uniforme klantprofielen, het kwalificeren van doelgroepen en het aanbieden van persoonlijke realtime ervaringen in Adobe Journey Optimizer (AJO).
 
-Een bezit van de Markeringen van Experience Platform genoemd _**FinWise**_ wordt gecreeerd. De volgende extensies zijn toegevoegd aan de eigenschap Tags
+Een bezit van de Markeringen van Experience Platform genoemd _&#x200B;**FinWise**&#x200B;_ wordt gecreeerd. De volgende extensies zijn toegevoegd aan de eigenschap Tags
 
 ![ markeringen-uitbreidingen ](assets/tags-extensions.png)
 

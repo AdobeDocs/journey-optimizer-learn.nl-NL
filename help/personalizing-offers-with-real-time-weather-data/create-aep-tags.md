@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Met Adobe Experience Platform Tags (voorheen Adobe Launch) kunt u marketing- en analysetechnologieën* op uw website beheren en implementeren zonder dat u de code van de site hoeft te wijzigen.
 
-Deze [ video beschrijft het proces om de Markeringen van de Ervaring van Adobe te creëren ](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
+Deze [ video beschrijft het proces om de Markeringen van de Ervaring van Adobe te creëren ](https://experienceleague.adobe.com/nl/playlists/experience-platform-get-started-with-tags)
 
 - Aanmelden bij gegevensverzameling
 - Klik op _&#x200B;**Markeringen -> Nieuw Bezit**&#x200B;_

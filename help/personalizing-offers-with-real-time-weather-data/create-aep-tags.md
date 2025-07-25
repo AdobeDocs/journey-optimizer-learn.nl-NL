@@ -9,23 +9,23 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 04fad076-e897-4831-9147-768721858a80
-source-git-commit: 29a20fe11dc6516f6fa15f7d7bf8948dd418aecd
+source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
-# AEP-tags maken
+# Adobe Experience Platform-tags maken
 
 Met Adobe Experience Platform Tags (voorheen Adobe Launch) kunt u marketing- en analysetechnologieën* op uw website beheren en implementeren zonder dat u de code van de site hoeft te wijzigen.
 
-Deze [ video beschrijft het proces om de Markeringen van de Ervaring van Adobe te creëren ](https://experienceleague.adobe.com/nl/playlists/experience-platform-get-started-with-tags)
+Deze [ video beschrijft het proces om de Markeringen van de Ervaring van Adobe te creëren ](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 - Aanmelden bij gegevensverzameling
-- Klik op _&#x200B;**Markeringen -> Nieuw Bezit**&#x200B;_
+- Klik op _**Markeringen -> Nieuw Bezit**_
 
-- Creeer een markering van Adobe Experience Platform genoemd _&#x200B;**verpersoonlijking-op-weer**&#x200B;_.
+- Creeer een markering van Adobe Experience Platform genoemd _**verpersoonlijking-op-weer**_.
 
 - De volgende extensies toevoegen aan de tag
   ![ markeringen-uitbreidingen ](assets/tags-extensions1.png)

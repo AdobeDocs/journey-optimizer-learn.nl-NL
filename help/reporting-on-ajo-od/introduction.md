@@ -1,5 +1,5 @@
 ---
-title: Adobe Journey Optimizer (AJO)-aanbiedingen volgen en rapporteren via AJO Offer Decisioning
+title: Aanbiedingen volgen en rapporteren Adobe Journey Optimizer (AJO) die via AJO-besluitvorming worden geleverd
 description: Deze zelfstudie breidt een bestaande Adobe Journey Optimizer (AJO)-implementatie uit die persoonlijke aanbiedingen biedt op basis van contextuele gegevens zoals temperatuur. Het schetst hoe u indruk- en interactiegebeurtenissen vastlegt en de gegevens voorbereidt voor rapportage binnen Journey Optimizer.
 feature: Decisioning
 role: User
@@ -8,14 +8,14 @@ doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
 exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
-source-git-commit: 551d0d365bcb42e63910af1fae626d1bbc1fabfa
+source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
-# Adobe Journey Optimizer (AJO)-aanbiedingen volgen en rapporteren via AJO Offer Decisioning
+# Aanbiedingen volgen en rapporteren Adobe Journey Optimizer (AJO) die via AJO-besluitvorming worden geleverd
 
 Dit gebruiksscenario is gericht op het mogelijk maken van rapportage en prestatieanalyse voor aanbiedingen die via Adobe Journey Optimizer (AJO) worden geleverd. Wanneer aanbiedingen worden gepersonaliseerd en geleverd op basis van contextuele signalen (zoals weer of locatie), is het van essentieel belang dat zowel impressies als gebruikersinteracties worden bijgehouden om de effectiviteit ervan te evalueren.
 
@@ -30,7 +30,7 @@ Het doel is duidelijke, op gegevens gebaseerde inzichten te verschaffen in de ma
 
 ## Voorwaarden voor deze zelfstudie
 
-Alvorens te beginnen, voltooi de [ Persoonlijke Aanbiedingen met het Echte - de leerprogramma van Gegevens van het Echte - tijdGegevens.](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Alle basiscomponenten worden ingesteld, waaronder:
+Alvorens te beginnen, voltooi de [ Persoonlijke Aanbiedingen met het Echte - de leerprogramma van Gegevens van het Echte - tijdGegevens.](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Alle basiscomponenten worden ingesteld, waaronder:
 
 - Web SDK-integratie
 - Aanbiedingsinstellingen in Adobe Journey Optimizer (AJO)

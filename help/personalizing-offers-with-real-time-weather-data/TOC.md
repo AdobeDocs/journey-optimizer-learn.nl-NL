@@ -8,9 +8,9 @@ role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: 9c11ebd2e52de18792e9fa135db955eeeb243673
+source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 + [Inleiding](./introduction.md)
 + [Schema en gegevensset maken](./create-schema-and-dataset.md)
-+ [AEP-tag maken](./create-aep-tags.md)
-+ [Verzameling voorstel maken](./create-tag-category.md)
++ [Experience Platform-tag maken](./create-aep-tags.md)
++ [Aanbiedingenverzameling maken](./create-tag-category.md)
 + [Aanbiedingen maken](./create-offers.md)
 + [Een waarderingsformule maken](./create-ranking-formula.md)
 + [Selectiestrategie maken](./selection-strategy.md)

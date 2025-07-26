@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Wanneer het werken met raadplegingsschema&#39;s, kunt u vaak een lijst van voorwerpen moeten filtreren die op meer dan één attribuut worden gebaseerd. In deze video wordt uitgelegd hoe u filters met meerdere kenmerken kunt toepassen op opzoekschema&#39;s met behulp van geneste filter()-functies. Dit is vooral handig wanneer u een lijst met objecten wilt beperken op basis van meer dan één voorwaarde, zoals het filteren van producten in een winkelwagentje op basis van zowel de id als de kleur.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469312/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469324/?learn=on&enablevpops&captions=dut)

@@ -41,7 +41,7 @@ In plaats van een nieuw schema te creëren, wordt het bestaande schema van de Ge
 
 In Adobe Experience Platform:
 
-- Open het bestaande _**Weer-Schema**_ schema van de Gebeurtenis van de Ervaring dat u voor op weer-gebaseerde aanbiedingen gebruikt.
+- Open het bestaande _&#x200B;**Weer-Schema**&#x200B;_ schema van de Gebeurtenis van de Ervaring dat u voor op weer-gebaseerde aanbiedingen gebruikt.
 
 - Voeg de veldgroep toe:
 Experience Event - Propositie-interacties

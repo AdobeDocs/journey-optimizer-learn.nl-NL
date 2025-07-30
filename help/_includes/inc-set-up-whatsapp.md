@@ -17,4 +17,4 @@ Wat u zult leren:
 
 Ideaal voor marketers en ontwikkelaars die WhatsApp-berichten willen activeren tijdens hun klantentransacties.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470274/?learn=on&enablevpops&captions=dut)

@@ -28,4 +28,4 @@ Wat u gaat leren:
 
 Ideaal voor marketers die hun persoonlijke betrokkenheid willen automatiseren via WhatsApp.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470288/?learn=on&enablevpops&captions=dut)

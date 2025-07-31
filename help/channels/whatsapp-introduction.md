@@ -20,4 +20,4 @@ ht-degree: 0%
 
 De video biedt een uitgebreid overzicht van de waarde van de integratie van WhatsApp met Adobe Journey Optimizer. Het benadrukt watApp&#39;s globale bereik en betrokkenheidsvoordelen, en schetst zeer belangrijke eerste vereisten zoals vestiging een Van Bedrijfs WhatsApp Rekening, het produceren van toegangstokens, en het creëren van berichtmalplaatjes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470296/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470302/?learn=on&enablevpops&captions=dut)

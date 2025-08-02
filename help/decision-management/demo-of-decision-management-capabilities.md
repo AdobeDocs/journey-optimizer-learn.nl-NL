@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Leer hoe merken Beslissingsbeheer kunnen gebruiken om hun aanbiedingen te definiëren en te beheren, realtime klantgegevens toe te passen en de juiste ervaringen te bieden die hun klanten verwachten.
 
->[!VIDEO](https://video.tv.adobe.com/v/326841?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3470051?quality=12&learn=on&captions=dut){transcript=true}

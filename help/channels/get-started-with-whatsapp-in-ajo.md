@@ -30,4 +30,4 @@ In deze zelfstudie leert u hoe u:
 
 Ideaal voor marketers die hun bereik en betrokkenheid willen uitbreiden via een van &#39;s werelds populairste berichtenplatforms.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470244/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470250/?learn=on&enablevpops&captions=dut)

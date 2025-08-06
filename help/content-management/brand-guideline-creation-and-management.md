@@ -24,4 +24,4 @@ Leer hoe te om uw eigen merken tot stand te brengen en aan te passen om uw visue
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
 
-Voor meer informatie over deze eigenschap gelieve te zien de [ productdocumentatie ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands).
+Voor meer informatie over deze eigenschap gelieve te zien de [ productdocumentatie ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands).

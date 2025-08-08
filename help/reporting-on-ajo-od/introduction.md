@@ -8,14 +8,14 @@ doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
 exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
-source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
+source-git-commit: 39376d745d851bf2c3ed3826b9f550efafd9e8f4
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
-# Aanbiedingen volgen en rapporteren Adobe Journey Optimizer (AJO) die via AJO-besluitvorming worden geleverd
+# Aanbiedingen van Journey Optimizer volgen en rapporteren via AJO-beslissingen
 
 Dit gebruiksscenario is gericht op het mogelijk maken van rapportage en prestatieanalyse voor aanbiedingen die via Adobe Journey Optimizer (AJO) worden geleverd. Wanneer aanbiedingen worden gepersonaliseerd en geleverd op basis van contextuele signalen (zoals weer of locatie), is het van essentieel belang dat zowel impressies als gebruikersinteracties worden bijgehouden om de effectiviteit ervan te evalueren.
 
@@ -30,7 +30,7 @@ Het doel is duidelijke, op gegevens gebaseerde inzichten te verschaffen in de ma
 
 ## Voorwaarden voor deze zelfstudie
 
-Alvorens te beginnen, voltooi de [ Persoonlijke Aanbiedingen met het Echte - de leerprogramma van Gegevens van het Echte - tijdGegevens.](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Alle basiscomponenten worden ingesteld, waaronder:
+Alvorens te beginnen, voltooi de [ Persoonlijke Aanbiedingen met het Echte - de leerprogramma van Gegevens van het Echte - tijdGegevens.](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Alle basiscomponenten worden ingesteld, waaronder:
 
 - Web SDK-integratie
 - Aanbiedingsinstellingen in Adobe Journey Optimizer (AJO)

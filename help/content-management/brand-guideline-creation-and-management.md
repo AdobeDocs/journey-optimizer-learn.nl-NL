@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Leer hoe te om uw eigen merken tot stand te brengen en aan te passen om uw visuele en verbale identiteit over mededelingen duidelijk te bepalen. Begrijp hoe u feedback in real time kunt ontvangen over hoe goed uw inhoud de toon, stijl en richtlijnen van uw merk weerspiegelt, met de merkuitlijningsscore.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470552/?learn=on&enablevpops&captions=dut)
 
 Voor meer informatie over deze eigenschap gelieve te zien de [ productdocumentatie ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands).

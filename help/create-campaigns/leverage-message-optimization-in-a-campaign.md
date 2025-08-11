@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Leer hoe u berichtoptimalisatie kunt benutten in actie- of API-campagnes. U zult zien hoe te om sub-publiek te richten, berichtvariaties door plaats tot stand te brengen, fallback inhoud toe te laten, en veelvoudige experimenten in één enkele campagne in werking te stellen. In deze zelfstudie wordt ook uitgelegd hoe u campagnes met meerdere kanalen kunt beheren en tegelijkertijd de consistentie van berichten kunt behouden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470374/?learn=on&enablevpops&captions=dut)
 
 Voor meer informatie over deze eigenschap, te zien gelieve de [ productdocumentatie ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization).

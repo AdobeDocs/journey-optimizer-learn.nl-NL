@@ -11,9 +11,9 @@ jira: KT-18674
 hidefromtoc: false
 hide: false
 exl-id: 12a80ca8-2517-4bbc-950f-18e1dfb8dc72
-source-git-commit: 79ff41864859fa6b18e09b4d3402492f91d9e658
+source-git-commit: 3aa490e2656553cffeb1a6ecbc92bb6c33f46893
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,6 @@ ht-degree: 0%
 
 Leer hoe u berichtoptimalisatie kunt benutten in actie- of API-campagnes. U zult zien hoe te om sub-publiek te richten, berichtvariaties door plaats tot stand te brengen, fallback inhoud toe te laten, en veelvoudige experimenten in één enkele campagne in werking te stellen. In deze zelfstudie wordt ook uitgelegd hoe u campagnes met meerdere kanalen kunt beheren en tegelijkertijd de consistentie van berichten kunt behouden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470374/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
+
+Voor meer informatie over deze eigenschap, te zien gelieve de [ productdocumentatie ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization).

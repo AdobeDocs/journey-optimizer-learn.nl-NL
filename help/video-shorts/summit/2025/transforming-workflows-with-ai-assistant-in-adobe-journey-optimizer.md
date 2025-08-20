@@ -20,4 +20,4 @@ ht-degree: 0%
 Ontdek hoe AI Assistant in Adobe Journey Optimizer de workflows revolutioneert door directe gegevensinzichten en mogelijkheden voor probleemoplossing te bieden, waardoor uren van handmatige inspanningen worden bespaard.
 
 <!-- 65_S653_3442539_33_transforming-workflows-with-ai-assistant-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458195/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460441/?learn=on&enablevpops=true&captions=dut)

@@ -3,10 +3,10 @@ user-guide-title: Lesbestanden voor Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dit zijn tutorials voor Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 5ec9aa524723f15e90ea22e5f93c9f9153c82069
+source-git-commit: 8940a03c0d0842d4dea7e5e4c3aa2e2604538c2d
 workflow-type: tm+mt
-source-wordcount: '909'
-ht-degree: 23%
+source-wordcount: '917'
+ht-degree: 22%
 
 ---
 
@@ -17,16 +17,16 @@ ht-degree: 23%
 + Gebruiksscenario’s {#use-cases}
    + [Klant aan boord](/help/use-cases/customer-onboarding.md)
    + [Verlaten karretje](/help/use-cases/abandoned-cart.md)
-   + [ Intelligente re-engagement - Verlaten doorbladeren](https://experienceleague.adobe.com/nl/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
-   + [ het Persoonlijk aanbiedingen met het weergegevens in real time in Adobe Journey Optimizer gebruikend SDK van het Web](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [ producerend rapporten over aanbiedingsindrukkingen en klikken](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
-   + [ het rangschikken formule van het Gebruik om gepersonaliseerde aanbiedingen in Journey Optimizer te leveren](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
-   + [ verbetert klantenovereenkomst](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [ Schaalend orchestratie aan omnichannel overeenkomst](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [ Intelligente re-engagement - Verlaten doorbladeren ](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [ het Persoonlijk aanbiedingen met het weergegevens in real time in Adobe Journey Optimizer gebruikend SDK van het Web ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [ producerend rapporten over aanbiedingsindrukkingen en klikken ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [ het rangschikken formule van het Gebruik om gepersonaliseerde aanbiedingen in Journey Optimizer te leveren ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [ verbetert klantenovereenkomst ](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
+   + [ Schaalend orchestratie aan omnichannel overeenkomst ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Playbooks voor gebruiksscenario&#39;s {#use-case-playbooks}
-   + [Overzicht](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [ vorm een playbook zandbak](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [ creeer en publiceer playbook instanties](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [Overzicht](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [ vorm een playbook zandbak ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [ creeer en publiceer playbook instanties ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Inleiding tot Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Overzicht](/help/introduction/journey-optimizer-overview.md)
    + [Inleiding tot Journey Optimizer](/help/introduction/introduction.md)
@@ -41,7 +41,7 @@ ht-degree: 23%
       + [Een in-app-campagne maken](/help/create-campaigns/in-app.md)
       + [Een pushcampagne configureren en verzenden](/help/create-campaigns/push-campaign.md)
       + [Een webcampagne maken](/help/create-campaigns/web-campaign.md)
-      + [ creeer een op code-gebaseerde ervaringscampagne ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
+      + [ creeer een op code-gebaseerde ervaringscampagne ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [Inhoud-experimenten maken voor e-mailcampagnes](/help/create-campaigns/content-experiments.md)
       + [Gebruik berichtoptimalisering in een campagne](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
    + API-actiecampagnes {#api-triggered-campaigns}
@@ -63,7 +63,7 @@ ht-degree: 23%
    + [Inhoud tijdens een live reis bijwerken](/help/create-journeys/update-content-in-live-journey.md)
    + [Een journey naar een andere sandbox kopiëren](/help/create-journeys/copy-a-journey.md)
    + [Dagelijkse ritten activeren na batchsegmentatie](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [ los binnenkomende acties in reizen problemen op](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
+   + [ los binnenkomende acties in reizen ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"} problemen op
 + Conflictbeheer {#conflict-management}
    + [Mogelijke conflicten identificeren](/help/conflict-management/identify-potential-conflicts.md)
    + [Prioriteitsscores toewijzen](/help/conflict-management/assign-priority-score.md)
@@ -73,15 +73,15 @@ ht-degree: 23%
    + [Uniform profiel en segmentatie - overzicht](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Toegankelijkheid maken met de regelbouwer](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Een publiek maken door een CSV-bestand te uploaden](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-   + [ creeer publiek gebruikend Web SDK (Leerprogramma)](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [ evalueer publiek op bestelling ](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
+   + [ creeer publiek gebruikend Web SDK (Leerprogramma) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
+   + [ evalueer publiek op bestelling ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [Lidmaatschappen en landingspagina&#39;s](/help/subscriptions-and-landing-pages.md)
 + Kanalen {#channels}
    + [Optimalisatie van mobiele toepassingen - Overzicht](/help/channels/mobile-app-optimization-overview.md)
    + Code-gebaseerd ervaringskanaal{#code-based-experience-channel}
       + [Een op code gebaseerde ervaringscampagne maken](/help/channels/create-a-code-based-experience-campaign.md)
       + [Formuliervelden toevoegen aan op code gebaseerde ervaringskanaalsjablonen](/help/channels/form-fields-in-code-based-experiences.md)
-      + [ Beslissing van het gebruik in het code gebaseerde kanaal ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
+      + [ Beslissing van het gebruik in het code gebaseerde kanaal ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Direct mailkanaal{#direct-mail-channel}
       + [Een directe e-mail maken](/help/channels/direct-mail.md)
    + Email channel{#email-channel}
@@ -155,8 +155,8 @@ ht-degree: 23%
       + [Inleiding tot het besluit](/help/decisioning/introduction-to-decisioning.md)
       + [Beslissende analyse van begin tot eind](/help/decisioning/decisioning-end-to-end.md)
       + [Navigeren door de interface Formula Builder](/help/decisioning/formula-builder-ui.md)
-      + [ het Persoonlijk aanbiedingen met het weergegevens in real time ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [ het rangschikken formule van het Gebruik om gepersonaliseerde aanbiedingen te leveren ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [ het Persoonlijk aanbiedingen met het weergegevens in real time ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [ het rangschikken formule van het Gebruik om gepersonaliseerde aanbiedingen te leveren ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
    + Beslissingsbeheer {#decision-management}
       + [Inleiding tot het beheer van besluiten](/help/decision-management/introduction-to-decision-management.md)
       + [Demo van de mogelijkheden voor het beheer van besluiten](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -170,7 +170,7 @@ ht-degree: 23%
       + [Beslissingen maken](/help/decision-management/create-decisions.md)
       + [Aanbiedingen leveren met de Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [Frequentiecorrectie](/help/decision-management/frequency-capping.md)
-   + [ Beslissing van het Gebruik om Webaanbiedingen (Leerprogramma) te personaliseren](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+   + [ Beslissing van het Gebruik om Webaanbiedingen (Leerprogramma) te personaliseren ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 + Data management {#data-management}
    + [Overzicht](/help/data-management/set-up-data-overview.md)
    + [Een schema maken](/help/data-management/create-schema.md)
@@ -182,6 +182,7 @@ ht-degree: 23%
 + Rapport en toezicht {#report-and-monitor}
    + [Meting en rapportage - Overzicht](/help/report-and-monitor/measurement-and-reporting-overview.md)
    + [Live en globale rapporten](/help/report-and-monitor/live-and-global-reports.md)
+   + [Uw reis bewaken en analyseren met live rapporten](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [Rapporten op kanaalniveau](/help/report-and-monitor/channel-level-reports.md)
    + [Rapporten exporteren in CSV-indeling](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Waarschuwingen gebruiken](/help/administration/alerts.md)
@@ -223,11 +224,11 @@ ht-degree: 23%
    + [Beleid voor gegevensgebruik afdwingen in Journey Optimizer-kanalen](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Gegevens in berichten maskeren](/help/privacy/mask-data-in-messages.md)
 + Uitoefening en uitdagingen {#exercises-and-challenges}
-   + [ vorm een trainingszandbak ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-   + [ Uitdagingen ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
+   + [ vorm een trainingszandbak ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
+   + [ Uitdagingen ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
 + [Opnamen van Experience League Live-show](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [2025 Top Lab-lakenblad](/help/summit-lab-assets/l535-assets.md)
-   + [ bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [ het Schalen orchestratie aan omnichannel betrokkenheid in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [ bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+   + [ het Schalen orchestratie aan omnichannel betrokkenheid in Adobe Journey Optimizer (2025) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 

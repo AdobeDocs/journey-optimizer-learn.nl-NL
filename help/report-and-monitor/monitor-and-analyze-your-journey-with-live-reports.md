@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u Adobe Journey Optimizer Live Report effectief kunt gebruiken om de prestaties van uw reizen en berichten in real-time te controleren en te analyseren. Leer hoe u dashboards, exportrapporten en reisspecifieke metriek kunt aanpassen om uw marketingstrategieën te optimaliseren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470709/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470841/?learn=on&enablevpops&captions=dut)

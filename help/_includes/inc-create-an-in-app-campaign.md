@@ -1,8 +1,8 @@
 ---
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: 7f05f2f16414c4bbd64f55fd6cf3bc68623c6d4d
 workflow-type: tm+mt
-source-wordcount: '25'
-ht-degree: 76%
+source-wordcount: '23'
+ht-degree: 82%
 
 ---
 # Een in-app-campagne maken

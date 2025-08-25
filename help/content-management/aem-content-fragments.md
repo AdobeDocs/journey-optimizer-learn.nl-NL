@@ -26,6 +26,6 @@ Ontdek hoe Adobe Experience Manager (AEM) naadloos kan integreren met Adobe Jour
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457691/?learn=on&enablevpops)
 
-Experience League LIVE - [ het Fuelen van Persoonlijke Inhoud in Journey Optimizer met de Fragmenten van de Inhoud van AEM en Dynamische Media ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
+Experience League LIVE - [ het Fuelen van Persoonlijke Inhoud in Journey Optimizer met de Fragmenten van de Inhoud van AEM en Dynamische Media ](https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
 
 In deze zitting, toonden Jyothitha Chandran, Chris Ivory, en Kaitlin White hoe Adobe Journey Optimizer (AJO) naadloos met de Fragments van de Inhoud van de Plaatsen van Adobe Experience Manager (AEM) en de Dynamische Media van AEM Assets integreert om scalable, real-time verpersoonlijking over elk kanaal te leveren.

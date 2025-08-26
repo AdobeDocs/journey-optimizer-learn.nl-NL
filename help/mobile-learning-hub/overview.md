@@ -29,7 +29,7 @@ Journey Optimizer ondersteunt zowel binnenkomende als uitgaande mobiele kanalen:
 
 De uitgaande kanalen worden gebruikt om **berichten** aan klanten proactively te leveren zonder voorafgaande interactie te vereisen. Deze zijn ideaal voor campagnes, promoties, en transactionele mededelingen.
 
-| ![ de Berichten van de duw ](/help/mobile-learning-hub/assets/mobile-phone.webp) {width= &quot;250&quot;, height= &quot;250&quot;} <br> **[Push Meldingen](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![ SMS/MMS/RCS ](/help/mobile-learning-hub/assets/SMS.png) {width= &quot;250&quot;, height= &quot;250&quot;} <br> **[SMS / MMS / RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![ WhatsApp ](/help/mobile-learning-hub/assets/whatsapp.webp) {width= &quot;250&quot;, height= &quot;250&quot;<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
+| ![ de Berichten van de duw ](/help/mobile-learning-hub/assets/mobile-phone.webp) {width= &quot;250&quot;, height= &quot;250&quot;} <br> **[Push Meldingen](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![ SMS/MMS/RCS ](/help/mobile-learning-hub/assets/SMS.png) {width= &quot;250&quot;, height= &quot;250&quot;} <br> **[SMS / MMS / RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![ WhatsApp ](/help/mobile-learning-hub/assets/whatsapp.webp) &lbrace;width= &quot;250&quot;, height= &quot;250&quot;<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
 | Verzonden buiten de app, duw op berichten neemt onmiddellijk aandacht. Ze zijn ideaal voor tijdgevoelige updates en moedigen gebruikers aan om terug te keren naar uw app. | Rechtstreekse berichten die zonder app naar mobiele telefoons van gebruikers worden verzonden. Ideaal voor urgente waarschuwingen, herinneringen en rijke media-inhoud, zoals afbeeldingen of video&#39;s. | Conversationeel kanaal door een wijd gebruikte overseinen app, die gepersonaliseerde, bidirectionele communicatie en interactieve campagnes toestaat. |
 
@@ -53,7 +53,7 @@ Door deze kanalen te combineren, kunt u een naadloze en efficiënte klantenervar
 
 2. Zodra binnen, lever **in-app berichten** met gepersonaliseerde bevorderingen (b.v., &quot;hier is uw 15% korting voor de verkoop van vandaag&quot;).
 
-3. De inhoudskaarten van het aanbod **** zodat kunnen de gebruikers de bevordering op elk ogenblik terugkeren alvorens het verloopt (b.v., &quot;Uw 15% korting beëindigt Vrijdag&quot;).
+3. De inhoudskaarten van het aanbod **&#x200B;**&#x200B;zodat kunnen de gebruikers de bevordering op elk ogenblik terugkeren alvorens het verloopt (b.v., &quot;Uw 15% korting beëindigt Vrijdag&quot;).
 
 4. Gebruik **SMS/MMS/RCS** om geschikte herinneringen of rijke media aanbiedingen rechtstreeks naar gebruikers te verzenden die niet in app kunnen zijn.
 

@@ -6,13 +6,13 @@ role: User, Admin, Developer
 hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
-source-git-commit: e3bc8e24f6a8a59a84341f9d31d0e372fa6e99ab
+exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
+source-git-commit: b70b2cca5d95d931c8bbd52a69e96ccc31faa92c
 workflow-type: tm+mt
 source-wordcount: '901'
 ht-degree: 0%
 
 ---
-
 
 # Journey Optimizer - Mobile Learning Hub
 
@@ -29,13 +29,13 @@ Journey Optimizer ondersteunt zowel binnenkomende als uitgaande mobiele kanalen:
 
 De uitgaande kanalen worden gebruikt om **berichten** aan klanten proactively te leveren zonder voorafgaande interactie te vereisen. Deze zijn ideaal voor campagnes, promoties, en transactionele mededelingen.
 
-| ![ de Berichten van de duw ](/help/mobile-learning-hub/assets/mobile-phone.webp) {width= &quot;250&quot;, height= &quot;250&quot;} <br> **[Push Meldingen](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![ SMS/MMS/RCS ](/help/mobile-learning-hub/assets/SMS.png) {width= &quot;250&quot;, height= &quot;250&quot;} <br> **[SMS / MMS / RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![ WhatsApp ](/help/mobile-learning-hub/assets/whatsapp.webp) &lbrace;width= &quot;250&quot;, height= &quot;250&quot;<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
+| ![ de Berichten van de duw ](/help/mobile-learning-hub/assets/mobile-phone.webp) {width= &quot;250&quot;, height= &quot;250&quot;} <br> **[Push Meldingen](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![ SMS/MMS/RCS ](/help/mobile-learning-hub/assets/SMS.png) {width= &quot;250&quot;, height= &quot;250&quot;} <br> **[SMS / MMS / RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![ WhatsApp ](/help/mobile-learning-hub/assets/whatsapp.webp) {width= &quot;250&quot;, height= &quot;250&quot;<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
 | Verzonden buiten de app, duw op berichten neemt onmiddellijk aandacht. Ze zijn ideaal voor tijdgevoelige updates en moedigen gebruikers aan om terug te keren naar uw app. | Rechtstreekse berichten die zonder app naar mobiele telefoons van gebruikers worden verzonden. Ideaal voor urgente waarschuwingen, herinneringen en rijke media-inhoud, zoals afbeeldingen of video&#39;s. | Conversationeel kanaal door een wijd gebruikte overseinen app, die gepersonaliseerde, bidirectionele communicatie en interactieve campagnes toestaat. |
 
 > De uitgaande kanalen dwingen **het Beleid van de Toestemming van de Douane** bij bericht af verzendt tijd. Als er geen toestemming wordt verleend voor een specifieke marketingactie, wordt het bericht geblokkeerd.
 
-## Binnenkomende kanalen
+### Binnenkomende kanalen
 
 De binnenkomende kanalen worden ontworpen voor **klant-in werking gestelde interactie**, toelatend gepersonaliseerde ervaringen wanneer de gebruikers met uw merk in dienst nemen.
 
@@ -45,7 +45,7 @@ De binnenkomende kanalen worden ontworpen voor **klant-in werking gestelde inter
 
 > De binnenkomende kanalen steunen **verpersoonlijking in real time** en **gegevens vangen**, zoals het landen van paginavormen die in Adobe Experience Platform (AEP) voor segmentatie en het richten voeden.
 
-## Hoe kunnen mobiele kanalen samenwerken?
+### Hoe kunnen mobiele kanalen samenwerken?
 
 Door deze kanalen te combineren, kunt u een naadloze en efficiënte klantenervaring tot stand brengen:
 
@@ -53,7 +53,7 @@ Door deze kanalen te combineren, kunt u een naadloze en efficiënte klantenervar
 
 2. Zodra binnen, lever **in-app berichten** met gepersonaliseerde bevorderingen (b.v., &quot;hier is uw 15% korting voor de verkoop van vandaag&quot;).
 
-3. De inhoudskaarten van het aanbod **&#x200B;**&#x200B;zodat kunnen de gebruikers de bevordering op elk ogenblik terugkeren alvorens het verloopt (b.v., &quot;Uw 15% korting beëindigt Vrijdag&quot;).
+3. De inhoudskaarten van het aanbod **** zodat kunnen de gebruikers de bevordering op elk ogenblik terugkeren alvorens het verloopt (b.v., &quot;Uw 15% korting beëindigt Vrijdag&quot;).
 
 4. Gebruik **SMS/MMS/RCS** om geschikte herinneringen of rijke media aanbiedingen rechtstreeks naar gebruikers te verzenden die niet in app kunnen zijn.
 
@@ -99,5 +99,3 @@ Leer de concepten en hoe te
 | **Upsell en dwars-Verkoop Campagnes** | Hiermee worden extra producten of upgrades naar bestaande klanten bevorderd op basis van hun gedrag, voorkeuren of aankoopgeschiedenis. | - Met pushberichten worden relevante upselmogelijkheden benadrukt.<br> - In-app berichten en inhoudskaarten bevatten aanvullende items.<br> - SMS-campagnes richten zich op gesegmenteerde doelgroepen met exclusieve aanbiedingen. |
 | **Preventie van de Knevel** | Identificeert gebruikers die het risico lopen te verlaten en verbindt hen met gepersonaliseerde bewaarstrategieën om loyaliteit te handhaven. | - Predictieve analyse leidt tot mobiele outreach voor risicogebruikers.<br> - Push-berichten en SMS bieden loyaliteitsbeloningen of gepersonaliseerde inhoud.<br>- In-app enquêtes verzamelen feedback om retentiestrategieën te verbeteren. |
 | **Meerkanaals Overseinen** | Orchestrates consistent messaging over meerdere mobiele kanalen om ervoor te zorgen dat gebruikers tijdig relevante communicatie ontvangen. | - Duwen, in-app, SMS en e-mail worden gecoördineerd voor Unified Messaging.<br> - SDKs laat verpersoonlijking in real time over kanalen toe.<br> - Inhoudskaarten blijven tijdens sessies aanwezig om toetsberichten te versterken. |
-
-

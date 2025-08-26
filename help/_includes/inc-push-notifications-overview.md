@@ -1,5 +1,5 @@
 ---
-source-git-commit: b4262722d7ebffb936a95425baab219bb40775fa
+source-git-commit: 6aa7b4c72ce5bd72002ad88ba88a20f32d54c360
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 2%
@@ -33,7 +33,7 @@ Kies pushmeldingen als uw voorkeurscommunicatiekanaal wanneer u deze nodig hebt:
 | 5 | Gebruikmaken van native apparaatmogelijkheden | Push-berichten worden geïntegreerd met iOS/Android OS-functies zoals trillingen, geluiden, badges en geofencing-triggers. | <ul><li> Locatiegebaseerde aanbiedingen in de buurt van een winkel</li><li> Herinneringen geactiveerd op specifieke momenten.</li></ul> |
 | 6 | Wanneer opt-in waarschijnlijk is | Push werkt alleen voor gebruikers die expliciet hebben gekozen. Als de app een hoge waarde heeft of als het merk al vertrouwen heeft, kunnen de percentages voor inchecken sterk zijn. | <ul><li> Apps met loyale gebruikersbases</li><li> Aan boord nemen stromen die de waarde van berichten verklaren.</li></ul> |
 
-## Wanneer NIET push gebruiken als primair kanaal
+## Wanneer *niet* om duw als primair kanaal te gebruiken
 
 * Lage opt-in-snelheden of gebruikerspersistentie tegen meldingen.
 * U hebt lange-formulierinhoud nodig (e-mail is mogelijk beter).

@@ -1,5 +1,5 @@
 ---
-source-git-commit: 0ce6d5013bbcf55e49ae920670919f6929a142ec
+source-git-commit: 6aa7b4c72ce5bd72002ad88ba88a20f32d54c360
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 3%
@@ -32,7 +32,7 @@ Kies WhatsApp als het aangewezen kanaal wanneer u moet:
 | 4 | Naleving en vertrouwen behouden | Berichten worden geleverd via een officiële API met strikte aanmeldingsvereisten | <ul><li>Bevestigingen van abonnementen</li><li>Regelgevende kennisgevingen</li></ul> |
 | 5 | Integreren met andere kanalen | Combineer met e-mail, push of SMS voor naadloze meerkanaals reizen | <ul><li>Kanaaloverschrijdende herbetrokkenheid</li><li>Follow-up van verlaten winkelwagentjes</li></ul> |
 
-## Wanneer gebruikt u WhatsApp niet
+## Wanneer *niet* om WhatsApp te gebruiken
 
 * Als uw publiek niet actief WhatsApp gebruikt.
 * Wanneer de gebruikers niet uitdrukkelijk binnen hebben gekozen om berichten te ontvangen WhatsApp.

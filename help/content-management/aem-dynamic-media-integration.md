@@ -28,4 +28,4 @@ In deze zelfstudie wordt uitgelegd hoe u afbeeldingen rechtstreeks in AJO kunt w
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457695/?learn=on&enablevpops)
 
-Voor meer informatie over deze eigenschap, te zien gelieve de [ productdocumentatie ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem-dynamic).
+Voor meer informatie over deze eigenschap, te zien gelieve de [ productdocumentatie ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/content-management/combine/aem-dynamic).

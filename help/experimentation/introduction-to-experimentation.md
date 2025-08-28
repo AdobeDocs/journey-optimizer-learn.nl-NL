@@ -22,4 +22,4 @@ Begrijp hoe u tests en simulaties in Journey Optimizer kunt uitvoeren om uw inho
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434963/?learn=on)
 
-Zie [ begonnen worden met inhoudexperimenten ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/get-started-experiment) voor meer informatie.
+Zie [ begonnen worden met inhoudexperimenten ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/content-management/content-experiment/get-started-experiment) voor meer informatie.

@@ -23,4 +23,4 @@ ht-degree: 0%
 
 In deze zelfstudie krijgt u een goed inzicht in hoe relationele schema&#39;s—specifiek voor georkestreerde campagnes in Journey Optimizer—naast Real-Time Klantprofielen werken. Leer de kernconcepten achter gegevensopname, schema modellering, segmentatie, en campagneuitvoering, die u de stichting geven om gestructureerde, scalable, en gepersonaliseerde klantenreizen te ontwerpen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470220/?learn=on&enablevpops&captions=dut)

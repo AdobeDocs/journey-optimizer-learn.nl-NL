@@ -35,7 +35,7 @@ Ontdek de wereldwijde marketingscenario&#39;s van Adobe Journey Optimizer. Deze 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" title="Hoofdletters gebruiken - Klantinstapsysteem (zelfstudie)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440650/?format=jpeg&nocache=1756417587791" alt="Hoofdletters gebruiken - Klantinstapsysteem (zelfstudie)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440656/?format=jpeg&nocache=1756417587791&captions=dut" alt="Hoofdletters gebruiken - Klantinstapsysteem (zelfstudie)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -58,7 +58,7 @@ Ontdek de wereldwijde marketingscenario&#39;s van Adobe Journey Optimizer. Deze 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart" title="Hoofdletters gebruiken - Verlaten winkelwagentje" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443964/?format=jpeg&nocache=1756417587818" alt="Hoofdletters gebruiken - Verlaten winkelwagentje"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443970/?format=jpeg&nocache=1756417587818&captions=dut" alt="Hoofdletters gebruiken - Verlaten winkelwagentje"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,7 +81,7 @@ Ontdek de wereldwijde marketingscenario&#39;s van Adobe Journey Optimizer. Deze 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma" title="Intelligente Luma-voorbeelden voor opnieuw engagement" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425184/?format=jpeg&nocache=1756417587792" alt="Intelligente Luma-voorbeelden voor opnieuw engagement"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454279/?format=jpeg&nocache=1756417587792&captions=dut" alt="Intelligente Luma-voorbeelden voor opnieuw engagement"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

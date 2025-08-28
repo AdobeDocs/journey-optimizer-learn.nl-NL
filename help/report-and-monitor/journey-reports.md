@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Begrijp hoe te om de prestaties van individuele reis te volgen hoe de gebruikers met verschillende stappen in een reis, met inbegrip van ingang en uitgangsstatistieken, fouten, en uitgevoerde acties in wisselwerking staan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470710/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471469/?learn=on&enablevpops&captions=dut)

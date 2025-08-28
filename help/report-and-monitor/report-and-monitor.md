@@ -60,7 +60,7 @@ Of u nu een beginner bent of een gekruiste markt, deze tools bieden helderheid e
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports" title="Uw reis bewaken en analyseren met live rapporten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470709/?format=jpeg&nocache=1756406406388" alt="Uw reis bewaken en analyseren met live rapporten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470841/?format=jpeg&nocache=1756406406388&captions=dut" alt="Uw reis bewaken en analyseren met live rapporten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -83,7 +83,7 @@ Of u nu een beginner bent of een gekruiste markt, deze tools bieden helderheid e
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="Rapporten op kanaalniveau" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1756406406387" alt="Rapporten op kanaalniveau"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448045/?format=jpeg&nocache=1756406406387&captions=dut" alt="Rapporten op kanaalniveau"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -106,7 +106,7 @@ Of u nu een beginner bent of een gekruiste markt, deze tools bieden helderheid e
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format" title="Rapporten exporteren in CSV-indeling" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424603/?format=jpeg&nocache=1756406406384" alt="Rapporten exporteren in CSV-indeling"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439616/?format=jpeg&nocache=1756406406384&captions=dut" alt="Rapporten exporteren in CSV-indeling"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -152,7 +152,7 @@ Of u nu een beginner bent of een gekruiste markt, deze tools bieden helderheid e
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Verbeterde rapportage met Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1756406406386" alt="Verbeterde rapportage met Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443157/?format=jpeg&nocache=1756406406386&captions=dut" alt="Verbeterde rapportage met Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

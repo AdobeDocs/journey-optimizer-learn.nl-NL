@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Rapporten op kanaalniveau
 
-Leer hoe u rapporten op kanaalniveau kunt openen, weergeven en exporteren. Ga voor meer informatie naar de [Documentatie voor kanaalrapporten](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/channel-report/channel-report.html).
+Leer hoe u rapporten op kanaalniveau kunt openen, weergeven en exporteren. Ga voor meer informatie naar de [Documentatie voor kanaalrapporten](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/channel-report/channel-report.html?lang=nl-NL).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448045/?learn=on&captions=dut)

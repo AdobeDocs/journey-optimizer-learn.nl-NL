@@ -25,4 +25,4 @@ Leer hoe het beleid voor gegevensgebruik wordt afgedwongen in Journey Optimizer-
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434911/?learn=on&captions=dut)
 
-Zie de productdocumentatie voor meer informatie over [ gegevensbeheer ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted) en hoe te [ met toestemmingsbeleid ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent-restricted) in Journey Optimizer werken.
+Zie de productdocumentatie voor meer informatie over [ gegevensbeheer ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/privacy/action-privacy-restricted) en hoe te [ met toestemmingsbeleid ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent-restricted) in Journey Optimizer werken.

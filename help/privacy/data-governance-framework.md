@@ -24,7 +24,7 @@ Begrijp het kader voor gegevensbeheer in Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
-Zie de productdocumentatie voor meer informatie over [ gegevensbeheer ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted) in Journey Optimizer.
+Zie de productdocumentatie voor meer informatie over [ gegevensbeheer ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/privacy/action-privacy-restricted) in Journey Optimizer.
 
 ## Aanvullende leermogelijkheden
 

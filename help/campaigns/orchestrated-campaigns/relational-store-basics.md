@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Leer de stichtingsconcepten van de relationele opslag die in Journey Optimizer wordt gebruikt campagne organisatie-die schemaontwerp, gegevensopname, gesteunde bronnen, en zeer belangrijke verschillen van de het profielopslag in real time behandelt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470220/?learn=on&enablevpops&captions=dut)

@@ -22,4 +22,4 @@ Deze zelfstudie introduceert de functie Reis Dry Run in Adobe Journey Optimizer,
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464681/?learn=on&enablevpops)
 
-Gelieve te zien de [ productdocumentatie ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run) voor meer informatie over deze eigenschap.
+Gelieve te zien de [ productdocumentatie ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run) voor meer informatie over deze eigenschap.

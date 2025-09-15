@@ -20,4 +20,4 @@ Leer hoe u verzamelingen maakt voor beslissingsbeheer.
 
 Verzamelingen worden gebruikt om aanbiedingen in logische groepen te beheren en zijn nodig om activiteiten voor beslissingsbeheer samen te stellen. Met dynamische verzamelingen kunt u aanbiedingen groeperen op basis van labels, terwijl u met statische verzamelingen de aanbiedingen handmatig kunt beheren.
 
->[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3474878?quality=12&learn=on&captions=dut){transcript=true}

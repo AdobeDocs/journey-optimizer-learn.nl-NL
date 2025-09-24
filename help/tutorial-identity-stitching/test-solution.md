@@ -8,9 +8,10 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
-source-git-commit: 68bd0a65e7d7f2d57f9620e76555485a1a79b4ae
+exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
+source-git-commit: 71b42350370d12ce677bf075d8b48edcbe541ab4
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -88,6 +89,7 @@ Het volgende schermschot toont identiteitskaart &quot;FIN001&quot;die correct wo
 * Ga naar Klant -> Profielen ->Bladeren
 * Zoeken naar FinWise CRM ID = FIN001
 * Open het profiel en bekijk de sectie Identiteiten. U moet zowel de CRMID als de ECID in de lijst zien.   Dit bevestigt dat de twee identiteiten in één enkel profiel zijn opgenomen.
-
+* De reis zou ook moeten teweegbrengen.Verifieer dit door het reisrapport te bekijken
+* ![ reis-rapport ](assets/journey-triggered-report.png)
 
 

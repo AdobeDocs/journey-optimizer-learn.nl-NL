@@ -21,8 +21,8 @@ In deze extensie van de zelfstudie Identiteitsbeheer wordt een Adobe Journey Opt
 
 ## Configuratie van e-mailkanalen maken
 
-* Login aan _**Journey Optimizer**_
-* Navigeer aan _**Beleid -> Kanalen -> creeer kanaalconfiguratie**_
+* Login aan _&#x200B;**Journey Optimizer**&#x200B;_
+* Navigeer aan _&#x200B;**Beleid -> Kanalen -> creeer kanaalconfiguratie**&#x200B;_
 * Selecteer **E-mail** van de kanaallijst. Geef een relevante naam en beschrijving op.
 * Vul de e-mailinstellingen in.
 * Geef de details van de uitvoering op zoals hieronder wordt weergegeven. De e-mail wordt verzonden naar het e-mailadres van het profiel dat is opgeslagen in het veld
@@ -31,8 +31,8 @@ In deze extensie van de zelfstudie Identiteitsbeheer wordt een Adobe Journey Opt
 
 ## Gebeurtenis maken
 
-* Login aan _**Journey Optimizer**_
-* Navigeer aan _**Beleid -> Configuraties**_
+* Login aan _&#x200B;**Journey Optimizer**&#x200B;_
+* Navigeer aan _&#x200B;**Beleid -> Configuraties**&#x200B;_
 * Klik op de knop Beheren van de gebeurtenissenkaart en klik op Gebeurtenis maken. Geef de hieronder weergegeven waarden op
 * ![ reis-gebeurtenis ](assets/journey-event.png)
 
@@ -41,9 +41,9 @@ In deze extensie van de zelfstudie Identiteitsbeheer wordt een Adobe Journey Opt
 
 ## Reis maken
 
-* Login aan _**Journey Optimizer**_
-* Navigeer aan _**Beheer van de Reis -> Reizen -> creeer Reis**_
-* Sleep en laat vallen de _**UserLoggedIn**_ gebeurtenis op het canvas
+* Login aan _&#x200B;**Journey Optimizer**&#x200B;_
+* Navigeer aan _&#x200B;**Beheer van de Reis -> Reizen -> creeer Reis**&#x200B;_
+* Sleep en laat vallen de _&#x200B;**UserLoggedIn**&#x200B;_ gebeurtenis op het canvas
 * Sleep E-mail vanuit het menu Handelingen. Vorm de e-mailactie om de eerder gecreeerd configuratie van het e-mailkanaal te gebruiken
 * De reis publiceren
 

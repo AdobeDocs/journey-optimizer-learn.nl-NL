@@ -30,7 +30,7 @@ Als u wilt beginnen met identiteitstitching, importeert u voorbeeld-CRM-profielg
 
 Creeer een individueel profielschema genoemd **_FinWiseProfileSchema_**. Neem velden op, zoals annualIncome, email,firstName,lastName en loyaltyStatus.
 Voeg een identiteitsgebied **_toe midden_** zoals getoond. Markeer het crmid-veld als identiteit en primair.
-Voeg de _&#x200B;**Inhoud en de Details van de Voorkeur**&#x200B;_ gebiedsgroep aan het schema toe. [&#x200B; de Inhoud en de Voorkeur &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/field-groups/profile/consents) is een standaardgebiedsgroep voor de klasse van het Profiel XDM Individual die toestemming en voorkeurinformatie voor een individuele klant vangt.De hier opgeslagen voorkeur bepaalt de communicatie voorkeur van het kanaalniveau.
+Voeg de _&#x200B;**Inhoud en de Details van de Voorkeur**&#x200B;_ gebiedsgroep aan het schema toe. [&#x200B; de Inhoud en de Voorkeur &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/field-groups/profile/consents) is een standaardgebiedsgroep voor de klasse van het Profiel XDM Individual die toestemming en voorkeurinformatie voor een individuele klant vangt.De hier opgeslagen voorkeur bepaalt de communicatie voorkeur van het kanaalniveau.
 
 
 ![&#x200B; profiel-schema &#x200B;](assets/finwise-profile-schema.png)

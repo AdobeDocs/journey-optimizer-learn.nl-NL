@@ -9,10 +9,10 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 83b23f54594b796ec528526a360c5c40164fb5cb
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 3%
+source-wordcount: '346'
+ht-degree: 2%
 
 ---
 
@@ -29,27 +29,30 @@ Als u wilt beginnen met identiteitstitching, importeert u voorbeeld-CRM-profielg
 ## Een schema met profielinstellingen maken
 
 Creeer een individueel profielschema genoemd **_FinWiseProfileSchema_**. Neem velden op, zoals annualIncome, email,firstName,lastName en loyaltyStatus.
-Voeg een identiteitsgebied **_toe midden_** onder het voorwerp SystemIdentifier. Het tussentijdse veld markeren als identiteit en primair
+Voeg een identiteitsgebied **_toe midden_** zoals getoond. Markeer het crmid-veld als identiteit en primair.
+Voeg de _**Inhoud en de Details van de Voorkeur**_ gebiedsgroep aan het schema toe. [ de Inhoud en de Voorkeur ](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/field-groups/profile/consents) is een standaardgebiedsgroep voor de klasse van het Profiel XDM Individual die toestemming en voorkeurinformatie voor een individuele klant vangt.De hier opgeslagen voorkeur bepaalt de communicatie voorkeur van het kanaalniveau.
 
 
 ![ profiel-schema ](assets/finwise-profile-schema.png)
 
 ## Voorbeeldgegevens voorbereiden
 
-| crmId | firstName | lastName | email | loyaltyStatus | zipCode | jaarinkomen |
-|--------|-----------|----------|-------------------------|---------------|---------|--------------|
-| FIN001 | Alice | Wong | alice.wong@example.com | Goud | 92128 | 120000 |
-| FIN002 | Bob | Smith | bob.smith@example.com | Zilver | 92126 | 85000 |
-| FIN003 | Charlie | Kim | charlie.kim@example.com | Platina | 60614 | 175000 |
-| FIN004 | Diana | Lee | diana.lee@example.com | Goud | 30303 | 98000 |
-| FIN005 | Ethan | Bruin | ethan.brown@example.com | Brons | 75201 | 60000 |
+Werk de dummy e-mailadressen bij naar echte adressen. Deze worden later gebruikt wanneer berichten met Adobe Journey Optimizer worden verzonden. Stel de e-mailinstemming in op y om e-maillevering voor de profielen in te schakelen.
+
+|   | crmId | firstName | lastName | email | loyaltyStatus | zipCode | jaarinkomen | emailConsent |
+|---|--------|-----------|----------|-------------------------|---------------|---------|--------------|--------------|
+|   | FIN001 | Alice | Wong | alice.wong@example.com | Goud | 92128 | 120000 | y |
+|   | FIN002 | Bob | Smith | bob.smith@example.com | Zilver | 92126 | 85000 | y |
+|   | FIN003 | Charlie | Kim | charlie.kim@example.com | Platina | 60614 | 175000 | y |
+|   | FIN004 | Diana | Lee | diana.lee@example.com | Goud | 30303 | 98000 | y |
+|   | FIN005 | Ethan | Bruin | ethan.brown@example.com | Brons | 75201 | 60000 | y |
 
 ## Het CSV-bestand opnemen
 
 * Creeer een dataset genoemd **_FinWiseCustomerDataSetWithAnnualIncome_** die op **_wordt gebaseerd FinWiseProfileSchema_** in de vroegere stap wordt gecreeerd
 
 * Ga naar Verbindingen -> Bronnen -> Lokaal systeem
-* Selecteer **_Gegevens_** toevoegen onder de Lokale dossierupload. Zorg ervoor om _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ als doeldataset te selecteren.
+* Selecteer **_Gegevens_** toevoegen onder de Lokale dossierupload. Zorg ervoor om _**FinWiseCustomerDataSetWithAnnualIncome**_ als doeldataset te selecteren.
   ![ ingest-csv ](assets/ingest-csv-into-dataset.png)
 * Navigeer naar het volgende scherm. Upload het [ csv- dossier ](assets/finwise_profiles.csv) en verifieer de afbeeldingen
   ![ afbeeldingen ](assets/mappings.png)

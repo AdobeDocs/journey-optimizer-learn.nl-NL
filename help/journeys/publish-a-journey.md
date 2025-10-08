@@ -21,4 +21,4 @@ ht-degree: 66%
 
 Begrijp de verschillende statussen van een journey en de gevolgen van publiceren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3427938?quality=12&learn=on&captions=dut){transcript=true}

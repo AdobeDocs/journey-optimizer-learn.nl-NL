@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u inhoud tijdens een live reis kunt bijwerken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429844/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439613/?learn=on&captions=dut)

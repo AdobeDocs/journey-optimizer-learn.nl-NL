@@ -133,7 +133,7 @@ Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="Belangrijkste mogelijkheden en gebruikersinterface" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1759529952337" alt="Belangrijkste mogelijkheden en gebruikersinterface"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430315?format=jpeg&nocache=1759529952337&captions=dut" alt="Belangrijkste mogelijkheden en gebruikersinterface"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +156,7 @@ Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" title="Inleiding tot het samenstellen van een journey" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424996?format=jpeg&nocache=1759529952348" alt="Inleiding tot het samenstellen van een journey"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430347?format=jpeg&nocache=1759529952348&captions=dut" alt="Inleiding tot het samenstellen van een journey"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +179,7 @@ Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="Creeer een publiek gebruikend de regelbouwer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1759529952343" alt="Creeer een publiek gebruikend de regelbouwer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430325?format=jpeg&nocache=1759529952343&captions=dut" alt="Creeer een publiek gebruikend de regelbouwer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -212,7 +212,7 @@ Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="Inhoud maken met AI-assistent voor het genereren van inhoud" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1759529953102" alt="Inhoud maken met AI-assistent voor het genereren van inhoud"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434641/?format=jpeg&nocache=1759529953102&captions=dut" alt="Inhoud maken met AI-assistent voor het genereren van inhoud"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -258,7 +258,7 @@ Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="Inhoud-experimenten voor in-app-berichten configureren" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1759529953110" alt="Inhoud-experimenten voor in-app-berichten configureren"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445294/?format=jpeg&nocache=1759529953110&captions=dut" alt="Inhoud-experimenten voor in-app-berichten configureren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

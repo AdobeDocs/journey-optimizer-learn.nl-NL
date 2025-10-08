@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Begrijp wat een webcampagne is. Leer hoe u de eigenschappen van de webcampagne configureert, controleert en publiceert.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418800/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449987/?quality=12&learn=on&captions=dut){transcript=true}

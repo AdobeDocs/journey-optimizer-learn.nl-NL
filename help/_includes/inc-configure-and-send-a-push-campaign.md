@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Leer hoe u een pushmelding met een campagne configureert en verzendt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422017/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452707/?learn=on&captions=dut){transcript=true}

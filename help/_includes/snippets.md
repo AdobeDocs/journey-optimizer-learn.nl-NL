@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Experience League LIVE:
 
-* [&#x200B; maximaliseer het potentieel van uw mobiele app met Adobe Journey Optimizer &#x200B;](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en)
+* [&#x200B; maximaliseer het potentieel van uw mobiele app met Adobe Journey Optimizer &#x200B;](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=nl-NL)
 
   *leer de voordelen van in-app overseinen als in real time betrokkenheidskanaal en hoe te om gepersonaliseerde mobiele app ervaringen in Adobe Journey Optimizer te vormen en te schrijven.*
 

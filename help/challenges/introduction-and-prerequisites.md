@@ -6,10 +6,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 1542a429d393d9d803976d1490a3bc09654b706b
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
-source-wordcount: '479'
-ht-degree: 14%
+source-wordcount: '411'
+ht-degree: 15%
 
 ---
 
@@ -27,21 +27,21 @@ Controleer of aan de volgende voorwaarden is voldaan.
 
 * Toegang tot een Journey Optimizer-sandbox - het wordt aanbevolen de uitdaging in een specifieke trainingssandbox te voltooien.
 * AEM Assets Essentials moet zijn ingericht voor uw instantie.
-* De [e-mailkanalen moeten zijn geconfigureerd](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html?lang=nl-NL) voor transactie- en marketingberichten.
+* De [ e-mailkanalen moeten ](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html) voor transactie en marketing berichten worden gevormd.
 
 ### Toegangsrechten
 
 U hebt de volgende toegangsrechten nodig:
 
-* *Reismanager* of *Reisbeheerder*
+* *Manager van de Reis* of *Beheerder van de Reis*
 * Testprofielen en de bijbehorende kenmerken weergeven
 
 >[!NOTE]
-> De oefeningen zijn ontwikkeld op basis van de Luma-voorbeeldgegevens. Het wordt aanbevolen een trainingssandbox in te stellen die is geconfigureerd met de voorbeeldgegevens. Ga naar de zelfstudie [Een trainingssandbox configureren](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) voor instructies voor gedetailleerde instructies.
+> De oefeningen zijn ontwikkeld op basis van de Luma-voorbeeldgegevens. Het wordt aanbevolen een trainingssandbox in te stellen die is geconfigureerd met de voorbeeldgegevens. Gelieve te bezoeken het leerprogramma [ vormt een trainingszandbak ](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) voor instructies voor gedetailleerde instructies.
 
 ### Vereiste acties
 
-* Als u nog geen ervaring hebt met Adobe Journey Optimizer, voert u de cursus uit [Aan de slag met Journey Optimizer for Journey Managers en Beheerders](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html).
+* Als u aan Adobe Journey Optimizer nieuw bent, voltooi de cursus [ Begonnen met Journey Optimizer voor de Managers en Beheerders van de Reis ](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html).
 
 ## Het artikel
 
@@ -61,15 +61,15 @@ Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en d
       </div>
   </td>
   <td>
-   <strong><a href="summer-collection-announcement-challenge.md">Een aankondiging van een zomerverzameling maken </strong>
+   <strong><a href="summer-collection-announcement-challenge.md"> Creeer een aankondiging van de zomerinzameling </strong>
     </a>
       <p>
-      <em>Creeer een reis die een de aankondiging van de zomerinzameling e-mail naar een publiek van bestaande klanten verzendt. </em>
+      <em> creeer een reis die een e-mail van de de inzamelingsaankondiging van de zomer naar een publiek van bestaande klanten verzendt. </em>
       <p>
-      <b>Vereiste vaardigheden:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=nl-NL"> Segmenten maken</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=nl-NL">Segment lezen</li>
-       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=nl-NL">HTML e-mailinhoud importeren</li>
+      <b> Vereiste vaardigheden:</b>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Segmenten maken</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html">Segment lezen</li>
+       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html">HTML-e-mailinhoud importeren</li>
   </td>
   </tr>
    <tr>
@@ -82,16 +82,16 @@ Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en d
     <td>
     <div >
       <a>
-    <strong><a href="loyalty-status-welcome-email-challenge.md">Een welkome-mail met een status van loyaliteit maken </strong>
+    <strong><a href="loyalty-status-welcome-email-challenge.md"> Creeer een loyaliteitsstatus welkome-mail </strong>
     </a>
     </div>
     <p>
-    <em>Verzend een e-mail wanneer een loyaliteitsklant naar een nieuwe rij beweegt om hen van hun nieuwe voordelen te feliciteren en te informeren.</em>
+    <em> verzend een e-mail wanneer een klantenbeweging van de loyaliteit naar een nieuwe rij zich beweegt om hen van hun nieuwe voordelen te feliciteren en te informeren.</em>
     <p>
-    <b>Vereiste vaardigheden:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=nl-NL"> Segmenten maken</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=nl-NL">Segmentkwalificatie</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=nl-NL">HTML-e-mailcontent importeren en opstellen</li>
+    <b> Vereiste vaardigheden:</b>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Segmenten maken</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html">Segmentkwalificatie</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html">HTML-e-mailcontent importeren en opstellen</li>
   </td>
   </tr>
   <tr>
@@ -103,16 +103,16 @@ Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en d
   </td>
   <td>
       <a href="order-confirmation-challenge.md">
-    <strong><a href="order-confirmation-challenge.md">Een bevestiging van een bestelling maken</strong>
+    <strong><a href="order-confirmation-challenge.md"> creeer een ordesbevestiging </strong>
     </a>
     <div>
     <p>
-    <em>Test uw kennis op hoe te om transactieverslagen tot stand te brengen en te personaliseren
+    <em> Test uw kennis op hoe te om transactionele berichten tot stand te brengen en te personaliseren
     </em>
     <p>
-    <b>Vereiste vaardigheden:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=nl-NL"> E-mailcontent maken met de berichteneditor</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=nl-NL">Contextuele gebeurtenisinformatie gebruiken voor personalisatie</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=nl-NL">Helpfuncties gebruiken voor personalisatie</li>
+    <b> Vereiste vaardigheden:</b>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html"> E-mailcontent maken met de berichteneditor</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">Contextuele gebeurtenisinformatie gebruiken voor personalisatie</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">Helpfuncties gebruiken voor personalisatie</li>
   </td>
 </table>

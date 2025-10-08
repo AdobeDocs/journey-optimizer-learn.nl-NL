@@ -8,10 +8,10 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
-source-wordcount: '580'
-ht-degree: 2%
+source-wordcount: '547'
+ht-degree: 0%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 2%
 | Uitdaging | Productvervanging |
 |---|---|
 | Persona | Reismanager |
-| Vereiste vaardigheden | <ul><li>[Segmenten maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=nl-NL)</li><li> [HTML-e-mailcontent importeren en opstellen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=nl-NL)</li><li>[Gebruiksscenario - Leessegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=nl-NL)</li> |
-| Te downloaden middelen | [E-mailbestand voor productvoorraad](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
+| Vereiste vaardigheden | <ul><li>[ creeer segmenten ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [ de Invoer en auteurHTML e-mailinhoud ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=en)</li><li>[ Geval van het Gebruik - Gelezen segment ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
+| Assets downloaden | [ de restock e-maildossier van het Product ](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## Het artikel
 
@@ -29,40 +29,40 @@ Wanneer klanten op de Luma-website bladeren, kunnen ze producten toevoegen die z
 
 ## Uw uitdaging
 
-Luma vraagt u om een reis in Journey Optimizer uit te voeren die klanten op de hoogte brengt, die een punt op hun verlanglijst hebben dat eerder verouderd was, wanneer dit punt weer in voorraad is. Het creatieve team biedt u de [E-mailbestand voor productvoorraad](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip).
+Luma vraagt u om een reis in Journey Optimizer uit te voeren die klanten op de hoogte brengt, die een punt op hun verlanglijst hebben dat eerder verouderd was, wanneer dit punt weer in voorraad is. Het creatieve team voorziet u van het [ dossier van het Product restock e-mail ](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip).
 
 >[!BEGINTABS]
 
 >[!TAB Taak]
 
-## 1. Definieer het segment - Afzonderlijke items op de weergavelijst
+## &#x200B;1. Definieer het segment - Afzonderlijke items op de weergavelijst
 
 Om potentiële geïnteresseerde klanten te richten wanneer de producten worden herbevolkt, creeer een publiek dat uit klanten bestaat:
 
-* Wie ten minste één item aan hun verlanglijst heeft toegevoegd (gebruik het gebeurtenistype: [!UICONTROL Opslaan voor later])
+* Die minstens één punt aan hun verlanglijst (gebruik het gebeurtenistype: [!UICONTROL  Commerce sparen voor Lagen ]) hebben toegevoegd
 * die in de laatste drie maanden niet meer in voorraad was (voorraadhoeveelheid = 0)
 * En heb het object sindsdien niet gekocht.
 
 >[!TIP]
->Sluit alle de gebeurtenistypen van Aankopen uit waar SKU SKU van SKU van *De gebeurtenis Opslaan voor later*. U kunt het veld vinden in het dialoogvenster *Door variabelen bladeren* sectie.
+>Sluit alle de gebeurtenistypen van Aankopen uit waar SKU SKU SKU van *sparen voor recentere gebeurtenis* aanpast. U kunt het gebied in *vinden doorbladert Variabelen* sectie.
 
 Geef dit segment een naam: `Out-of-stock-Wishlist`
 
 
-### 2. Maak een reis - kennisgeving van de productvoorraad
+### &#x200B;2. Maak een reis - kennisgeving van de productvoorraad
 
 Wanneer een eerder out-of-stock item weer in voorraad is, geeft u klanten die een out-of-stock item hadden toegevoegd een oproep om te gaan winkelen, nu het item weer in voorraad is.
 
-1. Bel de reis: `Product Restock`
+1. Roep de reis aan: `Product Restock`
 2. De reis moet worden gestart wanneer een product weer in voorraad is
-3. Verzend de *E-mailadres voor productvoorraad* tot
+3. Verzend het *e-mail van de Restock van het Product* aan
 4. Gebruikers die dit item aan hun verlanglijst hadden toegevoegd terwijl het uit voorraad was
 
->[!TAB Succescriteria]
+>[!TAB  criteria van het Succes ]
 
 Test uw reis:
 
-1. Zorg ervoor dat de gebeurtenis van het gelezen segment de Namespace = heeft `Luma CRM ID`
+1. Zorg ervoor dat de gebeurtenis van het gelezen segment de Namespace = `Luma CRM ID` heeft
 1. Hef de standaard e-mailparameters op en stel deze in op uw eigen e-mailadres (zie e-mail nr. 1 voor instructies).
 1. De overgang naar de testmodus instellen
 1. Trigger een gebeurtenis - ga de volgende gegevens in:
@@ -77,20 +77,20 @@ Test uw reis:
 
 U ontvangt de e-mail &quot;Luma Email Product Replenging&quot; met de productgegevens en de personalisatie voor Wenen.
 
->[!TAB Uw werk controleren]
+>[!TAB  Controle uw werk ]
 
 Zo ziet uw segment eruit:
 
-![Segment - Afzonderlijke items op de Wishlist](/help/challenges/assets/C1-S2.png)
+![ Segment - uit-van-voorraad de Punten van Wishlist ](/help/challenges/assets/C1-S2.png)
 
 
 Zo ziet uw reis eruit:
 
-![Reis voor productaanvulling](/help/challenges/assets/c3-j3-journey.png)
+![ reis van de aanvulling van het Product ](/help/challenges/assets/c3-j3-journey.png)
 
 Voorwaarde: in verlanglijst
 
-![Voorwaarde - in wenslijst](/help/challenges/assets/c3-j3-condition.png)
+![ Voorwaarde - in wenslijst ](/help/challenges/assets/c3-j3-condition.png)
 
 Voorwaardencode:
 
@@ -98,7 +98,7 @@ Voorwaardencode:
 
 
 >[!TIP]
-> * Selecteer de SKU onder Opslaan voor later in het dialoogvenster *Door variabelen bladeren* sectie
+> * Selecteer SKU onder Save for Laters in *doorbladert Variabelen* sectie
 > * Gebruik de vergelijkingsoptie wanneer u de SKU onder Opslaan voor later in het gebeurtenisveld plaatst
 
 Controleer de code in de rechterbenedenhoek van het scherm Segment bewerken onder Gebeurtenissen. De code moet er als volgt uitzien:

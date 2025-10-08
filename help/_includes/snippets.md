@@ -1,7 +1,7 @@
 ---
-source-git-commit: f6e9e2b286c220bf90eab7632f2110176b0c7ba2
+source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -11,19 +11,19 @@ ht-degree: 0%
 
 >[!INFO]
 >
-> Deze video maakt deel uit van een cursus [ vormt Journey Optimizer voor Beheerders ](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-a-1-2021-1.html), beschikbaar voor vrij op Experience League!
+> Deze video maakt deel uit van een cursus [ vormt Journey Optimizer voor Beheerders ](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-a-1-2021-1.html), beschikbaar voor vrije op Experience League!
 
 ## Cursus Aan de slag met besluitvormingsbeheer voor marketers {#experienceplatform-u-1-2020-1-offerdecisioning}
 
 >[!INFO]
 >
-> Deze video maakt deel uit van een cursus [ Cursus die met besluitvormingsbeheer voor marketers ](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=en) wordt begonnen, beschikbaar voor vrij op Experience League!
+> Deze video maakt deel uit van een cursus [ Cursus die met besluitvormingsbeheer voor marketers ](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=en), beschikbaar voor vrije op Experience League wordt begonnen!
 
 ## ExL Live in app {#exl-live-in-app}
 
 Experience League LIVE:
 
-* [ maximaliseer het potentieel van uw mobiele app met Adobe Journey Optimizer ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=nl-NL)
+* [ maximaliseer het potentieel van uw mobiele app met Adobe Journey Optimizer ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en)
 
   *leer de voordelen van in-app overseinen als in real time betrokkenheidskanaal en hoe te om gepersonaliseerde mobiele app ervaringen in Adobe Journey Optimizer te vormen en te schrijven.*
 
@@ -31,13 +31,13 @@ Experience League LIVE:
 
 >[!NOTE]
 >
->Deze functies zijn momenteel alleen beschikbaar voor een aantal organisaties (beperkte beschikbaarheid). Neem contact op met uw Adobe als u toegang wilt.
+>Deze functies zijn momenteel alleen beschikbaar voor een aantal organisaties (beperkte beschikbaarheid). Neem contact op met uw Adobe-vertegenwoordiger voor toegang.
 
 ## Beta {#beta}
 
 >[!AVAILABILITY]
 >
->Deze mogelijkheid is momenteel beschikbaar in bètaversie en alleen voor bètaklanten. Neem contact op met de klantenservice van de Adobe om deel te nemen aan het bètaprogramma.
+>Deze mogelijkheid is momenteel beschikbaar in bètaversie en alleen voor bètaklanten. Neem contact op met de klantenservice van Adobe om deel te nemen aan het bètaprogramma.
 
 ## Platform Video - Beleid (#platform-video)
 

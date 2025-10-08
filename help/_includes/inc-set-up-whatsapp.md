@@ -1,5 +1,5 @@
 ---
-source-git-commit: 261b26e38b627e26de619ef08fdba455ad486fd5
+source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -17,4 +17,4 @@ Wat u zult leren:
 
 Ideaal voor marketers en ontwikkelaars die WhatsApp-berichten willen activeren tijdens hun klantentransacties.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470274/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)

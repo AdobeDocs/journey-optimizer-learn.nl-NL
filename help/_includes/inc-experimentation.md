@@ -1,7 +1,7 @@
 ---
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
-source-wordcount: '26'
+source-wordcount: '24'
 ht-degree: 0%
 
 ---
@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Leer hoe u contentexperimenten configureert voor een A/B-test en e-mailinhoud verkent, wat de beste manier is om uw zakelijke doelstellingen te bepalen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447337/?learn=on&captions=dut){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3419893/?learn=on){transcript=true}

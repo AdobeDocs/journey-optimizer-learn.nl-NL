@@ -19,7 +19,7 @@ ht-degree: 0%
 | Uitdaging | Een mededeling voor een zomerverzameling maken |
 |---|---|
 | Persona | Reismanager |
-| Vereiste vaardigheden | <ul><li>[&#x200B; creeer segmenten &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [&#x200B; de Invoer en auteurHTML e-mailinhoud &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[&#x200B; Geval van het Gebruik - Gelezen segment &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
+| Vereiste vaardigheden | <ul><li>[&#x200B; creeer segmenten &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=nl-NL)</li><li> [&#x200B; de Invoer en auteurHTML e-mailinhoud &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=nl-NL)</li><li>[&#x200B; Geval van het Gebruik - Gelezen segment &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
 | Assets downloaden | [&#x200B; Seizoensgebonden de e-maildossiers van de Inzameling &#x200B;](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
 {style="table-layout:auto"}

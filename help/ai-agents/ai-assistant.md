@@ -22,5 +22,5 @@ Ontdek wat u met AI-assistent kunt doen in Adobe Experience Platform-toepassinge
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-Zie [&#x200B; Werk met Medewerker AI &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant) voor meer informatie over de gebruiksgevallen die in Journey Optimizer worden gesteund. Voor gedetailleerde documentatie, bezoek de [&#x200B; Medewerker AI in de documentatie van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home).
+Zie [&#x200B; Werk met Medewerker AI &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/get-started/ai-assistant) voor meer informatie over de gebruiksgevallen die in Journey Optimizer worden gesteund. Voor gedetailleerde documentatie, bezoek de [&#x200B; Medewerker AI in de documentatie van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/ai-assistant/home).
 

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # LAB-WERKBOEK
 
-![ Adobe Summit - alt tekst ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png " Adobe Summit ")
+![&#x200B; Adobe Summit - alt tekst &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png " Adobe Summit ")
 
 ## L820 - Aangepaste mobiele momenten maken met Adobe Journey Optimizer
 
@@ -29,14 +29,14 @@ In dit hands-on laboratorium, onderzoekt u diverse mobiele scenario&#39;s en lee
 >[!IMPORTANT]
 >
 >U kunt geen foto&#39;s of screenshots van de sessie naar sociale media publiceren.
->><br>
->>**Vertrouwelijkheid van Adobe**
->>De informatie en productinformatie die vandaag tijdens dit laboratorium wordt gedeeld zijn de Vertrouwelijke Informatie van Adobe.
->>Deelnemers mogen geen vertrouwelijke informatie aan personen of entiteiten reproduceren, gebruiken, verspreiden of openbaar maken.
->>De informatie over producten dient uitsluitend ter informatie, is geen garantie voor toekomstige functies of functies en kan op elk moment worden gewijzigd. Daarom maken dergelijke productfuncties of functies op geen enkele wijze deel uit van uw overeenkomst met Adobe of op enige andere wijze aan u gehecht.
->><br>
->>**Disclaimer**
->>Adobe biedt u vroege toegang tot de functies die gebruikmaken van generatieve AI-technologie. Deze functies zijn nog in ontwikkeling en kunnen leiden tot onverwachte of onjuiste reacties. We verwelkomen uw feedback als we deze functie op de markt brengen.
+>&#x200B;><br>
+>&#x200B;>**Vertrouwelijkheid van Adobe**
+>&#x200B;>De informatie en productinformatie die vandaag tijdens dit laboratorium wordt gedeeld zijn de Vertrouwelijke Informatie van Adobe.
+>&#x200B;>Deelnemers mogen geen vertrouwelijke informatie aan personen of entiteiten reproduceren, gebruiken, verspreiden of openbaar maken.
+>&#x200B;>De informatie over producten dient uitsluitend ter informatie, is geen garantie voor toekomstige functies of functies en kan op elk moment worden gewijzigd. Daarom maken dergelijke productfuncties of functies op geen enkele wijze deel uit van uw overeenkomst met Adobe of op enige andere wijze aan u gehecht.
+>&#x200B;><br>
+>&#x200B;>**Disclaimer**
+>&#x200B;>Adobe biedt u vroege toegang tot de functies die gebruikmaken van generatieve AI-technologie. Deze functies zijn nog in ontwikkeling en kunnen leiden tot onverwachte of onjuiste reacties. We verwelkomen uw feedback als we deze functie op de markt brengen.
 
 
 ### Toetsen
@@ -51,11 +51,11 @@ In dit hands-on laboratorium, onderzoekt u diverse mobiele scenario&#39;s en lee
 
 * Ken uw zitplaatsaantal: U kunt uw zitplaatsaantal op de bureaubovenkant van de laboratoriummachine vinden:
 
-![ aantal van de Plaats ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
+![&#x200B; aantal van de Plaats &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 U hebt toegang nodig tot:
 
-* [ Adobe Journey Optimizer ](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - login details worden verstrekt tijdens de oefeningen.
-* [ Fréscopa website ](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
+* [&#x200B; Adobe Journey Optimizer &#x200B;](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - login details worden verstrekt tijdens de oefeningen.
+* [&#x200B; Fréscopa website &#x200B;](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
 
 ### Inzicht in het gebruik

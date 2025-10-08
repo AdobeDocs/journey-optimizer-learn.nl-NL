@@ -20,8 +20,8 @@ ht-degree: 0%
 | Uitdaging | Productvervanging |
 |---|---|
 | Persona | Reismanager |
-| Vereiste vaardigheden | <ul><li>[ creeer segmenten ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [ de Invoer en auteurHTML e-mailinhoud ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=en)</li><li>[ Geval van het Gebruik - Gelezen segment ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
-| Assets downloaden | [ de restock e-maildossier van het Product ](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
+| Vereiste vaardigheden | <ul><li>[&#x200B; creeer segmenten &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [&#x200B; de Invoer en auteurHTML e-mailinhoud &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=en)</li><li>[&#x200B; Geval van het Gebruik - Gelezen segment &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
+| Assets downloaden | [&#x200B; de restock e-maildossier van het Product &#x200B;](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## Het artikel
 
@@ -29,7 +29,7 @@ Wanneer klanten op de Luma-website bladeren, kunnen ze producten toevoegen die z
 
 ## Uw uitdaging
 
-Luma vraagt u om een reis in Journey Optimizer uit te voeren die klanten op de hoogte brengt, die een punt op hun verlanglijst hebben dat eerder verouderd was, wanneer dit punt weer in voorraad is. Het creatieve team voorziet u van het [ dossier van het Product restock e-mail ](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip).
+Luma vraagt u om een reis in Journey Optimizer uit te voeren die klanten op de hoogte brengt, die een punt op hun verlanglijst hebben dat eerder verouderd was, wanneer dit punt weer in voorraad is. Het creatieve team voorziet u van het [&#x200B; dossier van het Product restock e-mail &#x200B;](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip).
 
 >[!BEGINTABS]
 
@@ -39,7 +39,7 @@ Luma vraagt u om een reis in Journey Optimizer uit te voeren die klanten op de h
 
 Om potentiële geïnteresseerde klanten te richten wanneer de producten worden herbevolkt, creeer een publiek dat uit klanten bestaat:
 
-* Die minstens één punt aan hun verlanglijst (gebruik het gebeurtenistype: [!UICONTROL  Commerce sparen voor Lagen ]) hebben toegevoegd
+* Die minstens één punt aan hun verlanglijst (gebruik het gebeurtenistype: [!UICONTROL &#x200B; Commerce sparen voor Lagen &#x200B;]) hebben toegevoegd
 * die in de laatste drie maanden niet meer in voorraad was (voorraadhoeveelheid = 0)
 * En heb het object sindsdien niet gekocht.
 
@@ -81,16 +81,16 @@ U ontvangt de e-mail &quot;Luma Email Product Replenging&quot; met de productgeg
 
 Zo ziet uw segment eruit:
 
-![ Segment - uit-van-voorraad de Punten van Wishlist ](/help/challenges/assets/C1-S2.png)
+![&#x200B; Segment - uit-van-voorraad de Punten van Wishlist &#x200B;](/help/challenges/assets/C1-S2.png)
 
 
 Zo ziet uw reis eruit:
 
-![ reis van de aanvulling van het Product ](/help/challenges/assets/c3-j3-journey.png)
+![&#x200B; reis van de aanvulling van het Product &#x200B;](/help/challenges/assets/c3-j3-journey.png)
 
 Voorwaarde: in verlanglijst
 
-![ Voorwaarde - in wenslijst ](/help/challenges/assets/c3-j3-condition.png)
+![&#x200B; Voorwaarde - in wenslijst &#x200B;](/help/challenges/assets/c3-j3-condition.png)
 
 Voorwaardencode:
 

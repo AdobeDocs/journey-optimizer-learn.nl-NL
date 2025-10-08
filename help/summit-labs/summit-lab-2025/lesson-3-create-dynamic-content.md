@@ -27,4 +27,4 @@ In deze oefening, past u dynamische inhoud op SMS als voorbeeld toe, maar het ka
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457913/?learn=on&enablevpops)
 
-Zie [ dynamische inhoud met de bouwer van de voorwaardenregel ](/help/personalize-content/create-dynamic-content.md) voor meer begeleiding op dit onderwerp creëren.
+Zie [&#x200B; dynamische inhoud met de bouwer van de voorwaardenregel &#x200B;](/help/personalize-content/create-dynamic-content.md) voor meer begeleiding op dit onderwerp creëren.

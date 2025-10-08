@@ -19,8 +19,8 @@ ht-degree: 0%
 | Uitdaging | Een welkome-mail met een status van loyaliteit maken |
 |---|---|
 | Persona | Reismanager |
-| Vereiste vaardigheden | <ul><li>[ creeer segmenten ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[ kwalificatie van het Segment ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html)</li><li>[ de inhoud van HTML van de Invoer ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html)</li></ul> |
-| Assets downloaden | [ StatusUpgradeEmail.zip ](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
+| Vereiste vaardigheden | <ul><li>[&#x200B; creeer segmenten &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[&#x200B; kwalificatie van het Segment &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html)</li><li>[&#x200B; de inhoud van HTML van de Invoer &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html)</li></ul> |
+| Assets downloaden | [&#x200B; StatusUpgradeEmail.zip &#x200B;](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 {style="table-layout:auto"}
 
@@ -40,28 +40,28 @@ U bent gevraagd om een reis op te zetten die automatisch een welkome e-mail naar
 
 Wanneer een loyaliteitsklant voor de platina tier kwalificeert, zouden zij een e-mail moeten ontvangen om hen van hun nieuwe voordelen te feliciteren en te informeren. Het creatieve team heeft een dossier van HTML **[Luma - statusverbetering verstrekt - verwelkom e-mail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** met het e-maillichaam.
 
-1. Creeer geroepen a [!UICONTROL  segment ] in Journey Optimizer `Luma - platinum status`.
+1. Creeer geroepen a [!UICONTROL &#x200B; segment &#x200B;] in Journey Optimizer `Luma - platinum status`.
 
 1. Maak een reis met de naam `Luma - New Status - platinum` .
 
    1. Een klant beweegt zich in de reis wanneer zij voor de platina loyaliteitslaag in aanmerking komen.
 
-   1. De klant dient een e-mailbericht met het label `Luma - Platinum Status - Welcome` te ontvangen, met de onderwerpregel `Welcome to Platinum Status, {firstName}!` en de e-mailtekst die door het creatieve team is verschaft. Dit is a [!UICONTROL  transactie ] e-mail.
+   1. De klant dient een e-mailbericht met het label `Luma - Platinum Status - Welcome` te ontvangen, met de onderwerpregel `Welcome to Platinum Status, {firstName}!` en de e-mailtekst die door het creatieve team is verschaft. Dit is a [!UICONTROL &#x200B; transactie &#x200B;] e-mail.
 
-   1. Wanneer u het HTML-bestand uploadt, verwijst het e-mailbericht naar de status &#39;ruit&#39; in plaats van naar &#39;platina&#39;. In plaats van het verzoeken van om een nieuw dossier van het creatieve team, werk e-mail in [!UICONTROL  E-mail Designer ] bij.
+   1. Wanneer u het HTML-bestand uploadt, verwijst het e-mailbericht naar de status &#39;ruit&#39; in plaats van naar &#39;platina&#39;. In plaats van het verzoeken van om een nieuw dossier van het creatieve team, werk e-mail in [!UICONTROL &#x200B; E-mail Designer &#x200B;] bij.
 
 >[!TAB  criteria van het Succes ]
 
 Test uw reis:
 
-1. Zorg ervoor dat de [!UICONTROL  Gelezen Activiteit van het Segment ] [!UICONTROL  namespace ] heeft die aan **[!DNL Luma CRM id(lumaCrmId)]** wordt geplaatst.
+1. Zorg ervoor dat de [!UICONTROL &#x200B; Gelezen Activiteit van het Segment &#x200B;] [!UICONTROL &#x200B; namespace &#x200B;] heeft die aan **[!DNL Luma CRM id(lumaCrmId)]** wordt geplaatst.
 
-1. Overschrijf de standaard [!UICONTROL  e-mailparameters ] en plaats het aan uw eigen e-mailadres:
+1. Overschrijf de standaard [!UICONTROL &#x200B; e-mailparameters &#x200B;] en plaats het aan uw eigen e-mailadres:
    * In de **[!UICONTROL parameters E-mail]**, klik het T symbool (laat parameteropheffing toe)
 
    * Klik het **[!UICONTROL gebied van het Adres]**.
 
-   * Op het volgende scherm, voeg uw e-mailadres tussen haakjes toe: `"yourname@yourdomain"` in de uitdrukkingsredacteur, dan klik O.K. ****.
+   * Op het volgende scherm, voeg uw e-mailadres tussen haakjes toe: `"yourname@yourdomain"` in de uitdrukkingsredacteur, dan klik O.K. **&#x200B;**.
 
 1. Stel het pad in op de testmodus.
 
@@ -73,16 +73,16 @@ Test uw reis:
 
 Zo ziet de e-mail eruit:
 
-![ Luma - statusverbetering - verwelkom e-mail ](/help/challenges/assets/status-upgrade-welcome-email.png)
+![&#x200B; Luma - statusverbetering - verwelkom e-mail &#x200B;](/help/challenges/assets/status-upgrade-welcome-email.png)
 
 >[!TAB  Controle uw werk ]
 
 Zo ziet het segment eruit:
 
-![ Luma - platina status - segment ](/help/challenges/assets/segment-luma-platinum-status.png)
+![&#x200B; Luma - platina status - segment &#x200B;](/help/challenges/assets/segment-luma-platinum-status.png)
 
 Zo ziet uw reis eruit:
 
-![ platina-status-verbetering-reis ](/help/challenges/assets/journey-luma-status-upgrade.png)
+![&#x200B; platina-status-verbetering-reis &#x200B;](/help/challenges/assets/journey-luma-status-upgrade.png)
 
 >[!ENDTABS]

@@ -27,7 +27,7 @@ Controleer of aan de volgende voorwaarden is voldaan.
 
 * Toegang tot een Journey Optimizer-sandbox - het wordt aanbevolen de uitdaging in een specifieke trainingssandbox te voltooien.
 * AEM Assets Essentials moet zijn ingericht voor uw instantie.
-* De [ e-mailkanalen moeten ](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html) voor transactie en marketing berichten worden gevormd.
+* De [&#x200B; e-mailkanalen moeten &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html) voor transactie en marketing berichten worden gevormd.
 
 ### Toegangsrechten
 
@@ -37,11 +37,11 @@ U hebt de volgende toegangsrechten nodig:
 * Testprofielen en de bijbehorende kenmerken weergeven
 
 >[!NOTE]
-> De oefeningen zijn ontwikkeld op basis van de Luma-voorbeeldgegevens. Het wordt aanbevolen een trainingssandbox in te stellen die is geconfigureerd met de voorbeeldgegevens. Gelieve te bezoeken het leerprogramma [ vormt een trainingszandbak ](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) voor instructies voor gedetailleerde instructies.
+> De oefeningen zijn ontwikkeld op basis van de Luma-voorbeeldgegevens. Het wordt aanbevolen een trainingssandbox in te stellen die is geconfigureerd met de voorbeeldgegevens. Gelieve te bezoeken het leerprogramma [&#x200B; vormt een trainingszandbak &#x200B;](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) voor instructies voor gedetailleerde instructies.
 
 ### Vereiste acties
 
-* Als u aan Adobe Journey Optimizer nieuw bent, voltooi de cursus [ Begonnen met Journey Optimizer voor de Managers en Beheerders van de Reis ](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html).
+* Als u aan Adobe Journey Optimizer nieuw bent, voltooi de cursus [&#x200B; Begonnen met Journey Optimizer voor de Managers en Beheerders van de Reis &#x200B;](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html).
 
 ## Het artikel
 

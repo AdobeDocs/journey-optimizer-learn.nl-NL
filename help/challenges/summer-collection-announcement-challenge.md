@@ -19,8 +19,8 @@ ht-degree: 0%
 | Uitdaging | Een mededeling voor een zomerverzameling maken |
 |---|---|
 | Persona | Reismanager |
-| Vereiste vaardigheden | <ul><li>[ creeer segmenten ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [ de Invoer en auteurHTML e-mailinhoud ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[ Geval van het Gebruik - Gelezen segment ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
-| Assets downloaden | [ Seizoensgebonden de e-maildossiers van de Inzameling ](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
+| Vereiste vaardigheden | <ul><li>[&#x200B; creeer segmenten &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [&#x200B; de Invoer en auteurHTML e-mailinhoud &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[&#x200B; Geval van het Gebruik - Gelezen segment &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
+| Assets downloaden | [&#x200B; Seizoensgebonden de e-maildossiers van de Inzameling &#x200B;](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
 {style="table-layout:auto"}
 
@@ -59,13 +59,13 @@ In de segmentbouwer, kunt u het geschatte aantal gekwalificeerde profielen zien.
 
 U kunt controleren welke profielen aan het segment zijn toegevoegd door aan één van in de profielen te navigeren die op de de detailmening van uw segment worden vermeld.
 
-Voor de profielpagina, controleer het [!UICONTROL  lusje van Attributen ] om te bevestigen dat zij kwalificeren: De rij zou zilver, goud, platina, of ruitje moeten zijn.
+Voor de profielpagina, controleer het [!UICONTROL &#x200B; lusje van Attributen &#x200B;] om te bevestigen dat zij kwalificeren: De rij zou zilver, goud, platina, of ruitje moeten zijn.
 
-![ de attributen van het Profiel ](assets/C1-S1-profile-attributes.png)
+![&#x200B; de attributen van het Profiel &#x200B;](assets/C1-S1-profile-attributes.png)
 
-U kunt het [!UICONTROL  lusje van het het lidmaatschap van het 0} Segment ook controleren: Uw segment zou moeten worden vermeld.]
+U kunt het [!UICONTROL &#x200B; lusje van het het lidmaatschap van het 0&rbrace; Segment ook controleren: Uw segment zou moeten worden vermeld.]
 
-![ lidmaatschap van het Segment ](assets/C1-S1-profile-segment-membership.png)
+![&#x200B; lidmaatschap van het Segment &#x200B;](assets/C1-S1-profile-segment-membership.png)
 
 >[!TAB  Controle uw werk ]
 
@@ -73,7 +73,7 @@ De gebieden van het segment: **[!UICONTROL Attributen]** > **[!UICONTROL XDM ind
 
 Zo ziet uw segment eruit:
 
-![ Segment - Actieve Klanten ](/help/challenges/assets/C1-S1.png)
+![&#x200B; Segment - Actieve Klanten &#x200B;](/help/challenges/assets/C1-S1.png)
 
 De code moet er als volgt uitzien:
 
@@ -99,7 +99,7 @@ Een bureau heeft u vier HTML-bestanden geleverd met het ontwerp voor de e-mails:
 * E-mail over verzameling van vrouwen in de luminantie
 * Luminantie - 20 % korting op e-mail verzameling
 
-1. [ Download de seizoensgebonden E-maildossiers van de Inzameling ](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip).
+1. [&#x200B; Download de seizoensgebonden E-maildossiers van de Inzameling &#x200B;](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip).
 
 1. Creeer een reis genoemd *Luma - de aankondiging van de Inzameling van de Zomer* die op de volgende richtlijnen wordt gebaseerd:
 
@@ -108,12 +108,12 @@ Een bureau heeft u vier HTML-bestanden geleverd met het ontwerp voor de e-mails:
       * Onderwerpregel *(de voornaam van de ontvanger), is de nieuwe inzameling van de zomer van de Luma hier!*
       * Gebruik het opgegeven HTML-bestand `SeasonalCollectionEmail.html` voor de hoofdtekst van de e-mail.
    1. Wacht twee dagen en verzend een vervolgbericht met meer gerichte inhoud:
-      * De mannelijke klanten zouden de **e-mail van de Inzameling van Mannen 0} moeten ontvangen Luma.**
+      * De mannelijke klanten zouden de **e-mail van de Inzameling van Mannen 0&rbrace; moeten ontvangen Luma.**
          * De titel van het bericht: *de Inzameling van Mannen Luma*
          * Onderwerpregel: *(voornaam van ontvanger), ontdek de nieuwe atletische uitrusting van Men!*
          * Hoofdtekst van e-mail: `MensCollectionEmail.html` voor de hoofdtekst van de e-mail.
-      * Vrouwelijke klanten zouden de **e-mail van de Inzameling van de Vrouwen van 0} Luma moeten ontvangen.**
-         * De titel van het bericht: *Verzameling van de Vrouwen van 0} Luma*
+      * Vrouwelijke klanten zouden de **e-mail van de Inzameling van de Vrouwen van 0&rbrace; Luma moeten ontvangen.**
+         * De titel van het bericht: *Verzameling van de Vrouwen van 0&rbrace; Luma*
          * Onderwerpregel: *(voornaam van ontvanger), verken de Vrouwen van Luma Inzameling!*
          * Hoofdtekst van e-mail: `WomensCollectionEmail.html`
       * Andere klanten zouden **Luma - 20 % van de e-mail van de Inzameling** moeten ontvangen.
@@ -174,14 +174,14 @@ Voorproef e-mail met het testprofiel *Louise Petti.*
 >
 >Voordat u de overgang naar de testmodus instelt:
 >
->1. Zorg ervoor dat de [!UICONTROL  Gelezen Activiteit van het Segment ] namespace heeft die aan **wordt geplaatst Luma CRM identiteitskaart (lumaCrmId)**
+>1. Zorg ervoor dat de [!UICONTROL &#x200B; Gelezen Activiteit van het Segment &#x200B;] namespace heeft die aan **wordt geplaatst Luma CRM identiteitskaart (lumaCrmId)**
 >1. Overschrijf voor elke e-mail de standaard e-mailparameters voor de e-mail, zodat deze naar uw e-mailadres worden verzonden:
 >    * Verborgen waarden weergeven door op het oogsymbool te klikken.
 >    * Klik in de e-mailparameters op het T-symbool (parameteroverschrijving inschakelen).
 >
->      ![ Overschrijf e-mailparameters ](/help/challenges/assets/c3-override-email-paramters.jpg)
+>      ![&#x200B; Overschrijf e-mailparameters &#x200B;](/help/challenges/assets/c3-override-email-paramters.jpg)
 > 
->    * Klik in het [!UICONTROL  gebied van het Adres ]
+>    * Klik in het [!UICONTROL &#x200B; gebied van het Adres &#x200B;]
 >    * Voeg in het volgende scherm uw e-mailadres tussen haakjes toe: `"yourname@yourdomain"` in de expressieeditor en klik op OK.
 >
 
@@ -197,7 +197,7 @@ Test de reis en stuur de e-mails naar je eigen account:
    * Gender niet opgegeven: Louise Petti, Identity value: `d1f132f9f9502bba047a6ec86c4b61f9`
 
 1. Nadat u de profielingang teweegbrengt, zou u eerste e-mail moeten ontvangen. De koptekst moet worden aangepast aan het profiel dat u hebt gekozen.
-1. De reis zou in de respectieve tak moeten verdergaan, en u zou verwante e-mail (bijvoorbeeld, als u *Wenen* koos, zou u *3} e-mail van de Inzameling van de Vrouwen van de Luma moeten ontvangen).*
+1. De reis zou in de respectieve tak moeten verdergaan, en u zou verwante e-mail (bijvoorbeeld, als u *Wenen* koos, zou u *3&rbrace; e-mail van de Inzameling van de Vrouwen van de Luma moeten ontvangen).*
 1. Open de tweede e-mail en de reis moet worden beëindigd.
 1. U kunt stap 4 herhalen. - 7. voor alle drie de profielen om te controleren of uw takken correct werken.
 1. Als u de time-outs wilt testen, stelt u de wachttijd in op 30 seconden en activeert u de invoer opnieuw.
@@ -216,13 +216,13 @@ Je ontvangt de volgende e-mails:
 
 Zo ziet uw reis eruit:
 
-![ Reis ](/help/challenges/assets/c3-j1-journey.png)
+![&#x200B; Reis &#x200B;](/help/challenges/assets/c3-j1-journey.png)
 
 **Voorwaarde - de Groep van de Controle:**
 
-![ de Groep van de Controle ](/help/challenges/assets/c3-j1-condition-control-group.png)
+![&#x200B; de Groep van de Controle &#x200B;](/help/challenges/assets/c3-j1-condition-control-group.png)
 
 **Voorwaarde - Geslacht:** \
 
-![ Voorwaarde - Geslacht ](/help/challenges/assets/c3-j1-condition-gender.png)
+![&#x200B; Voorwaarde - Geslacht &#x200B;](/help/challenges/assets/c3-j1-condition-gender.png)
 >[!ENDTABS]

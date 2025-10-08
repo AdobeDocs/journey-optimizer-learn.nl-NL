@@ -23,4 +23,4 @@ In deze oefening begint u de welkomstreis te bouwen, op basis van een bestaande 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)
 
-Zie [ Inleiding aan de bouw van een reis ](/help/journeys/introduction-to-building-a-journey.md) en [ Geval van het Gebruik - de kwalificatie van het Publiek ](/help/journeys/use-case-audience-qualification.md) voor meer begeleiding over dit onderwerp.
+Zie [&#x200B; Inleiding aan de bouw van een reis &#x200B;](/help/journeys/introduction-to-building-a-journey.md) en [&#x200B; Geval van het Gebruik - de kwalificatie van het Publiek &#x200B;](/help/journeys/use-case-audience-qualification.md) voor meer begeleiding over dit onderwerp.

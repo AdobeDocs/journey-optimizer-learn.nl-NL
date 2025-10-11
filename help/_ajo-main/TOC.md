@@ -218,8 +218,8 @@ ht-degree: 21%
 + AI-assistent {#ai-assistant}
    + [&#x200B; AI Medewerker &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [&#x200B; AI Medewerker voor de Generatie van de Inhoud &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [&#x200B; Journey Agent - Overzicht &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
-   + [&#x200B; de Agent van de Experimentatie - Overzicht &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [&#x200B; Journey Agent - Overzicht &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [&#x200B; de Agent van de Experimentatie - Overzicht &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Kwesties en aanbevolen procedures gebruiken{#use-cases}
    + [Klant aan boord](/help/use-cases/customer-onboarding.md)
    + [Verlaten karretje](/help/use-cases/abandoned-cart.md)

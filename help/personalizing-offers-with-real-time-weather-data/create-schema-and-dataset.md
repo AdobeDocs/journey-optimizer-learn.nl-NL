@@ -27,12 +27,12 @@ Een XDM-schema maken
 - Aanmelden bij Adobe Experience Platform
 - Navigeer aan _&#x200B;**Gegevensbeheer -> Schema&#39;s -> creeer schema**&#x200B;_
 
-- Creeer een XDM gebeurtenis gebaseerd schema genoemd **_Weer-Schema_**. Als u niet vertrouwd met het creëren van een schema bent, te volgen gelieve deze [ documentatie ](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/tutorials/create-schema-ui)
+- Creeer een XDM gebeurtenis gebaseerd schema genoemd **_Weer-Schema_**. Als u niet vertrouwd met het creëren van een schema bent, te volgen gelieve deze [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
 - Zorg ervoor dat het schema de volgende gebieden met aangewezen gegevenstype heeft.
 
-- ![ weer-schema ](assets/weather-schema.png)
+- ![&#x200B; weer-schema &#x200B;](assets/weather-schema.png)
 
 - Voeg de Details van het Web van de Groep van het Gebied _&#x200B;**aan het schema toe.**&#x200B;_ Deze veldgroep is vereist voor rapportagedoeleinden.
 
@@ -52,8 +52,8 @@ Een gegevensstroom in Adobe Experience Platform is vergelijkbaar met een beveili
 
 
 - Geef de volgende details op, zoals hieronder in de schermafbeelding wordt weergegeven
-  ![ datastream ](assets/datastream.png)
+  ![&#x200B; datastream &#x200B;](assets/datastream.png)
 - Klik op Opslaan, klik vervolgens op Toewijzing toevoegen en voeg de Adobe Experience Platform-service en de Dataset van de gebeurtenis toe met de desbetreffende selectievakjes ingeschakeld
-  ![ datastream-afbeelding ](assets/datastream-service.png)
+  ![&#x200B; datastream-afbeelding &#x200B;](assets/datastream-service.png)
 
 - Sla de gegevensstroom op.

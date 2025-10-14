@@ -30,7 +30,7 @@ Noem de formule _&#x200B;**Weer - Verwant - Aanbiedingen**&#x200B;_
 Een criterium in een rangschikkingsformule verwijst naar een voorwaardelijke regel die wordt gebruikt om een score aan een aanbieding toe te wijzen. Deze criteria vergelijken de kenmerken van de aanbieding en de context om te bepalen hoe relevant een aanbieding voor een specifieke persoon is.
 
 De volgende 3 criteria worden gedefinieerd om aanbiedingen te filteren en dan een rangschikkingsscore toe te wijzen aan de kwalificerende aanbieding. De criteria worden gedefinieerd met behulp van de criteria builder. De contextgegevens kunnen ook worden gebruikt voor het definiëren van de criteria zoals weergegeven in de onderstaande schermafbeelding
-![ context-gegevens ](assets/context-data.png)
+![&#x200B; context-gegevens &#x200B;](assets/context-data.png)
 
 Alle drie de criteria hebben bij het definiëren van de criteria een aanbiedingskenmerk(tag) en een contextgegevenskenmerk(temperatuur) gebruikt.
 

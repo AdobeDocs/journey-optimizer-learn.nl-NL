@@ -24,4 +24,4 @@ Ontdek hoe ontwikkelaars de samenwerking met marketingteams kunnen stroomlijnen 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463997/?learn=on&enablevpops&captions=dut)
 
-Voor meer informatie, verwijs naar de gedetailleerde [ productdocumentatie ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields).
+Voor meer informatie, verwijs naar de gedetailleerde [&#x200B; productdocumentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields).

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Beslissing gebruiken om webaanbiedingen aan te passen
 
-Deze zelfstudie bouwt verder op een eerder gemaakte configuratie voor publiekssegmentatie met behulp van Adobe Experience Platform (AEP) Web SDK. In het [ vorige leerprogramma ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction), werden de gebruikersvoorkeur, zoals rente in Voorraden, Obligaties, of Certificaten van Deposito (CDs) gevangen en gebruikt om individuen in gericht publiek binnen Experience Platform te segmenteren. Deze zelfstudie bouwt verder op die basis door Adobe Journey Optimizer (AJO) Decisioning te gebruiken om persoonlijke financiële aanbiedingen te leveren aan die doelgroepen in real-time, waardoor zowel de betrokkenheid als de conversiesultaten worden verbeterd.
+Deze zelfstudie bouwt verder op een eerder gemaakte configuratie voor publiekssegmentatie met behulp van Adobe Experience Platform (AEP) Web SDK. In het [&#x200B; vorige leerprogramma &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction), werden de gebruikersvoorkeur, zoals rente in Voorraden, Obligaties, of Certificaten van Deposito (CDs) gevangen en gebruikt om individuen in gericht publiek binnen Experience Platform te segmenteren. Deze zelfstudie bouwt verder op die basis door Adobe Journey Optimizer (AJO) Decisioning te gebruiken om persoonlijke financiële aanbiedingen te leveren aan die doelgroepen in real-time, waardoor zowel de betrokkenheid als de conversiesultaten worden verbeterd.
 
 
 ## Voorwaarden voor deze zelfstudie

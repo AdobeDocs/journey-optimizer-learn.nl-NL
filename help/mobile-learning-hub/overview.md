@@ -33,7 +33,7 @@ De uitgaande kanalen worden gebruikt om **berichten** aan klanten proactively te
 
 Deze kanalen dwingen **het Beleid van de Toestemming van de Douane** bij bericht af verzendt tijd. Als er geen toestemming wordt verleend voor een specifieke marketingactie, wordt het bericht geblokkeerd.
 
-| ![ de Berichten van de duw ](/help/mobile-learning-hub/assets/mobile-phone.webp) {width= &quot;250&quot;, height= &quot;250&quot;} <br> **[Push Meldingen](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![ SMS/MMS/RCS ](/help/mobile-learning-hub/assets/SMS.png) {width= &quot;250&quot;, height= &quot;250&quot;} <br> **[SMS / MMS / RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![ WhatsApp ](/help/mobile-learning-hub/assets/whatsapp.webp) &lbrace;width= &quot;250&quot;, height= &quot;250&quot;<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
+| ![&#x200B; de Berichten van de duw &#x200B;](/help/mobile-learning-hub/assets/mobile-phone.webp) {width= &quot;250&quot;, height= &quot;250&quot;} <br> **[Push Meldingen](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![&#x200B; SMS/MMS/RCS &#x200B;](/help/mobile-learning-hub/assets/SMS.png) {width= &quot;250&quot;, height= &quot;250&quot;} <br> **[SMS / MMS / RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![&#x200B; WhatsApp &#x200B;](/help/mobile-learning-hub/assets/whatsapp.webp) &lbrace;width= &quot;250&quot;, height= &quot;250&quot;<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
 | Verzonden buiten de app, duw op berichten neemt onmiddellijk aandacht. Ze zijn ideaal voor tijdgevoelige updates en moedigen gebruikers aan om terug te keren naar uw app. | Rechtstreekse berichten die zonder app naar mobiele telefoons van gebruikers worden verzonden. Ideaal voor urgente waarschuwingen, herinneringen en rijke media-inhoud, zoals afbeeldingen of video&#39;s. | Conversationeel kanaal door een wijd gebruikte overseinen app, die gepersonaliseerde, bidirectionele communicatie en interactieve campagnes toestaat. |
 
@@ -42,7 +42,7 @@ Deze kanalen dwingen **het Beleid van de Toestemming van de Douane** bij bericht
 De binnenkomende kanalen worden ontworpen voor **klant-in werking gestelde interactie**, toelatend gepersonaliseerde ervaringen wanneer de gebruikers met uw merk in dienst nemen. Zij steunen **verpersoonlijking in real time** en **gegevens vangen**, zoals het landen van paginavormen die in Adobe Experience Platform (AEP) voor segmentatie en het richten voeden.
 
 
-| ![ In-App Berichten ](/help/mobile-learning-hub/assets/frescopa-in-app.png) {width= &quot;250&quot;, height= &quot;50%&quot;} <br> **[In-app Berichten](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![ de Kaarten van de Inhoud ](/help/mobile-learning-hub/assets/content-card.jpeg) {width= &quot;250&quot;, height= &quot;250&quot;} <br> **[Kaarten van de Inhoud](/help/mobile-learning-hub/channels/content-cards-overview.md)** | ![ code-Gebaseerde Ervaring ](/help/mobile-learning-hub/assets/code-based.png) {width= &quot;250&quot;, height= &quot;250&quot;} <br> **[code-Gebaseerde Ervaring](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |
+| ![&#x200B; In-App Berichten &#x200B;](/help/mobile-learning-hub/assets/frescopa-in-app.png) {width= &quot;250&quot;, height= &quot;50%&quot;} <br> **[In-app Berichten](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![&#x200B; de Kaarten van de Inhoud &#x200B;](/help/mobile-learning-hub/assets/content-card.jpeg) {width= &quot;250&quot;, height= &quot;250&quot;} <br> **[Kaarten van de Inhoud](/help/mobile-learning-hub/channels/content-cards-overview.md)** | ![&#x200B; code-Gebaseerde Ervaring &#x200B;](/help/mobile-learning-hub/assets/code-based.png) {width= &quot;250&quot;, height= &quot;250&quot;} <br> **[code-Gebaseerde Ervaring](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
 | Deze berichten worden geleverd terwijl gebruikers uw app actief gebruiken en zijn in real time en interactief. Ze zijn ideaal om klanten op dit moment te engageren. | Niet-opdringerige, permanente berichten die gebruikers op elk moment in de app kunnen openen. Inhoudskaarten zijn handig als u doorlopende aanbiedingen of nuttige informatie wilt delen. | Aangepaste, gecodeerde berichten maken gepersonaliseerde en dynamische campagnes mogelijk, waarbij real-time gegevens en complexe klantritten worden geïntegreerd. |
 
@@ -51,22 +51,22 @@ De binnenkomende kanalen worden ontworpen voor **klant-in werking gestelde inter
 
 Door deze kanalen te combineren, kunt u een naadloze en efficiënte klantenervaring tot stand brengen:
 
-1. Gebruik [ dupberichten ](/help/mobile-learning-hub/channels/push-notifications-overview.md) om aandacht snel te pakken en gebruikers terug naar uw app (b.v., &quot;Sale begint nu!&quot;) te brengen.
+1. Gebruik [&#x200B; dupberichten &#x200B;](/help/mobile-learning-hub/channels/push-notifications-overview.md) om aandacht snel te pakken en gebruikers terug naar uw app (b.v., &quot;Sale begint nu!&quot;) te brengen.
 
-2. Zodra binnen, lever [ in-app berichten ](/help/mobile-learning-hub/channels/in-app-messages-overview.md) met gepersonaliseerde bevorderingen (b.v., &quot;hier is uw 15% korting voor de verkoop van vandaag&quot;).
+2. Zodra binnen, lever [&#x200B; in-app berichten &#x200B;](/help/mobile-learning-hub/channels/in-app-messages-overview.md) met gepersonaliseerde bevorderingen (b.v., &quot;hier is uw 15% korting voor de verkoop van vandaag&quot;).
 
 3. De inhoudskaarten van het aanbod [&#128279;](/help/mobile-learning-hub/channels/content-cards-overview.md) zodat kunnen de gebruikers de bevordering op elk ogenblik terugkeren alvorens het verloopt (b.v., &quot;Uw 15% korting beëindigt Vrijdag&quot;).
 
-4. Gebruik [ SMS/MMS/RCS ](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md) om geschikte herinneringen of rijke media aanbiedingen rechtstreeks naar gebruikers te verzenden die niet in app kunnen zijn.
+4. Gebruik [&#x200B; SMS/MMS/RCS &#x200B;](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md) om geschikte herinneringen of rijke media aanbiedingen rechtstreeks naar gebruikers te verzenden die niet in app kunnen zijn.
 
-5. Mogen klanten in zinvolle gesprekken door [ WhatsApp ](/help/mobile-learning-hub/channels/whatsapp-overview.md), ideaal voor klantensteun of interactieve campagnes in dienst nemen.
+5. Mogen klanten in zinvolle gesprekken door [&#x200B; WhatsApp &#x200B;](/help/mobile-learning-hub/channels/whatsapp-overview.md), ideaal voor klantensteun of interactieve campagnes in dienst nemen.
 
-6. De op code-gebaseerde ervaringen van de hefboomwerking [ om elk bericht te maken dat op gebruikersgedrag en voorkeur wordt gebaseerd, die tot een werkelijk gepersonaliseerde reis over kanalen leiden.](/help/mobile-learning-hub/channels/code-based-experience-overview.md)
+6. De op code-gebaseerde ervaringen van de hefboomwerking [&#x200B; om elk bericht te maken dat op gebruikersgedrag en voorkeur wordt gebaseerd, die tot een werkelijk gepersonaliseerde reis over kanalen leiden.](/help/mobile-learning-hub/channels/code-based-experience-overview.md)
 
 
 ## Gebruikskwesties voor klanten
 
-* [ neem vlucht met personalisatie: Hoe de luchtvaartmaatschappijen aanbiedingen met Adobe Journey Optimizer (blog) kunnen opheffen ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
+* [&#x200B; neem vlucht met personalisatie: Hoe de luchtvaartmaatschappijen aanbiedingen met Adobe Journey Optimizer (blog) kunnen opheffen &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
 
 
 ## Uw basis opbouwen

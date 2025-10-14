@@ -25,12 +25,12 @@ Het doel is duidelijke, op gegevens gebaseerde inzichten te verschaffen in de ma
 
 
 
-![ rapporterend-dashboard ](assets/dashboard-reporting.png)
+![&#x200B; rapporterend-dashboard &#x200B;](assets/dashboard-reporting.png)
 
 
 ## Voorwaarden voor deze zelfstudie
 
-Alvorens te beginnen, voltooi de [ Persoonlijke Aanbiedingen met het Echte - de leerprogramma van Gegevens van het Echte - tijdGegevens.](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Alle basiscomponenten worden ingesteld, waaronder:
+Alvorens te beginnen, voltooi de [&#x200B; Persoonlijke Aanbiedingen met het Echte - de leerprogramma van Gegevens van het Echte - tijdGegevens.](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Alle basiscomponenten worden ingesteld, waaronder:
 
 - Web SDK-integratie
 - Aanbiedingsinstellingen in Adobe Journey Optimizer (AJO)

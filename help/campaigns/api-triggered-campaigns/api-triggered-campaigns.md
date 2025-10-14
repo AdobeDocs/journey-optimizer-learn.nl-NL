@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Campagnes activeren met API&#39;s
 
-Leer hoe te om een campagne tot stand te brengen en het van een extern systeem teweeg te brengen dat op gebruikersinteractie wordt gebaseerd, die de [ Interactieve WEERGAVE API van de Uitvoering van het Bericht ](https://developer.adobe.com/journey-optimizer-apis/references/messaging/#tag/execution) gebruiken.
+Leer hoe te om een campagne tot stand te brengen en het van een extern systeem teweeg te brengen dat op gebruikersinteractie wordt gebaseerd, die de [&#x200B; Interactieve WEERGAVE API van de Uitvoering van het Bericht &#x200B;](https://developer.adobe.com/journey-optimizer-apis/references/messaging/#tag/execution) gebruiken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3452731/?learn=on&captions=dut)

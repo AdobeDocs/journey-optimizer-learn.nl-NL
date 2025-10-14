@@ -24,4 +24,4 @@ Leer hoe u berichtoptimalisatie kunt benutten in actie- of API-campagnes. U zult
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470374/?learn=on&enablevpops&captions=dut)
 
-Voor meer informatie over deze eigenschap, te zien gelieve de [ productdocumentatie ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization).
+Voor meer informatie over deze eigenschap, te zien gelieve de [&#x200B; productdocumentatie &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization).

@@ -27,10 +27,10 @@ In Adobe Journey Optimizer (AJO) fungeert een campagne als een container waarin 
 1. Selecteer **[!UICONTROL op code-gebaseerde ervaring]** actie, dan de configuratie die in de vroegere stap wordt gecreeerd selecteren.
 1. Klik **[!UICONTROL uitgeven inhoud]**.
 
-   ![ creeer-campagne ](assets/create-campaign.png)
+   ![&#x200B; creeer-campagne &#x200B;](assets/create-campaign.png)
 
 1. Om de verpersoonlijkingsredacteur te openen, klik **[!UICONTROL geef code]** uit.
 
-   ![ uitgeven-cbe_html ](assets/edit_code_based_exp_html.png)
+   ![&#x200B; uitgeven-cbe_html &#x200B;](assets/edit_code_based_exp_html.png)
 
    De verpersoonlijkingsredacteur is een niet-visuele interface van de ervaringsverwezenlijking die u toestaat om uw code te ontwerpen.

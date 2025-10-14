@@ -23,9 +23,9 @@ Configureer de mobiele kanalen in Journey Optimizer en Experience Platform, inte
 >
 >Als u nog niet eerder met Journey Optimizer en Experience Platform werkt, moet u de kernconcepten kennen door naar deze afspeellijsten te kijken:
 >
->* [ worden begonnen met Journey Optimizer voor de Beheerders en Managers van de Reis ](https://experienceleague.adobe.com/nl/playlists/journey-optimizer-getting-started-for-journey-administrators-and-managers)
->* [ vorm Journey Optimizer voor de Beheerders van de Reis ](https://experienceleague.adobe.com/nl/playlists/journey-optimizer-configure-journey-optimizer-for-administrators)
->* [ vorm en beheer Gegevens in Journey Optimizer voor de Ingenieurs van Gegevens ](https://experienceleague.adobe.com/nl/playlists/journey-optimizer-configure-and-manage-data-for-data-engineers)
+>* [&#x200B; worden begonnen met Journey Optimizer voor de Beheerders en Managers van de Reis &#x200B;](https://experienceleague.adobe.com/nl/playlists/journey-optimizer-getting-started-for-journey-administrators-and-managers)
+>* [&#x200B; vorm Journey Optimizer voor de Beheerders van de Reis &#x200B;](https://experienceleague.adobe.com/nl/playlists/journey-optimizer-configure-journey-optimizer-for-administrators)
+>* [&#x200B; vorm en beheer Gegevens in Journey Optimizer voor de Ingenieurs van Gegevens &#x200B;](https://experienceleague.adobe.com/nl/playlists/journey-optimizer-configure-and-manage-data-for-data-engineers)
 
 
 ## Mobiele mogelijkheden in Adobe Journey Optimizer
@@ -218,8 +218,8 @@ Leer hoe te om **kanalen SMS/MMS/RCS** met de standaardleveranciers (Twilio, Syn
 
 ## Blogberichten
 
-* [ Gebruikend op CDN gebaseerde cliënt zijverpersoonlijking (ODD) op mobiel voor snellere verpersoonlijkingen.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
-* [ Mobile Activation voor Adobe Experience Cloud ](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595)
+* [&#x200B; Gebruikend op CDN gebaseerde cliënt zijverpersoonlijking (ODD) op mobiel voor snellere verpersoonlijkingen.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
+* [&#x200B; Mobile Activation voor Adobe Experience Cloud &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595)
 
 ## Naleving van privacywetten en platformrichtlijnen garanderen.
 

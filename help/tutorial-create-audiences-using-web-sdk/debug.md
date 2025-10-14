@@ -39,7 +39,7 @@ Als u niet ziet dat het profiel direct in aanmerking komt voor het beoogde publi
 * Controleer of de gebeurtenis DataPushed voor assetClassSelection is vastgelegd
 
 De volgende debugger screenshot zou u moeten helpen
-![ aep-debugger ](assets/aep-debugger.png)
+![&#x200B; aep-debugger &#x200B;](assets/aep-debugger.png)
 
 ### De ECID ophalen
 
@@ -52,16 +52,16 @@ De ECID (Experience Cloud-id) is een unieke, permanente Adobe-id die wordt gebru
 * Het formulier verzenden
 * Klik op het tabblad Reactie en noteer de ECID
 
-![ get-ecid ](assets/get-ecid.png)
+![&#x200B; get-ecid &#x200B;](assets/get-ecid.png)
 
 ### Real-time profiel en kwalificatie van publiek controleren
 
 * Aanmelden bij Journey Optimizer
 * Ga naar Klanten->Profielen->Bladeren
 * Zoek naar ECID u van de vorige stap zoals aangetoond in het het schermschot kreeg
-  ![ ecid-profiel ](assets/ecid-profile.png)
+  ![&#x200B; ecid-profiel &#x200B;](assets/ecid-profile.png)
 * Klik op het profiel en selecteer het tabblad Gebeurtenissen om te controleren of Investment_preferent_event wordt weergegeven
-  ![ gebeurtenissen-lusje ](assets/profile-events.png)
+  ![&#x200B; gebeurtenissen-lusje &#x200B;](assets/profile-events.png)
 * Open de json die aan de gebeurtenis is gekoppeld en controleer of deze de juiste gebeurtenisgegevens bevat.
 
 ### Aanvullende tips voor probleemoplossing

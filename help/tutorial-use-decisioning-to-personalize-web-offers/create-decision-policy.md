@@ -22,11 +22,11 @@ Het beleid van het besluit is containers voor uw aanbiedingen die hefboomwerking
 
 1. In de verpersoonlijkingsredacteur, klik **punt van het beleid van de Beslissing** in de linkernavigatie, dan klik **[!UICONTROL besluitvormingsbeleid]** toevoegen.
 
-   ![ creeer-besluit-beleid ](assets/decision-policy.png)
+   ![&#x200B; creeer-besluit-beleid &#x200B;](assets/decision-policy.png)
 
 1. Klik **[!UICONTROL toevoegen]** om de selectiestrategie te selecteren.
 
-   ![ besluit-beleid ](assets/decision-policy2.png)
+   ![&#x200B; besluit-beleid &#x200B;](assets/decision-policy2.png)
 
 1. Klik **[!UICONTROL Uitgezochte reserve]** om de herfstaanbieding te selecteren.
 1. Klik **[!UICONTROL daarna]** om het besluitvormingsbeleid te herzien.
@@ -40,7 +40,7 @@ Het beleid van het besluit is containers voor uw aanbiedingen die hefboomwerking
 
    In dit stadium kunt u alle vereiste beslissingskenmerken rechtstreeks in de code opnemen. Deze kenmerken worden gedefinieerd in het schema dat wordt gebruikt in de catalogus met aanbiedingen. Standaardkenmerken worden geordend onder de naamruimte `__experience` , terwijl aangepaste kenmerken die specifiek zijn voor uw organisatie worden opgeslagen onder de naamruimte `_<imsOrg>` .
 
-   ![ using_decisions_polcy ](assets/Insert-policy.png)
+   ![&#x200B; using_decisions_polcy &#x200B;](assets/Insert-policy.png)
 
    Deze code doorloopt een lijst met persoonlijke aanbiedingen die voor de gebruiker zijn gekozen en geeft de tekst voor elke aanbieding op de webpagina weer. Het toont het bericht (genoemd `offerText`) van elke aanbieding binnen een paragraaf, zodat kunnen de gebruikers hun op maat gemaakte inhoud duidelijk zien.
 

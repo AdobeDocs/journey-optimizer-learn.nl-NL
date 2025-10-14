@@ -19,7 +19,7 @@ ht-degree: 0%
 # Een webformulier maken
 
 Het volgende HTML-formulier is gemaakt om de gebruikersvoorkeur vast te leggen
-![ html-vorm ](assets/web-form.png)
+![&#x200B; html-vorm &#x200B;](assets/web-form.png)
 
 Wanneer een gebruiker op de knop op de webpagina klikt, wordt de geselecteerde financiële voorkeur (zoals Standen, Obligaties of Cd&#39;s) vastgelegd en in de gegevenslaag van Adobe geplaatst. Met deze gebeurtenis (assetClassSelection) wordt de keuze van de gebruiker in real-time opgeslagen. Adobe Launch luistert vervolgens naar deze gebeurtenis, haalt de geselecteerde investeringsoptie (PreferredFinancialInstrument) op en kan acties activeren zoals het verzenden van de gegevens naar Adobe Experience Platform (AEP) of het bijwerken van de personalisatieregels
 

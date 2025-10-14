@@ -32,7 +32,7 @@ Deze opstelling verstrekt een ontvankelijke en op maat gemaakte ervaring, die er
 
 * Creeer een omslag genoemd rangschikkend-formule binnen uw bestaand project Node.js.
 
-* Pak de [ verstrekte dossiers in deze rangschikking-formule omslag uit.](assets/ranking-formula.zip)
+* Pak de [&#x200B; verstrekte dossiers in deze rangschikking-formule omslag uit.](assets/ranking-formula.zip)
 
 * Voer de app uit door naar de map te navigeren en de server te starten:
    * `cd ranking-formula`

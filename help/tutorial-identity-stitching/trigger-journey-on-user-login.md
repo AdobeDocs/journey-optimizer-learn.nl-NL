@@ -26,7 +26,7 @@ In deze extensie van de zelfstudie Identiteitsbeheer wordt een Adobe Journey Opt
 * Selecteer **E-mail** van de kanaallijst. Geef een relevante naam en beschrijving op.
 * Vul de e-mailinstellingen in.
 * Geef de details van de uitvoering op zoals hieronder wordt weergegeven. De e-mail wordt verzonden naar het e-mailadres van het profiel dat is opgeslagen in het veld
-* ![ e-mail-kanaal ](assets/email-channel-execution.png)
+* ![&#x200B; e-mail-kanaal &#x200B;](assets/email-channel-execution.png)
 * De configuratie van het e-mailkanaal activeren
 
 ## Gebeurtenis maken
@@ -34,7 +34,7 @@ In deze extensie van de zelfstudie Identiteitsbeheer wordt een Adobe Journey Opt
 * Login aan _&#x200B;**Journey Optimizer**&#x200B;_
 * Navigeer aan _&#x200B;**Beleid -> Configuraties**&#x200B;_
 * Klik op de knop Beheren van de gebeurtenissenkaart en klik op Gebeurtenis maken. Geef de hieronder weergegeven waarden op
-* ![ reis-gebeurtenis ](assets/journey-event.png)
+* ![&#x200B; reis-gebeurtenis &#x200B;](assets/journey-event.png)
 
 * Controleer of het eventType van de gebeurtenis gelijk is aan UserLoggedIn. In dit geval zijn de naam van de gebeurtenis en het gebeurtenistype gelijk.`in(@event{event1.eventType}, ['UserLoggedIn'])`
 * De gebeurtenis opslaan

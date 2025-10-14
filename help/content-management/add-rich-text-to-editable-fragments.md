@@ -24,4 +24,4 @@ Leer hoe u HTML-componenten in een fragment bewerkbaar kunt maken, zodat u zowel
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464374/?learn=on&enablevpops&captions=dut)
 
-Zie de [ productdocumentatie ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"} voor meer informatie over deze eigenschap.
+Zie de [&#x200B; productdocumentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"} voor meer informatie over deze eigenschap.

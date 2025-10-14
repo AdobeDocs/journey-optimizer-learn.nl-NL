@@ -23,7 +23,7 @@ Dit gebruiksscenario laat zien hoe u persoonlijke financiële aanbiedingen kunt 
 
 Deze zelfstudie bouwt verder op de belangrijkste Adobe Journey Optimizer- en Adobe Experience Platform-concepten. Controleer voordat u verdergaat of aan de volgende voorwaarden is voldaan:
 
-* [ het Zelfstudie van het Stitching van de Identiteit ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction) is voltooid, met CRM IDs met succes verbonden aan ECIDs in Adobe Experience Platform.
+* [&#x200B; het Zelfstudie van het Stitching van de Identiteit &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction) is voltooid, met CRM IDs met succes verbonden aan ECIDs in Adobe Experience Platform.
 
 * Begrijp met het creëren van Punten van de Aanbieding in AJO, met inbegrip van inhoudsdefinitie, meta-gegevensopstelling, en geschiktheidsregels.
 

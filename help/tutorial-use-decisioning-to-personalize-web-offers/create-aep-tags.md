@@ -25,11 +25,11 @@ Experience Platform-tags worden geconfigureerd op de webpagina om de Adobe Exper
 1. Maak een Adobe Experience Platform-tag met de naam ECID Service.
 1. Voeg de volgende extensies toe aan de tag:
 
-   ![ markeringen-uitbreidingen ](assets/ecid-tag.png)
+   ![&#x200B; markeringen-uitbreidingen &#x200B;](assets/ecid-tag.png)
 
 1. Configureer de Adobe Experience Platform Web SDK voor het gebruik van de juiste omgeving en de DataStream voor financiële adviseurs die in de vorige zelfstudie is gemaakt
 
-   ![ web-sdk-configuration ](assets/web-sdk-configuration.png)
+   ![&#x200B; web-sdk-configuration &#x200B;](assets/web-sdk-configuration.png)
 
 Geen extra configuratie nodig voor Adobe Client Data Layer en core extensions
 
@@ -37,7 +37,7 @@ Geen extra configuratie nodig voor Adobe Client Data Layer en core extensions
 
 Het ECID-gegevenselement in Experience Platform-tags wordt alleen gemaakt voor foutopsporing- en testdoeleinden. Met het gegevenselement kunnen ontwikkelaars de Experience Cloud-id weergeven die is toegewezen aan de browsersessie van een gebruiker. Zo kunnen identiteitsstitching worden gevalideerd en kan worden gecontroleerd of de `sendEvent` -aanroepen aan het juiste profiel zijn gekoppeld. Dit element wordt niet vereist voor personalisatie om te functioneren maar is nuttig tijdens implementatie en QA
 
-![ ecid ](assets/ecid-data-element.png)
+![&#x200B; ecid &#x200B;](assets/ecid-data-element.png)
 
 
 ## AEP-tags opnemen op de HTML-pagina

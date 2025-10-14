@@ -22,4 +22,4 @@ Leer welke kanaalconfiguraties zijn en hoe deze in Adobe Journey Optimizer worde
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433124/?learn=on)
 
-Voor meer informatie over hoe te de configuraties van het opstellingskanaal [ de productdocumentatie ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/configuration/channel-surfaces#set-up-channel-surfaces) zien.
+Voor meer informatie over hoe te de configuraties van het opstellingskanaal [&#x200B; de productdocumentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/configuration/channel-surfaces#set-up-channel-surfaces) zien.

@@ -29,4 +29,4 @@ Een selectiestrategie maken
 
 
 Gebruik formule als waarderingsmethode
-![ selectie-strategie ](assets/selection-strategy.png)
+![&#x200B; selectie-strategie &#x200B;](assets/selection-strategy.png)

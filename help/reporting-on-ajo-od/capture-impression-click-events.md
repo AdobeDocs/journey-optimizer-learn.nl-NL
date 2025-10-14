@@ -21,7 +21,7 @@ ht-degree: 0%
 Om rapportering over aanbiedingsindrukkingen toe te laten en van het besluit van AJO te klikken, moeten de volgende componenten worden gevormd:
 >[!NOTE]
 >
-> Deze eerste vereisten werden reeds voltooid in creeer schema en datasetsectie van het [ vorige leerprogramma ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
+> Deze eerste vereisten werden reeds voltooid in creeer schema en datasetsectie van het [&#x200B; vorige leerprogramma &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
 
 ## 1. Dataset in Adobe Experience Platform (AEP)
 

@@ -154,11 +154,11 @@ Naar dit AI-model wordt verwezen in een rangschikkingsformule of selectiestrateg
 - Aanmelden bij Journey Optimizer
 - Ga naar Beslissing -> Strategie-instelling -> AI-modellen ->AI-model maken
 - Zorg ervoor dat u de juiste gegevensset gebruikt
-  ![ ai-model ](assets/ai-model.png)
+  ![&#x200B; ai-model &#x200B;](assets/ai-model.png)
 - Sla het AI-model op en activeer het.
 - Werk de selectiestrategie bij die in de vorige stap is gemaakt om het AI-model te gebruiken voor de beoordelingsmethode
-  ![ update-selectie-strategie ](assets/update-selection-strategy.png)
+  ![&#x200B; update-selectie-strategie &#x200B;](assets/update-selection-strategy.png)
 
 ## De oplossing testen
 
-Omvat het [ bijgewerkte dossier van JavaScript ](assets/ai-model.js) in de [ bestaande Web-pagina ](assets/weather-offers.html)
+Omvat het [&#x200B; bijgewerkte dossier van JavaScript &#x200B;](assets/ai-model.js) in de [&#x200B; bestaande Web-pagina &#x200B;](assets/weather-offers.html)

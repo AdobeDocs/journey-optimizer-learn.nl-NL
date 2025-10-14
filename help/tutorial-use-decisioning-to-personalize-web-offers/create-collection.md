@@ -24,4 +24,4 @@ Met verzamelingen kunt u uw beslissingsitems categoriseren en groeperen op basis
 1. Klik **[!UICONTROL Beslissing]** > **[!UICONTROL Catalogi]** > **[!UICONTROL Inzamelingen]** > **[!UICONTROL creeer inzameling]**.
 1. Geef de naam van de verzameling en de regels voor de verzameling op, zoals wordt weergegeven in de volgende screeshot.
 
-   ![ creeer-inzameling ](assets/fin-wise-collection.png)
+   ![&#x200B; creeer-inzameling &#x200B;](assets/fin-wise-collection.png)

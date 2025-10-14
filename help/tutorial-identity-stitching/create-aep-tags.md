@@ -22,7 +22,7 @@ Adobe Experience Platform-tags worden gebruikt om de CRMID naar Adobe Experience
 
 Een bezit van de Markeringen van Experience Platform genoemd _&#x200B;**FinWise**&#x200B;_ wordt gecreeerd. De volgende extensies zijn toegevoegd aan de eigenschap Tags
 
-![ markeringen-uitbreidingen ](assets/tags-extensions.png)
+![&#x200B; markeringen-uitbreidingen &#x200B;](assets/tags-extensions.png)
 
 Configureer de AEP Web SDK-extensie met gebruik van de DataStream voor financiële adviseurs die in de vorige stap is gemaakt.
 Experience Cloud ID Service is een optionele extensie die voor foutopsporingsdoeleinden aan de eigenschap tag wordt toegevoegd.
@@ -43,12 +43,12 @@ De volgende gegevenselementen maken
 Maak een regel met de naam userLogin met de volgende gebeurtenis en handelingen
 
 Gebeurtenis
-![ gebeurtenis ](assets/data-pushed-event.png)
+![&#x200B; gebeurtenis &#x200B;](assets/data-pushed-event.png)
 
 Variabele bijwerken, actie
-![ update-veranderlijk ](assets/update-variable.png)
+![&#x200B; update-veranderlijk &#x200B;](assets/update-variable.png)
 Gebeurtenisactie verzenden
-![ send-event ](assets/send-event.png)
+![&#x200B; send-event &#x200B;](assets/send-event.png)
 
 ## Opslaan en samenstellen
 

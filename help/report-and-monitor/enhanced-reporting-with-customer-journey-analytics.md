@@ -19,6 +19,6 @@ ht-degree: 0%
 # Verbeterde rapportage met Customer Journey Analytics
 
 De Journey Optimizer-rapportage is nu volledig geïntegreerd met de mogelijkheden van de Customer Journey Analytics, waardoor de rapportage op beide platforms wordt gestandaardiseerd en de consistentie en betrouwbaarheid van de gegevens worden verbeterd. Deze naadloze integratie tussen Journey Optimizer en Customer Journey Analytics biedt een duidelijker beeld van prestatiesmetriek, toelatend gebruikers om geïnformeerde besluiten te nemen.
-Voor gedetailleerde documentatie, zie [ analyseren in Customer Journey Analytics ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"} .
+Voor gedetailleerde documentatie, zie [&#x200B; analyseren in Customer Journey Analytics &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"} .
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443157/?learn=on&captions=dut)

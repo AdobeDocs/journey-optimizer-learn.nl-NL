@@ -93,7 +93,7 @@ Plaats de cursor tussen de lus op regel twee en voeg de offerText in door naar h
 
    Beleid voor beslissingen ingevoegd in de personalisatie-editor
 
-   ![ verpersoonlijking-redacteur ](assets/personalization-editor.png)
+   ![&#x200B; verpersoonlijking-redacteur &#x200B;](assets/personalization-editor.png)
 
 
 

@@ -25,7 +25,7 @@ Op een warme dag, toon een aanbieding voor koude drank of AC eenheden. Op een re
 Voorbeeld van een op weersomstandigheden gebaseerde aanbieding
 
 
-![ weer-aanbiedingen ](assets/offers-use-case.png)
+![&#x200B; weer-aanbiedingen &#x200B;](assets/offers-use-case.png)
 
 
 

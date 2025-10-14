@@ -22,13 +22,13 @@ ht-degree: 0%
 * Aanmelden bij Adobe Experience Platform
 * Gegevensbeheer -> Schema&#39;s -> Schema maken
 
-* Creeer een XDM gebeurtenis gebaseerd schema genoemd _Financiële Advisors_. Als u niet vertrouwd met het creëren van een schema bent, te volgen gelieve deze [ documentatie ](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Creeer een XDM gebeurtenis gebaseerd schema genoemd _Financiële Advisors_. Als u niet vertrouwd met het creëren van een schema bent, te volgen gelieve deze [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 * Voeg de volgende structuur aan uw schema toe. In het PreferredFinancialInstrument-element wordt de voorkeur van de gebruiker voor Stocks, Bonds, CD opgeslagen. **__techmarketingdemos_**&#x200B;is huurder identiteitskaart, en zal in uw milieu verschillend zijn.
-  ![ xdm-schema ](assets/xdm-schema.png)
+  ![&#x200B; xdm-schema &#x200B;](assets/xdm-schema.png)
 
 * Het PreferredFinancialInstrument-element heeft opsommingswaarden die hieronder zijn gedefinieerd
-  ![ enum-waarden ](assets/enum-values.png)
+  ![&#x200B; enum-waarden &#x200B;](assets/enum-values.png)
 
 * Controleer of het schema is ingeschakeld voor het profiel.
 
@@ -49,9 +49,9 @@ Een gegevensstroom in Adobe Experience Platform is vergelijkbaar met een beveili
 * De Inzameling van gegevens > gegevensstromen, dan klik Nieuwe Datasstream. Noem de datastream _Financiële Advisors DataStream_
 
 * Geef de volgende details op, zoals hieronder in de schermafbeelding wordt weergegeven
-  ![ datastream ](assets/datastream.png)
+  ![&#x200B; datastream &#x200B;](assets/datastream.png)
 * Klik op Opslaan, klik vervolgens op Toewijzing toevoegen en voeg de Adobe Experience Platform-service en de Dataset van de gebeurtenis toe zoals deze worden weergegeven
-  ![ datastream-afbeelding ](assets/datastream-service.png)
+  ![&#x200B; datastream-afbeelding &#x200B;](assets/datastream-service.png)
 
 * Kies de aangewezen (vroeger gecreeerd) dataset van de gebeurtenisdataset.
 

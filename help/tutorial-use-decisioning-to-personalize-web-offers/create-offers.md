@@ -36,7 +36,7 @@ Dit schema:
 1. Klik **[!UICONTROL Beslissing]** > **[!UICONTROL Catalogi]** > **[!UICONTROL geef schema]** uit.
 1. Een element van het type `string` genaamd `offerItem` toevoegen, zoals hieronder wordt weergegeven
 
-   ![ besluit-schema ](assets/offer-schema.png)
+   ![&#x200B; besluit-schema &#x200B;](assets/offer-schema.png)
 
 ## Een aangeboden object maken
 
@@ -48,12 +48,12 @@ Dit schema:
 
 1. Geef de aanbiedingen een label met de tag die u in de vorige stap hebt gemaakt.
 1. Voeg een passend publiek toe aan elke aanbieding.
-   ![ aanbieding-geschiktheid ](assets/offer-eligibility.png)
+   ![&#x200B; aanbieding-geschiktheid &#x200B;](assets/offer-eligibility.png)
 1. Goedkeuren van de voorstellen.
 
 Voltooide aanbieding met gedefinieerde standaard- en aangepaste kenmerken:
 
-![ aanbieding van de liefdesaandelen ](assets/love-bonds.png)
+![&#x200B; aanbieding van de liefdesaandelen &#x200B;](assets/love-bonds.png)
 
 **de Stocks van de Liefde biedenText**
 

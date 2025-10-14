@@ -22,7 +22,7 @@ Deze aanbiedingen zijn ontworpen om dynamische besluitvorming en rangschikking t
 
 Voordat u de aanbiedingen ging maken, werd het aanbiedingsitemschema uitgebreid met een nieuw veld: aanbiedingText
 
-![ aanbod-schema ](assets/offer-schema.png).
+![&#x200B; aanbod-schema &#x200B;](assets/offer-schema.png).
 
 De volgende 3 aanbiedingen maken
 

@@ -22,4 +22,4 @@ Leer hoe u de verlaten draagtas voor winkelwagentjes kunt implementeren met de f
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443970/?learn=on&enablevpops&captions=dut)
 
-Voor meer informatie, vormt het bezoek [ een playbook zandbak ](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} en [ creeer en publiceer playbook instanties ](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}.
+Voor meer informatie, vormt het bezoek [&#x200B; een playbook zandbak &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} en [&#x200B; creeer en publiceer playbook instanties &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}.

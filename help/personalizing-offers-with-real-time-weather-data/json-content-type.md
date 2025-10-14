@@ -27,7 +27,7 @@ Hoewel deze aanpak niet vereist is voor de levering van basisaanbiedingen, biedt
 
 Maak eerst een nieuwe CBE (Code-Based Experience) in Adobe Journey Optimizer en stel de Inhoudsindeling in op JSON. Het inhoudstype vertelt AJO om gestructureerde aanbiedingsgegevens (zoals offerText, beelden, of meta-gegevens) als voorwerp JSON eerder dan teruggegeven HTML terug te keren. Definieer het platform (bijvoorbeeld Web), de doel-URL waar de aanbieding verschijnt en de locatie op de pagina (zoals een container-id zoals offerContainer). Met deze configuratie kan uw webtoepassing aanbiedingsgegevens ontvangen en deze dynamisch renderen met JavaScript.
 
-![ json-content-type ](assets/cbe-json-content.png)
+![&#x200B; json-content-type &#x200B;](assets/cbe-json-content.png)
 
 ## De CBE koppelen aan een campagne met een beslissingsbeleid
 
@@ -36,10 +36,10 @@ Zodra de code-Gebaseerde Ervaring (CBE) met JSON inhoudstype wordt gecreeerd, is
 Wanneer u het beslissingsbeleid invoegt in de Personalization Editor (bijvoorbeeld voor berichten in de app of e-mail), is het belangrijk dat de uitvoer een geldige JSON-structuur behoudt.
 
 Wanneer u een Beleid van het Besluit in de Redacteur van Personalization (PE) binnen een campagne opneemt, produceert Adobe Journey Optimizer automatisch een lijn Handlebars die op het geselecteerde beleid wordt gebaseerd. Bijvoorbeeld:
-![ gebrek-code ](assets/handlebar-code-default.png)
+![&#x200B; gebrek-code &#x200B;](assets/handlebar-code-default.png)
 Deze lijn herhaalt door alle besluitvormingspunten die door het beleid zijn teruggekeerd en injecteert het aanbiedingstekstgebied van elke aanbieding. Deze standaardstructuur werkt goed voor HTML-inhoudssoorten, maar wanneer u met JSON-inhoud werkt, kan het zijn dat u een herstructurering moet uitvoeren om een geldige JSON-array of -object te maken, vooral als het resultaat programmatisch wordt geparseerd.
 
-![ herstructureerde-code ](assets/restructured-code.png)
+![&#x200B; herstructureerde-code &#x200B;](assets/restructured-code.png)
 
 Deze sjabloon Handlebars is ontworpen om een serie van JSON van aanbiedingsvoorwerpen uit te voeren, waar elk voorwerp één één aanbiedingstekstgebied bevat. Het doorloopt de besluitvormingspunten door het gespecificeerde Beleid van het Besluit zijn teruggekeerd en verpakt elke aanbiedingText in een JSON objecten formaat.
 
@@ -66,5 +66,5 @@ De reactie van AJO bevat gepersonaliseerde beslissingsitems in JSON-indeling ond
 
 Download het voorbeeld-HTML-bestand en het JavaScript-bestand, die aantonen hoe u op JSON gebaseerde aanbiedingen kunt gebruiken en deze dynamisch op uw webpagina kunt weergeven, zodat u aan de slag kunt.
 
-[ code van JavaScript ](assets/weather-related-offers-script-multiple-json.js)
-[ HTML- Dossier ](assets/multiple-json.html)
+[&#x200B; code van JavaScript &#x200B;](assets/weather-related-offers-script-multiple-json.js)
+[&#x200B; HTML- Dossier &#x200B;](assets/multiple-json.html)

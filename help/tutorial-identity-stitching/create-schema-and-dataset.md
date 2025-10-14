@@ -27,7 +27,7 @@ Een XDM-schema maken
 * Aanmelden bij Adobe Experience Platform
 * Gegevensbeheer -> Schema&#39;s -> Schema maken
 
-* Creeer een XDM gebeurtenis gebaseerd schema genoemd **_Financiële Advisors_**. Als u niet vertrouwd met het creëren van een schema bent, te volgen gelieve deze [ documentatie ](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Creeer een XDM gebeurtenis gebaseerd schema genoemd **_Financiële Advisors_**. Als u niet vertrouwd met het creëren van een schema bent, te volgen gelieve deze [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
 * Controleer of het schema is ingeschakeld voor het profiel.
@@ -49,9 +49,9 @@ Een gegevensstroom in Adobe Experience Platform is vergelijkbaar met een beveili
 * Navigeer naar Gegevensverzameling > Gegevensstromen en klik vervolgens op Nieuwe gegevensstroom. Noem de datastream **_Financiële Advisors DataStream_**
 
 * Geef de volgende details op, zoals hieronder in de schermafbeelding wordt weergegeven
-  ![ datastream ](assets/datastream.png)
+  ![&#x200B; datastream &#x200B;](assets/datastream.png)
 * Klik op Opslaan, klik vervolgens op Toewijzing toevoegen en voeg de Adobe Experience Platform-service en de Dataset van de gebeurtenis toe zoals deze worden weergegeven
-  ![ datastream-afbeelding ](assets/datastream-service.png)
+  ![&#x200B; datastream-afbeelding &#x200B;](assets/datastream-service.png)
 
 * Kies de aangewezen (vroeger gecreeerd) dataset van de gebeurtenisdataset.
 

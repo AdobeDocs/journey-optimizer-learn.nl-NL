@@ -32,7 +32,7 @@ Deze aanbiedingen worden nu verrijkt met locatiemetagegevens, waardoor ze in lat
 
 De volgende schermafbeelding toont de aangepaste kenmerken die zijn toegevoegd aan het schema van het aanbiedingsitem.
 
-![ aanbiedingen-meta-gegevens ](assets/offers-meta-data.png)
+![&#x200B; aanbiedingen-meta-gegevens &#x200B;](assets/offers-meta-data.png)
 
 
 ## Voorstel voor 92126

@@ -24,10 +24,10 @@ Begrijp het kader voor gegevensbeheer in Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
-Zie de productdocumentatie voor meer informatie over [ gegevensbeheer ](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/privacy/action-privacy-restricted) in Journey Optimizer.
+Zie de productdocumentatie voor meer informatie over [&#x200B; gegevensbeheer &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/privacy/action-privacy-restricted) in Journey Optimizer.
 
 ## Aanvullende leermogelijkheden
 
-* [ Playlist: Krijg Begonnen met het Beheer van Gegevens van Adobe Experience Platform ](https://experienceleague.adobe.com/nl/playlists/experience-platform-get-started-with-data-governance)
+* [&#x200B; Playlist: Krijg Begonnen met het Beheer van Gegevens van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/nl/playlists/experience-platform-get-started-with-data-governance)
 
   *leer meer over gegevensbeheer op Adobe Experience Platform en hoe te om gegevens te classificeren gebruikend etiketten, het beleid van het gegevensgebruik tot stand te brengen, en het beleid van het gegevensgebruik op Experience Platform af te dwingen.*

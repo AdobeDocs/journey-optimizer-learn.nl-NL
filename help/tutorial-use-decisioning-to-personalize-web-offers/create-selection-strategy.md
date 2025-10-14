@@ -29,5 +29,5 @@ Een selectiestrategie maken
 * Geef de naam van de selectiestrategie, de verzameling, de geschiktheid en de beoordelingsmethode op, zoals in de schermafbeelding wordt getoond
 
 
-![ selectie-strategie ](assets/fine_wise_selection_strategy1.png)
+![&#x200B; selectie-strategie &#x200B;](assets/fine_wise_selection_strategy1.png)
 

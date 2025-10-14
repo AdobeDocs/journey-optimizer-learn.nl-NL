@@ -23,7 +23,7 @@ Soorten publiek in Adobe Experience Platform zijn groepen gebruikers die zijn ge
 * Ga naar Klant -> Soorten publiek ->Haakje maken
 * Creeer Publiek gebruikend de methode van de Regel van de Bouwstijl
 
-  ![ publiek ](assets/rule-based-audience.png)
+  ![&#x200B; publiek &#x200B;](assets/rule-based-audience.png)
 
 * De volgende 3 soorten publiek maken
 
@@ -35,13 +35,13 @@ Soorten publiek in Adobe Experience Platform zijn groepen gebruikers die zijn ge
 
 
 * Zorg ervoor dat de evaluatiemethode voor elk publiek aan _&#x200B;**Edge**&#x200B;_ voor kwalificatie in real time wordt geplaatst.
-  ![ rand-publiek ](assets/audience-edge.png)
+  ![&#x200B; rand-publiek &#x200B;](assets/audience-edge.png)
 
 * Gebruik het veld PreferredFinancialInstrument om gebruikers te segmenteren op basis van hun geselecteerde investeringsrente, zoals voorraden, obligaties of cd&#39;s
 
-![ gebeurtenis ](assets/event-attribute.png)
+![&#x200B; gebeurtenis &#x200B;](assets/event-attribute.png)
 
-![ PreferredFinancialInstrument ](assets/stock-customers.png)
+![&#x200B; PreferredFinancialInstrument &#x200B;](assets/stock-customers.png)
 
 
 
@@ -52,6 +52,6 @@ Soorten publiek in Adobe Experience Platform zijn groepen gebruikers die zijn ge
 
 
 
-![ knevel-volledig-xdm-schema ](assets/show-custom-fields.png)
+![&#x200B; knevel-volledig-xdm-schema &#x200B;](assets/show-custom-fields.png)
 
 

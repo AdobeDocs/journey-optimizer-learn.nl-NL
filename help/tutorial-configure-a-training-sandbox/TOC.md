@@ -19,9 +19,9 @@ ht-degree: 25%
 
 + [Een trainingssandbox configureren](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md)
 + Stap 1: De gegevensstructuur instellen en voorbeeldgegevens importeren {#set-up-data-structure-and-ingest-data}
-   + [ de structuur van opstellingsgegevens en de invoer steekproefgegevens gebruikend Postman ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=nl-NL)
+   + [&#x200B; de structuur van opstellingsgegevens en de invoer steekproefgegevens gebruikend Postman &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=nl-NL)
    + [Gegevensstructuur instellen (handmatig)](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md)
    + [Voorbeeldgegevens importeren (handmatig)](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)
 + [Stap 2: Gebeurtenissen configureren](/help/tutorial-configure-a-training-sandbox/configure-events.md)
 + [Zelfstudies](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=nl-NL)
-+ [ Uitdagingen ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=nl-NL)
++ [&#x200B; Uitdagingen &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=nl-NL)

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # De oplossing testen
 
-Om de oplossing van begin tot eind te testen, moeten [ weer-aanbiedingen.html ](assets/weather-offers.html) en [ vangst-impressions-klik-events.js ](assets/capture-impressions-click-events.js) dossiers op een Webserver of een openbare ontvangende dienst zoals de Pagina&#39;s van Github worden ontvangen. Dit is nodig omdat de geolocatie-API van de browser alleen werkt via HTTPS of localhost
+Om de oplossing van begin tot eind te testen, moeten [&#x200B; weer-aanbiedingen.html &#x200B;](assets/weather-offers.html) en [&#x200B; vangst-impressions-klik-events.js &#x200B;](assets/capture-impressions-click-events.js) dossiers op een Webserver of een openbare ontvangende dienst zoals de Pagina&#39;s van Github worden ontvangen. Dit is nodig omdat de geolocatie-API van de browser alleen werkt via HTTPS of localhost
 
 ## Beschikbare bestanden downloaden
 

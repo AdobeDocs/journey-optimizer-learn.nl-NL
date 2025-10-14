@@ -25,7 +25,7 @@ Bij het nemen van de biedingen wordt in Adobe Journey Optimizer een rangschikkin
 * Beslissing ->Strategie-instelling ->Beoordelingsformules ->Formule maken
 
 Willekeurige formule
-![ name_description ](assets/formuala-ranking.png)
+![&#x200B; name_description &#x200B;](assets/formuala-ranking.png)
 
 Een criterium in een rangschikkingsformule verwijst naar een voorwaardelijke regel die wordt gebruikt om een score aan een aanbieding toe te wijzen. Deze criteria vergelijken de kenmerken van de aanbieding en het profiel of de context om te bepalen hoe relevant een aanbieding voor een specifieke persoon is.
 
@@ -35,7 +35,7 @@ Criteria 1
 
 Deze voorwaarde filtert besluitpunten (aanbiedingen) **om slechts** de aanbiedingen te omvatten die met &quot;IncomeLevel.&quot;worden geëtiketteerd
 Deze gefilterde aanbiedingen gaan vervolgens door naar de volgende stap, zoals rangschikking of levering, op basis van extra logica die u definieert.
-![ criteria_one ](assets/income-related-formula.png)
+![&#x200B; criteria_one &#x200B;](assets/income-related-formula.png)
 
 
 De volgende expressie wordt gebruikt om de waarderingsscore te maken

@@ -18,12 +18,12 @@ ht-degree: 0%
 
 # De oplossing testen
 
-Om de oplossing van begin tot eind te testen, moeten [ weer-aanbiedingen.html ](assets/weather-offers.html) en [ weer-verwant-aanbiedingen-script.js ](assets/weather-related-offers-script.js) dossiers op een Webserver of een openbare ontvangende dienst zoals de Pagina&#39;s van Github worden ontvangen. Dit is nodig omdat:
+Om de oplossing van begin tot eind te testen, moeten [&#x200B; weer-aanbiedingen.html &#x200B;](assets/weather-offers.html) en [&#x200B; weer-verwant-aanbiedingen-script.js &#x200B;](assets/weather-related-offers-script.js) dossiers op een Webserver of een openbare ontvangende dienst zoals de Pagina&#39;s van Github worden ontvangen. Dit is nodig omdat:
 - De geolocatie-API van de browser werkt alleen via HTTPS of localhost
 
 Om de zaken georganiseerd te houden en relatieve wegen te verzekeren werken correct, adviseren wij de volgende omslagstructuur voor het ontvangen van de oplossing:
 
-![ omslag-structuur ](assets/folder-structure.png)
+![&#x200B; omslag-structuur &#x200B;](assets/folder-structure.png)
 
 ## Beschikbare bestanden downloaden
 
@@ -107,5 +107,5 @@ De JavaScript haalt dynamisch weerinformatie op op basis van de locatie van de g
 
 ## Volgende stappen
 
-[ Meet en rapporteer het effect van AJO Beslissing.](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
+[&#x200B; Meet en rapporteer het effect van AJO Beslissing.](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
 

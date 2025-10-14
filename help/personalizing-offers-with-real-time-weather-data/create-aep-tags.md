@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Met Adobe Experience Platform Tags (voorheen Adobe Launch) kunt u marketing- en analysetechnologieën* op uw website beheren en implementeren zonder dat u de code van de site hoeft te wijzigen.
 
-Deze [ video beschrijft het proces om de Markeringen van de Ervaring van Adobe te creëren ](https://experienceleague.adobe.com/nl/playlists/experience-platform-get-started-with-tags)
+Deze [&#x200B; video beschrijft het proces om de Markeringen van de Ervaring van Adobe te creëren &#x200B;](https://experienceleague.adobe.com/nl/playlists/experience-platform-get-started-with-tags)
 
 - Aanmelden bij gegevensverzameling
 - Klik op _&#x200B;**Markeringen -> Nieuw Bezit**&#x200B;_
@@ -28,12 +28,12 @@ Deze [ video beschrijft het proces om de Markeringen van de Ervaring van Adobe t
 - Creeer een markering van Adobe Experience Platform genoemd _&#x200B;**verpersoonlijking-op-weer**&#x200B;_.
 
 - De volgende extensies toevoegen aan de tag
-  ![ markeringen-uitbreidingen ](assets/tags-extensions1.png)
+  ![&#x200B; markeringen-uitbreidingen &#x200B;](assets/tags-extensions1.png)
 - Voeg een gegevenselement met de naam ECID toe, zoals hieronder wordt weergegeven. Dit gegevenselement wordt later gebruikt bij de rapportage
-  ![ ecid-data-element ](assets/ecid-data-element.png)
+  ![&#x200B; ecid-data-element &#x200B;](assets/ecid-data-element.png)
 
 - Zorg ervoor om het Web SDK van Adobe Experience Platform te vormen om het correcte milieu en **weer-verwant-datastream** te gebruiken die in de vroegere stap wordt gecreeerd.
-  ![ web-sdk-configuration ](assets/tags-extensions.png)
+  ![&#x200B; web-sdk-configuration &#x200B;](assets/tags-extensions.png)
 
 
 
@@ -44,14 +44,14 @@ Maak een nieuwe bibliotheek en voeg alle gewijzigde bronnen aan de bibliotheek t
 
 **voeg bibliotheek** toe
 
-![ nieuw-bibliotheek ](assets/tag-add-library.png)
+![&#x200B; nieuw-bibliotheek &#x200B;](assets/tag-add-library.png)
 
 **creeer een bibliotheek**
 
 Geef in het scherm Bibliotheek maken de naam van de bibliotheek en de omgeving op.
 
 Alle gewijzigde bronnen toevoegen aan deze bibliotheek
-![ markering-bibliotheek ](assets/tag-build-library.png)
+![&#x200B; markering-bibliotheek &#x200B;](assets/tag-build-library.png)
 
 Klik vervolgens op de knop Opslaan en bouwen naar ontwikkeling om de bibliotheek te maken
 

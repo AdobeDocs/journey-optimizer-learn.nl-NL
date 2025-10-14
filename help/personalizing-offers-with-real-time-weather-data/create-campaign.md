@@ -74,7 +74,7 @@ Deze instelling gebruikt de ECID als primaire identiteit voor het herkennen van 
 
 
 - **Tussenvoegsel het Beleid van het Besluit**
-  ![ verpersoonlijking-redacteur ](assets/personalization-editor.png)
+  ![&#x200B; verpersoonlijking-redacteur &#x200B;](assets/personalization-editor.png)
 
   Tussenvoegsel het onlangs gecreeerde besluitvormingsbeleid door op de _&#x200B;**knoop van het Beleid van het Tussenvoegsel**&#x200B;_ te klikken. Dit neemt een for lijn in de verpersoonlijkingsredacteur aan de rechterkant op.
 Plaats de cursor tussen elke lus op regel twee en voeg de offerText in door naar het aanbod te navigeren door de `tenant name` omlaag te boren. Plaats de aanbieding in Div met het aanbod-punt van de klasse zoals aangetoond in het schermafbeelding.

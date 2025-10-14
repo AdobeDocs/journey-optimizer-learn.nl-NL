@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
-source-git-commit: 71b42350370d12ce677bf075d8b48edcbe541ab4
+source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Deze voorbeeldtoepassing simuleert een real-world login stroom waar de gebruiker
 
 ## Knooppunt.js installeren
 
-Als u geïnstalleerde Node.js niet hebt, download en [&#x200B; installeer het van hier &#x200B;](https://nodejs.org/)
+Als u geïnstalleerde Node.js niet hebt, download en [ installeer het van hier ](https://nodejs.org/)
 
 Installatie controleren door uit te voeren:
 
@@ -64,7 +64,7 @@ app.listen(PORT, () => {
 
 ## HTML/Assets toevoegen
 
-Kopieer alle verstrekte [&#x200B; HTML en CSS dossiers &#x200B;](assets/login-app-files.zip) in deze omslag. Kopieer en plak het script voor AEP-tags in de sectie `<head>` van het bestand index.html.
+Kopieer alle verstrekte [ HTML en CSS dossiers ](assets/login-app-files.zip) in deze omslag. Kopieer en plak het script voor AEP-tags in de sectie `<head>` van het bestand index.html.
 
 ## De server uitvoeren
 
@@ -81,7 +81,7 @@ De Adobe Experience Platform Debugger is een krachtige browserextensie waarmee u
 Gebruik Foutopsporing van AEP wanneer het testen van login gebeurtenissen, het verifiëren van identiteit stitching (b.v., ECID en CRMID die worden overgegaan), en het verzekeren van de regels van de Markeringen van AEP en de Elementen van Gegevens zoals verwacht. Het biedt real-time zichtbaarheid in uitgaande gebeurtenissen, identiteitsgegevens en XDM-ladingen — kritiek voor het verrijken van probleemoplossingsprofielen en publiekskwalificatie.
 
 Het volgende schermschot toont identiteitskaart &quot;FIN001&quot;die correct wordt overgegaan.
-![&#x200B; aep-debugger &#x200B;](assets/aep-debugger.png)
+![ aep-debugger ](assets/aep-debugger.png)
 
 ## Stappen om identiteitscontrole in AEP te verifiëren
 
@@ -89,7 +89,5 @@ Het volgende schermschot toont identiteitskaart &quot;FIN001&quot;die correct wo
 * Ga naar Klant -> Profielen ->Bladeren
 * Zoeken naar FinWise CRM ID = FIN001
 * Open het profiel en bekijk de sectie Identiteiten. U moet zowel de CRMID als de ECID in de lijst zien.   Dit bevestigt dat de twee identiteiten in één enkel profiel zijn opgenomen.
-* De reis zou ook moeten teweegbrengen.Verifieer dit door het reisrapport te bekijken
-* ![&#x200B; reis-rapport &#x200B;](assets/journey-triggered-report.png)
 
 

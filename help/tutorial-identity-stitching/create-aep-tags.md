@@ -20,9 +20,9 @@ ht-degree: 5%
 
 Adobe Experience Platform-tags worden gebruikt om de CRMID naar Adobe Experience Platform (AEP) te verzenden, omdat deze een flexibel, gebeurtenisgestuurd mechanisme biedt voor het rechtstreeks verzenden van identiteitsgegevens vanuit de browser. Als u CRMID na gebruikersaanmelding verzendt, kan AEP de anonieme ECID koppelen aan het bekende CRM-profiel, zodat u een nauwkeurige identiteitscontrole kunt instellen. Deze koppeling vormt de basis voor het samenstellen van uniforme klantprofielen, het kwalificeren van doelgroepen en het aanbieden van persoonlijke realtime ervaringen in Adobe Journey Optimizer (AJO).
 
-Een bezit van de Markeringen van Experience Platform genoemd _**FinWise**_ wordt gecreeerd. De volgende extensies zijn toegevoegd aan de eigenschap Tags
+Een bezit van de Markeringen van Experience Platform genoemd _&#x200B;**FinWise**&#x200B;_ wordt gecreeerd. De volgende extensies zijn toegevoegd aan de eigenschap Tags
 
-![ markeringen-uitbreidingen ](assets/tags-extensions.png)
+![&#x200B; markeringen-uitbreidingen &#x200B;](assets/tags-extensions.png)
 
 Configureer de AEP Web SDK-extensie met gebruik van de DataStream voor financiële adviseurs die in de vorige stap is gemaakt.
 Experience Cloud ID Service is een optionele extensie die voor foutopsporingsdoeleinden aan de eigenschap tag wordt toegevoegd.
@@ -43,12 +43,12 @@ De volgende gegevenselementen maken
 Maak een regel met de naam LoginEvent met de volgende gebeurtenis en handelingen
 
 Gebeurtenis
-![ gebeurtenis ](assets/data-pushed-event1.png)
+![&#x200B; gebeurtenis &#x200B;](assets/data-pushed-event1.png)
 
 Variabele bijwerken, actie
-![ update-veranderlijk ](assets/update-variable1.png)
+![&#x200B; update-veranderlijk &#x200B;](assets/update-variable1.png)
 Gebeurtenisactie verzenden
-![ send-event ](assets/send-event1.png)
+![&#x200B; send-event &#x200B;](assets/send-event1.png)
 
 ## Opslaan en samenstellen
 

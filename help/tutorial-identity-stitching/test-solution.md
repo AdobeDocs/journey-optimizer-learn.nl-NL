@@ -22,7 +22,7 @@ Deze voorbeeldtoepassing simuleert een real-world login stroom waar de gebruiker
 
 ## Knooppunt.js installeren
 
-Als u geïnstalleerde Node.js niet hebt, download en [ installeer het van hier ](https://nodejs.org/)
+Als u geïnstalleerde Node.js niet hebt, download en [&#x200B; installeer het van hier &#x200B;](https://nodejs.org/)
 
 Installatie controleren door uit te voeren:
 
@@ -64,7 +64,7 @@ app.listen(PORT, () => {
 
 ## HTML/Assets toevoegen
 
-Kopieer alle verstrekte [ HTML en CSS dossiers ](assets/login-app-files.zip) in deze omslag. Kopieer en plak het script voor AEP-tags in de sectie `<head>` van het bestand index.html.
+Kopieer alle verstrekte [&#x200B; HTML en CSS dossiers &#x200B;](assets/login-app-files.zip) in deze omslag. Kopieer en plak het script voor AEP-tags in de sectie `<head>` van het bestand index.html.
 
 ## De server uitvoeren
 
@@ -81,7 +81,7 @@ De Adobe Experience Platform Debugger is een krachtige browserextensie waarmee u
 Gebruik Foutopsporing van AEP wanneer het testen van login gebeurtenissen, het verifiëren van identiteit stitching (b.v., ECID en CRMID die worden overgegaan), en het verzekeren van de regels van de Markeringen van AEP en de Elementen van Gegevens zoals verwacht. Het biedt real-time zichtbaarheid in uitgaande gebeurtenissen, identiteitsgegevens en XDM-ladingen — kritiek voor het verrijken van probleemoplossingsprofielen en publiekskwalificatie.
 
 Het volgende schermschot toont identiteitskaart &quot;FIN001&quot;die correct wordt overgegaan.
-![ aep-debugger ](assets/aep-debugger.png)
+![&#x200B; aep-debugger &#x200B;](assets/aep-debugger.png)
 
 ## Stappen om identiteitscontrole in AEP te verifiëren
 

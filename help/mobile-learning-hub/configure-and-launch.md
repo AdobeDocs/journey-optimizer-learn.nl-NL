@@ -66,7 +66,7 @@ Leer hoe het kanaal uw **mobiele kanalen** gebruikend de geleide functionaliteit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="Kanaalinstellingen met instructies" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433053/?format=jpeg&nocache=1755888511558" alt="Kanaalinstellingen met instructies"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449628/?captions=dut&format=jpeg&nocache=1755888511558" alt="Kanaalinstellingen met instructies"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

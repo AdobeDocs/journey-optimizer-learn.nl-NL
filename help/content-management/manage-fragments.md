@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Leer hoe u fragmenten beheert, ontwerpt en gebruikt in Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419932/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451188/?captions=dut&learn=on){transcript=true}

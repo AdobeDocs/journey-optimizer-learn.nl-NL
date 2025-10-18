@@ -25,4 +25,4 @@ De [&#x200B; playground van de verpersoonlijkingsredacteur &#x200B;](https://exp
 
 Leer hoe u vooraf gedefinieerde codevoorbeelden kunt gebruiken, dummy-profielladingen kunt bewerken en de uitvoer van uw personalisatiecode in real-time kunt bekijken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475958/?captions=dut&learn=on&enablevpops)

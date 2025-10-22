@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe te om, herbruikbare het richten van regels in Adobe Journey Optimizer tot stand te brengen te dupliceren en toe te passen om campagnes efficiënt te personaliseren die op klantenattributen zoals gebied, taal, en gedrag-besparende tijd terwijl het verbeteren van publieksprecisie worden gebaseerd.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476127/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476133/?captions=dut&learn=on&enablevpops)

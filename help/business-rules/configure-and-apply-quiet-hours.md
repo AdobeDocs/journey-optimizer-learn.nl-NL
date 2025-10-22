@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Leer hoe te om de stille uren eigenschap in Adobe Journey Optimizer te gebruiken om berichten te verhinderen worden verzonden naar klanten tijdens gespecificeerde tijdvensters, die marketers helpen verzenden mededelingen op ongepaste tijden vermijden en klantenbetrokkenheid verbeteren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475858/?captions=dut&learn=on&enablevpops)

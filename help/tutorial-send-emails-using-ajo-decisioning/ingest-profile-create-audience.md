@@ -20,4 +20,4 @@ In deze video leert u hoe u een profielschema kunt maken, klantgegevens uit een 
 
 U leert hoe te om zeer belangrijke gebieden zoals voornaam, e-mail, loyaliteitsstatus, en jaarlijks inkomen te bepalen, echte klantengegevens te uploaden, en die gegevens te gebruiken om een publiek van high-value klanten tot stand te brengen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476421/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476444/?captions=dut&learn=on)

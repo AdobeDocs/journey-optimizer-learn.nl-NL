@@ -17,4 +17,4 @@ ht-degree: 0%
 # Aanbiedingen maken, selectiestrategie, waarderingsformule
 
 In deze video leert u hoe u aanbiedingen kunt maken, een selectiestrategie voor aanbiedingen en een rangschikkingsformule voor aanbiedingen met voorrang
->[!VIDEO](https://video.tv.adobe.com/v/3476427/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476455/?captions=dut&learn=on)

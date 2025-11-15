@@ -68,7 +68,7 @@ Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en d
       <p>
       <b> Vereiste vaardigheden:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=nl-NL"> Segmenten maken</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html">Segment lezen</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=nl-NL">Segment lezen</li>
        <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=nl-NL">HTML-e-mailinhoud importeren</li>
   </td>
   </tr>
@@ -90,7 +90,7 @@ Luma streeft ernaar haar nieuwste kleding- en tandwielcollectie te promoten en d
     <p>
     <b> Vereiste vaardigheden:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=nl-NL"> Segmenten maken</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html">Segmentkwalificatie</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html?lang=nl-NL">Segmentkwalificatie</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=nl-NL">HTML-e-mailcontent importeren en opstellen</li>
   </td>
   </tr>

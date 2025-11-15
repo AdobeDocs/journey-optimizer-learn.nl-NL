@@ -19,7 +19,7 @@ ht-degree: 0%
 | Uitdaging | Een welkome-mail met een status van loyaliteit maken |
 |---|---|
 | Persona | Reismanager |
-| Vereiste vaardigheden | <ul><li>[&#x200B; creeer segmenten &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=nl-NL)</li> <li>[&#x200B; kwalificatie van het Segment &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html)</li><li>[&#x200B; de inhoud van HTML van de Invoer &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=nl-NL)</li></ul> |
+| Vereiste vaardigheden | <ul><li>[&#x200B; creeer segmenten &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=nl-NL)</li> <li>[&#x200B; kwalificatie van het Segment &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html?lang=nl-NL)</li><li>[&#x200B; de inhoud van HTML van de Invoer &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=nl-NL)</li></ul> |
 | Assets downloaden | [&#x200B; StatusUpgradeEmail.zip &#x200B;](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 {style="table-layout:auto"}

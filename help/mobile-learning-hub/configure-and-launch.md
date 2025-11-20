@@ -8,7 +8,7 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: d8ffe406-b54b-455f-bd41-7d1fef0a4714
-source-git-commit: ca55acb4ca76ca948243eab10faa7c5c15adca91
+source-git-commit: 52f8a11ecec3553df42a28a1e1259cc70ba4fa30
 workflow-type: tm+mt
 source-wordcount: '2471'
 ht-degree: 2%
@@ -20,11 +20,13 @@ ht-degree: 2%
 
 Configureer de mobiele kanalen in Adobe Journey Optimizer en Adobe Experience Platform, integreer deze met mobiele apps en zorg ervoor dat u klaar bent voor het uitvoeren van de marketingcampagne.
 
-&#x200B;> [!NOTE]
+>[!NOTE]
+>
 > Als u nog geen ervaring hebt met Journey Optimizer en Experience Platform, kunt u zich vertrouwd maken met de kernconcepten door deze cursus te volgen:
-> - [&#x200B; vorm en beheer Adobe Journey Optimizer &#x200B;](https://experienceleague.adobe.com/nl/courses/ajo-configure-and-administrate-ajo-environment)
+>
+> - [ vorm en beheer Adobe Journey Optimizer ](https://experienceleague.adobe.com/en/courses/ajo-configure-and-administrate-ajo-environment)
 >*In deze cursus, zult u leren om het milieu van Journey Optimizer, met inbegrip van gebruikersrollen, toestemmingen, zandbakken, en e-mailkanalen te vormen en te beheren, die efficiënte en veilige verrichtingen verzekeren.*
-> - [&#x200B; Gegevens van de ingenieur voor Intelligente Activering van de Reis in Adobe Journey Optimizer &#x200B;](https://experienceleague.adobe.com/nl/courses/ajo-engineer-data-for-intelligent-journey-activation)
+> - [ Gegevens van de ingenieur voor Intelligente Activering van de Reis in Adobe Journey Optimizer ](https://experienceleague.adobe.com/en/courses/ajo-engineer-data-for-intelligent-journey-activation)
 >*In deze cursus leert u hoe u realtime klantprofielgegevens voor Journey Optimizer kunt instellen en beheren met Experience Platform. Begrijp gegevensmodellering, identiteitstoewijzing, en gegevensopname om verenigde profielen voor gepersonaliseerde klantenreizen tot stand te brengen.*
 
 
@@ -61,7 +63,7 @@ Zonder de Mobile SDK-integratie in uw app kan Journey Optimizer niet betrouwbaar
 > - Adobe Experience Platform toegang met de toestemmingen van de Inzameling van Gegevens en Journey Optimizer.
 > - Admin rights in AJO for channel and configuration setup.
 > - Toegang tot de broncode van uw mobiele app (iOS, Android of het raamwerk voor verschillende platforms).
->- Uw app heeft de vereiste mogelijkheden op besturingssysteemniveau ingeschakeld (bijvoorbeeld pushmachtigingen, extensies voor meldingsservices en achtergrondmodi).
+> - Uw app heeft de vereiste mogelijkheden op besturingssysteemniveau ingeschakeld (bijvoorbeeld pushmachtigingen, extensies voor meldingsservices en achtergrondmodi).
 
 
 ### Vereiste mobiele SDK-componenten voor Journey Optimizer
@@ -97,24 +99,24 @@ Om Journey Optimizer mobiele kanalen (duw, in-app, inhoudskaarten, op code-gebas
 
 #### Eigenschappen en configuratie van mobiele tags
 
-U vormt deze uitbreidingen in a **[mobiel markeringsbezit &#x200B;](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)** in de Inzameling van Gegevens van AEP (markeringen). This property controls:
+U vormt deze uitbreidingen in a **[mobiel markeringsbezit ](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)** in de Inzameling van Gegevens van AEP (markeringen). This property controls:
 
 - Welke mobiele SDK-extensies zijn geïnstalleerd.
 - Welke gebeurtenissen in uw app oproepen naar de Edge Network activeren.
 - Hoe gegevens worden toegewezen aan XDM en worden doorgestuurd naar Adobe-oplossingen (Journey Optimizer, Analytics, enz.).
 
-U kunt tot stand brengen en [&#x200B; dit mobiele bezit vormen manueel &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/data-collection/tags/create-a-property), of voor Mobiele In-App en Duw u de **[Geleide Opstelling van het Kanaal &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** kunt gebruiken om het vereiste markeringsbezit, datastream, en kanaalconfiguratie voor iOS en Android auto-tot stand te brengen.
+U kunt tot stand brengen en [ dit mobiele bezit vormen manueel ](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property), of voor Mobiele In-App en Duw u de **[Geleide Opstelling van het Kanaal ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** kunt gebruiken om het vereiste markeringsbezit, datastream, en kanaalconfiguratie voor iOS en Android auto-tot stand te brengen.
 
 > **Uiteinde**\
-> Voor nieuwe implementaties, **[Geleide Opstelling van het Kanaal &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** is het geadviseerde uitgangspunt. Het vermindert het risico van verkeerd gevormde gegevensstromen of ontbrekende uitbreidingen en loopt u door de bevestiging van SDK met Assurance.
+> Voor nieuwe implementaties, **[Geleide Opstelling van het Kanaal ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** is het geadviseerde uitgangspunt. Het vermindert het risico van verkeerd gevormde gegevensstromen of ontbrekende uitbreidingen en loopt u door de bevestiging van SDK met Assurance.
 
 #### Ga aan de slag met de Mobile SDK:
 
 <!-- CARDS
-* https://experienceleague.adobe.com/nl/docs/platform-learn/data-collection/mobile-sdk/overview
+* https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/mobile-sdk/overview
     {description = Learn how Adobe Experience Platform Mobile SDK powers end-to-end engagement in your mobile applications.}
-* https://experienceleague.adobe.com/nl/docs/platform-learn/implement-mobile-sdk/overview
-* https://experienceleague.adobe.com/nl/docs/mobile
+* https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview
+* https://experienceleague.adobe.com/en/docs/mobile
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -122,7 +124,7 @@ U kunt tot stand brengen en [&#x200B; dit mobiele bezit vormen manueel &#x200B;]
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/nl/docs/platform-learn/data-collection/mobile-sdk/overview" title="Adobe Experience Platform Mobile SDK - overzicht" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/mobile-sdk/overview" title="Adobe Experience Platform Mobile SDK - overzicht" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/28948?format=jpeg&nocache=1763594622398" alt="Adobe Experience Platform Mobile SDK - overzicht"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -131,11 +133,11 @@ U kunt tot stand brengen en [&#x200B; dit mobiele bezit vormen manueel &#x200B;]
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/nl/docs/platform-learn/data-collection/mobile-sdk/overview" target="_blank" rel="referrer" title="Adobe Experience Platform Mobile SDK - overzicht"> Adobe Experience Platform Mobile SDK overzicht </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/mobile-sdk/overview" target="_blank" rel="referrer" title="Adobe Experience Platform Mobile SDK - overzicht"> Adobe Experience Platform Mobile SDK overzicht </a>
                     </p>
                     <p class="is-size-6">Leer hoe Adobe Experience Platform Mobile SDK de volledige betrokkenheid bij uw mobiele toepassingen mogelijk maakt.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/nl/docs/platform-learn/data-collection/mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -145,8 +147,8 @@ U kunt tot stand brengen en [&#x200B; dit mobiele bezit vormen manueel &#x200B;]
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/nl/docs/platform-learn/implement-mobile-sdk/overview" title="Zelfstudie Adobe Experience Cloud implementeren in mobiele apps" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/nl/docs/platform-learn/implement-mobile-sdk/overview./media_1c75750ec1be623e56a379ca69ef6c495799e52a5.png?width=400&format=png&optimize=medium" alt="Zelfstudie Adobe Experience Cloud implementeren in mobiele apps"
+                    <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" title="Zelfstudie Adobe Experience Cloud implementeren in mobiele apps" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview./media_1c75750ec1be623e56a379ca69ef6c495799e52a5.png?width=400&format=png&optimize=medium" alt="Zelfstudie Adobe Experience Cloud implementeren in mobiele apps"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -154,11 +156,11 @@ U kunt tot stand brengen en [&#x200B; dit mobiele bezit vormen manueel &#x200B;]
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/nl/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" title="Zelfstudie Adobe Experience Cloud implementeren in mobiele apps"> voer Adobe Experience Cloud in mobiele apps leerprogramma uit </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" title="Zelfstudie Adobe Experience Cloud implementeren in mobiele apps"> voer Adobe Experience Cloud in mobiele apps leerprogramma uit </a>
                     </p>
                     <p class="is-size-6">Leer hoe u de mobiele Adobe Experience Cloud-toepassingen implementeert. Deze zelfstudie begeleidt u door een implementatie van Experience Cloud-toepassingen in een voorbeeld van een Swift- of Android-app.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/nl/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
                 </a>
             </div>
@@ -168,7 +170,7 @@ U kunt tot stand brengen en [&#x200B; dit mobiele bezit vormen manueel &#x200B;]
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/nl/docs/mobile" title="Documentatie voor Adobe Experience Platform Mobile SDK" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/mobile" title="Documentatie voor Adobe Experience Platform Mobile SDK" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="Documentatie voor Adobe Experience Platform Mobile SDK"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -177,11 +179,11 @@ U kunt tot stand brengen en [&#x200B; dit mobiele bezit vormen manueel &#x200B;]
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/nl/docs/mobile" target="_blank" rel="referrer" title="Documentatie voor Adobe Experience Platform Mobile SDK"> Adobe Experience Platform Mobile SDK Documentatie </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/mobile" target="_blank" rel="referrer" title="Documentatie voor Adobe Experience Platform Mobile SDK"> Adobe Experience Platform Mobile SDK Documentatie </a>
                     </p>
                     <p class="is-size-6">Zoek naar zelfhulpartikelen en tutorials voor Experience Platform Mobile SDK's. Meer informatie over strategieën en best practices van experts in live en on-demand video-evenementen.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/nl/docs/mobile" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/mobile" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
                 </a>
             </div>
@@ -190,16 +192,16 @@ U kunt tot stand brengen en [&#x200B; dit mobiele bezit vormen manueel &#x200B;]
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-Voor meer informatie zie ook de [&#x200B; Mobiele Documentatie van SDK van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/nl/docs/mobile)
+Voor meer informatie zie ook de [ Mobiele Documentatie van SDK van Adobe Experience Platform ](https://experienceleague.adobe.com/en/docs/mobile)
 
 #### Referenties ontwikkelaar:
 
-- [&#x200B; Mobiele SDK ontwikkelaarsportaal (huis) &#x200B;](https://developer.adobe.com/client-sdks/home/)
-- [&#x200B; Huidige versies van SDK &#x200B;](https://developer.adobe.com/client-sdks/home/current-sdk-versions/)
-- [&#x200B; Begonnen het worden met een mobiel bezit (markeringen) &#x200B;](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)
-- [&#x200B; krijg SDK (installeer in uw app) &#x200B;](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk/)
-- [&#x200B; gebeurtenissen van het Spoor met Mobiele SDK &#x200B;](https://developer.adobe.com/client-sdks/home/getting-started/track-events/)
-- [&#x200B; bevestigt met Assurance &#x200B;](https://developer.adobe.com/client-sdks/home/base/assurance/)
+- [ Mobiele SDK ontwikkelaarsportaal (huis) ](https://developer.adobe.com/client-sdks/home/)
+- [ Huidige versies van SDK ](https://developer.adobe.com/client-sdks/home/current-sdk-versions/)
+- [ Begonnen het worden met een mobiel bezit (markeringen) ](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)
+- [ krijg SDK (installeer in uw app) ](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk/)
+- [ gebeurtenissen van het Spoor met Mobiele SDK ](https://developer.adobe.com/client-sdks/home/getting-started/track-events/)
+- [ bevestigt met Assurance ](https://developer.adobe.com/client-sdks/home/base/assurance/)
 
 >[!SUCCESS]
 >
@@ -222,9 +224,9 @@ Voor meer informatie zie ook de [&#x200B; Mobiele Documentatie van SDK van Adobe
 Vorm uw **mobiele kanalen** gebruikend de geleide functionaliteit van de kanaalmontages. Begrijp hoe te om het **WhatsApp kanaal** te vormen:
 
 <!-- CARDS
-* https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup
  {description = Learn how to quickly set up and validate web and mobile channels across Experience Platform, Journey Optimizer, and Data Collection, and configure a push notification for a sample iOS marketing app.}
-* https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -232,8 +234,8 @@ Vorm uw **mobiele kanalen** gebruikend de geleide functionaliteit van de kanaalm
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="Kanaalinstellingen met instructies" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449628/?captions=dut&format=jpeg&nocache=1763594622823" alt="Kanaalinstellingen met instructies"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="Kanaalinstellingen met instructies" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433053/?format=jpeg&nocache=1763594622823" alt="Kanaalinstellingen met instructies"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -241,11 +243,11 @@ Vorm uw **mobiele kanalen** gebruikend de geleide functionaliteit van de kanaalm
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" title="Kanaalinstellingen met instructies"> Geleide kanaalopstelling </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" title="Kanaalinstellingen met instructies"> Geleide kanaalopstelling </a>
                     </p>
                     <p class="is-size-6">Leer hoe u snel web- en mobiele kanalen in Experience Platform, Journey Optimizer en Gegevensverzameling instelt en valideert en een pushmelding configureert voor een voorbeeld van een iOS-marketingapp.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -255,8 +257,8 @@ Vorm uw **mobiele kanalen** gebruikend de geleide functionaliteit van de kanaalm
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="Het WhatsApp-kanaal instellen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470274/?captions=dut&format=jpeg&nocache=1763594622814" alt="Het WhatsApp-kanaal instellen"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="Het WhatsApp-kanaal instellen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1763594622814" alt="Het WhatsApp-kanaal instellen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -264,11 +266,11 @@ Vorm uw **mobiele kanalen** gebruikend de geleide functionaliteit van de kanaalm
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" target="_blank" rel="referrer" title="Het WhatsApp-kanaal instellen"> Opstelling het kanaal WhatsApp </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" target="_blank" rel="referrer" title="Het WhatsApp-kanaal instellen"> Opstelling het kanaal WhatsApp </a>
                     </p>
                     <p class="is-size-6">Dit leerprogramma begeleidt u door vestiging het WhatsApp kanaal in Adobe Journey Optimizer om bedrijfsoverseinen in real time toe te laten.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -282,11 +284,11 @@ Vorm uw **mobiele kanalen** gebruikend de geleide functionaliteit van de kanaalm
 Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Infobip) of het gebruiken van een leverancier van douaneSMS:
 
 <!-- CARDS
-* https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel
-* https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider
 {description = Learn how to configure custom SMS providers in Journey Optimizer, set up API credentials and webhooks, manage opt-in/opt-out keywords, and launch personalized campaigns.}
-* https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces
-* https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -294,7 +296,7 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="SMS API-referenties en kanaaloppervlakken configureren" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="SMS API-referenties en kanaaloppervlakken configureren" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413355?format=jpeg&nocache=1763594624036" alt="SMS API-referenties en kanaaloppervlakken configureren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -303,11 +305,11 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="SMS API-referenties en kanaaloppervlakken configureren"> vorm de geloofsbrieven van SMS API en kanaaloppervlakken </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="SMS API-referenties en kanaaloppervlakken configureren"> vorm de geloofsbrieven van SMS API en kanaaloppervlakken </a>
                     </p>
                     <p class="is-size-6">Leer hoe u Journey Optimizer kunt verbinden met een SMS-serviceprovider en hoe u een SMS-kanaaloppervlak kunt maken.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -317,7 +319,7 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" title="Een aangepaste SMS-provider configureren" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" title="Een aangepaste SMS-provider configureren" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431625/?format=jpeg&nocache=1763594624067" alt="Een aangepaste SMS-provider configureren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -326,11 +328,11 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" target="_blank" rel="referrer" title="Een aangepaste SMS-provider configureren"> vorm een leverancier van douaneSMS </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" target="_blank" rel="referrer" title="Een aangepaste SMS-provider configureren"> vorm een leverancier van douaneSMS </a>
                     </p>
                     <p class="is-size-6">Leer hoe u aangepaste SMS-providers in Journey Optimizer configureert, API-referenties en -websites instelt, sleutelwoorden voor aanmelding/opt-out beheert en gepersonaliseerde campagnes start.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -340,8 +342,8 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="MMS API-referenties en kanaaloppervlakken configureren" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438052/?captions=dut&format=jpeg&nocache=1763594624083" alt="MMS API-referenties en kanaaloppervlakken configureren"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="MMS API-referenties en kanaaloppervlakken configureren" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1763594624083" alt="MMS API-referenties en kanaaloppervlakken configureren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -349,11 +351,11 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" title="MMS API-referenties en kanaaloppervlakken configureren"> vorm MMS API geloofsbrieven en kanaaloppervlakken </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" title="MMS API-referenties en kanaaloppervlakken configureren"> vorm MMS API geloofsbrieven en kanaaloppervlakken </a>
                     </p>
                     <p class="is-size-6">Leer hoe u Journey Optimizer kunt verbinden met een MMS-serviceprovider en hoe u een MMS-kanaaloppervlak kunt maken.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -363,8 +365,8 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="RCS instellen in Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464761/?captions=dut&format=jpeg&nocache=1763594624043" alt="RCS instellen in Journey Optimizer"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="RCS instellen in Journey Optimizer" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1763594624043" alt="RCS instellen in Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -372,11 +374,11 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" target="_blank" rel="referrer" title="RCS instellen in Journey Optimizer"> opstelling RCS in Journey Optimizer </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" target="_blank" rel="referrer" title="RCS instellen in Journey Optimizer"> opstelling RCS in Journey Optimizer </a>
                     </p>
                     <p class="is-size-6">Leer hoe u merkgebonden, interactieve RCS-berichten in Adobe Journey Optimizer configureert en verzendt met een aangepaste SMS-provider. Deze zelfstudie doorloopt het instellen van API-referenties, webhooks en kanaalconfiguraties en bouwt vervolgens een reis om rijke, gepersonaliseerde berichtenervaringen te bieden - allemaal binnen de native messaging-app.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -387,16 +389,16 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
 
 ## Blogberichten
 
-- [&#x200B; Gebruikend op CDN gebaseerde cliënt zijverpersoonlijking (ODD) op mobiel voor snellere verpersoonlijkingen.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
-- [&#x200B; Mobile Activation voor Adobe Experience Cloud &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595)
+- [ Gebruikend op CDN gebaseerde cliënt zijverpersoonlijking (ODD) op mobiel voor snellere verpersoonlijkingen.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
+- [ Mobile Activation voor Adobe Experience Cloud ](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595)
 
 ## Naleving van privacywetten en platformrichtlijnen garanderen.
 
 <!-- CARDS
-* https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/privacy/privacy-landing-page{image=../mobile-learning-hub/assets/privacy.webp}{title = Privacy Features in Adobe Journey Optimizer}{description = Learn how to process privacy requests, audit user actions, manage consent, apply governance rules, and leverage advanced security options like Customer Managed Keys.}
-* https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework
-* https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables{cta = Watch}
-* https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies
+* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page{image=../mobile-learning-hub/assets/privacy.webp}{title = Privacy Features in Adobe Journey Optimizer}{description = Learn how to process privacy requests, audit user actions, manage consent, apply governance rules, and leverage advanced security options like Customer Managed Keys.}
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables{cta = Watch}
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -404,7 +406,7 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/privacy/privacy-landing-page" title="Privacy-functies in Adobe Journey Optimizer" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" title="Privacy-functies in Adobe Journey Optimizer" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="../mobile-learning-hub/assets/privacy.webp" alt="Privacy-functies in Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -413,11 +415,11 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" title="Privacy-functies in Adobe Journey Optimizer"> Eigenschappen van de Privacy in Adobe Journey Optimizer </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" title="Privacy-functies in Adobe Journey Optimizer"> Eigenschappen van de Privacy in Adobe Journey Optimizer </a>
                     </p>
                     <p class="is-size-6">Leer hoe te om privacyverzoeken, controlegebruikersacties te verwerken, toestemming te beheren, beheersregels toe te passen, en hefboomwerking geavanceerde veiligheidsopties zoals KlantBeheerde Sleutels.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
                 </a>
             </div>
@@ -427,7 +429,7 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" title="Overzicht van het gegevensbeheerframework" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" title="Overzicht van het gegevensbeheerframework" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29708/?format=jpeg&nocache=1763594624934" alt="Overzicht van het gegevensbeheerframework"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -436,11 +438,11 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" target="_blank" rel="referrer" title="Overzicht van het gegevensbeheerframework"> Overzicht van het Kader van het Kader van het Beheer van Gegevens </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" target="_blank" rel="referrer" title="Overzicht van het gegevensbeheerframework"> Overzicht van het Kader van het Kader van het Beheer van Gegevens </a>
                     </p>
                     <p class="is-size-6">Begrijp de bestuurskenmerken in Adobe Experience Platform.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -450,7 +452,7 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" title="Gegevens classificeren met labels" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" title="Gegevens classificeren met labels" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29709?format=jpeg&nocache=1763594624932" alt="Gegevens classificeren met labels"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -459,11 +461,11 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" target="_blank" rel="referrer" title="Gegevens classificeren met labels"> classificeer gegevens gebruikend etiketten </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" target="_blank" rel="referrer" title="Gegevens classificeren met labels"> classificeer gegevens gebruikend etiketten </a>
                     </p>
                     <p class="is-size-6">Leer hoe te om etiketten op uw schema's en datasets toe te passen.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -473,7 +475,7 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" title="Beleid voor gegevensgebruik maken" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" title="Beleid voor gegevensgebruik maken" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32977/?format=jpeg&nocache=1763594624933" alt="Beleid voor gegevensgebruik maken"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -482,11 +484,11 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" target="_blank" rel="referrer" title="Beleid voor gegevensgebruik maken"> creeer het Beleid van het Gebruik van Gegevens </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" target="_blank" rel="referrer" title="Beleid voor gegevensgebruik maken"> creeer het Beleid van het Gebruik van Gegevens </a>
                     </p>
                     <p class="is-size-6">Leer hoe u beleid voor gegevensgebruik maakt en beheert.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -503,11 +505,11 @@ De meeste mobiele kwesties komen uit **SDK of configuratie van de gegevensinzame
 
 | Aantal | Probleem/symptoom | Veelvoorkomende fout | In één oogopslag corrigeren |
 |---|----------------------------------------------|-----------------------------------------------------|------------------------------------------|
-| 1 | De Begeleide Opstelling van het Kanaal ontbreekt; geen of laag verkeer | [&#x200B; niet uitgelijnde versies of uitbreidingen van SDK &#x200B;](#1-sdk-versions-and-extensions-not-aligned-with-channel-requirements) | SDK/extensie-versies bijwerken; valideren in Assurance |
-| 2 | Batch bijhouden mislukt; fouten in AEP | [&#x200B; Gegevensstromen of datasets misconfigured &#x200B;](#2-misconfigured-datastreams-or-datasets) | Gebeurtenissen toewijzen aan gegevensset en profielen voor gebeurtenissen aan profielgegevensset |
-| 3 | Reizen branden niet; oneven personalisatie | [&#x200B; Ontbrekende of inconsistente Identiteit of toestemming &#x200B;](#3-missing-or-inconsistent-identity-and-consent) | Edge-identiteit en -toestemming implementeren; verifiëren in Assurance |
-| 4 | Geen push-levering of wordt geopend in rapporten | [&#x200B; de symbolische registratie of het volgen gebroken &#x200B;](#4-push-token-registration-and-tracking-not-wired-correctly) | Symboolregistratie en -interactietracering corrigeren via SDK |
-| 5 | Geen impressies in de app ondanks actieve campagnes | [&#x200B; In-app berichten of inhoudskaarten die &#x200B;](#5-in-app-messages-or-content-cards-not-displaying) niet tonen | Berichtextensies, triggers en Assurance-beslissingsreacties controleren |
+| 1 | De Begeleide Opstelling van het Kanaal ontbreekt; geen of laag verkeer | [ niet uitgelijnde versies of uitbreidingen van SDK ](#1-sdk-versions-and-extensions-not-aligned-with-channel-requirements) | SDK/extensie-versies bijwerken; valideren in Assurance |
+| 2 | Batch bijhouden mislukt; fouten in AEP | [ Gegevensstromen of datasets misconfigured ](#2-misconfigured-datastreams-or-datasets) | Gebeurtenissen toewijzen aan gegevensset en profielen voor gebeurtenissen aan profielgegevensset |
+| 3 | Reizen branden niet; oneven personalisatie | [ Ontbrekende of inconsistente Identiteit of toestemming ](#3-missing-or-inconsistent-identity-and-consent) | Edge-identiteit en -toestemming implementeren; verifiëren in Assurance |
+| 4 | Geen push-levering of wordt geopend in rapporten | [ de symbolische registratie of het volgen gebroken ](#4-push-token-registration-and-tracking-not-wired-correctly) | Symboolregistratie en -interactietracering corrigeren via SDK |
+| 5 | Geen impressies in de app ondanks actieve campagnes | [ In-app berichten of inhoudskaarten die ](#5-in-app-messages-or-content-cards-not-displaying) niet tonen | Berichtextensies, triggers en Assurance-beslissingsreacties controleren |
 
 ### Gedetailleerde richtsnoeren per toonhoogte
 
@@ -534,7 +536,7 @@ Open de valhoogte die overeenkomt met uw symptomen om te zien wat u moet control
 - Voer een upgrade uit naar de ondersteunde Mobile SDK- en Journey Optimizer-extensieversies.
 - Maak de app opnieuw, maak opnieuw verbinding met Assurance en voer de instelling van het geleide kanaal opnieuw uit.
 
-Zie: [&#x200B; Opstelling mobiel en Web &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config)
+Zie: [ Opstelling mobiel en Web ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config)
 
 </details>
 
@@ -561,7 +563,7 @@ Zie: [&#x200B; Opstelling mobiel en Web &#x200B;](https://experienceleague.adobe
 - Corrigeer de gegevenstoewijzing (events → gebeurtenisdataset, profielen → profieldataset).
 - Voorkeur voor de instelling met instructies voor Kanaal of de gedocumenteerde gegevensstroomstappen in plaats van ad-hocwijzigingen.
 
-Zie: [&#x200B; de stroom van het Bericht van de duw in Adobe Journey Optimizer &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/channels/push/push-config/push-gs)
+Zie: [ de stroom van het Bericht van de duw in Adobe Journey Optimizer ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs)
 
 </details>
 
@@ -589,7 +591,7 @@ Zie: [&#x200B; de stroom van het Bericht van de duw in Adobe Journey Optimizer &
 - Voer **Toestemming voor Edge Network** uit en verbind het met de toestemmings UI van uw app.
 - Herstel in Assurance totdat de identiteit en toestemming voor alle relevante gebeurtenissen worden weergegeven.
 
-Zie: [&#x200B; voer toestemming voor de implementaties van SDK van het Platform Mobiele uit &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/implement-mobile-sdk/app-implementation/consent)
+Zie: [ voer toestemming voor de implementaties van SDK van het Platform Mobiele uit ](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent)
 
 </details>
 
@@ -617,7 +619,7 @@ Zie: [&#x200B; voer toestemming voor de implementaties van SDK van het Platform 
    - Verzendt pushinteractiegebeurtenissen (open, negeren, aangepaste handelingen) via de Mobile SDK.
 - Gebruik Assurance om te bevestigen dat registratie- en volggebeurtenissen plaatsvinden zoals u had verwacht.
 
-Zie: [&#x200B; de stroom van het Bericht van de duw in Adobe Journey Optimizer &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/channels/push/push-config/push-gs)
+Zie: [ de stroom van het Bericht van de duw in Adobe Journey Optimizer ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs)
 
 </details>
 
@@ -649,8 +651,8 @@ Zie: [&#x200B; de stroom van het Bericht van de duw in Adobe Journey Optimizer &
    - Interacties via de SDK bijhouden.
 
 Zie:
-- [&#x200B; creeer en verzend in-app berichten &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp)
-- [&#x200B; vorm de steun van inhoudskaarten in Mobiele SDK &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp)
+- [ creeer en verzend in-app berichten ](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp)
+- [ vorm de steun van inhoudskaarten in Mobiele SDK ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp)
 
 </details>
 
@@ -658,7 +660,7 @@ Zie:
 >
 > **Één-lijn checklist van de gereedheid**
 >
-> Alvorens app aan marketers te verstrekken, bevestig in **[Assurance &#x200B;](https://developer.adobe.com/client-sdks/home/base/assurance/)** dat:
+> Alvorens app aan marketers te verstrekken, bevestig in **[Assurance ](https://developer.adobe.com/client-sdks/home/base/assurance/)** dat:
 > 
 > [ ] Core SDK + Journey Optimizer-extensies zijn geladen,\
 > [ ] De gebeurtenissen stromen op de correcte gegevensstroom en datasets,\

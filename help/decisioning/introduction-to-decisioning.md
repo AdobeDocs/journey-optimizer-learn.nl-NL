@@ -24,4 +24,4 @@ Beslissing vereenvoudigt personalisering met een gecentraliseerde catalogus van 
 
 In deze video ziet u een kort overzicht van de mogelijkheden van Adobe Journey Optimizer om te beslissen over beslissingen
 
->[!VIDEO](https://video.tv.adobe.com/v/3451101?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3475869?captions=dut&quality=12&learn=on){transcript=true}

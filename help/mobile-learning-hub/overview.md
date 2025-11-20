@@ -20,7 +20,7 @@ Jumpstart of level up with mobile channels in Adobe Journey Optimizer (AJO). Dit
 
 Ontdek best practices, leer hoe u adoptie kunt stimuleren en master reporting — allemaal op één plaats — zodat teams effectieve, gegevensgestuurde mobiele ervaringen kunnen bieden die op elk moment, overal en altijd verbinding maken met gebruikers.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3477004?captions=dut&quality=12&learn=on){transcript=true}
 
 
 ## Overzicht van mobiele kanalen

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe Adobe Journey Optimizer klantgegevens verenigt en het opbouwen van publiek vereenvoudigt met een drag-and-drop interface, profielen verrijkt voor persoonlijke betrokkenheid, een publiek met een exacte gerichtheid, en zorgt voor privacy met robuuste governancegereedschappen—waardoor u effectievere campagnes langs verschillende kanalen kunt maken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476986/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476992/?captions=dut&learn=on)

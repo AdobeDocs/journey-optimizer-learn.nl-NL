@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Leer hoe Adobe Journey Optimizer het beheer van digitale middelen stroomlijnt met de ingesloten Adobe Experience Manager, zodat u rechtstreeks vanuit de opslagplaats kunt zoeken naar, bladeren naar en bronnen. Ontdek hoe u campagnes kunt maken, e-mails kunt ontwerpen met bestaande sjablonen en elementen moeiteloos kunt uploaden of bewerken, waardoor krachtige, onzichtbare inhoud binnen handbereik komt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477010/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477017/?captions=dut&learn=on)

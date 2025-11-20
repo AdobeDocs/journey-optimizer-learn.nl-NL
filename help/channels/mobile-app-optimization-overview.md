@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Ontdek hoe de mogelijkheden van de mobiele app van Adobe Journey Optimizer uw betrokkenheid van klanten transformeren met behulp van persoonlijke realtime ervaringen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477004/?captions=dut&learn=on)

@@ -23,4 +23,4 @@ Leer hoe u handelingscampagnes in Adobe Journey Optimizer kunt maken en optimali
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 
-Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/campaigns/get-started-with-campaigns) voor meer informatie over deze functie.
+Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/get-started-with-campaigns) voor meer informatie over deze functie.

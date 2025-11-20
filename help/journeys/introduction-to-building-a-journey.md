@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Begrijp de grondbeginselen van het samenstellen van een journey in het journeycanvas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430347?quality=12&learn=on&captions=dut){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424996?quality=12&learn=on){transcript=true}

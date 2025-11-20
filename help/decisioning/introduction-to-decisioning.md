@@ -14,7 +14,7 @@ exl-id: d5219ce1-ea44-4c41-b557-b094978e37cc
 source-git-commit: b9a223a583a2ceb7c6c55a144ab78c7963ae2969
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 30%
+ht-degree: 41%
 
 ---
 
@@ -24,4 +24,4 @@ Beslissing vereenvoudigt personalisering met een gecentraliseerde catalogus van 
 
 In deze video ziet u een kort overzicht van de mogelijkheden van Adobe Journey Optimizer om te beslissen over beslissingen
 
->[!VIDEO](https://video.tv.adobe.com/v/3475869?captions=dut&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451101?quality=12&learn=on){transcript=true}

@@ -23,8 +23,8 @@ Ontdek hoe u effectieve mobiele communicatie kunt bouwen en leveren met Adobe Jo
 >[!NOTE]
 >
 >Als u nog geen ervaring hebt met Journey Optimizer, begint u met het vertrouwd maken met Journey Optimizer door de volgende cursussen te voltooien:
->1. [ bouwt en activeert publiek in Adobe Journey Optimizer ](https://experienceleague.adobe.com/en/courses/ajo-build-and-activate-audiences)
->2. [ Orchestrate reizen en actiecampagnes in Adobe Journey Optimizer ](https://experienceleague.adobe.com/en/courses/ajo-design-and-manage-journeys-and-action-campaigns)
+>1. [&#x200B; bouwt en activeert publiek in Adobe Journey Optimizer &#x200B;](https://experienceleague.adobe.com/en/courses/ajo-build-and-activate-audiences)
+>2. [&#x200B; Orchestrate reizen en actiecampagnes in Adobe Journey Optimizer &#x200B;](https://experienceleague.adobe.com/en/courses/ajo-design-and-manage-journeys-and-action-campaigns)
 
 
 ## Mobiele berichten ontwerpen en leveren
@@ -110,7 +110,7 @@ Begrijp welke mobiele kanalen Journey Optimizer ondersteunt en hoe je berichten 
 
 #### Productdocumentatie
 
-| ![ creeer Duw ](./assets/configuration.svg)[**een duw bericht** ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![ duw van het Ontwerp ](./assets/content-management.png){width="50"}[**Ontwerp een duw- bericht** ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![ verzendt duw ](./assets/communication-channel.svg)[**verzendt een duw- bericht** ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
+| ![&#x200B; creeer Duw &#x200B;](./assets/configuration.svg) [**een duw bericht** &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![&#x200B; duw van het Ontwerp &#x200B;](./assets/content-management.png){width="50"}[**Ontwerp een duw- bericht** &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![&#x200B; verzendt duw &#x200B;](./assets/communication-channel.svg) [**verzendt een duw- bericht** &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB  In-app ]
@@ -190,7 +190,7 @@ Begrijp welke mobiele kanalen Journey Optimizer ondersteunt en hoe je berichten 
 
 #### Documentatie
 
-| ![ creeer bericht ](./assets/configuration.svg)[**Mobiele In-app Berichten** ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![ Inhoud van het Ontwerp ](./assets/content-management.png){width="50"}[**Ontwerp In-app Inhoud** ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![Stuur melding ](./assets/communication-channel.svg)[**Stuur een in-app meldingen**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
+| ![&#x200B; creeer bericht &#x200B;](./assets/configuration.svg) [**Mobiele In-app Berichten** &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![&#x200B; Inhoud van het Ontwerp &#x200B;](./assets/content-management.png){width="50"}[**Ontwerp In-app Inhoud** &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![Stuur melding &#x200B;](./assets/communication-channel.svg) [**Stuur een in-app meldingen**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB  Kaarten van de Inhoud ]
@@ -238,7 +238,7 @@ Begrijp welke mobiele kanalen Journey Optimizer ondersteunt en hoe je berichten 
 
 #### Productdocumentatie
 
-| ![ creeer en vorm de Kaarten van de Inhoud ](./assets/configuration.svg)[**creëren en vormen de Kaarten van de Inhoud** ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![ de Kaarten van de Inhoud van het Ontwerp ](./assets/content-management.png){width="50"}[**Inhoud van het Ontwerp** ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
+| ![&#x200B; creeer en vorm de Kaarten van de Inhoud &#x200B;](./assets/configuration.svg) [**creëren en vormen de Kaarten van de Inhoud** &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![&#x200B; de Kaarten van de Inhoud van het Ontwerp &#x200B;](./assets/content-management.png){width="50"}[**Inhoud van het Ontwerp** &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB  SMS/MMS/RCS ]
@@ -390,7 +390,7 @@ Begrijp welke mobiele kanalen Journey Optimizer ondersteunt en hoe je berichten 
 
 #### Productdocumentatie
 
-| ![ krijgen begonnen met tekstoverseinen ](./assets/configuration.svg)[**wordt begonnen met tekstoverseinen** ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![ Inhoud van het Ontwerp ](./assets/content-management.png){width="50"}[**leidt SMS, MMS, en RCS Berichten** ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![ verzendt bericht ](./assets/communication-channel.svg)[**Controle en verzendt de Berichten van de Tekst** ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
+| ![&#x200B; krijgen begonnen met tekstoverseinen &#x200B;](./assets/configuration.svg) [**wordt begonnen met tekstoverseinen** &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![&#x200B; Inhoud van het Ontwerp &#x200B;](./assets/content-management.png){width="50"}[**leidt SMS, MMS, en RCS Berichten** &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![&#x200B; verzendt bericht &#x200B;](./assets/communication-channel.svg) [**Controle en verzendt de Berichten van de Tekst** &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB Code-gebaseerde ervaringen]
@@ -461,7 +461,7 @@ Begrijp welke mobiele kanalen Journey Optimizer ondersteunt en hoe je berichten 
 
 #### Productdocumentatie
 
-| ![ creeer code-Gebaseerde Ervaringen ](./assets/content-management.png){width="50"}[**creeer code-Gebaseerde Ervaringen** ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
+| ![&#x200B; creeer code-Gebaseerde Ervaringen &#x200B;](./assets/content-management.png){width="50"}[**creeer code-Gebaseerde Ervaringen** &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB  WhatsApp ]
@@ -470,7 +470,7 @@ Begrijp welke mobiele kanalen Journey Optimizer ondersteunt en hoe je berichten 
 
 #### Vereisten
 
-1. Zorg ervoor het [ WhatsApp kanaal ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel) is gevormd.
+1. Zorg ervoor het [&#x200B; WhatsApp kanaal &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel) is gevormd.
 2. Zorg ervoor dat de profielen en het publiek van de klant klaar zijn om zich te richten.
 
 #### Tutorials
@@ -532,7 +532,7 @@ Begrijp welke mobiele kanalen Journey Optimizer ondersteunt en hoe je berichten 
 
 #### Productdocumentatie
 
-| ![ creeer WhatsApp Berichten ](./assets/configuration.svg)[*Create WhatsApp Berichten* ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![ Voorproef, bevestigt, en verzendt de Berichten WhatsApp ](./assets/communication-channel.svg){width="50"}[**Voorproef, bevestigt, en verzendt de Berichten WhatsApp** ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
+| ![&#x200B; creeer WhatsApp Berichten &#x200B;](./assets/configuration.svg) [*Create WhatsApp Berichten* &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![&#x200B; Voorproef, bevestigt, en verzendt de Berichten WhatsApp &#x200B;](./assets/communication-channel.svg){width="50"}[**Voorproef, bevestigt, en verzendt de Berichten WhatsApp** &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!ENDTABS]

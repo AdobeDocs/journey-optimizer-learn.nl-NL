@@ -225,4 +225,4 @@ Deze zelfstudies bieden marketers de tools om de prestaties in real-time te bewa
 
 
 
-Zie de [ productdocumentatie ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reporting-landing-page) voor meer informatie bij het melden in Adobe Journey Optimizer.
+Zie de [&#x200B; productdocumentatie &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reporting-landing-page) voor meer informatie bij het melden in Adobe Journey Optimizer.

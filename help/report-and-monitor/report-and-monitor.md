@@ -64,7 +64,7 @@ Deze zelfstudies bieden marketers de tools om de prestaties in real-time te bewa
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports" title="Uw reis bewaken en analyseren met live rapporten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470709/?format=jpeg&nocache=1764706279498" alt="Uw reis bewaken en analyseren met live rapporten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470841/?captions=dut&format=jpeg&nocache=1764706279498" alt="Uw reis bewaken en analyseren met live rapporten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -87,7 +87,7 @@ Deze zelfstudies bieden marketers de tools om de prestaties in real-time te bewa
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports" title="Bewaak en analyseer uw reis met de Rapporten van de Reis" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470710/?format=jpeg&nocache=1764706279432" alt="Bewaak en analyseer uw reis met de Rapporten van de Reis"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471469/?captions=dut&format=jpeg&nocache=1764706279432" alt="Bewaak en analyseer uw reis met de Rapporten van de Reis"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,7 +110,7 @@ Deze zelfstudies bieden marketers de tools om de prestaties in real-time te bewa
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="Rapporten op kanaalniveau" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1764706279481" alt="Rapporten op kanaalniveau"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448045/?captions=dut&format=jpeg&nocache=1764706279481" alt="Rapporten op kanaalniveau"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -133,7 +133,7 @@ Deze zelfstudies bieden marketers de tools om de prestaties in real-time te bewa
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" title="Analyseer de algehele prestaties van uw reis met alle tijdrapporten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475653/?format=jpeg&nocache=1764706279437" alt="Analyseer de algehele prestaties van uw reis met alle tijdrapporten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475793/?captions=dut&format=jpeg&nocache=1764706279437" alt="Analyseer de algehele prestaties van uw reis met alle tijdrapporten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +156,7 @@ Deze zelfstudies bieden marketers de tools om de prestaties in real-time te bewa
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format" title="Rapporten exporteren in CSV-indeling" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424603/?format=jpeg&nocache=1764706279503" alt="Rapporten exporteren in CSV-indeling"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439616/?captions=dut&format=jpeg&nocache=1764706279503" alt="Rapporten exporteren in CSV-indeling"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -202,7 +202,7 @@ Deze zelfstudies bieden marketers de tools om de prestaties in real-time te bewa
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Verbeterde rapportage met Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1764706279442" alt="Verbeterde rapportage met Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443157/?captions=dut&format=jpeg&nocache=1764706279442" alt="Verbeterde rapportage met Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

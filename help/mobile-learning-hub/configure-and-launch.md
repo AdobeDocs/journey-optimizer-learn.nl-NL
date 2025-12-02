@@ -190,7 +190,7 @@ Vorm uw **mobiele kanalen** gebruikend de geleide functionaliteit van de kanaalo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="Kanaalinstellingen met instructies" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433053/?format=jpeg&nocache=1764630461078" alt="Kanaalinstellingen met instructies"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449628/?captions=dut&format=jpeg&nocache=1764630461078" alt="Kanaalinstellingen met instructies"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -213,7 +213,7 @@ Vorm uw **mobiele kanalen** gebruikend de geleide functionaliteit van de kanaalo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="Het WhatsApp-kanaal instellen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1764630461113" alt="Het WhatsApp-kanaal instellen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470274/?captions=dut&format=jpeg&nocache=1764630461113" alt="Het WhatsApp-kanaal instellen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -298,7 +298,7 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="MMS API-referenties en kanaaloppervlakken configureren" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1764630461882" alt="MMS API-referenties en kanaaloppervlakken configureren"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438052/?captions=dut&format=jpeg&nocache=1764630461882" alt="MMS API-referenties en kanaaloppervlakken configureren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -321,7 +321,7 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="RCS instellen in Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1764630461859" alt="RCS instellen in Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464761/?captions=dut&format=jpeg&nocache=1764630461859" alt="RCS instellen in Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

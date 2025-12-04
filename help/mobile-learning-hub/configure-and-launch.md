@@ -24,7 +24,7 @@ Voor **beheerders** en **mobiele app ontwikkelaars**, toont deze sectie hoe te o
 >
 > Als u nog niet eerder in Journey Optimizer en Experience Platform werkt, dient u zich vertrouwd te maken met de kernbegrippen gegevensbeheer in Journey Optimizer door deze cursus te volgen:
 >
-> [ Gegevens van de ingenieur voor Intelligente Activering van de Reis in Adobe Journey Optimizer ](https://experienceleague.adobe.com/en/courses/ajo-engineer-data-for-intelligent-journey-activation){target="_blank"}
+> [&#x200B; Gegevens van de ingenieur voor Intelligente Activering van de Reis in Adobe Journey Optimizer &#x200B;](https://experienceleague.adobe.com/en/courses/ajo-engineer-data-for-intelligent-journey-activation){target="_blank"}
 >
 >*Leer hoe te opstelling en de gegevens van het klantenprofiel in real time voor Journey Optimizer te beheren gebruikend Experience Platform. Begrijp gegevensmodellering, identiteitstoewijzing, en gegevensopname om verenigde profielen voor gepersonaliseerde klantenreizen tot stand te brengen.*
 
@@ -63,7 +63,7 @@ Zonder de Mobile SDK-integratie in uw app kan Journey Optimizer niet betrouwbaar
 - Inhoudskaarten renderen en bijhouden.
 - Gebruik real-time gedrag in de app om reizen te starten en ervaringen te personaliseren.
 
-**[-> klik hier voor de huidige versies van SDK ](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}**
+**[-> klik hier voor de huidige versies van SDK &#x200B;](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}**
 
 ### Vereiste mobiele SDK-componenten voor Journey Optimizer
 
@@ -109,11 +109,11 @@ De eigenschapbesturingselementen:
 Een eigenschap is een container die u vult met extensies, regels, gegevenselementen en bibliotheken. Om deze middelen te gebruiken, moet u een mobiel bezit in de Inzameling UI van Gegevens creëren en vormen. Doorgaans maakt u een eigenschap voor mobiele apparaten voor elke mobiele toepassing die u wilt beheren.
 
 
-U kunt [ tot stand brengen en dit mobiele bezit vormen manueel ](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property){target="_blank"}, of voor Mobiele In-App en Duw u de [ Geleide Opstelling van het Kanaal ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"} kunt gebruiken om het vereiste markeringsbezit, datastream, en kanaalconfiguratie voor iOS en Android auto-tot stand te brengen.
+U kunt [&#x200B; tot stand brengen en dit mobiele bezit vormen manueel &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property){target="_blank"}, of voor Mobiele In-App en Duw u de [&#x200B; Geleide Opstelling van het Kanaal &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"} kunt gebruiken om het vereiste markeringsbezit, datastream, en kanaalconfiguratie voor iOS en Android auto-tot stand te brengen.
 
 >[!TIP]
 >  
-> Voor nieuwe Mobiele in-app en Push implementaties, **[Geleide Opstelling van het Kanaal ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"}** is het geadviseerde uitgangspunt. Het vermindert het risico van verkeerd gevormde gegevensstromen of ontbrekende uitbreidingen en loopt u door de bevestiging van SDK met Assurance.
+> Voor nieuwe Mobiele in-app en Push implementaties, **[Geleide Opstelling van het Kanaal &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"}** is het geadviseerde uitgangspunt. Het vermindert het risico van verkeerd gevormde gegevensstromen of ontbrekende uitbreidingen en loopt u door de bevestiging van SDK met Assurance.
 
 
 <!-- CARDS
@@ -223,7 +223,7 @@ U kunt [ tot stand brengen en dit mobiele bezit vormen manueel ](https://experie
 
 #### Productdocumentatie
 
-| ![ Geleide documentatie van de kanaalopstelling van het kanaal van 0} Geleide {](./assets/configuration.svg){width="50"}[****](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} |
+| ![&#x200B; Geleide documentatie van de kanaalopstelling van het kanaal van 0&rbrace; Geleide &lbrace;](./assets/configuration.svg){width="50"}[**&#128279;**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!SUCCESS]
@@ -511,11 +511,11 @@ De meeste mobiele kwesties komen uit **SDK of configuratie van de gegevensinzame
 
 | Aantal | Probleem/symptoom | Veelvoorkomende fout | In één oogopslag corrigeren |
 |---|----------------------------------------------|-----------------------------------------------------|------------------------------------------|
-| 1 | De Begeleide Opstelling van het Kanaal ontbreekt; geen of laag verkeer | [ niet uitgelijnde versies of uitbreidingen van SDK ](#1-sdk-versions-and-extensions-not-aligned-with-channel-requirements) | SDK/extensie-versies bijwerken; valideren in Assurance |
-| 2 | Batch bijhouden mislukt; fouten in AEP | [ Gegevensstromen of datasets misconfigured ](#2-misconfigured-datastreams-or-datasets) | Gebeurtenissen toewijzen aan gegevensset en profielen voor gebeurtenissen aan profielgegevensset |
-| 3 | Reizen branden niet; oneven personalisatie | [ Ontbrekende of inconsistente Identiteit of toestemming ](#3-missing-or-inconsistent-identity-and-consent) | Edge-identiteit en -toestemming implementeren; verifiëren in Assurance |
-| 4 | Geen push-levering of wordt geopend in rapporten | [ de symbolische registratie of het volgen gebroken ](#4-push-token-registration-and-tracking-not-wired-correctly) | Symboolregistratie en -interactietracering corrigeren via SDK |
-| 5 | Geen impressies in de app ondanks actieve campagnes | [ In-app berichten of inhoudskaarten die ](#5-in-app-messages-or-content-cards-not-displaying) niet tonen | Berichtextensies, triggers en Assurance-beslissingsreacties controleren |
+| 1 | De Begeleide Opstelling van het Kanaal ontbreekt; geen of laag verkeer | [&#x200B; niet uitgelijnde versies of uitbreidingen van SDK &#x200B;](#1-sdk-versions-and-extensions-not-aligned-with-channel-requirements) | SDK/extensie-versies bijwerken; valideren in Assurance |
+| 2 | Batch bijhouden mislukt; fouten in AEP | [&#x200B; Gegevensstromen of datasets misconfigured &#x200B;](#2-misconfigured-datastreams-or-datasets) | Gebeurtenissen toewijzen aan gegevensset en profielen voor gebeurtenissen aan profielgegevensset |
+| 3 | Reizen branden niet; oneven personalisatie | [&#x200B; Ontbrekende of inconsistente Identiteit of toestemming &#x200B;](#3-missing-or-inconsistent-identity-and-consent) | Edge-identiteit en -toestemming implementeren; verifiëren in Assurance |
+| 4 | Geen push-levering of wordt geopend in rapporten | [&#x200B; de symbolische registratie of het volgen gebroken &#x200B;](#4-push-token-registration-and-tracking-not-wired-correctly) | Symboolregistratie en -interactietracering corrigeren via SDK |
+| 5 | Geen impressies in de app ondanks actieve campagnes | [&#x200B; In-app berichten of inhoudskaarten die &#x200B;](#5-in-app-messages-or-content-cards-not-displaying) niet tonen | Berichtextensies, triggers en Assurance-beslissingsreacties controleren |
 
 ### Gedetailleerde richtsnoeren per toonhoogte
 
@@ -540,7 +540,7 @@ Open de valhoogte die overeenkomt met uw symptomen om te zien wat u moet control
 - Voer een upgrade uit naar de ondersteunde Mobile SDK- en Journey Optimizer-extensieversies.
 - Maak de app opnieuw, maak opnieuw verbinding met Assurance en voer de instelling van het geleide kanaal opnieuw uit.
 
-Zie: [ Opstelling mobiel en Web ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"}
+Zie: [&#x200B; Opstelling mobiel en Web &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"}
 
 +++
 
@@ -564,7 +564,7 @@ Zie: [ Opstelling mobiel en Web ](https://experienceleague.adobe.com/en/docs/jou
 - Corrigeer de gegevenstoewijzing (events → gebeurtenisdataset, profielen → profieldataset).
 - Voorkeur voor de instelling met instructies voor Kanaal of de gedocumenteerde gegevensstroomstappen in plaats van ad-hocwijzigingen.
 
-Zie: [ de stroom van het Bericht van de duw in Adobe Journey Optimizer ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
+Zie: [&#x200B; de stroom van het Bericht van de duw in Adobe Journey Optimizer &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
 
 +++
 
@@ -589,7 +589,7 @@ Zie: [ de stroom van het Bericht van de duw in Adobe Journey Optimizer ](https:/
 - Voer **Toestemming voor Edge Network** uit en verbind het met de toestemmings UI van uw app.
 - Herstel in Assurance totdat de identiteit en toestemming voor alle relevante gebeurtenissen worden weergegeven.
 
-Zie: [ voer toestemming voor de implementaties van SDK van het Platform Mobiele uit ](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"}
+Zie: [&#x200B; voer toestemming voor de implementaties van SDK van het Platform Mobiele uit &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"}
 
 +++
 
@@ -614,7 +614,7 @@ Zie: [ voer toestemming voor de implementaties van SDK van het Platform Mobiele 
    - Verzendt pushinteractiegebeurtenissen (open, negeren, aangepaste handelingen) via de Mobile SDK.
 - Gebruik Assurance om te bevestigen dat registratie- en volggebeurtenissen plaatsvinden zoals u had verwacht.
 
-Zie: [ de stroom van het Bericht van de duw in Adobe Journey Optimizer ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
+Zie: [&#x200B; de stroom van het Bericht van de duw in Adobe Journey Optimizer &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
 
 +++
 
@@ -643,8 +643,8 @@ Zie: [ de stroom van het Bericht van de duw in Adobe Journey Optimizer ](https:/
    - Interacties via de SDK bijhouden.
 
 Zie:
-- [ creeer en verzend in-app berichten ](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}
-- [ vorm de steun van inhoudskaarten in Mobiele SDK ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp){target="_blank"}
+- [&#x200B; creeer en verzend in-app berichten &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}
+- [&#x200B; vorm de steun van inhoudskaarten in Mobiele SDK &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp){target="_blank"}
 
 +++
 
@@ -653,7 +653,7 @@ Zie:
 >
 > **Één-lijn checklist van de gereedheid**
 >
-> Alvorens app aan marketers te verstrekken, bevestig in **[Assurance ](https://developer.adobe.com/client-sdks/home/base/assurance/){target="_blank"}** dat:
+> Alvorens app aan marketers te verstrekken, bevestig in **[Assurance &#x200B;](https://developer.adobe.com/client-sdks/home/base/assurance/){target="_blank"}** dat:
 > 
 > [ ] Core SDK + Journey Optimizer-extensies zijn geladen,\
 > [ ] De gebeurtenissen stromen op de correcte gegevensstroom en datasets,\
@@ -663,5 +663,5 @@ Zie:
 
 ## Blogberichten
 
-- [ Gebruikend op CDN gebaseerde cliënt zijverpersoonlijking (ODD) op mobiel voor snellere verpersoonlijkingen.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626){target="_blank"}
-- [ Mobile Activation voor Adobe Experience Cloud ](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595){target="_blank"}
+- [&#x200B; Gebruikend op CDN gebaseerde cliënt zijverpersoonlijking (ODD) op mobiel voor snellere verpersoonlijkingen.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626){target="_blank"}
+- [&#x200B; Mobile Activation voor Adobe Experience Cloud &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595){target="_blank"}

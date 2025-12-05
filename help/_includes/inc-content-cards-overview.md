@@ -7,7 +7,7 @@ ht-degree: 2%
 ---
 # Inhoudskaarten - Overzicht
 
->[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3460090/?captions=dut&learn=on&enablevpops){transcript=true}
 
 ## Wat is het?
 

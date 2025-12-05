@@ -1,20 +1,19 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '296'
 ht-degree: 2%
 
 ---
 # Inhoudskaarten - Overzicht
 
->[!VIDEO](https://video.tv.adobe.com/v/3460090/?learn=on&enablevpops&captions=dut){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
 
 ## Wat is het?
 
-**de Kaarten van de Inhoud** zijn blijvende, in-app berichten die binnen een specifieke inbox of een voer binnen uw app leven. In tegenstelling tot pushberichten onderbreken ze de gebruiker niet en kunnen ze op het gemak van de gebruiker worden weergegeven.\
-Zij zijn ideaal voor het leveren van **niet-dringend**, **informatief**, of **promotionele inhoud** die van zicht in tijd profiteert.
+**de Kaarten van de Inhoud** zijn blijvende, in-app berichten die binnen een specifieke inbox of voer binnen uw app worden getoond. In tegenstelling tot pushberichten onderbreken ze de gebruiker niet en kunnen ze worden weergegeven wanneer de gebruiker dit kiest.
 
-U kunt Content Cards beschouwen als een &#39;message center&#39; of gepersonaliseerde nieuwsfeed in de app.
+Zij zijn ideaal voor **niet-urgente**, **informatief**, of **promotionele inhoud** die van langere zicht en herhaalde blootstelling profiteert. U kunt Content Cards beschouwen als een &#39;message center&#39; of een persoonlijke inhoudsfeed in de app waarin gebruikers door updates in hun eigen tempo kunnen bladeren.&quot;
 
 ### Voorbeelden:
 

@@ -1,7 +1,7 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -9,16 +9,16 @@ ht-degree: 0%
 
 ## Wat zijn in-app berichten?
 
-In-app berichten zijn berichten die in een app worden weergegeven terwijl de gebruiker deze actief gebruikt. Het zijn overlayberichten die boven op uw app staan. Ze verschijnen niet op het vergrendelingsscherm of buiten de app. Ze verschijnen in plaats daarvan als banners, pop-ups of kleine kaarten terwijl de gebruiker de app onderzoekt.
+In-app berichten worden in uw mobiele app weergegeven terwijl een gebruiker actief is ingeschakeld. Deze overlayberichten worden als banners, pop-ups of kaarten direct boven op de toepassingsinterface weergegeven. Ze worden niet weergegeven op het vergrendelingsscherm of buiten de toepassingsomgeving.
 
-Berichten in de app worden geactiveerd door specifieke handelingen of voorwaarden van de gebruiker, zoals het weergeven van een bepaalde pagina, het voltooien van een aankoop of het maken van deel uit van een doelpubliekssegment.
+Berichten in de app worden geactiveerd door specifieke handelingen of voorwaarden van de gebruiker, zoals het weergeven van een bepaald scherm, het voltooien van een aankoop of het in aanmerking komen voor een doelpubliekssegment.
 
 
-Bijvoorbeeld:
+Voorbeelden zijn:
 
-* Een game kan een pop-up weergeven waarin een nieuwe functie wordt uitgelegd op het moment dat de gebruiker de functie ontgrendelt.
-* In een app voor winkelen wordt mogelijk een banner met een couponcode weergegeven terwijl de gebruiker door items bladert.
-* In een app voor sociale media wordt mogelijk een bericht weergegeven waarin de gebruiker wordt gesuggereerd nieuwe accounts te volgen.
+* Een game die een pop-up laat zien waarin een nieuwe functie wordt geïntroduceerd zodra de gebruiker deze ontgrendelt.
+* Een app voor winkelen waarin een banner met een couponcode wordt weergegeven terwijl de gebruiker door producten bladert.
+* Een sociale app die nieuwe accounts voorstelt die moeten worden opgevolgd op basis van de huidige activiteit
 
 ## Gebruiksscenario’s
 

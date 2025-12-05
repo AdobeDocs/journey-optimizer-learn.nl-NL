@@ -1,7 +1,7 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '301'
 ht-degree: 2%
 
 ---
@@ -9,8 +9,9 @@ ht-degree: 2%
 
 ## Wat is het?
 
-**op code-gebaseerde ervaringen** verwijzen naar gepersonaliseerde, dynamische inhoud of overseinen die gebruikend douanecode (JavaScript, APIs, of het malplaatjetaal) binnen platforms zoals Adobe Journey Optimizer worden gebouwd.\
-Dit staat u toe om hoogst toegesneden, gegeven-gedreven klantenreizen en overseinen tot stand te brengen voorbij standaard belemmering-en-dalingshulpmiddelen.
+Met op code gebaseerde ervaringen kunt u gepersonaliseerde, dynamische inhoud en berichten leveren met behulp van aangepaste code, zoals JavaScript, API&#39;s of sjabloontalen, in Adobe Journey Optimizer.
+
+Dit kanaal is ideaal voor het bouwen van op maat gemaakte, gegevensgestuurde interacties die verder gaan dan standaard visuele ontwerpgereedschappen (WYSIWYG-editors), waardoor ontwikkelaars en optimalisatiebeheerders de flexibiliteit hebben om aangepaste logica voor personalisatie en inhouds-indelingen te ontwerpen.
 
 Voorbeelden:
 

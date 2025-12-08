@@ -24,7 +24,7 @@ Met de instelling van het geleide kanaal kunt u snel web- en mobiele kanalen ins
 
 Leer hoe u een pushkanaalmelding instelt en valideert voor een voorbeeld van een iOS Mobile Marketing-app.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449628/?captions=dut&learn=on)
 
 Raadpleeg de productdocumentatie voor meer informatie:
 

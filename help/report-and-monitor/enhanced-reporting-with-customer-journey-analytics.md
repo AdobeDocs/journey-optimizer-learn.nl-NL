@@ -22,4 +22,4 @@ Leer stap voor stap hoe u door de verbeterde rapportagetools van Adobe Journey O
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
 
-Voor gedetailleerde documentatie, zie [ analyseren in Customer Journey Analytics ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}.
+Voor gedetailleerde documentatie, zie [&#x200B; analyseren in Customer Journey Analytics &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}.

@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer stap voor stap hoe u door de verbeterde rapportagetools van Adobe Journey Optimizer kunt navigeren, van uniforme meetwaarden en reisvisualisatie tot aangepaste inzichten en geavanceerde analyse
 
->[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443157/?captions=dut&learn=on)
 
 Voor gedetailleerde documentatie, zie [&#x200B; analyseren in Customer Journey Analytics &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}.

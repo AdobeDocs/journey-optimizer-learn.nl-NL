@@ -70,7 +70,7 @@ Voor nieuwe mobiele in-app en push-implementaties is de instelling van kanalen m
 > - Als u de bestaande configuratieoptie gebruikt, gelieve ervoor te zorgen dat u de [&#x200B; huidige versies van Adobe Experience Platform Mobile SDK &#x200B;](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"} gebruikt
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449628/?captions=dut&learn=on)
 
 Voor meer informatie zie [&#x200B; begonnen worden met geleide kanaalopstelling &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=nl-NL){target="_blank"}
 
@@ -290,7 +290,7 @@ Begrijp hoe te om het **WhatsApp kanaal** te vormen:
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="Het WhatsApp-kanaal instellen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1765241811878" alt="Het WhatsApp-kanaal instellen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470274/?captions=dut&format=jpeg&nocache=1765241811878" alt="Het WhatsApp-kanaal instellen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -379,7 +379,7 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="MMS API-referenties en kanaaloppervlakken configureren" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1765241812943" alt="MMS API-referenties en kanaaloppervlakken configureren"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438052/?captions=dut&format=jpeg&nocache=1765241812943" alt="MMS API-referenties en kanaaloppervlakken configureren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -402,7 +402,7 @@ Vorm **SMS/MMS/RCS kanalen** met de standaardleveranciers (Twilio, Synch of Info
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="RCS instellen in Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1765241812927" alt="RCS instellen in Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464761/?captions=dut&format=jpeg&nocache=1765241812927" alt="RCS instellen in Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

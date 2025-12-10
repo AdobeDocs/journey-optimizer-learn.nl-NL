@@ -16,5 +16,5 @@ ht-degree: 0%
 
 # Loyalty Garage Week {#loyalty-garage-week}
 
-+ [ Loyalty Garage Week ](/help/loyalty-garage-week/overview.md)
-+ [ AI-Gedreven Orchestratie van de Loyalty ](/help/loyalty-garage-week/ai-driven-loyalty-orchestration.md)
++ [&#x200B; Loyalty Garage Week &#x200B;](/help/loyalty-garage-week/overview.md)
++ [&#x200B; AI-Gedreven Orchestratie van de Loyalty &#x200B;](/help/loyalty-garage-week/ai-driven-loyalty-orchestration.md)

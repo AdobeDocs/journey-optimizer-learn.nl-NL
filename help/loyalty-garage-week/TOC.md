@@ -6,9 +6,9 @@ level: Beginner,Intermediate
 breadcrumb-title: Loyalty Garage Week
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty-garage-week/overview
 auto-video-transcripts: true
-source-git-commit: 9f321d550a5b59b39063b11bea594ecd18cf499e
+source-git-commit: 066f1d44a778ee4075bdbf31b8fc5f4ebd162e65
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '30'
 ht-degree: 0%
 
 ---
@@ -16,5 +16,6 @@ ht-degree: 0%
 
 # Loyalty Garage Week {#loyalty-garage-week}
 
-+ [&#x200B; Loyalty Garage Week &#x200B;](/help/loyalty-garage-week/overview.md)
-+ [&#x200B; AI-Gedreven Orchestratie van de Loyalty &#x200B;](/help/loyalty-garage-week/ai-driven-loyalty-orchestration.md)
++ [Loyalty Garage Week](/help/loyalty-garage-week/overview.md)
++ [Door AI aangedreven Loyalty Orchestratie](/help/loyalty-garage-week/ai-driven-loyalty-orchestration.md)
++ [Uitdagingsgebaseerde Loyalty](/help/loyalty-garage-week/challenge-based-loyalty.md)

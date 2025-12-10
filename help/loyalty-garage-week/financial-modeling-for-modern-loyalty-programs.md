@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: daf558af80981d8442108cb97532020087a3c275
+source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
 workflow-type: tm+mt
 source-wordcount: '1979'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # Financiële modellering voor moderne kwaliteitsprogramma&#39;s
 
-Een alomvattend, CFO-Ready Framework voor prognose van aansprakelijkheid, beloningseconomie en incrementele waarde.
+## Een alomvattend, CFO-Ready Framework voor prognose van aansprakelijkheid, beloningseconomie en incrementele waarde.
 
-## Samenvatting
+### Samenvatting
 
 De moderne loyaliteitsprogramma&#39;s werken op het snijpunt van marketing, financiën, en gegevenswetenschap. Aangezien deze programma&#39;s zich voorbij eenvoudige punten en kortingen ontwikkelen, lijken zij meer en meer op complexe financiële producten-compleet met veranderlijke verplichtingen, fluctuerende winst/brandpercentages, inflatieblootstelling, partnereconomie, en multi-layered ROI berekeningen. Toch hebben veel loyaliteitsteams er moeite mee om met leidinggevenden en CFO&#39;s te spreken in de financiële taal die nodig is om investeringen te waarborgen of waarde te laten zien. Het resultaat is een loskoppeling: marketing ziet loyaliteit als een klantenstrategie; financiën ziet het als een kostenplaats.
 

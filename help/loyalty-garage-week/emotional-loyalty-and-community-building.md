@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
+source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
 workflow-type: tm+mt
 source-wordcount: '2156'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # Emotionele Loyalty&#39;s en gemeenschapsgebouwen
 
-Hoe merken identiteiten, het Gelongen, en de Advocatie door op ervaring-gebaseerde Loyalty creëren
+## Hoe merken identiteiten, het Gelongen, en de Advocatie door op ervaring-gebaseerde Loyalty creëren
 
-## Samenvatting
+### Samenvatting
 
 Emotionele loyaliteit-de graad waartot de klanten zich verbonden voelen met de identiteit van een merk, waarden, en gemeenschap-wordt de primaire concurrerende differentiator in moderne loyaliteitsstrategie. Traditionele loyaliteitsprogramma&#39;s voor transacties, gebaseerd op punten, kortingen en elementaire loon-/brandmechanismen, blijven belangrijk, maar creëren geen zinvolle differentiatie in verzadigde markten meer. Naarmate de prijstransparantie toeneemt, de wrijving afneemt en de consument meer macht krijgt, kunnen transactionele programma&#39;s alleen niet langer trouw of pleitbezorging ondersteunen. In plaats daarvan, zijn de merken die bovenmaatse loyaliteitsprestaties bereiken die **gemeenschappen** creëren, niet programma-merken die klanten helpen identiteit uitdrukken, aspirationele doelstellingen nastreven, met andere leden in wisselwerking staan, en aan gedeelde rituelen deelnemen die emotionele gehechtheid creëren.
 

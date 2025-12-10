@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 1cdf8be6fc76e3e67f0180fad6a0979ab2e6b07b
+source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
@@ -38,8 +38,6 @@ Het derde mislukkingspunt is **op batch-gebaseerde gegevenssynchronisatie**. Vee
 Het vierde mislukkingspunt is **loyaliteitservaringen die niet over alle klantentouchpoints** worden ingebed. In veel programma&#39;s wordt alleen loyaliteit weergegeven in de app of in e-mailcommunicatie. Maar klanten doen zich overal voor. De waarde van Loyalty moet op de homepage, de pagina&#39;s van het productdetail, karretje, dupberichten, de draden van SMS, digitale ontvangstbewijzen, de interfaces van het vraagcentrum, en fysieke archiefsignaal zichtbaar zijn. Wanneer de loyaliteit onzichtbaar of onconsequent wordt opgedoken, ervaren de klanten minder waarde en nemen minder vaak in dienst.
 
 De combinatie van deze mislukkingen leidt tot wat **loyaliteitsdissonantie** kan worden genoemd - het psychologische hiaat tussen wat de klant verwacht en wat het merk levert. De loyaliteit van Omnichannel lost dit op door identiteit, gegevens, besluit, reisorchestratie, en gebruikerservaring rond één enkel ononderbroken verhaal te richten.
-
-&#x200B;---
 
 ## &#x200B;2. Wat houdt Omnichannel Loyalty werkelijk in?
 
@@ -75,7 +73,7 @@ Overweeg a **welkomstreis**. In een omnichannel systeem ontvangt een klant die v
 
 A **real time verdient-to-reDEem reis** moet het profiel van het lid onmiddellijk na aankoop bijwerken, op bijgewerkte punten in dupberichten wijzen, de nieuwe beloning in de app homepage tonen, de beloning op het digitale ontvangstbewijs omvatten, en de module van de websitebeloningen op de volgende paginalading bijwerken. Een vertraagde of inconsistente update verbreekt vertrouwen.
 
-A **gebruikt het terugwinningstraject van 0&rbrace; kantelen het voorspelbare scoring om risico te identificeren, dan activeert het meest aangewezen kanaal dat op toestemmingen en kanaalvoorkeur wordt gebaseerd.** Als de klant de voorkeur geeft aan push, stuurt het systeem een gepersonaliseerde verschuiving. Als de push-methode mislukt, wordt deze doorgestuurd naar e-mail of SMS. Als de klant de app opent, wordt op de startpagina dynamisch een module &#39;We missen u&#39; weergegeven. Als de gebruiker op betaalde media klikt, zien zij loyaliteits-specifieke herinstatementoverseinen.
+A **gebruikt het terugwinningstraject van 0} kantelen het voorspelbare scoring om risico te identificeren, dan activeert het meest aangewezen kanaal dat op toestemmingen en kanaalvoorkeur wordt gebaseerd.** Als de klant de voorkeur geeft aan push, stuurt het systeem een gepersonaliseerde verschuiving. Als de push-methode mislukt, wordt deze doorgestuurd naar e-mail of SMS. Als de klant de app opent, wordt op de startpagina dynamisch een module &#39;We missen u&#39; weergegeven. Als de gebruiker op betaalde media klikt, zien zij loyaliteits-specifieke herinstatementoverseinen.
 
 A **de reis van de de niveauverbetering** moet viering over oppervlakten teweegbrengen: een app animatie, een e-mail die nieuwe voordelen, een gepersonaliseerde Webbanner, een bijgewerkte digitale portefeuillepas, en een vlag verklaren van POS die personeel opslaat om de verbetering te erkennen. De verbeteringen van de rang zijn emotionele momenten, en de omnikanaalcontinuïteit versterkt de psychologische gevolgen.
 

@@ -19,7 +19,7 @@ ht-degree: 11%
 
 Journey Optimizer stelt bedrijven in staat samenhangende, contextuele en persoonlijke klantervaringen te maken. Het leidt klanten naadloos door hun volledige reis met het merk, van het eerste contactpunt tot het ogenblik dat zij de plaats verlaten, die een verbonden en bevredigende ervaring op elk aanraakpunt verzekeren.
 
-Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en mogelijkheden van Adobe Journey Optimizer. Praktijk wat u door de [ Uitdagingen van Journey Optimizer ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites) te nemen hebt geleerd.
+Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en mogelijkheden van Adobe Journey Optimizer. Praktijk wat u door de [&#x200B; Uitdagingen van Journey Optimizer &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites) te nemen hebt geleerd.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

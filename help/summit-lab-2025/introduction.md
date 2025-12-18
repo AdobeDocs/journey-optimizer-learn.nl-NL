@@ -24,4 +24,4 @@ In de loop van zes lessen, leert u hoe te om bedrijfsmededelingen van eenvoudig 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457828/?learn=on&enablevpops)
 
-Download het werkboek [ hier ](/help/summit-lab-2025/assets/summit-lab-manual-l535-final-v4.pdf).
+Download het werkboek [&#x200B; hier &#x200B;](/help/summit-lab-2025/assets/summit-lab-manual-l535-final-v4.pdf).

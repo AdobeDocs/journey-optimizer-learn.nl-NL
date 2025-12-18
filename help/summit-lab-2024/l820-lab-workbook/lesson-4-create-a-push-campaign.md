@@ -33,11 +33,11 @@ In deze exercitie, zult u uw markeringspost op zetten en een marketing campagne 
 
 In deze oefening, creeert u de pushcampagne, ontwerp, en past de dupmelding aan, en verzendt het dupbericht naar uw eigen apparaat.
 
-1. In Journey Optimizer, in de linkernavigatie, in de **[!UICONTROL sectie van het BEHEER van de 1} JOURNEY, uitgezochte]** Campagnes **.**
+1. In Journey Optimizer, in de linkernavigatie, in de **[!UICONTROL sectie van het BEHEER van de 1&rbrace; JOURNEY, uitgezochte]** Campagnes **.**
 
 1. Klik **[!UICONTROL creeer Campagne]**.
 
-   ![ creeer Campagne ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
+   ![&#x200B; creeer Campagne &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
 
 1. Op **[!UICONTROL creeer de pagina van de Campagne]**, in de **[!UICONTROL sectie van de Actie]**, selecteer het **[!UICONTROL Push bericht]** controlevakje.
 
@@ -45,18 +45,18 @@ In deze oefening, creeert u de pushcampagne, ontwerp, en past de dupmelding aan,
 
 1. Klik **[!UICONTROL creeer]** om een drukkampagne tot stand te brengen.
 
-   ![ oppervlakte van de Toepassing ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-app-surface.png)
+   ![&#x200B; oppervlakte van de Toepassing &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-app-surface.png)
 
 >[!SUCCESS]
 >
 >U moet nu op de pagina Campagneeigenschappen staan:
-> ![Campagneeigenschappen ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
+> ![Campagneeigenschappen &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
 ## Oefening 4.2 - Uw campagne configureren
 
 Op deze pagina, vormt u de eigenschappen, het publiek, de acties, en het programma van uw campagne.
 
-### 4.2.1 [!UICONTROL  sectie van Eigenschappen ]
+### 4.2.1 [!UICONTROL &#x200B; sectie van Eigenschappen &#x200B;]
 
 Geef uw campagne een naam. Zorg ervoor dat u de naam met het nummer van uw licentie start, zodat u de campagne eenvoudig kunt vinden wanneer u ernaar zoekt.
 
@@ -66,7 +66,7 @@ Als uw nummer van de licentie bijvoorbeeld 99 is: `99 - 10% Discount Campaign` .
 
 1. In de publiekssectie, klik **[!UICONTROL Uitgezochte publiek]**.
 
-   ![ publiekssectie ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
+   ![&#x200B; publiekssectie &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
 
 1. Op het **[!UICONTROL Uitgezochte publiek]** scherm, onderzoek naar het publiek:
 
@@ -74,15 +74,15 @@ Als uw nummer van de licentie bijvoorbeeld 99 is: `99 - 10% Discount Campaign` .
 
 1. Selecteer het publiek, dan klik **[!UICONTROL sparen]**.
 
-   ![ publieksselectie ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
+   ![&#x200B; publieksselectie &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
 
 ### 4.2.3 De inhoud van de pushmelding bewerken
 
 In deze oefening, ontwerpt u en past u de pushmelding aan.
 
-1. In de **[!UICONTROL sectie van de Actie]**, klik **[!UICONTROL uitgeven Inhoud ] knoop**.
+1. In de **[!UICONTROL sectie van de Actie]**, klik **[!UICONTROL uitgeven Inhoud &#x200B;] knoop**.
 
-   ![ geef inhoudknoop ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-action-edit-content-button.png) uit
+   ![&#x200B; geef inhoudknoop &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-action-edit-content-button.png) uit
 
 1. Op het volgende scherm selecteert u, afhankelijk van het mobiele apparaat dat u hebt, het tabblad [!DNL iOS™] of [!DNL Android™] om de inhoud te configureren.
 
@@ -90,22 +90,22 @@ In deze oefening, ontwerpt u en past u de pushmelding aan.
 
 >[!TAB  iOS ]
 
-![ iOS tabel ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-ios-tab.png)
+![&#x200B; iOS tabel &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-ios-tab.png)
 
 >[!TAB  Android ]
 
-![ Android tabel ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-android-tab.png)
+![&#x200B; Android tabel &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-android-tab.png)
 
 >[!ENDTABS]
 
-#### 4.2.3.1 [!UICONTROL  stel de sectie van het Bericht ] samen
+#### 4.2.3.1 [!UICONTROL &#x200B; stel de sectie van het Bericht &#x200B;] samen
 
 1. **stel uw bericht samen:** voel vrij om het even welke tekst toe te voegen u zou willen. Hier volgen enkele voorbeelden die u kunt gebruiken:
 
    * Titel: `Get 10% off today!`
    * Platte tekst: `Today only! Get 10% off on your House Blend coffee purchase!`
 
-     ![ stel bericht ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-compose-message.png) samen
+     ![&#x200B; stel bericht &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-compose-message.png) samen
 
 #### 4.2.3.2 Verandering op klikgedrag van het bericht om **een productpagina** te openen
 
@@ -115,21 +115,21 @@ In deze oefening, ontwerpt u en past u de pushmelding aan.
 
    `dxdemo://exoticVibes`
 
-   ![ diepe verbinding ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-deeplink.png)
+   ![&#x200B; diepe verbinding &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-deeplink.png)
 
 #### 4.2.3.3 Een afbeelding toevoegen aan het bericht
 
 1. In **[!UICONTROL voeg media]** sectie toe, klik **[!UICONTROL media]** toevoegen.
 
-   ![ voeg media knopen ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png) toe
+   ![&#x200B; voeg media knopen &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png) toe
 
 1. Op het **[!UICONTROL Uitgezochte scherm van Assets]**, in de linkernavigatie, open de **omslag Fréscopa** en selecteer een beeld van die omslag.
 
    Bijvoorbeeld: `HouseBlend.png`
 
-1. Klik het beeld en klik **[!UICONTROL Uitgezochte ] knoop** om het beeld aan uw duw bericht toe te voegen.
+1. Klik het beeld en klik **[!UICONTROL Uitgezochte &#x200B;] knoop** om het beeld aan uw duw bericht toe te voegen.
 
-   ![ uitgezochte beeld ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-select-image.png)
+   ![&#x200B; uitgezochte beeld &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-select-image.png)
 
    >[!SUCCESS]
    >
@@ -137,7 +137,7 @@ In deze oefening, ontwerpt u en past u de pushmelding aan.
    > 1. Geef een voorvertoning van uw bericht weer.
    > <br>
    >
-   > ![ breid mening ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png) uit
+   > ![&#x200B; breid mening &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png) uit
 
 ### Bonus Exercise
 
@@ -149,25 +149,25 @@ Als u dit gedeelte van de oefening hebt voltooid en nog tijd hebt, probeert u de
 
 1. Klik **verpersoonlijkingsdialoog** naast het **[!UICONTROL gebied van het Lichaam]**.
 
-   ![ verpersoonlijkingsknoop ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-button.png)
+   ![&#x200B; verpersoonlijkingsknoop &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-button.png)
 
 1. Voor het **verpersoonlijkingsdialoog** scherm, plaats de curseur waar u de voornaam in de tekst wilt toevoegen.
 
 1. Zorg ervoor dat de **attributen van het Profiel** in de linkernavigatie worden geselecteerd.
 
-   ![ attribuut van het Profiel ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
+   ![&#x200B; attribuut van het Profiel &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
 
 1. Op het **gebied van het Onderzoek**, onderzoek naar: `first name`.
 
 1. Klik **+** naast **Voornaam (de attributen van het Profiel>Persoon>Volledige naam)** om het verpersoonlijkingsgebied aan uw tekst toe te voegen.
 
-   ![ Onderzoek naar voornaam ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
+   ![&#x200B; Onderzoek naar voornaam &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
 
    >[!SUCCESS]
    >
    > Zo ziet uw tekst eruit:
    > 
-   >![ het teken van Personalization ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-token.png)
+   >![&#x200B; het teken van Personalization &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-token.png)
 
 1. Klik **[!UICONTROL sparen]** om de verpersoonlijking te bewaren.
 
@@ -177,7 +177,7 @@ Als u dit gedeelte van de oefening hebt voltooid en nog tijd hebt, probeert u de
    > 1. Voor het voorproefscherm, klik **[!UICONTROL uitbreiden Mening]**.
    > 1. Geef een voorvertoning van uw bericht weer.
    > 
-   > ![ breid mening ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png) uit
+   > ![&#x200B; breid mening &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png) uit
 
 +++
 
@@ -187,21 +187,21 @@ Als je tevreden bent met de inhoud van je bericht, kun je het bericht activeren:
 
 1. Klik **[!UICONTROL Overzicht om]** te activeren.
 
-   ![ overzicht en activeer knoop ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
+   ![&#x200B; overzicht en activeer knoop &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
 
 1. Op het **[!UICONTROL Overzicht om]** scherm te activeren, klik **[!UICONTROL activeert]**.
 
-   ![ overzicht om het scherm ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-to-activate.png) te activeren
+   ![&#x200B; overzicht om het scherm &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-to-activate.png) te activeren
 
 >[!SUCCESS]
 > Voor de **pagina van het overzicht van Campagnes**, vind uw campagne en controleer de status.
 >
-> ![ campagnestatus ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
+> ![&#x200B; campagnestatus &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
 > 
 > De status verandert van verwerking naar live, naar voltooid - dit kan een paar minuten duren.
 > Nadat de status is gewijzigd in voltooid:
 >
-> ![ duw resultaten ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
+> ![&#x200B; duw resultaten &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
 ## Aanvullende bronnen
 
@@ -211,7 +211,7 @@ Als je tevreden bent met de inhoud van je bericht, kun je het bericht activeren:
 
 **documentatie van het Product:**
 
-* [ worden begonnen met duw bericht ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
+* [&#x200B; worden begonnen met duw bericht &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
 * [Een pushmelding maken](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
-* [ Ontwerp een duw- bericht ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
-* [ Controle en verzend uw pushbericht ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)
+* [&#x200B; Ontwerp een duw- bericht &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
+* [&#x200B; Controle en verzend uw pushbericht &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)

@@ -22,10 +22,10 @@ Deze pagina bevat tekst en koppelingen die worden gebruikt in het Lab van de L53
 
 ## Koppelingen
 
-* [ SecurFinancial Website ](https://dsn.adobe.com/web/hausmann-FTTN?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsIm5hbWUiOiJBbm9ueW1vdXMiLCJpc1N1cGVyVXNlciI6ZmFsc2UsImlzc3VlciI6ImhhdXNtYW5uIiwicHJvamVjdHMiOnsiaGF1c21hbm4tRlRUTiI6InZpZXcifSwiaWF0IjoxNzQwNzU2NTYxLCJleHAiOjE3NDMzNDg1NjF9.ryOTsqDH9B33436RlIo4AHFxx8aGjNEMqv9FAxLZb9U){target="_blank"}
+* [&#x200B; SecurFinancial Website &#x200B;](https://dsn.adobe.com/web/hausmann-FTTN?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsIm5hbWUiOiJBbm9ueW1vdXMiLCJpc1N1cGVyVXNlciI6ZmFsc2UsImlzc3VlciI6ImhhdXNtYW5uIiwicHJvamVjdHMiOnsiaGF1c21hbm4tRlRUTiI6InZpZXcifSwiaWF0IjoxNzQwNzU2NTYxLCJleHAiOjE3NDMzNDg1NjF9.ryOTsqDH9B33436RlIo4AHFxx8aGjNEMqv9FAxLZb9U){target="_blank"}
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:ajo-summit-lab/journey-optimizer/journeys){target="_blank"}
-* [ L535 Werkboek ](/help/summit-lab-assets/assets/summit_lab_manual_l535-final-v4.pdf){target="_blank"}
-* [ Download app ](https://demo-system-next.s3.amazonaws.com/dxdemo/summit/index.html){target="_blank"}
+* [&#x200B; L535 Werkboek &#x200B;](/help/summit-lab-assets/assets/summit_lab_manual_l535-final-v4.pdf){target="_blank"}
+* [&#x200B; Download app &#x200B;](https://demo-system-next.s3.amazonaws.com/dxdemo/summit/index.html){target="_blank"}
 
 ## Kopiëren en plakken voor oefeningen
 
@@ -121,7 +121,7 @@ dxdemo://atm
 
 ## Afbeeldingen
 
-![ SecureFinancial embleem ](/help/summit-lab-assets/assets/SecureFinancial-logo.png)
+![&#x200B; SecureFinancial embleem &#x200B;](/help/summit-lab-assets/assets/SecureFinancial-logo.png)
 
 
-![ Mobiele Telefoon ](/help/summit-lab-assets/assets/online-banking-app-01.png)
+![&#x200B; Mobiele Telefoon &#x200B;](/help/summit-lab-assets/assets/online-banking-app-01.png)

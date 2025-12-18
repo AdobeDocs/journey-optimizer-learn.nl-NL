@@ -19,13 +19,13 @@ ht-degree: 12%
 
 Journey Optimizer stelt bedrijven in staat samenhangende, contextuele en persoonlijke klantervaringen te maken. Het leidt klanten naadloos door hun volledige reis met het merk, van het eerste contactpunt tot het ogenblik dat zij de plaats verlaten, die een verbonden en bevredigende ervaring op elk aanraakpunt verzekeren.
 
-Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en mogelijkheden van Adobe Journey Optimizer. Praktijk wat u door de [ Uitdagingen van Journey Optimizer ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites) te nemen hebt geleerd.
+Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en mogelijkheden van Adobe Journey Optimizer. Praktijk wat u door de [&#x200B; Uitdagingen van Journey Optimizer &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites) te nemen hebt geleerd.
 
 ## Mobiele leerhub
 
-[![ Mobiele het Leren Hub ](/help/assets/mobile-learning-hub.jpeg " Mobiele Leraning Hub "){width="50%"}{align=center}]( https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview )
+[![&#x200B; Mobiele het Leren Hub &#x200B;](/help/assets/mobile-learning-hub.jpeg " Mobiele Leraning Hub "){width="50%"}{align=center}](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview)
 
-Start of verhoog uw strategie voor mobiele betrokkenheid met Adobe Journey Optimizer. De [ Mobiele het Leren Hub ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview) voorziet ontwikkelaars, beheerders, marketers, en analisten van alles nodig om binnenkomende en uitgaande mobiele kanalen te vormen en hen naadloos in krachtige kanaalcampagnes en reizen te integreren.
+Start of verhoog uw strategie voor mobiele betrokkenheid met Adobe Journey Optimizer. De [&#x200B; Mobiele het Leren Hub &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview) voorziet ontwikkelaars, beheerders, marketers, en analisten van alles nodig om binnenkomende en uitgaande mobiele kanalen te vormen en hen naadloos in krachtige kanaalcampagnes en reizen te integreren.
 
 
 <div id="recs-overview-body-1"></div>

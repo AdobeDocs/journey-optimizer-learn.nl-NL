@@ -10,7 +10,7 @@ jira: KT-14977
 thumbnail: KT-14977.jpeg
 last-substantial-update: 2024-03-26T00:00:00Z
 exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # LAB-WERKBOEK
 
-![&#x200B; Adobe Summit - alt tekst &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png " Adobe Summit ")
+![ Adobe Summit - alt tekst ](/help/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png " Adobe Summit ")
 
 ## L820 - Aangepaste mobiele momenten maken met Adobe Journey Optimizer
 
@@ -51,11 +51,11 @@ In dit hands-on laboratorium, onderzoekt u diverse mobiele scenario&#39;s en lee
 
 * Ken uw zitplaatsaantal: U kunt uw zitplaatsaantal op de bureaubovenkant van de laboratoriummachine vinden:
 
-![&#x200B; aantal van de Plaats &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
+![ aantal van de Plaats ](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 U hebt toegang nodig tot:
 
-* [&#x200B; Adobe Journey Optimizer &#x200B;](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - login details worden verstrekt tijdens de oefeningen.
-* [&#x200B; Fréscopa website &#x200B;](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
+* [ Adobe Journey Optimizer ](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - login details worden verstrekt tijdens de oefeningen.
+* [ Fréscopa website ](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
 
 ### Inzicht in het gebruik

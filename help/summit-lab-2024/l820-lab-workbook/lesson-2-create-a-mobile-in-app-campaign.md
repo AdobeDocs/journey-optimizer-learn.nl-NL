@@ -320,7 +320,7 @@ De **Duplicate campagne** en **Voorproef op apparaat** eigenschappen zijn uit-va
 
 **documentatie van het Product:**
 
-* [&#x200B; worden begonnen met in-app kanaal &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [&#x200B; creeer een Mobiel In-app bericht &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
-* [&#x200B; Ontwerp uw inhoud in-app &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [&#x200B; Controle en verzend uw bericht In-app &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [&#x200B; worden begonnen met in-app kanaal &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [&#x200B; creeer een Mobiel In-app bericht &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/in-app/create-in-app)
+* [&#x200B; Ontwerp uw inhoud in-app &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/in-app/design-in-app)
+* [&#x200B; Controle en verzend uw bericht In-app &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/in-app/send-in-app)

@@ -1,11 +1,13 @@
 ---
-user-guide-title: Adobe Summit - LAB-WERKBOEKEN
-breadcrumb-title: Adobe Summit - LAB-WERKBOEKEN
-breadcrumb-url: /docs/journey-optimizer-learn/adobe-summit-lab-workbooks/overview.html
+user-guide-title: Adobe Summit Lab 2024 - Mobiele momenten op maat maken - WERKBOEK
+role: User
+level: Beginner,Intermediate
+breadcrumb-title: Aangepaste mobiele momenten maken
+breadcrumb-url: /docs/journey-optimizer-learn/summit-labs/summit-lab-2024/build-personalized-mobile-moments/lab-overview
 auto-video-transcripts: true
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
+source-git-commit: 654d7a7f66a75bf76f679eb18a441510eff7b56d
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---

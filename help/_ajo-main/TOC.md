@@ -231,7 +231,7 @@ ht-degree: 21%
    + [&#x200B; producerend rapporten over aanbiedingsindrukkingen en klikken](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [&#x200B; het rangschikken formule van het Gebruik om gepersonaliseerde aanbiedingen in Journey Optimizer te leveren](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [&#x200B; verbetert klantenovereenkomst](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [&#x200B; Schaalend orchestratie aan omnichannel overeenkomst](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
+   + [&#x200B; Schaalend orchestratie aan omnichannel overeenkomst](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
    + Playbooks voor gebruiksscenario&#39;s {#use-case-playbooks}
       + [Overzicht](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [&#x200B; vorm een playbook zandbak](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
@@ -240,7 +240,7 @@ ht-degree: 21%
    + [&#x200B; vorm een trainingszandbak &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [&#x200B; Uitdagingen &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
    + Summit Labs {#summit-labs}
-      + [&#x200B; bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-      + [&#x200B; het Schalen orchestratie aan omnichannel betrokkenheid in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
+      + [&#x200B; bouw Persoonlijke Mobiele Momenten met Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+      + [&#x200B; het Schalen orchestratie aan omnichannel betrokkenheid in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
 + Live sessies en diepe dia&#39;s {#live-sessions-and-deep-dives}
    + [Opnamen van Experience League Live-show](/help/_ajo-main/experience-league-live-show-recordings.md)

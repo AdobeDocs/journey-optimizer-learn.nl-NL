@@ -1,0 +1,64 @@
+---
+title: De oplossing testen
+description: Reis maken om e-mail te verzenden bij het verzenden van het formulier
+feature: Decisioning
+role: User
+level: Beginner
+doc-type: Tutorial
+last-substantial-update: 2025-12-25T00:00:00Z
+jira: KT-20014
+source-git-commit: 043f41acd8f7f7165d9ec416d8f789f78d407ca1
+workflow-type: tm+mt
+source-wordcount: '155'
+ht-degree: 0%
+
+---
+
+# De oplossing testen
+
+
+De oplossing testen
+>[!VIDEO](https://video.tv.adobe.com/v/3478546)
+
+## De voorbeeldelementen implementeren
+
+Als u geïnstalleerde Node.js niet hebt, download en [ installeer het van hier ](https://nodejs.org/)
+
+Installatie controleren door uit te voeren:
+
+`node -v`
+
+`npm -v`
+
+## De projectmap instellen
+
+Maak een nieuwe map voor de voorbeeldtoepassing met de volgende opdrachten:
+
+`mkdir trigger-journey `
+
+`cd trigger-journey`
+
+## Het project initialiseren
+
+`npm init -y`
+
+## De vereiste frameworks installeren
+
+`npm install express dotenv axios cors`
+
+## Elementbestanden kopiëren
+
+* Pak en plaats de inhoud van [ project-root.zip ](assets/project-root.zip) in de `trigger-journey` omslag uit.
+
+* Maak een map met de naam `public` in de map `trigger-journey`
+* Pak de inhoud van [ index.zip ] in de openbare omslag uit
+* Werk het `.env` -bestand bij met de juiste waarden. Deze waarden zijn beschikbaar via de gedownloade cURL-opdracht tijdens het maken van de HTTP Source-verbinding
+
+## De server uitvoeren
+
+Zorg ervoor dat u zich in de map `trigger-journey` bevindt.
+De opdracht uitvoeren `node server.js`
+Punt uw browser aan [ Web-pagina ](http://localhost:3000/)
+Vul het formulier in en verzend het. De reis wordt in werking gesteld, en een e-mail wordt verzonden naar e-mailidentiteitskaart ingegaan in de vorm.
+
+

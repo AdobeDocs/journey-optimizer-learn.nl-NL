@@ -9,27 +9,26 @@ last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 9c11ebd2e52de18792e9fa135db955eeeb243673
+source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
 
 # De oplossing testen
 
-Om de oplossing van begin tot eind te testen, moeten [&#x200B; weer-aanbiedingen.html &#x200B;](assets/weather-offers.html) en [&#x200B; weer-verwant-aanbiedingen-script.js &#x200B;](assets/weather-related-offers-script.js) dossiers op een Webserver of een openbare ontvangende dienst zoals de Pagina&#39;s van Github worden ontvangen. Dit is nodig omdat:
+Om de oplossing van begin tot eind te testen, onthaal het weer-aanbiedingen.html en weer-verwant-aanbiedingen-script.js van [ weer-aanbiedingen.zip ].(assets/weather-offers.zip) Deze bestanden moeten worden gehost op een webserver of een openbare hostingservice zoals Github Pages. Dit is nodig omdat:
 - De geolocatie-API van de browser werkt alleen via HTTPS of localhost
 
 Om de zaken georganiseerd te houden en relatieve wegen te verzekeren werken correct, adviseren wij de volgende omslagstructuur voor het ontvangen van de oplossing:
 
-![&#x200B; omslag-structuur &#x200B;](assets/folder-structure.png)
+![ omslag-structuur ](assets/folder-structure.png)
 
 ## Beschikbare bestanden downloaden
 
-[HTML-bestand](assets/weather-offers.html)
+De download en haalt HTML en het javascript- dossier van [ weer-aanbiedingen.zip ].assets/weather-offers.zip)
 
-[JavaScript-bestand](assets/weather-related-offers-script.js)
 
 
 ## De URL van het oppervlak in het JavaScript-bestand bijwerken
@@ -107,5 +106,5 @@ De JavaScript haalt dynamisch weerinformatie op op basis van de locatie van de g
 
 ## Volgende stappen
 
-[&#x200B; Meet en rapporteer het effect van AJO Beslissing.](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
+[ Meet en rapporteer het effect van AJO Beslissing.](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
 

@@ -1,13 +1,13 @@
 ---
 title: De oplossing testen
 description: Reis maken om e-mail te verzenden bij het verzenden van het formulier
-feature: Decisioning
+feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 043f41acd8f7f7165d9ec416d8f789f78d407ca1
+source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -22,7 +22,7 @@ De oplossing testen
 
 ## De voorbeeldelementen implementeren
 
-Als u geïnstalleerde Node.js niet hebt, download en [&#x200B; installeer het van hier &#x200B;](https://nodejs.org/)
+Als u geïnstalleerde Node.js niet hebt, download en [ installeer het van hier ](https://nodejs.org/)
 
 Installatie controleren door uit te voeren:
 
@@ -48,7 +48,7 @@ Maak een nieuwe map voor de voorbeeldtoepassing met de volgende opdrachten:
 
 ## Elementbestanden kopiëren
 
-* Pak en plaats de inhoud van [&#x200B; project-root.zip &#x200B;](assets/project-root.zip) in de `trigger-journey` omslag uit.
+* Pak en plaats de inhoud van [ project-root.zip ](assets/project-root.zip) in de `trigger-journey` omslag uit.
 
 * Maak een map met de naam `public` in de map `trigger-journey`
 * Pak de inhoud van [ index.zip ] in de openbare omslag uit
@@ -58,7 +58,7 @@ Maak een nieuwe map voor de voorbeeldtoepassing met de volgende opdrachten:
 
 Zorg ervoor dat u zich in de map `trigger-journey` bevindt.
 De opdracht uitvoeren `node server.js`
-Punt uw browser aan [&#x200B; Web-pagina &#x200B;](http://localhost:3000/)
+Punt uw browser aan [ Web-pagina ](http://localhost:3000/)
 Vul het formulier in en verzend het. De reis wordt in werking gesteld, en een e-mail wordt verzonden naar e-mailidentiteitskaart ingegaan in de vorm.
 
 

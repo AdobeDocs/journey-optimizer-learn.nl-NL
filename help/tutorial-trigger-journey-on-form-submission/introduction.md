@@ -1,13 +1,13 @@
 ---
 title: Reis activeren bij het indienen van een formulier
 description: Leer hoe u een reis activeert bij het verzenden van HTML-formulieren
-feature: Decisioning
+feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 043f41acd8f7f7165d9ec416d8f789f78d407ca1
+source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 1%
@@ -36,7 +36,7 @@ Dit gebruiksgeval toont aan hoe de voorlegging van een klantenvorm een reis van 
 * Gegevens voor formulierverzending naar Adobe Experience Platform verzenden
 
 Inleiding van hoofdletters en kleine letters gebruiken en gebeurtenisschema&#39;s maken
->[!VIDEO](https://video.tv.adobe.com/v/3478477?captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)
 
 
 

@@ -23,7 +23,7 @@ Om de oplossing van begin tot eind te testen, onthaal het weer-aanbiedingen.html
 
 Om de zaken georganiseerd te houden en relatieve wegen te verzekeren werken correct, adviseren wij de volgende omslagstructuur voor het ontvangen van de oplossing:
 
-![ omslag-structuur ](assets/folder-structure.png)
+![&#x200B; omslag-structuur &#x200B;](assets/folder-structure.png)
 
 ## Beschikbare bestanden downloaden
 
@@ -106,5 +106,5 @@ De JavaScript haalt dynamisch weerinformatie op op basis van de locatie van de g
 
 ## Volgende stappen
 
-[ Meet en rapporteer het effect van AJO Beslissing.](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
+[&#x200B; Meet en rapporteer het effect van AJO Beslissing.](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
 

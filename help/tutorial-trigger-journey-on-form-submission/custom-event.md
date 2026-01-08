@@ -19,7 +19,7 @@ ht-degree: 0%
 Definieer een aangepaste gebeurtenis in Adobe Journey Optimizer met het gebeurtenisschema. Deze gebeurtenis luistert naar verzonden formuliergegevens die in Adobe Experience Platform aankomen.
 
 Bepaal een douanegebeurtenis genoemd **_InvestmentPreference_**
->[!VIDEO](https://video.tv.adobe.com/v/3478483)
+>[!VIDEO](https://video.tv.adobe.com/v/3478489?captions=dut)
 
 
 

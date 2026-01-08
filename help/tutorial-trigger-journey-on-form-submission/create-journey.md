@@ -21,7 +21,7 @@ Creeer een reis in Adobe Journey Optimizer die begint wanneer de **__** gebeurte
 Om een reis te creëren impliceert het creëren van de volgende configuraties
 
 Configuratie van e-mailkanalen maken
->[!VIDEO](https://video.tv.adobe.com/v/3478510)
+>[!VIDEO](https://video.tv.adobe.com/v/3478516?captions=dut)
 
 
 

@@ -19,7 +19,7 @@ ht-degree: 0%
 Configureer het formulier voor het verzenden van verzendgegevens naar Adobe Experience Platform in real-time met behulp van een op HTTP gebaseerde integratie, zodat de lading van de gebeurtenis wordt uitgelijnd op het schema.
 
 Eindpunt van HTTP-streaming definiëren
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478502?captions=dut)
 
 
 

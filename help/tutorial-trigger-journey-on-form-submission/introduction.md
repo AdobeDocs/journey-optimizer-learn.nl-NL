@@ -36,7 +36,7 @@ Dit gebruiksgeval toont aan hoe de voorlegging van een klantenvorm een reis van 
 * Gegevens voor formulierverzending naar Adobe Experience Platform verzenden
 
 Inleiding van hoofdletters en kleine letters gebruiken en gebeurtenisschema&#39;s maken
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478477?captions=dut)
 
 
 

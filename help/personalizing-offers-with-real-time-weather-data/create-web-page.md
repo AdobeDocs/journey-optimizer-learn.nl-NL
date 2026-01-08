@@ -106,5 +106,5 @@ De JavaScript haalt dynamisch weerinformatie op op basis van de locatie van de g
 
 ## Volgende stappen
 
-[&#x200B; Meet en rapporteer het effect van AJO Beslissing.](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
+[&#x200B; Meet en rapporteer het effect van AJO Beslissing.](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
 

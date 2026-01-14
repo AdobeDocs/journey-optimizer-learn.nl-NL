@@ -22,7 +22,7 @@ De oplossing testen
 
 ## De voorbeeldelementen implementeren
 
-Als u geïnstalleerde Node.js niet hebt, download en [ installeer het van hier ](https://nodejs.org/)
+Als u geïnstalleerde Node.js niet hebt, download en [&#x200B; installeer het van hier &#x200B;](https://nodejs.org/)
 
 Installatie controleren door uit te voeren:
 
@@ -48,17 +48,17 @@ Maak een nieuwe map voor de voorbeeldtoepassing met de volgende opdrachten:
 
 ## Elementbestanden kopiëren
 
-* Pak en plaats de inhoud van [ project-root.zip ](assets/project-root.zip) in de `trigger-journey` omslag uit.
+* Pak en plaats de inhoud van [&#x200B; project-root.zip &#x200B;](assets/project-root.zip) in de `trigger-journey` omslag uit.
 
 * Maak een map met de naam `public` in de map `trigger-journey`
 * Werk het `.env` -bestand bij met de juiste waarden. Deze waarden zijn beschikbaar via de gedownloade cURL-opdracht tijdens het maken van de HTTP Source-verbinding.
-* Pak de inhoud van [ index.zip ](assets/index.zip) in de `public` omslag uit
+* Pak de inhoud van [&#x200B; index.zip &#x200B;](assets/index.zip) in de `public` omslag uit
 
 ## De server uitvoeren
 
 Zorg ervoor dat u zich in de map `trigger-journey` bevindt.
 De opdracht uitvoeren `node server.js`
-Punt uw browser aan [ Web-pagina ](http://localhost:3000/)
+Punt uw browser aan [&#x200B; Web-pagina &#x200B;](http://localhost:3000/)
 Vul het formulier in en verzend het. De reis wordt in werking gesteld, en een e-mail wordt verzonden naar e-mailidentiteitskaart ingegaan in de vorm.
 
 

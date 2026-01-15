@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '126'
 ht-degree: 1%
 
 ---
@@ -34,9 +34,10 @@ Dit gebruiksgeval toont aan hoe de voorlegging van een klantenvorm een reis van 
 * E-mailkanaal configureren
 * Een reis maken die wordt geactiveerd door de aangepaste gebeurtenis
 * Gegevens voor formulierverzending naar Adobe Experience Platform verzenden
+* Gegevenssetzoekopdracht configureren om referentiegegevens op te nemen in de e-mail
 
 Inleiding van hoofdletters en kleine letters gebruiken en gebeurtenisschema&#39;s maken
->[!VIDEO](https://video.tv.adobe.com/v/3478477?captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)
 
 
 

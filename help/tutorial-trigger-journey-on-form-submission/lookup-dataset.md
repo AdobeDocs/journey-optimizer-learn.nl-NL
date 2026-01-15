@@ -5,9 +5,9 @@ feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-12-25T00:00:00Z
-jira: KT-20014
-source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
+last-substantial-update: 2026-01-15T00:00:00Z
+jira: KT-20124
+source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Met een gegevensset opzoeken kan Adobe Journey Optimizer referentie- of transact
 
 In dit geval, wanneer een gebruiker een formulier van de Voorkeur van de Investering (Voorraden, Obligaties, of CDs) indient, zoekt de reis dynamisch de overeenkomstige investeringsdetails van een verwijzingsdataset en gebruikt die informatie om een e-mail te personaliseren.
 Opzoekgegevensset maken
->[!VIDEO](https://video.tv.adobe.com/v/3478766?captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3478760)
 
 Test de gebieden van de datasetraadpleging door de vormopstelling in de vorige stap voor te leggen
 

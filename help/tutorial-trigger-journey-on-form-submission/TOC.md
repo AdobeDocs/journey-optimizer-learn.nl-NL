@@ -6,7 +6,7 @@ level: Beginner
 breadcrumb-title: trigger-trip-on-form-submission
 breadcrumb-url: /docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction
 auto-video-transcripts: true
-source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
+source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 2%
@@ -22,4 +22,5 @@ ht-degree: 2%
 + [Reis maken](./create-journey.md)
 + [De oplossing testen](./test-solution.md)
 + [Opzoekgegevensset maken](./lookup-dataset.md)
+
 

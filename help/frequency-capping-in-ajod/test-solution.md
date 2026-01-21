@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ## De voorbeeldelementen implementeren
 
-Als u geïnstalleerde Node.js niet hebt, download en [ installeer het van hier ](https://nodejs.org/)
+Als u geïnstalleerde Node.js niet hebt, download en [&#x200B; installeer het van hier &#x200B;](https://nodejs.org/)
 
 Installatie controleren door uit te voeren:
 
@@ -46,8 +46,8 @@ Maak een nieuwe map voor de voorbeeldtoepassing met de volgende opdrachten:
 
 ## Elementbestanden kopiëren
 
-* Pak en plaats de inhoud van [ server.zip ](assets/server.zip) in de `frequency-capping` omslag uit.
-* Extraheer de inhoud van [ public.zip ](assets/public.zip) in de &quot;frequentie-capping&quot;omslag
+* Pak en plaats de inhoud van [&#x200B; server.zip &#x200B;](assets/server.zip) in de `frequency-capping` omslag uit.
+* Extraheer de inhoud van [&#x200B; public.zip &#x200B;](assets/public.zip) in de &quot;frequentie-capping&quot;omslag
 
 ## De URL van het oppervlak in het JavaScript-bestand bijwerken
 
@@ -68,7 +68,7 @@ Open het bestand `frequency-capping.html` in de map `public` in de teksteditor e
 
 ## Interactie met de aanbiedingen
 
-* Open [ webpage ](http://localhost:3000) in uw favoriete browser.
+* Open [&#x200B; webpage &#x200B;](http://localhost:3000) in uw favoriete browser.
 * Interactie met de aanbieding
 * De pagina vernieuwen
 * Afhankelijk van de regels voor het aftopping van de frequentie, moet u een nieuwe aanbieding zien

@@ -21,22 +21,22 @@ Voer de volgende stappen uit om de frequentiecontrole toe te passen op aanbiedin
 ## Het gebeurtenisschema bijwerken
 
 * Het bestaande gebeurtenisschema bijwerken door de veldgroep toe te voegen zoals wordt weergegeven
-* ![ gebeurtenis-schema ](assets/schema.png)
+* ![&#x200B; gebeurtenis-schema &#x200B;](assets/schema.png)
 
 ## Update de frequentie die voor de aanbieding wordt begrensd
 
 
-* ![ aanbieding ](assets/offer-capping.png)
+* ![&#x200B; aanbieding &#x200B;](assets/offer-capping.png)
 
 ## Trackingtoken toevoegen aan de aanbieding
 
 Bewerk het beslissingsbeleid dat in de campagne wordt gebruikt door een fallback-aanbieding toe te voegen
-![ fallback ](assets/fallback.png)
+![&#x200B; fallback &#x200B;](assets/fallback.png)
 
 TrackingToken en ItemID kunnen worden toegevoegd door op het pictogram van het Beleid van het Besluit in de linkernavigatie te klikken en onderaan de beslissingsboom te boren itemID en trackingToken te selecteren.
 
 Voeg de item-id en de trackingtoken toe aan de div die het aanbod bevat, zoals hieronder wordt weergegeven
-![ identiteitskaart-en-volgen-teken ](assets/id-and-tracking-token.png)
+![&#x200B; identiteitskaart-en-volgen-teken &#x200B;](assets/id-and-tracking-token.png)
 
 Op deze manier zorgt u ervoor dat elk gerenderde aanbod een token voor het bijhouden van gegevens bevat. Dit is essentieel voor een nauwkeurige indruk en het bijhouden van gebeurtenissen.
 
@@ -46,6 +46,6 @@ Activeer de gewijzigde campagne.
 
 ## Afbeeldings- en volggebeurtenissen verzenden
 
-Wijzig de bestaande JavaScript-code om met behulp van de Adobe Web SDK indruk- en interactiegebeurtenissen vast te leggen en te verzenden. Verwijs naar de [ hier verstrekte steekproefcode.](capture-impression-click-events.md)
+Wijzig de bestaande JavaScript-code om met behulp van de Adobe Web SDK indruk- en interactiegebeurtenissen vast te leggen en te verzenden. Verwijs naar de [&#x200B; hier verstrekte steekproefcode.](capture-impression-click-events.md)
 
 

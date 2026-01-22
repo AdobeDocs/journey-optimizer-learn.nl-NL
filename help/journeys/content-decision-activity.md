@@ -10,7 +10,7 @@ last-substantial-update: 2026-01-22T00:00:00Z
 jira: KT-20141
 hide: true
 hidefromtoc: true
-source-git-commit: 970590b0f40adb5d642c2d183d9c387dfe203251
+source-git-commit: d5f7fe98ec18b55f82520f461106bb18860d49c1
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -22,5 +22,5 @@ ht-degree: 0%
 
 Leer hoe gebruikers met de activiteiten voor het nemen van beslissingen over inhoud op het Journey Canvas AJO-beslissingen kunnen gebruiken voor aanbiedingen voor persoonlijke inhoud. Gebruik deze functie om profielen te routeren op basis van opgehaalde aanbiedingen of aanbiedingen te verzenden naar externe systemen, waardoor de efficiëntie en personalisatie van uw reis worden vergroot.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479113/?captions=dut&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
 

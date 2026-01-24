@@ -707,5 +707,5 @@ Zie:
 
 ## Aanvullende bronnen
 
-- [&#x200B; Gebruikend op CDN gebaseerde cliënt zijpersonalisatie (ODD) op mobiel voor snellere verpersoonlijkingen (Blog) &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626){target="_blank"}
+- [&#x200B; Gebruikend op CDN gebaseerde cliënt zijpersonalisatie (ODD) op mobiel voor snellere verpersoonlijkingen (Blog) &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626?profile.language=nl){target="_blank"}
 - [&#x200B; Geheim aan Mobiele de Betrokkenheid en Groei van de Toepassing op het volgende niveau (de Zitting van de Top) &#x200B;](https://business.adobe.com/nl/summit/2025/sessions/the-secret-to-nextlevel-mobile-app-engagement-s603.html)

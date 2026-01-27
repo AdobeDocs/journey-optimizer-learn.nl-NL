@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 18%
@@ -20,12 +20,14 @@ Creeer een reis in Adobe Journey Optimizer die begint wanneer de **__** gebeurte
 
 Om een reis te creëren impliceert het creëren van de volgende configuraties
 
-Configuratie van e-mailkanalen maken
->[!VIDEO](https://video.tv.adobe.com/v/3478516?captions=dut)
+**Creërend de configuratie van het e-mailkanaal**
+
+>[!VIDEO](https://video.tv.adobe.com/v/3478510)
 
 
 
-Een journey maken
+**Een journey maken**
+
 >[!VIDEO](https://video.tv.adobe.com/v/3478558)
 
 

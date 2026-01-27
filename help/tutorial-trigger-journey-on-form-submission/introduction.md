@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
+source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 1%
@@ -36,8 +36,9 @@ Dit gebruiksgeval toont aan hoe de voorlegging van een klantenvorm een reis van 
 * Gegevens voor formulierverzending naar Adobe Experience Platform verzenden
 * Gegevenssetzoekopdracht configureren om referentiegegevens op te nemen in de e-mail
 
-Inleiding van hoofdletters en kleine letters gebruiken en gebeurtenisschema&#39;s maken
->[!VIDEO](https://video.tv.adobe.com/v/3478477?captions=dut)
+**de gevalintroductie van het Gebruik en de verwezenlijking van het gebeurtenisschema**
+
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)
 
 
 

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Deze zelfstudie laat zien hoe u frequentiekoppeling kunt toepassen op aanbiedingen in Adobe Journey Optimizer om te bepalen hoe vaak gebruikers hetzelfde aanbod in de loop der tijd zien.
 
-Dit leerprogramma veronderstelt u reeds opstelling een campagne van AJO door het [ leerprogramma te volgen op het personaliseren van aanbiedingen die op weersomstandigheden ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) worden gebaseerd
+Dit leerprogramma veronderstelt u reeds opstelling een campagne van AJO door het [&#x200B; leerprogramma te volgen op het personaliseren van aanbiedingen die op weersomstandigheden &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) worden gebaseerd
 
 Door Beslissing.propositionDisplay en decisions.propositionInteract gebeurtenissen door het Web SDK van Adobe te vangen en hen in kaart te brengen aan schema&#39;s XDM in Adobe Experience Platform (AEP), kan Adobe Journey Optimizer aanbiedingsindrukkingen en interactie nauwkeurig volgen, toelatend frequentietoewijzing om te beperken hoe vaak een aanbieding aan een gebruiker wordt getoond.
 

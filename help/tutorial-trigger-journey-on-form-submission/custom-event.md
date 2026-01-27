@@ -20,7 +20,7 @@ Definieer een aangepaste gebeurtenis in Adobe Journey Optimizer met het gebeurte
 
 Bepaal een douanegebeurtenis genoemd **_InvestmentPreference_**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478483)
+>[!VIDEO](https://video.tv.adobe.com/v/3478489?captions=dut)
 
 
 

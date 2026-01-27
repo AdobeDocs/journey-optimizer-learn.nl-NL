@@ -22,7 +22,7 @@ Om een reis te creëren impliceert het creëren van de volgende configuraties
 
 **Creërend de configuratie van het e-mailkanaal**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478510)
+>[!VIDEO](https://video.tv.adobe.com/v/3478516?captions=dut)
 
 
 

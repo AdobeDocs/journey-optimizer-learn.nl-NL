@@ -20,7 +20,7 @@ Configureer het formulier voor het verzenden van verzendgegevens naar Adobe Expe
 
 **bepaalt HTTP die eindpunt stromen**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478502?captions=dut)
 
 
 

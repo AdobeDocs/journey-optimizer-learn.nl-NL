@@ -38,7 +38,7 @@ Dit gebruiksgeval toont aan hoe de voorlegging van een klantenvorm een reis van 
 
 **de gevalintroductie van het Gebruik en de verwezenlijking van het gebeurtenisschema**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478477?captions=dut)
 
 
 

@@ -22,6 +22,6 @@ ht-degree: 7%
 
 Ontdek hoe u het Direct Mail-kanaal in Adobe Journey Optimizer kunt gebruiken om directe mailleveringen binnen uw reizen te automatiseren en te plannen. Ontdek dossier dat opstelling verplettert, vormingsfrequentie, en gebruik direct-mailacties op het canvas van de Reis. In deze video ziet u hoe AJO deelnemers in de wachtrij plaatst, met tussenpozen tijdstempelbestanden genereert en deze automatisch verstuurt zodra de video is geactiveerd.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479168/?captions=dut&learn=on&enablevpops)
 
 Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys) voor meer informatie.

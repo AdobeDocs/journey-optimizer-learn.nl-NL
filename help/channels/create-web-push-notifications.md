@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Met Web Push kunnen websites meldingen rechtstreeks naar het apparaat van de gebruiker verzenden, zelfs als de browser zich op de achtergrond bevindt. Leer hoe u pushberichten voor het web maakt en verzendt in Adobe Journey Optimizer. Deze zelfstudie begeleidt u door het selecteren van kanaalconfiguraties, het schrijven van berichten, het kiezen van publiek, en het publiceren campagnes om uw bereik buiten mobiele apparaten uit te breiden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479341/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479347/?captions=dut&learn=on&enablevpops)

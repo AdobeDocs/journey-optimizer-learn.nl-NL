@@ -24,4 +24,4 @@ Dit rapport helpt problemen te identificeren, de reisprestaties te verbeteren en
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
-Zie de [&#x200B; productdocumentatie &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) voor meer informatie over deze eigenschap.
+Zie de [&#x200B; productdocumentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) voor meer informatie over deze eigenschap.

@@ -22,6 +22,6 @@ Onderzoek hoe te om de operationele gezondheid en de prestaties van de vraag van
 
 Dit rapport helpt problemen te identificeren, de reisprestaties te verbeteren en een vlotte werking te verzekeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479547/?captions=dut&learn=on&enablevpops)
 
 Zie de [&#x200B; productdocumentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) voor meer informatie over deze eigenschap.

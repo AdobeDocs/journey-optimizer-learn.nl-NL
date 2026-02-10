@@ -11,18 +11,18 @@ jira: KT-16264
 hide: false
 hidefromtoc: false
 badgePrivateBeta: label="Private Beta" type="Informative"
-source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
+exl-id: e5eee841-77a6-4001-8192-6e34bc745ce1
+source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-
 # Beleid voor gegevensgebruik afdwingen in Journey Optimizer-kanalen
 
 Leer hoe het beleid voor gegevensgebruik wordt afgedwongen in Journey Optimizer-kanalen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434911/?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
-Zie de productdocumentatie voor meer informatie over [&#x200B; gegevensbeheer &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/privacy/action-privacy-restricted) en hoe te [&#x200B; met toestemmingsbeleid &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent-restricted) in Journey Optimizer werken.
+Zie de productdocumentatie voor meer informatie over [ gegevensbeheer ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted) en hoe te [ met toestemmingsbeleid ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) in Journey Optimizer werken.

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Leer hoe gebruikers met de activiteiten voor het nemen van beslissingen over inhoud op het Journey Canvas AJO-beslissingen kunnen gebruiken voor aanbiedingen voor persoonlijke inhoud. Gebruik deze functie om profielen te routeren op basis van opgehaalde aanbiedingen of aanbiedingen te verzenden naar externe systemen, waardoor de efficiëntie en personalisatie van uw reis worden vergroot.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479113/?captions=dut&learn=on&enablevpops)

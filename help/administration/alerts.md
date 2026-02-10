@@ -30,4 +30,4 @@ Ontdek hoe u vooraf gedefinieerde waarschuwingen kunt ontvangen voor onverwacht 
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
-Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"} voor meer informatie.
+Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"} voor meer informatie.

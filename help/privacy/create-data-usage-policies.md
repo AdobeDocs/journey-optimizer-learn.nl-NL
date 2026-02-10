@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Beleid voor gegevensgebruik maken
 
-Leer hoe u beleid voor gegevensgebruik maakt en beheert. Met het beleid voor gegevensgebruik kunt u het gebruik van gegevens voor specifieke doeleinden beperken op basis van de labels van gegevens. Om de op API-Gebaseerde benadering te leren, zie [&#x200B; het beleid van het gegevensgebruik met API &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create) creëren.
+Leer hoe u beleid voor gegevensgebruik maakt en beheert. Met het beleid voor gegevensgebruik kunt u het gebruik van gegevens voor specifieke doeleinden beperken op basis van de labels van gegevens. Om de op API-Gebaseerde benadering te leren, zie [&#x200B; het beleid van het gegevensgebruik met API &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/policies/create) creëren.
 
 >[!NOTE]
 >
@@ -30,4 +30,4 @@ Leer hoe u beleid voor gegevensgebruik maakt en beheert. Met het beleid voor geg
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
-Zie de productdocumentatie voor meer informatie over hoe te [&#x200B; werken met toestemmingsbeleid &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) in Journey Optimizer.
+Zie de productdocumentatie voor meer informatie over hoe te [&#x200B; werken met toestemmingsbeleid &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/privacy/consent/consent) in Journey Optimizer.

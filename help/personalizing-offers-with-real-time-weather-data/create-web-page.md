@@ -9,7 +9,7 @@ last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Om de oplossing van begin tot eind te testen, onthaal het weer-aanbiedingen.html
 
 Om de zaken georganiseerd te houden en relatieve wegen te verzekeren werken correct, adviseren wij de volgende omslagstructuur voor het ontvangen van de oplossing:
 
-![&#x200B; omslag-structuur &#x200B;](assets/folder-structure.png)
+![ omslag-structuur ](assets/folder-structure.png)
 
 ## Beschikbare bestanden downloaden
 
@@ -42,8 +42,6 @@ Open het bestand weer-aanbiedingen.html in de teksteditor en vervang de scriptta
 ```
 <script src="https://assets.adobedtm.com/AEM_TAGS/launch-ENabcd1234.min.js" async></script>
 ```
-
-
 
 ## Wat de webpagina doet
 
@@ -98,13 +96,13 @@ De JavaScript haalt dynamisch weerinformatie op op basis van de locatie van de g
 
 6. **wint en geeft Aanbiedingen terug**
 
-   Ontvangt voorstellen die door AJO Decisioning zijn geretourneerd.
+* Ontvangt voorstellen die door AJO Decisioning zijn geretourneerd.
 
-   Decodeert de HTML-inhoud.
+* Decodeert de HTML-inhoud.
 
-   Injecteert de aanbiedingen dynamisch in de <div id="offerContainer"> element.
+* Injecteert de aanbiedingen dynamisch in de <div id="offerContainer"> element.
 
 ## Volgende stappen
 
-[&#x200B; Meet en rapporteer het effect van AJO Beslissing.](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
+[ Meet en rapporteer het effect van AJO Beslissing.](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 

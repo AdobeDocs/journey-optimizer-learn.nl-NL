@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Leer hoe u berichtoptimalisatie kunt benutten in actie- of API-campagnes. U ziet hoe u subdoelgroepen kunt kiezen, berichtvariaties kunt maken op locatie, fallback-inhoud kunt inschakelen en meerdere experimenten kunt uitvoeren in één campagne. In deze zelfstudie wordt ook uitgelegd hoe u campagnes met meerdere kanalen kunt beheren en tegelijkertijd de consistentie van berichten kunt behouden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470374/?captions=dut&learn=on&enablevpops)

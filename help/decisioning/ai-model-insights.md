@@ -23,5 +23,5 @@ ht-degree: 0%
 
 Begrijp hoe te om de status van de AI modelopleiding, verkeerstoewijzing, en prestaties te analyseren om gepersonaliseerd besluit in Journey Optimizer te optimaliseren. Leer hoe u problemen kunt identificeren, modellen kunt oplossen en de conversietarieven kunt verbeteren met behulp van AI-mogelijkheden. Deze video begeleidt u door het effectief beheren van AI-modellen om de invloed van uw bedrijf te vergroten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479855/?captions=dut&learn=on&enablevpops)
 

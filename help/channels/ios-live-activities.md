@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Ontdek hoe u iOS Live-activiteiten kunt configureren met Adobe Journey Optimizer om geavanceerde realtime updates te leveren op het iPhone Lock Screen en Dynamic Island.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479864/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479870/?captions=dut&learn=on&enablevpops)

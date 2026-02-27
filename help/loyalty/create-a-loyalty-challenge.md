@@ -1,6 +1,6 @@
 ---
 title: Een loyaliteitsprobleem maken
-description: Leer hoe te om een loyaliteitsuitdaging snel tot stand te brengen, van het plaatsen van taken, beloningen, en programma's aan het vormen van inhoud, overseinen, en publiek, terwijl het automatisch produceren van een volledige klantenreis achter de scènes.
+description: Leer hoe te om een loyaliteitsuitdaging tot stand te brengen door opstellingstaken, beloningen, en programma's. Begrijp hoe te om inhoud, overseinen, en publiek te vormen terwijl een volledige klantenreis automatisch op de achtergrond wordt geproduceerd.
 feature: Setup
 role: Leader, User
 level: Beginner
@@ -12,9 +12,9 @@ hide: true
 hidefromtoc: true
 index: false
 badgeBet: label="Beta" type="Informative"
-source-git-commit: 933c5698604703cfb22cec44719839a3f52dc462
+source-git-commit: 84f0f50b5ba68f3fa53d2ccedf9de3f84ca01e2f
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # Een loyaliteitsprobleem maken
 
-Leer hoe te om een loyaliteitsuitdaging snel tot stand te brengen, van het plaatsen van taken, beloningen, en programma&#39;s aan het vormen van inhoud, overseinen, en publiek, terwijl het automatisch produceren van een volledige klantenreis achter de scènes.
+Leer hoe te om een loyaliteitsuitdaging tot stand te brengen door opstellingstaken, beloningen, en programma&#39;s. Begrijp hoe te om inhoud, overseinen, en publiek te vormen terwijl een volledige klantenreis automatisch op de achtergrond wordt geproduceerd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)

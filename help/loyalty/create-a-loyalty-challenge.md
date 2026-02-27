@@ -1,7 +1,7 @@
 ---
 title: Een loyaliteitsprobleem maken
 description: Leer hoe te om een loyaliteitsuitdaging tot stand te brengen door opstellingstaken, beloningen, en programma's. Begrijp hoe te om inhoud, overseinen, en publiek te vormen terwijl een volledige klantenreis automatisch op de achtergrond wordt geproduceerd.
-feature: Setup
+feature: Get Started
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -12,7 +12,7 @@ hide: true
 hidefromtoc: true
 index: false
 badgeBet: label="Beta" type="Informative"
-source-git-commit: 84f0f50b5ba68f3fa53d2ccedf9de3f84ca01e2f
+source-git-commit: f50005a1ce6e4f61986cdebd0acdd344eeb427c4
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%

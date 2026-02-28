@@ -41,7 +41,7 @@ U hebt de volgende toegangsrechten nodig:
 
 ### Vereiste acties
 
-* Als u aan Adobe Journey Optimizer nieuw bent, voltooi de cursus [&#x200B; Begonnen met Journey Optimizer voor de Managers en Beheerders van de Reis &#x200B;](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html).
+* Als u aan Adobe Journey Optimizer nieuw bent, voltooi de cursus [&#x200B; Begonnen met Journey Optimizer voor de Managers en Beheerders van de Reis &#x200B;](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=nl-NL).
 
 ## Het artikel
 

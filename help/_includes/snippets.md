@@ -11,13 +11,13 @@ ht-degree: 0%
 
 >[!INFO]
 >
-> Deze video maakt deel uit van een cursus [&#x200B; vormt Journey Optimizer voor Beheerders &#x200B;](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-a-1-2021-1.html), beschikbaar voor vrije op Experience League!
+> Deze video maakt deel uit van een cursus [&#x200B; vormt Journey Optimizer voor Beheerders &#x200B;](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-a-1-2021-1.html?lang=nl-NL), beschikbaar voor vrije op Experience League!
 
 ## Cursus Aan de slag met besluitvormingsbeheer voor marketers {#experienceplatform-u-1-2020-1-offerdecisioning}
 
 >[!INFO]
 >
-> Deze video maakt deel uit van een cursus [&#x200B; Cursus die met besluitvormingsbeheer voor marketers &#x200B;](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=en), beschikbaar voor vrije op Experience League wordt begonnen!
+> Deze video maakt deel uit van een cursus [&#x200B; Cursus die met besluitvormingsbeheer voor marketers &#x200B;](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=nl-NL), beschikbaar voor vrije op Experience League wordt begonnen!
 
 ## ExL Live in app {#exl-live-in-app}
 

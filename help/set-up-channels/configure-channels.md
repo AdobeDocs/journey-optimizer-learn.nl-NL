@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer welke kanaalconfiguraties zijn en hoe deze in Adobe Journey Optimizer worden gebruikt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433124/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480457/?captions=dut&learn=on)
 
 Voor meer informatie over hoe te de configuraties van het opstellingskanaal [&#x200B; de productdocumentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/configuration/channel-surfaces#set-up-channel-surfaces) zien.

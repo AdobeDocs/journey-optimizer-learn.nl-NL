@@ -5,13 +5,13 @@ feature: Overview
 role: User
 hide: true
 index: false
-source-git-commit: ea0030d0742adf0058c8bb9ad3950ae9d96f8892
+exl-id: 73603f31-b60f-4062-8de2-636b20d2c039
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
 
 ---
-
 
 # Loyalty in een Omnichannel-wereld
 
@@ -74,7 +74,7 @@ Overweeg a **welkomstreis**. In een omnichannel systeem ontvangt een klant die v
 
 A **real time verdient-to-reDEem reis** moet het profiel van het lid onmiddellijk na aankoop bijwerken, op bijgewerkte punten in dupberichten wijzen, de nieuwe beloning in de app homepage tonen, de beloning op het digitale ontvangstbewijs omvatten, en de module van de websitebeloningen op de volgende paginalading bijwerken. Een vertraagde of inconsistente update verbreekt vertrouwen.
 
-A **gebruikt het terugwinningstraject van 0&rbrace; kantelen het voorspelbare scoring om risico te identificeren, dan activeert het meest aangewezen kanaal dat op toestemmingen en kanaalvoorkeur wordt gebaseerd.** Als de klant de voorkeur geeft aan push, stuurt het systeem een gepersonaliseerde verschuiving. Als de push-methode mislukt, wordt deze doorgestuurd naar e-mail of SMS. Als de klant de app opent, wordt op de startpagina dynamisch een module &#39;We missen u&#39; weergegeven. Als de gebruiker op betaalde media klikt, zien zij loyaliteits-specifieke herinstatementoverseinen.
+A **gebruikt het terugwinningstraject van 0} kantelen het voorspelbare scoring om risico te identificeren, dan activeert het meest aangewezen kanaal dat op toestemmingen en kanaalvoorkeur wordt gebaseerd.** Als de klant de voorkeur geeft aan push, stuurt het systeem een gepersonaliseerde verschuiving. Als de push-methode mislukt, wordt deze doorgestuurd naar e-mail of SMS. Als de klant de app opent, wordt op de startpagina dynamisch een module &#39;We missen u&#39; weergegeven. Als de gebruiker op betaalde media klikt, zien zij loyaliteits-specifieke herinstatementoverseinen.
 
 A **de reis van de de niveauverbetering** moet viering over oppervlakten teweegbrengen: een app animatie, een e-mail die nieuwe voordelen, een gepersonaliseerde Webbanner, een bijgewerkte digitale portefeuillepas, en een vlag verklaren van POS die personeel opslaat om de verbetering te erkennen. De verbeteringen van de rang zijn emotionele momenten, en de omnikanaalcontinuïteit versterkt de psychologische gevolgen.
 

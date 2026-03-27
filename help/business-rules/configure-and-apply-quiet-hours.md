@@ -11,16 +11,16 @@ jira: KT-19403
 hide: false
 hidefromtoc: false
 index: true
-source-git-commit: c7ff1ad8ff2069295d65553022306cccaf8cbac6
+exl-id: 2505ef58-0df4-470b-a318-6146e66af32e
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-
 # De stille uren configureren en toepassen
 
 Leer hoe te om de stille uren eigenschap in Adobe Journey Optimizer te gebruiken om berichten te verhinderen worden verzonden naar klanten tijdens gespecificeerde tijdvensters, die marketers helpen verzenden mededelingen op ongepaste tijden vermijden en klantenbetrokkenheid verbeteren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475858/?captions=dut&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)

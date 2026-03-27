@@ -10,7 +10,7 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17876
 index: false
 exl-id: 2e756b8a-4fd8-47d5-99ea-4a18cdd6d974
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -28,4 +28,4 @@ In deze les past u inhoud experimenteren toe op de pushmelding.
 >[!VIDEO](https://video.tv.adobe.com/v/3457924/?learn=on&enablevpops)
 
 
-Zie [&#x200B; Experimentatie - Overzicht &#x200B;](/help/experimentation/introduction-to-experimentation.md), [&#x200B; inhoudsexperimenten voor e-mailcampagnes &#x200B;](/help/experimentation/content-experiments-for-emails.md) en [&#x200B; Push berichten - Overzicht &#x200B;](/help/channels/push-notifications-overview.md) voor meer begeleiding over dit onderwerp vormen.
+Zie [ Experimentatie - Overzicht ](/help/experimentation/introduction-to-experimentation.md), [ inhoudsexperimenten voor e-mailcampagnes ](/help/experimentation/content-experiments-for-emails.md) en [ Push berichten - Overzicht ](/help/channels/push-notifications-overview.md) voor meer begeleiding over dit onderwerp vormen.

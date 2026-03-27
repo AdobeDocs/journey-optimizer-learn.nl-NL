@@ -9,7 +9,7 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
-source-git-commit: 667f146639635515a5572e9ace41d83ab4452bb8
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 3%
@@ -24,7 +24,7 @@ Als u wilt beginnen met identiteitstitching, importeert u voorbeeld-CRM-profielg
 
 * Ga naar Klant -> Identiteiten -> Naamruimte maken
 * Selecteer Individuele apparaat-id en geef de weergavenaam en het identiteitssymbool op, zoals in de onderstaande schermafbeelding wordt weergegeven.
-  ![&#x200B; douane-namespace &#x200B;](assets/custom-namespace.png)
+  ![ douane-namespace ](assets/custom-namespace.png)
 
 ## Een schema met profielinstellingen maken
 
@@ -32,7 +32,7 @@ Creeer een individueel profielschema genoemd **_FinWiseProfileSchema_**. Neem ve
 Voeg een identiteitsgebied **_toe midden_** zoals getoond. Markeer het crmid-veld als identiteit en primair.
 
 
-![&#x200B; profiel-schema &#x200B;](assets/finwise-profile-schema.png)
+![ profiel-schema ](assets/finwise-profile-schema.png)
 
 ## Voorbeeldgegevens voorbereiden
 
@@ -51,14 +51,14 @@ Werk de dummy e-mailadressen bij naar echte adressen. Deze worden later gebruikt
 * Creeer een dataset genoemd **_FinWiseCustomerDataSetWithAnnualIncome_** die op **_wordt gebaseerd FinWiseProfileSchema_** in vroegere .Zorg ervoor de dataset voor profiel wordt toegelaten.
 
 * Ga naar Verbindingen -> Bronnen -> Lokaal systeem
-* Selecteer **_Gegevens_** toevoegen onder de Lokale dossierupload. Zorg ervoor om _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ als doeldataset te selecteren.
-  ![&#x200B; ingest-csv &#x200B;](assets/ingest-csv-into-dataset.png)
-* Navigeer naar het volgende scherm. Upload het [&#x200B; csv- dossier &#x200B;](assets/finwise_profiles.csv) en verifieer de afbeeldingen
-  ![&#x200B; afbeeldingen &#x200B;](assets/mappings.png)
+* Selecteer **_Gegevens_** toevoegen onder de Lokale dossierupload. Zorg ervoor om _**FinWiseCustomerDataSetWithAnnualIncome**_ als doeldataset te selecteren.
+  ![ ingest-csv ](assets/ingest-csv-into-dataset.png)
+* Navigeer naar het volgende scherm. Upload het [ csv- dossier ](assets/finwise_profiles.csv) en verifieer de afbeeldingen
+  ![ afbeeldingen ](assets/mappings.png)
 
 * Klik op Voltooien om het gegevensinvoerproces te starten
 
 ## Profiel verifiëren
 
 * Ga naar Klant ->Profielen en zoek naar FinWise CRM-id gelijk aan FIN001 of een andere geldige waarde
-  ![&#x200B; verifieer-profiel &#x200B;](assets/verify-profiles.png)
+  ![ verifieer-profiel ](assets/verify-profiles.png)

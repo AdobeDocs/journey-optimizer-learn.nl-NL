@@ -10,7 +10,7 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17945
 index: false
 exl-id: d2ac4c55-b40c-448a-bf88-cd85b47320ac
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -30,4 +30,4 @@ ervaring.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457973/?learn=on&enablevpops)
 
-Zie [&#x200B; inhoudskaarten &#x200B;](/help/channels/create-content-cards.md) voor meer begeleiding over dit onderwerp creëren.
+Zie [ inhoudskaarten ](/help/channels/create-content-cards.md) voor meer begeleiding over dit onderwerp creëren.

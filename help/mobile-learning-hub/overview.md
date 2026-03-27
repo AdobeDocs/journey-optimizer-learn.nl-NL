@@ -99,4 +99,4 @@ Leer de concepten en hoe te
 
 ## Gebruikskwesties voor klanten
 
-* [&#x200B; neem vlucht met personalisatie: Hoe de luchtvaartmaatschappijen aanbiedingen met Adobe Journey Optimizer (blog) kunnen opheffen &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
+* [&#x200B; neem vlucht met personalisatie: Hoe de luchtvaartmaatschappijen aanbiedingen met Adobe Journey Optimizer (blog) kunnen opheffen &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=nl)

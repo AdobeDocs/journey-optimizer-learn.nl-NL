@@ -21,7 +21,7 @@ Start of verhoog uw strategie voor mobiele betrokkenheid met Adobe Journey Optim
 
 Ontdek best practices, leer hoe u adoptie kunt stimuleren en stel gecentraliseerde rapporteringsworkflows in — allemaal op één plaats — om effectieve, gegevensgestuurde mobiele ervaringen te bieden die klanten op elk moment, overal bereiken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3477004?captions=dut&quality=12&learn=on){transcript=true}
 
 
 ## Overzicht van mobiele kanalen

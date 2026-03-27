@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Leer hoe te om een loyaliteitsuitdaging tot stand te brengen door opstellingstaken, beloningen, en programma&#39;s. Begrijp hoe te om inhoud, overseinen, en publiek te vormen terwijl een volledige klantenreis automatisch op de achtergrond wordt geproduceerd.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480332/?captions=dut&learn=on&enablevpops)

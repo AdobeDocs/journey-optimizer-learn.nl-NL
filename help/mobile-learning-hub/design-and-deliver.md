@@ -40,7 +40,7 @@ Leer hoe u mobiele berichten per kanaal ontwerpt, ontwerpt en levert:
 
 Begrijp welke mobiele kanalen Journey Optimizer steunt en hoe te om berichten te vormen en te verzenden gebruikend deze kanalen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430379?captions=dut&quality=12&learn=on){transcript=true}
 
 >[!TAB  Duw ]
 
@@ -91,7 +91,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" title="Een pushcampagne configureren en verzenden" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422017/?format=jpeg&nocache=1770071084041" alt="Een pushcampagne configureren en verzenden"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3452707/?captions=dut&format=jpeg&nocache=1770071084041" alt="Een pushcampagne configureren en verzenden"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -114,7 +114,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications" title="Pushmeldingen optimaliseren met AJO-beslissing" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479199/?format=jpeg&nocache=1770071084034" alt="Pushmeldingen optimaliseren met AJO-beslissing"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479216/?captions=dut&format=jpeg&nocache=1770071084034" alt="Pushmeldingen optimaliseren met AJO-beslissing"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -247,7 +247,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards" title="Inhoudskaarten maken" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434783/?format=jpeg&nocache=1770071085465" alt="Inhoudskaarten maken"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434789/?captions=dut&format=jpeg&nocache=1770071085465" alt="Inhoudskaarten maken"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -320,7 +320,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" title="Sms-berichten configureren, opstellen en leveren" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420509?format=jpeg&nocache=1770071085932" alt="Sms-berichten configureren, opstellen en leveren"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428917?captions=dut&format=jpeg&nocache=1770071085932" alt="Sms-berichten configureren, opstellen en leveren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -343,7 +343,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Dubbele opt-in voor Sinch en Infobip" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427129/?format=jpeg&nocache=1770071085934" alt="Dubbele opt-in voor Sinch en Infobip"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440284/?captions=dut&format=jpeg&nocache=1770071085934" alt="Dubbele opt-in voor Sinch en Infobip"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -378,7 +378,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" title="Auteur een MMS-bericht" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428816/?format=jpeg&nocache=1770071086394" alt="Auteur een MMS-bericht"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437106/?captions=dut&format=jpeg&nocache=1770071086394" alt="Auteur een MMS-bericht"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -401,7 +401,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="RCS instellen in Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1770071086404" alt="RCS instellen in Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464761/?captions=dut&format=jpeg&nocache=1770071086404" alt="RCS instellen in Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -449,7 +449,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign" title="Maak een op code gebaseerde ervaringscampagne." target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428868/?format=jpeg&nocache=1770071087001" alt="Maak een op code gebaseerde ervaringscampagne."
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449459/?captions=dut&format=jpeg&nocache=1770071087001" alt="Maak een op code gebaseerde ervaringscampagne."
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -472,7 +472,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences" title="Formuliervelden toevoegen aan op code gebaseerde werkgebiedsjablonen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463990/?format=jpeg&nocache=1770071087005" alt="Formuliervelden toevoegen aan op code gebaseerde werkgebiedsjablonen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463997/?captions=dut&format=jpeg&nocache=1770071087005" alt="Formuliervelden toevoegen aan op code gebaseerde werkgebiedsjablonen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -522,7 +522,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction" title="Inleiding tot het WhatsApp-kanaal" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470296/?format=jpeg&nocache=1770071087484" alt="Inleiding tot het WhatsApp-kanaal"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470302/?captions=dut&format=jpeg&nocache=1770071087484" alt="Inleiding tot het WhatsApp-kanaal"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -545,7 +545,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey" title="Een whatsApp-reis maken" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470282/?format=jpeg&nocache=1770071087481" alt="Een whatsApp-reis maken"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470288/?captions=dut&format=jpeg&nocache=1770071087481" alt="Een whatsApp-reis maken"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -706,7 +706,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score" title="Prioriteitsscores toewijzen aan binnenkomende acties" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435529/?format=jpeg&nocache=1770071089058" alt="Prioriteitsscores toewijzen aan binnenkomende acties"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445007/?captions=dut&format=jpeg&nocache=1770071089058" alt="Prioriteitsscores toewijzen aan binnenkomende acties"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -729,7 +729,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization" title="Reisfrequentiecapping en Prioriteit" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435530/?format=jpeg&nocache=1770071089055" alt="Reisfrequentiecapping en Prioriteit"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447621/?captions=dut&format=jpeg&nocache=1770071089055" alt="Reisfrequentiecapping en Prioriteit"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

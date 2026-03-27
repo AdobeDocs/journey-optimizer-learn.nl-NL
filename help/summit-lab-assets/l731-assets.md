@@ -28,7 +28,7 @@ Scan de QR-code om de app te downloaden
 
 >[!TAB  iOS ]
 
-![ QR code voor iOS ](/help/assets/lab731-ios-qr-code.png)
+![&#x200B; QR code voor iOS &#x200B;](/help/assets/lab731-ios-qr-code.png)
 
 >[!IMPORTANT]
 >
@@ -130,11 +130,11 @@ U wordt gevraagd Testflight, stappen 1 tot en met 4, te installeren. Nadat u Tes
 
 >[!TAB  Android ]
 
-![ QR code voor Android ](/help/assets/lab731-android-qr-code.png)
+![&#x200B; QR code voor Android &#x200B;](/help/assets/lab731-android-qr-code.png)
 
 Aangezien de app niet bij de Google Play Store is geregistreerd, ontvangt u een waarschuwingsbericht:
 
-![ het waarschuwingsscherm van Android ](/help/assets/lab731-install-android.png)
+![&#x200B; het waarschuwingsscherm van Android &#x200B;](/help/assets/lab731-install-android.png)
 
 Klik **installeren toch**
 
@@ -142,7 +142,7 @@ Klik **installeren toch**
 
 ## Oefening 1: Aanmelden bij Adobe Journey Optimizer
 
-[ klik hier aan login aan Journey Optimizer ](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"}
+[&#x200B; klik hier aan login aan Journey Optimizer &#x200B;](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"}
 
 **Login Details**
 

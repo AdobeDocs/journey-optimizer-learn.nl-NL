@@ -28,4 +28,4 @@ In deze les past u inhoud experimenteren toe op de pushmelding.
 >[!VIDEO](https://video.tv.adobe.com/v/3457924/?learn=on&enablevpops)
 
 
-Zie [ Experimentatie - Overzicht ](/help/experimentation/introduction-to-experimentation.md), [ inhoudsexperimenten voor e-mailcampagnes ](/help/experimentation/content-experiments-for-emails.md) en [ Push berichten - Overzicht ](/help/channels/push-notifications-overview.md) voor meer begeleiding over dit onderwerp vormen.
+Zie [&#x200B; Experimentatie - Overzicht &#x200B;](/help/experimentation/introduction-to-experimentation.md), [&#x200B; inhoudsexperimenten voor e-mailcampagnes &#x200B;](/help/experimentation/content-experiments-for-emails.md) en [&#x200B; Push berichten - Overzicht &#x200B;](/help/channels/push-notifications-overview.md) voor meer begeleiding over dit onderwerp vormen.

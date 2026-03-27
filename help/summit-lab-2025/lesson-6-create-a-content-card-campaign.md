@@ -30,4 +30,4 @@ ervaring.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457973/?learn=on&enablevpops)
 
-Zie [ inhoudskaarten ](/help/channels/create-content-cards.md) voor meer begeleiding over dit onderwerp creëren.
+Zie [&#x200B; inhoudskaarten &#x200B;](/help/channels/create-content-cards.md) voor meer begeleiding over dit onderwerp creëren.

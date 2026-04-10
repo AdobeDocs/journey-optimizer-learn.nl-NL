@@ -19,7 +19,7 @@ ht-degree: 15%
 
 Journey Optimizer stelt bedrijven in staat samenhangende, contextuele en persoonlijke klantervaringen te maken. Het leidt klanten naadloos door hun volledige reis met het merk, van het eerste contactpunt tot het ogenblik dat zij de plaats verlaten, die een verbonden en bevredigende ervaring op elk aanraakpunt verzekeren.
 
-Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en mogelijkheden van Adobe Journey Optimizer. Praktijk wat u door de [&#x200B; Uitdagingen van Journey Optimizer &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites) te nemen hebt geleerd.
+Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en mogelijkheden van Adobe Journey Optimizer. Praktijk wat u door de [&#x200B; Uitdagingen van Journey Optimizer &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites) te nemen hebt geleerd.
 
 
 <div id="recs-overview-body-1"></div>
@@ -33,7 +33,7 @@ Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en 
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview 
+* https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/mobile-learning-hub/overview 
     {description = The Mobile Learning Hub equips developers, administrators, marketers, and analysts with everything needed to configure inbound and outbound mobile channels and integrate them seamlessly into powerful cross-channel campaigns and journeys.}
    {image = /help/assets/mobile-learning-hub.jpg}
 -->
@@ -43,7 +43,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview" title="Mobiele leerhub" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/mobile-learning-hub/overview" title="Mobiele leerhub" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="/help/assets/mobile-learning-hub.jpg" alt="Mobiele leerhub"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -52,11 +52,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview" target="_blank" rel="referrer" title="Mobiele leerhub"> Mobiele het leren hub </a>
+                        <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/mobile-learning-hub/overview" target="_blank" rel="referrer" title="Mobiele leerhub"> Mobiele het leren hub </a>
                     </p>
                     <p class="is-size-6">De Mobiele het Leren Hub vereist ontwikkelaars, beheerders, marketers, en analisten met alles nodig om binnenkomende en uitgaande mobiele kanalen te vormen en hen naadloos in krachtige dwars-kanaalcampagnes en reizen te integreren.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/mobile-learning-hub/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
                 </a>
             </div>
@@ -68,10 +68,10 @@ CARDS
 ## Nieuwste Experience League Live-gebeurtenissen
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26
+* https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26
     {title = New Use Cases for Customer Engagement: iOS Live Activities, Web Push, and Persistent Messaging (April 8 12, 2026)}
     {description = In this Experience League Live session, we explore new surfaces and use cases for customer engagement as brands move beyond one-way, single-channel messaging. Discover how marketing and product teams can create more visible, contextual, and persistent experiences-driving continuous engagement and richer, real-time interactions across channels.}
-* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26
+* https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26
     {title = Get to Know Campaign Orchestration in Adobe Journey Optimizer (March 12, 2026)}
     {description = In this Experience League Live session, see how campaign orchestration in Journey Optimizer manages your large, one‑to‑many multi-channel marketing programs—from audience creation to launch.}
 -->
@@ -81,7 +81,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" title="Nieuwe gebruiksscenario&apos;s voor betrokkenheid van klanten: iOS Live-activiteiten, Web Push en Persistent Messaging (8 april 2026)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" title="Nieuwe gebruiksscenario&apos;s voor betrokkenheid van klanten: iOS Live-activiteiten, Web Push en Persistent Messaging (8 april 2026)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483389/?format=jpeg&nocache=1775837203653" alt="Nieuwe gebruiksscenario&apos;s voor betrokkenheid van klanten: iOS Live-activiteiten, Web Push en Persistent Messaging (8 april 2026)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -90,11 +90,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" title="Nieuwe gebruiksscenario&apos;s voor betrokkenheid van klanten: iOS Live-activiteiten, Web Push en Persistent Messaging (8 april 2026)"> Nieuwe Gevallen van het Gebruik voor de Betrokkenheid van de Klant: Live Activiteiten van iOS, de Duw van het Web, en het Blijvende Overseinen (8 12 april, 2026) </a>
+                        <a href="https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" title="Nieuwe gebruiksscenario&apos;s voor betrokkenheid van klanten: iOS Live-activiteiten, Web Push en Persistent Messaging (8 april 2026)"> Nieuwe Gevallen van het Gebruik voor de Betrokkenheid van de Klant: Live Activiteiten van iOS, de Duw van het Web, en het Blijvende Overseinen (8 12 april, 2026) </a>
                     </p>
                     <p class="is-size-6">In deze Experience League Live-sessie verkennen we nieuwe oppervlakken en gebruiken we gevallen voor de betrokkenheid van klanten, aangezien merken zich verder verplaatsen dan eenrichtingsverkeer met één kanaal. Ontdek hoe marketing- en productteams zichtbaardere, contextuele en permanente ervaringen kunnen creëren die voortdurende betrokkenheid en rijkere, real-time interacties tussen kanalen stimuleren.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -104,7 +104,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" title="Ga naar de Know Campaign Orchestration in Adobe Journey Optimizer (12 maart 2026)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" title="Ga naar de Know Campaign Orchestration in Adobe Journey Optimizer (12 maart 2026)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481409/?format=jpeg&nocache=1775837203658" alt="Ga naar de Know Campaign Orchestration in Adobe Journey Optimizer (12 maart 2026)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -113,11 +113,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" title="Ga naar de Know Campaign Orchestration in Adobe Journey Optimizer (12 maart 2026)"> krijgen om Campagne in Adobe Journey Optimizer (12 Maart, 2026) te kennen </a>
+                        <a href="https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" title="Ga naar de Know Campaign Orchestration in Adobe Journey Optimizer (12 maart 2026)"> krijgen om Campagne in Adobe Journey Optimizer (12 Maart, 2026) te kennen </a>
                     </p>
                     <p class="is-size-6">In deze Experience League Live-sessie kunt u zien hoe uw grote, één-op-veel marketingprogramma's met meerdere kanalen worden beheerd door uw campagneorchestratie in Journey Optimizer, van het creëren van een publiek tot het starten van de toepassing.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -132,9 +132,9 @@ CARDS
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
+* https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
+* https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey
+* https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -142,7 +142,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="Belangrijkste mogelijkheden en gebruikersinterface" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="Belangrijkste mogelijkheden en gebruikersinterface" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1775837204145" alt="Belangrijkste mogelijkheden en gebruikersinterface"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -151,11 +151,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" target="_blank" rel="referrer" title="Belangrijkste mogelijkheden en gebruikersinterface"> Zeer belangrijke mogelijkheden en het gebruikersinterface </a>
+                        <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" target="_blank" rel="referrer" title="Belangrijkste mogelijkheden en gebruikersinterface"> Zeer belangrijke mogelijkheden en het gebruikersinterface </a>
                     </p>
                     <p class="is-size-6">Begrijp de belangrijkste mogelijkheden en persona's van de Journey Optimizer. Leer hoe u door de gebruikersinterface navigeert.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -165,7 +165,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" title="Inleiding tot het samenstellen van een journey" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" title="Inleiding tot het samenstellen van een journey" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424996?format=jpeg&nocache=1775837204133" alt="Inleiding tot het samenstellen van een journey"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -174,11 +174,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" target="_blank" rel="referrer" title="Inleiding tot het samenstellen van een journey">Inleiding tot het samenstellen van een journey</a>
+                        <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" target="_blank" rel="referrer" title="Inleiding tot het samenstellen van een journey">Inleiding tot het samenstellen van een journey</a>
                     </p>
                     <p class="is-size-6">Begrijp de grondbeginselen van het samenstellen van een journey in het journeycanvas.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -188,7 +188,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="Creeer een publiek gebruikend de regelbouwer" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="Creeer een publiek gebruikend de regelbouwer" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1775837204142" alt="Creeer een publiek gebruikend de regelbouwer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -197,11 +197,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" target="_blank" rel="referrer" title="Creeer een publiek gebruikend de regelbouwer"> creeer een publiek gebruikend de regelbouwer </a>
+                        <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" target="_blank" rel="referrer" title="Creeer een publiek gebruikend de regelbouwer"> creeer een publiek gebruikend de regelbouwer </a>
                     </p>
                     <p class="is-size-6">Begrijp hoe Journey Optimizer (AJO) regels gebruikt om publiek te produceren en te leren hoe te om attributen, gebeurtenissen, en bestaand publiek te gebruiken om een publiek tot stand te brengen.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -212,9 +212,9 @@ CARDS
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
+* https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
+* https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
+* https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -222,7 +222,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="Inhoud maken met AI-assistent voor het genereren van inhoud" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="Inhoud maken met AI-assistent voor het genereren van inhoud" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1775837204583" alt="Inhoud maken met AI-assistent voor het genereren van inhoud"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -231,11 +231,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" title="Inhoud maken met AI-assistent voor het genereren van inhoud"> creeer Inhoud gebruikend AI Medewerker voor de Generatie van de Inhoud </a>
+                        <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" title="Inhoud maken met AI-assistent voor het genereren van inhoud"> creeer Inhoud gebruikend AI Medewerker voor de Generatie van de Inhoud </a>
                     </p>
                     <p class="is-size-6">Leer hoe u AI Assistant gebruikt voor het genereren van inhoud om suggesties voor het variëren van proactieve inhoud voor zowel tekst als afbeeldingen te genereren.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -245,7 +245,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" title="Beslissende analyse van begin tot eind" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" title="Beslissende analyse van begin tot eind" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451100/?format=jpeg&nocache=1775837204587" alt="Beslissende analyse van begin tot eind"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -254,11 +254,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" title="Beslissende analyse van begin tot eind"> Beslissende analyse van begin tot eind </a>
+                        <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" title="Beslissende analyse van begin tot eind"> Beslissende analyse van begin tot eind </a>
                     </p>
                     <p class="is-size-6">Eind-aan-eind analyse van Beslissing in Journey Optimizer</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -268,7 +268,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="Inhoud-experimenten voor in-app-berichten configureren" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="Inhoud-experimenten voor in-app-berichten configureren" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1775837204584" alt="Inhoud-experimenten voor in-app-berichten configureren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -277,11 +277,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" target="_blank" rel="referrer" title="Inhoud-experimenten voor in-app-berichten configureren"> vorm inhoudsexperimenten voor in-app berichten </a>
+                        <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" target="_blank" rel="referrer" title="Inhoud-experimenten voor in-app-berichten configureren"> vorm inhoudsexperimenten voor in-app berichten </a>
                     </p>
                     <p class="is-size-6">Leer hoe u contentexperimenten configureert en analyseert op basis van A/B-test in-app-berichten.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>

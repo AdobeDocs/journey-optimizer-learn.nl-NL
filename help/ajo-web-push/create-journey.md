@@ -54,7 +54,7 @@ Voeg een combinatie statische en dynamische inhoud aan het dupbericht toe gebrui
 Als u wilt beginnen met het samenstellen van het bericht, klikt u op `Content` om het tabblad Inhoud te openen, waarin u zowel de vaste tekst als de dynamische velden kunt definiëren die zijn afgeleid van de gebeurtenisgegevens.
 ![&#x200B; inhoud-duw &#x200B;](assets/compose-message.png)
 
-Geef de titel van het pushbericht op en open vervolgens de personalisatie-editor om de berichttekst samen te stellen. De inhoud bevat dynamisch de namen van de producten waarvan de prijzen zijn gedaald. Om dit te bereiken, gebruik de elke [&#x200B; hulpfunctie &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
+Geef de titel van het pushbericht op en open vervolgens de personalisatie-editor om de berichttekst samen te stellen. De inhoud bevat dynamisch de namen van de producten waarvan de prijzen zijn gedaald. Om dit te bereiken, gebruik de elke [&#x200B; hulpfunctie &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
 om over de lijst van producten te herhalen en hun namen binnen het bericht terug te geven.
 
 ## De berichttekst samenstellen

@@ -19,7 +19,7 @@ ht-degree: 0%
 Deze pagina biedt handige tips voor het opsporen van fouten in de berichtstroom van webpushberichten, zoals het controleren van SDK-aanvragen, het controleren van de ECID en het gebruikersprofiel in AEP en het controleren van gebeurtenissen zoals price.drop die correct zijn verzonden en ontvangen.
 
 - **gebruik Adobe Experience Platform Debugger (de Uitbreiding van Chrome)**\
-  Installeer de [ Debugger van AEP uitbreiding voor Chrome ](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob) om de activiteit van SDK van het Web gemakkelijker te inspecteren:
+  Installeer de [&#x200B; Debugger van AEP uitbreiding voor Chrome &#x200B;](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob) om de activiteit van SDK van het Web gemakkelijker te inspecteren:
 
 Met dit gereedschap kunt u:
 - Webverzoeken en reacties van SDK weergeven\
@@ -40,7 +40,7 @@ Met dit gereedschap kunt u:
 - **verifieer de `price.drop` gebeurtenis wordt ontvangen**\
   Nadat u de gebeurtenis vanuit de webpagina hebt geactiveerd, checkt u AEP in of de gebeurtenis is ingevoegd en aan dezelfde ECID is gekoppeld.
 Controleer de json van de message.feedback-gebeurtenis voor `feedback.status` . De statuswaarde moet `sent` zijn
-  ![ prijs-daling ](assets/price-drop-profile-event.png)
+  ![&#x200B; prijs-daling &#x200B;](assets/price-drop-profile-event.png)
 
 - **bevestig dupberichten worden toegelaten**\
   Ervoor zorgen dat:

@@ -24,21 +24,21 @@ Deze eigenschap is geconfigureerd met de AEP Web SDK, die is verbonden met de `W
 
 ProductListItems om productgegevens te bevatten
 
-![ markering-elementen ](assets/product-list-items-element.png)
+![&#x200B; markering-elementen &#x200B;](assets/product-list-items-element.png)
 
 xdmvariable-toewijzing aan de `schemaForPushNotification`
 
-![ xdm-veranderlijk ](assets/xdmvariable-data-element.png)
+![&#x200B; xdm-veranderlijk &#x200B;](assets/xdmvariable-data-element.png)
 
 ## Regel maken
 
 De gebeurtenis price.drop beluisteren
-![ gegeven-duw-gebeurtenis ](assets/tag-rule-event.png)
+![&#x200B; gegeven-duw-gebeurtenis &#x200B;](assets/tag-rule-event.png)
 
 De productListItems bijwerken met de updatevariabele
-![ update-veranderlijk ](assets/update-variable.png)
+![&#x200B; update-veranderlijk &#x200B;](assets/update-variable.png)
 Verzend ten slotte de gebeurtenis price.drop naar AEP met de bijgewerkte xdmvariable
-![ send-event ](assets/send-event.png)
+![&#x200B; send-event &#x200B;](assets/send-event.png)
 
 De volgende javascript-code verzendt de gebeurtenis price.drop vanaf de webpagina naar AEP Tags
 

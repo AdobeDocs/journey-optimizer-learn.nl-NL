@@ -19,5 +19,5 @@ ht-degree: 0%
 Als u een publiek voor de campagne wilt maken, definieert u een segment in Adobe Experience Platform dat zich richt op gebruikers die in aanmerking komen voor pushberichten. In deze zelfstudie hebben gebruikers die een actief pushabonnement hebben (pushtoken bestaat), geen meldingen verlaten (markering Lijst van gewezen personen is false) en zijn ze gekoppeld aan de opgegeven toepassingsconfiguratie (Toepassings-id is gelijk aan `my-first-push`). Deze gebruikers komen volledig in aanmerking om pushberichten via campagnes of reizen in Adobe Journey Optimizer te ontvangen. Nadat u het publiek hebt gemaakt, moet u controleren of de profielen zijn gevuld en klaar zijn voor doelgericht gebruik.
 Dit publiek wordt vervolgens gebruikt in de campagne om geplande pushberichten op het web alleen aan geabonneerde gebruikers te leveren.
 
-![ creeer-publiek ](assets/push-audience.png)
+![&#x200B; creeer-publiek &#x200B;](assets/push-audience.png)
 

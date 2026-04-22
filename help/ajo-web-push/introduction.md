@@ -20,11 +20,11 @@ Pushmeldingen via het web zijn een krachtige manier om gebruikers opnieuw in rea
 
 Voorbeeld van een webpagina waarmee gebruikers zich kunnen aanmelden voor meldingen
 
-![ toe:laten-berichten ](assets/enable-notifications.png)
+![&#x200B; toe:laten-berichten &#x200B;](assets/enable-notifications.png)
 
 Voorbeeld van een webpagina die de gebeurtenis price drop activeert
 
-![ daling van de trekkerprijs ](assets/trigger-price-drop-event.png)
+![&#x200B; daling van de trekkerprijs &#x200B;](assets/trigger-price-drop-event.png)
 
 ## Vereisten
 
@@ -62,11 +62,11 @@ Als meldingen zijn geblokkeerd of niet worden weergegeven, moet u deze mogelijk 
 
 Er is een complete voorbeeldtoepassing beschikbaar om u te helpen de stappen te volgen.
 
-- [ Levende Demo - Opt-in:](https://ajo-web-push.onrender.com/)
+- [&#x200B; Levende Demo - Opt-in:](https://ajo-web-push.onrender.com/)
 
-- [ de Daling van de Prijs van de trekker Gebeurtenis:](https://ajo-web-push.onrender.com/price-drop-trigger.html)
+- [&#x200B; de Daling van de Prijs van de trekker Gebeurtenis:](https://ajo-web-push.onrender.com/price-drop-trigger.html)
 
-- [ Code van Source:](https://github.com/gbedekar489/ajo-web-push)
+- [&#x200B; Code van Source:](https://github.com/gbedekar489/ajo-web-push)
 
 U kunt de live demo verkennen om de flow in actie te zien of de repository te klonen om het project lokaal uit te voeren.
 

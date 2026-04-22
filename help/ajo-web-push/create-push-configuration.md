@@ -29,11 +29,11 @@ Voor deze zelfstudie hebben we Node.js gebruikt om de VAPID-toetsen te genereren
 Controleer of Node.js is geïnstalleerd. Geef dan het volgende bevel uit
 ```npm install web-push -g ```
 
-![ web-push ](assets/install-web-push.png)
+![&#x200B; web-push &#x200B;](assets/install-web-push.png)
 
 ```web-push generate-vapid-keys```
 
-![ vapid ](assets/vapid-keys.png)
+![&#x200B; vapid &#x200B;](assets/vapid-keys.png)
 
 ## Push Credential maken
 
@@ -41,11 +41,11 @@ Controleer of Node.js is geïnstalleerd. Geef dan het volgende bevel uit
 
 * Navigeren naar Beheer | Kanalen | PUSH-INSTELLINGEN | Push Credentials| Push credential maken
 
-* ![ duw credential ](assets/push-credential.png)
+* ![&#x200B; duw credential &#x200B;](assets/push-credential.png)
 
 ## Kanaalconfiguratie maken
 
 * Aanmelden bij Journey Optimizer
 
 * Navigeren naar Beheer | Kanalen | Kanaalconfiguratie maken
-  ![ kanaal-configuratie ](assets/push-channel.png)
+  ![&#x200B; kanaal-configuratie &#x200B;](assets/push-channel.png)

@@ -25,7 +25,7 @@ Voer de volgende stappen uit om de voorbeeldtoepassing op uw lokale systeem uit 
 
 Zorg ervoor u **Node.js (versie 16 of hoger)** geïnstalleerd op uw systeem hebt.
 
-U kunt [ het hier downloaden:](https://nodejs.org/)
+U kunt [&#x200B; het hier downloaden:](https://nodejs.org/)
 
 De installatie controleren
 

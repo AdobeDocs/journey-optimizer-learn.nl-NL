@@ -22,13 +22,13 @@ Een gegevensstroom in Adobe Experience Platform (AEP) doet dienst als eindpunt d
 
 Maak een nieuw XDM ExperienceEvent-schema met de naam `SchemaForPushNotification` . Voeg de `Push Notification Tracking` - en `Commerce Details` -veldgroepen toe aan dit schema. De velden van de veldgroep Commerce Details worden gebruikt om productinformatie vast te leggen en de gebeurtenis custom price.drop te activeren.
 
-![ gebeurtenis-schema ](assets/event-schema.png)
+![&#x200B; gebeurtenis-schema &#x200B;](assets/event-schema.png)
 
 ## Profielschema maken om toestemming van de gebruiker op te slaan
 
 Voor deze zelfstudie gebruiken we de uit-van-de-doos `AJO Push Profile Schema` . In dit schema worden de gegevens van het pushabonnement van de gebruiker opgeslagen, inclusief het pushtoken dat is vereist voor het verzenden van pushberichten via het web.
 
-![ profile_schema ](assets/profile-schema.png)
+![&#x200B; profile_schema &#x200B;](assets/profile-schema.png)
 
 ## Gegevenssets maken voor het schema
 
@@ -38,4 +38,4 @@ Maak een gegevensset met de naam `DataSetForPushNotification` met het eerder gem
 
 Creeer een nieuwe gegevensstroom genoemd WebPushDataStream gebruikend de gebeurtenis en profieldatasets die in de vorige stap worden gecreeerd. Noteer de DataStream-id, die later in de zelfstudie wordt vereist wanneer u de toepassing via het .env-bestand configureert.
 
-![ datastream ](assets/datastream.png)
+![&#x200B; datastream &#x200B;](assets/datastream.png)

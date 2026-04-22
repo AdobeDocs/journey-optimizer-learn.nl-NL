@@ -24,7 +24,7 @@ Het maken van een reis met behulp van een aangepaste gebeurtenis gebeurt in de v
 
 Meld u aan bij Adobe Journey Optimizer en navigeer naar Beheer → Configurations → Events en selecteer vervolgens Gebeurtenis maken. Maak een nieuwe gebeurtenis met de naam PriceDropEvent en koppel deze aan het gebeurtenisschema SchemaForPushNotification dat eerder in de zelfstudie is gemaakt. Zorg ervoor dat de gebeurteniseigenschappen zijn geconfigureerd zoals wordt weergegeven in de referentieafbeelding.
 
-![ gebeurtenis-eigenschappen ](assets/price-drop-event.png)
+![&#x200B; gebeurtenis-eigenschappen &#x200B;](assets/price-drop-event.png)
 
 Selecteer in het schema de vereiste velden om deze beschikbaar te maken voor personalisatie. Neem met name `Name` en `SKU` op van het object ProductListItems en de id van de identityMap. Deze gebieden zullen dan binnen de verpersoonlijkingsredacteur toegankelijk zijn, toestaand u om dupbericht berichten dynamisch samen te stellen die op de product en gebruikerscontext worden gebaseerd.
 

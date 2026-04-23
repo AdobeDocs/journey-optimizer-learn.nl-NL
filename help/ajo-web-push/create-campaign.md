@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 45f86aeb8fca071436785cc55225d853bb21998f
+exl-id: 94fda23f-e26a-494b-8e5c-6c442bae61c4
+source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -26,38 +27,34 @@ In deze stap maakt u een campagne in Adobe Journey Optimizer om geplande pushmel
 
 De naam van de campagne opgeven
 
-![&#x200B; campagne-naam &#x200B;](assets/campign-push-notification.png)
+![ campagne-naam ](assets/campign-push-notification.png)
 
 ## Actie koppelen aan de campagne
 
 Koppel de configuratie van het drukkanaal die eerder in deze zelfstudie is gemaakt
 
-![&#x200B; campagne-actie &#x200B;](assets/campign-push-notification-action.png)
+![ campagne-actie ](assets/campign-push-notification-action.png)
 
 ## Publiek koppelen aan de campagne
 
 Het publiek `AudienceForPush` koppelen aan de campagne
 
-![&#x200B; campagne-publiek &#x200B;](assets/campign-push-notification-audience.png)
+![ campagne-publiek ](assets/campign-push-notification-audience.png)
 
 ## Inhoud maken voor de pushmelding
 
 Maak standaardinhoud voor pushmeldingen voor het testen van de pushmelding. Geef de titel en de hoofdtekst van het bericht op zoals hieronder wordt weergegeven
 
-![&#x200B; inhoud-voor-duw-bericht &#x200B;](assets/campign-push-notification-content.png)
+![ inhoud-voor-duw-bericht ](assets/campign-push-notification-content.png)
 
 ## De campagne plannen
 
 Plan de campagne naar wens
 
-![&#x200B; programma-campagne &#x200B;](assets/campign-push-notification-schedule.png)
+![ programma-campagne ](assets/campign-push-notification-schedule.png)
 
 Tot slot moet u de campagne activeren.
 
 ## De campagne testen
 
-Om de campagne te testen, laat eerst berichten op de [&#x200B; Web-pagina toe door binnen te kiezen &#x200B;](http://localhost:3000) wanneer ertoe aangezet. Zodra u hebt gekozen binnen, wacht op de campagne om op zijn geplande tijd te lopen. Wanneer de campagne wordt uitgevoerd, zou u het dupbericht in uw browser moeten ontvangen.
-
-
-
-
+Om de campagne te testen, laat eerst berichten op de [ Web-pagina toe door binnen te kiezen ](http://localhost:3000) wanneer ertoe aangezet. Zodra u hebt gekozen binnen, wacht op de campagne om op zijn geplande tijd te lopen. Wanneer de campagne wordt uitgevoerd, zou u het dupbericht in uw browser moeten ontvangen.

@@ -30,4 +30,4 @@ Leer hoe u uw middelen in Adobe Journey Optimizer kunt bewerken met de Adobe Exp
 
 >[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
 
-Zie de [ het productdocumentatie van Journey Optimizer ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/assets-images/express) voor meer informatie over hoe te om tot deze eigenschap van de inhoudsredacteur toegang te hebben. Meer op Adobe Express leren, verwijs naar [ deze documentatie ](https://helpx.adobe.com/express/user-guide.html).
+Zie de [&#x200B; het productdocumentatie van Journey Optimizer &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/assets-images/express) voor meer informatie over hoe te om tot deze eigenschap van de inhoudsredacteur toegang te hebben. Meer op Adobe Express leren, verwijs naar [&#x200B; deze documentatie &#x200B;](https://helpx.adobe.com/express/user-guide.html).

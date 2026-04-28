@@ -12,10 +12,10 @@ hide: false
 last-substantial-update: 2026-02-18T00:00:00Z
 jira: KT-20305
 exl-id: f474f1bb-efeb-44fd-9c62-09afdf81ee03
-source-git-commit: bbd0ada4bf228b09995a50af84c25a276e9c956e
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 89%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Ontdek hoe u iOS Live-activiteiten kunt configureren met Adobe Journey Optimizer om geavanceerde realtime updates te leveren op het iPhone Lock Screen en Dynamic Island.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479870/?captions=dut&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479864/?learn=on&enablevpops)

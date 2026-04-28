@@ -1,5 +1,5 @@
 ---
-title: Gebruiksscenario - Transactionele journey
+title: Hoofdlettergebruik - Transactiereis
 description: Begrijp de van toepassing zijnde gebruiksgevallen voor transactiereizen en leer hoe te om transactiereizen te bouwen.
 jira: KT-8030
 thumbnail: 334202.jpg
@@ -12,15 +12,15 @@ exl-id: f42f9bba-a309-44ae-943c-d9142046dcd3
 last-substantial-update: 2023-06-15T00:00:00Z
 hidefromtoc: false
 hide: false
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 21%
+ht-degree: 0%
 
 ---
 
-# Gebruiksscenario - Transactionele journey
+# Hoofdlettergebruik - Transactiereis
 
 Begrijp de van toepassing zijnde gebruiksgevallen voor transactiereizen en leer hoe te om transactiereizen te bouwen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432206?quality=12&learn=on&captions=dut){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on){transcript=true}

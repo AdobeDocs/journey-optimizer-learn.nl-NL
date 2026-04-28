@@ -11,9 +11,9 @@ jira: KT-18362
 hidefromtoc: false
 hide: false
 exl-id: 046ba026-a166-4b32-be07-393246e3fd3b
-source-git-commit: 7c9a877ff4b89539a2d064486030f4747bd3064b
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Ontdek hoe ontwikkelaars de samenwerking met marketingteams kunnen stroomlijnen door bewerkbare velden binnen op code gebaseerde ervaringskanalen in te schakelen. Leer hoe u bewerkbare JSON- en HTML-velden in inhoudssjablonen definieert, zodat marketers campagneelementen zoals titels en beschrijvingen kunnen bijwerken zonder de code aan te raken. Zie hoe het ingebedde besluitvormingsbeleid verpersoonlijking direct binnen malplaatjes-opdrijvende efficiency bevordert, fouten vermindert, en campagnelevering versnelt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463997/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3463990/?learn=on&enablevpops)
 
-Voor meer informatie, verwijs naar de gedetailleerde [&#x200B; productdocumentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields).
+Voor meer informatie, verwijs naar de gedetailleerde [ productdocumentatie ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields).

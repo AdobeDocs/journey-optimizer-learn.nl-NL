@@ -11,9 +11,9 @@ jira: KT-16041
 hidefromtoc: false
 hide: false
 exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
-source-git-commit: ee24c9920e4374631c006f13fdd8d2950d680aec
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Met de instelling van het geleide kanaal kunt u snel web- en mobiele kanalen ins
 
 Leer hoe u een pushkanaalmelding instelt en valideert voor een voorbeeld van een iOS Mobile Marketing-app.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449628/?captions=dut&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 Raadpleeg de productdocumentatie voor meer informatie:
 
-* [&#x200B; begin met geleide kanaalopstelling &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=nl-NL){target="_blank"}
-* [&#x200B; creeer een kanaalopstelling &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=nl-NL){target="_blank"}
+* [Aan de slag met de instelling van het geleide kanaal](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html){target="_blank"}
+* [Kanaalinstellingen maken](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html){target="_blank"}

@@ -13,7 +13,7 @@ hidefromtoc: true
 index: false
 badgeBet: label="Beta" type="Informative"
 exl-id: f6c373be-aeae-4d52-a4b1-84a312399f5e
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Leer hoe te om een loyaliteitsuitdaging tot stand te brengen door opstellingstaken, beloningen, en programma&#39;s. Begrijp hoe te om inhoud, overseinen, en publiek te vormen terwijl een volledige klantenreis automatisch op de achtergrond wordt geproduceerd.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480332/?captions=dut&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)

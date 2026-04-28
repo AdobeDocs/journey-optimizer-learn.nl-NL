@@ -13,9 +13,9 @@ hidefromtoc: false
 hide: false
 index: true
 exl-id: bb544d0d-4c11-412c-afa9-377d784c33e2
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,6 @@ Leer hoe u Adobe Experience Manager Dynamic Media kunt integreren met Adobe Jour
 
 In deze zelfstudie wordt uitgelegd hoe u afbeeldingen rechtstreeks in AJO kunt wijzigen, tekstbedekkingen kunt toevoegen met de HTML-modus, dynamische mediasjablonen kunt maken in AEM voor hyperpersonalisatie en campagnes kunt aanpassen door de inhoud voor verschillende publiekssegmenten op maat te maken. Dankzij deze integratie kunnen marketers op efficiënte wijze aantrekkelijke en gepersonaliseerde campagnes maken zonder dat ze van toepassing op andere toepassingen hoeven te wisselen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463788/?captions=dut&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457695/?learn=on&enablevpops)
 
-Voor meer informatie over deze eigenschap, te zien gelieve de [&#x200B; productdocumentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/content-management/combine/aem-dynamic).
+Voor meer informatie over deze eigenschap, te zien gelieve de [ productdocumentatie ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem-dynamic).

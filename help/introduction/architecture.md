@@ -1,6 +1,6 @@
 ---
 title: Adobe Journey Optimizer-architectuur
-description: Begrijp de basisarchitectuur van Adobe Journey Optimizer, de punten van integratie, en de verhouding van Journey Optimizer tot andere applicaties voor Adobe.
+description: Begrijp de basisarchitectuur van Adobe Journey Optimizer, de punten van integratie, en de verhouding van Journey Optimizer met andere toepassingen van Adobe.
 jira: KT-7607
 thumbnail: 334205.jpg
 feature: Overview
@@ -11,15 +11,15 @@ level: Beginner
 exl-id: 33b8ee09-4cd8-475c-bf8e-a7934eff19a1
 hide: true
 hidefromtoc: true
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 96%
+source-wordcount: '52'
+ht-degree: 0%
 
 ---
 
 # Adobe Journey Optimizer-architectuur
 
-Begrijp de basisarchitectuur van Adobe Journey Optimizer, de punten van integratie, en de verhouding van Journey Optimizer tot andere applicaties voor Adobe.
+Begrijp de basisarchitectuur van Adobe Journey Optimizer, de punten van integratie, en de verhouding van Journey Optimizer met andere toepassingen van Adobe.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334205?quality=12&learn=on){transcript=true}

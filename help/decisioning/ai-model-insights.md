@@ -12,10 +12,10 @@ hide: false
 last-substantial-update: 2026-02-18T00:00:00Z
 jira: KT-20313
 exl-id: cd486a89-f97a-4d53-86f1-f66dc64d5f5e
-source-git-commit: bbd0ada4bf228b09995a50af84c25a276e9c956e
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 47%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Begrijp hoe te om de status van de AI modelopleiding, verkeerstoewijzing, en prestaties te analyseren om gepersonaliseerd besluit in Journey Optimizer te optimaliseren. Leer hoe u problemen kunt identificeren, modellen kunt oplossen en de conversietarieven kunt verbeteren met behulp van AI-mogelijkheden. Deze video begeleidt u door het effectief beheren van AI-modellen om de invloed van uw bedrijf te vergroten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479855/?captions=dut&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)

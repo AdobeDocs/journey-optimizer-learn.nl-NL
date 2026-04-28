@@ -22,4 +22,4 @@ Ontdek hoe u externe gegevens en inhoud kunt integreren in Adobe Journey Optimiz
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
-Zie de Adobe Journey Optimizer [ productdocumentatie ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/vendor-integration) voor meer informatie.
+Zie de Adobe Journey Optimizer [&#x200B; productdocumentatie &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/vendor-integration) voor meer informatie.

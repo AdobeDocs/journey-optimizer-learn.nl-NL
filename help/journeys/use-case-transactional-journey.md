@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Begrijp de van toepassing zijnde gebruiksgevallen voor transactiereizen en leer hoe te om transactiereizen te bouwen.
 
->[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432206?captions=dut&quality=12&learn=on){transcript=true}

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Leer hoe u AJO-beslissingen kunt gebruiken om pushberichten aan te passen aan uw publiek. Maak aansprekende aanbiedingen op basis van profielen voor ontvangers om de verkoop te stimuleren. Begrijp beslissingsstrategieën, testcampagnes, en analyseer metriek voor efficiënte mededeling. Verbeter uw betrokkenheid en lever de meest relevante promoties aan uw klanten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479199/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479216/?captions=dut&learn=on&enablevpops)

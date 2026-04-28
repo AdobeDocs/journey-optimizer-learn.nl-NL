@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Leer hoe u AJO-beslissingen kunt gebruiken om SMS-inhoud aan te passen en te optimaliseren. Verbeter uw SMS-berichten om de betrokkenheid te verbeteren en zakelijke doelen te halen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479535/?captions=dut&learn=on&enablevpops)
